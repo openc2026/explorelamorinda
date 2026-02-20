@@ -1,20 +1,50 @@
 ---
 title: "Getting Around"
-description: "BART, parking, buses, and navigating Lamorinda"
+description: "BART, trails, driving, and navigating Lamorinda"
 ---
 
-One of Lamorinda's great advantages is its accessibility. Two BART stations provide direct service to San Francisco and Oakland, while the County Connection bus network links the three towns. That said, most residents rely on cars for daily life — and understanding parking in each downtown area makes visiting much easier.
+Lamorinda is car-oriented but more connected than most East Bay suburbs. Two BART stations, excellent regional trails, and easy freeway access make getting around manageable.
 
-## Transportation Options
+## BART
 
-### BART
-Both Lafayette and Orinda have BART stations, making commuting to San Francisco a 25-35 minute ride. The stations offer parking (free on weekends, paid on weekdays) and are the primary transit hubs for the area.
+Two stations serve Lamorinda:
+- **Lafayette Station** — Downtown adjacent, good parking
+- **Orinda Station** — Theatre Square nearby, first stop east of tunnel
 
-### County Connection
-Local bus routes connect the three towns, BART stations, and nearby communities. Route 6 is particularly useful for getting between Lafayette and Moraga.
+Both are on the **Antioch (Yellow) line**. About 25 minutes to downtown San Francisco.
 
-### Driving
-Lamorinda is primarily car-dependent. Highway 24 runs through the area, connecting to I-680 (north/south) and I-580 (toward Oakland). During commute hours, the Caldecott Tunnel can get congested.
+**Pro tip:** Parking fills up on weekdays. Arrive early or consider drop-off/pickup.
 
-### Parking
-Each downtown has its own parking quirks — we've got detailed guides for Lafayette, Orinda, and Moraga to help you find a spot.
+## Driving
+
+### The Caldecott Tunnel
+Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the hills. The fourth bore opened in 2013, adding much-needed capacity.
+
+**Traffic patterns:**
+- **Morning:** Heavy westbound (toward SF)
+- **Evening:** Heavy eastbound (toward Lamorinda)
+- **Weekends:** Generally smooth both directions
+
+### Key Routes
+- **Highway 24:** Main artery, connects to I-680 and I-580
+- **Mt. Diablo Blvd:** Lafayette's main street
+- **Moraga Way:** Connects Lafayette to Moraga
+- **Camino Pablo:** North-south through Orinda
+
+## Trails (Non-Car Options)
+
+- **Lafayette-Moraga Trail** — 7.6 miles, paved, connects the towns
+- **Connects to:** BART stations, regional parks, downtown areas
+
+For committed cyclists, it's possible to bike-commute from Moraga to BART in Lafayette or Orinda.
+
+## The Reality
+
+Most people drive. The towns are hilly, sprawling, and parking is easy. But for recreation, exercise, and occasional errands, the trails and BART make car-free trips possible.
+
+## Key Distances
+
+- Lafayette to Moraga: ~4 miles
+- Lafayette to Orinda: ~3 miles
+- Lafayette BART to SF (Montgomery): ~25 minutes
+- Caldecott Tunnel to downtown Oakland: ~10 minutes

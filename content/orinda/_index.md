@@ -1,18 +1,46 @@
 ---
 title: "Orinda"
-description: "Rolling hills, historic theater, and California outdoor living"
+description: "Theatre Square, BART access, and classic California hillside living"
 ---
 
-Orinda is Lamorinda's western gateway, perched at the mouth of the Caldecott Tunnel. With its rolling hills, winding roads, and stunning views, Orinda feels like a retreat while being just minutes from downtown Oakland. The town has a quiet elegance — think ranch properties, California modern architecture, and residents who've chosen space over density.
+Orinda is perhaps the most recognizable of the three Lamorinda towns, thanks to its iconic Art Deco theatre and position as the first stop out of the Caldecott Tunnel. With its own BART station and charming Theatre Square, it's where many visitors get their first taste of Lamorinda.
 
-## What Makes Orinda Special
+## The Essentials
 
-- **Orinda Theatre** — A beautifully restored Art Deco landmark showing films and hosting events since 1941
-- **Theatre Square** — The heart of downtown, with restaurants, shops, and a central plaza
-- **Briones Regional Park** — Thousands of acres of open grassland and oak-studded hills
-- **BART Access** — Quick commute through the tunnel to San Francisco
-- **Excellent Schools** — Orinda Union School District consistently ranks among the state's best
+- **Population:** ~20,000
+- **BART Access:** Yes — Orinda Station
+- **Vibe:** Classic California suburb, hillside homes, good schools
 
-## Explore Orinda
+## Theatre Square
 
-Find the best restaurants, shops, trails, and neighborhoods in our comprehensive Orinda guides.
+The heart of downtown Orinda. Built around the historic 1941 Orinda Theatre, this plaza offers:
+- **The Orinda Theatre** — Art Deco landmark, still showing movies
+- **Restaurants** — Shelby's, Fourth Bore, Comelones, and more
+- **Shops and services**
+- **Free parking** with validation
+
+## Beyond Theatre Square
+
+- **Orinda Village** — Additional shops across the way
+- **Casa Orinda** — The legendary 1932 roadhouse, a destination unto itself
+
+## Outdoors
+
+- **Orinda Oaks Park** — Local park with trails
+- **Tilden Regional Park** — Nearby wilderness access
+- **San Pablo Dam Road** — Scenic route and reservoir access
+- **Siesta Valley** — Open space and trails
+
+## Getting Here
+
+- **BART:** Orinda Station (Antioch line) — first stop east of the tunnel
+- **Car:** Highway 24 through the Caldecott Tunnel
+- **The Caldecott:** Four bores, named after a local public health official
+
+## Schools
+
+- **Miramonte High School** (excellent)
+- **Orinda Intermediate School**
+- **Top-rated elementary schools**
+
+*For more, explore the restaurants and things to do sections.*

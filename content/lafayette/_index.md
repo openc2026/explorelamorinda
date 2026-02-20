@@ -1,18 +1,42 @@
 ---
 title: "Lafayette"
-description: "Charming downtown, great restaurants, and family-friendly parks"
+description: "Downtown dining, the reservoir, and small-town charm with easy BART access"
 ---
 
-Lafayette is the largest of the three Lamorinda communities, with a vibrant downtown centered around Mt. Diablo Boulevard. The town blends suburban tranquility with urban convenience — you can grab artisan coffee, browse local boutiques, and hike world-class trails all in the same afternoon.
+Lafayette is the commercial heart of Lamorinda. With a walkable downtown, dozens of restaurants along Mt. Diablo Boulevard, and its own BART station, it offers the best of suburban living with urban conveniences.
 
-## What Makes Lafayette Special
+## The Essentials
 
-- **Downtown Lafayette** — Walkable blocks filled with restaurants, cafes, and local shops
-- **Lafayette Reservoir** — 5 miles of trails around a scenic reservoir, perfect for walking, jogging, or fishing
-- **BART Access** — Direct train service to San Francisco, Oakland, and Berkeley
-- **Top-Rated Schools** — Part of the acclaimed Acalanes Union High School District
-- **Community Events** — Art & Wine Festival, Reservoir Run, and a beloved Farmers' Market
+- **Population:** ~26,000
+- **BART Access:** Yes — Lafayette Station
+- **Vibe:** Upscale suburb with a real downtown
 
-## Explore Lafayette
+## Downtown Lafayette
 
-Browse our guides to find the best restaurants, shops, parks, and neighborhoods in Lafayette.
+The stretch of Mt. Diablo Boulevard through town is what makes Lafayette special. Unlike many suburbs where retail scatters across strip malls, Lafayette has a genuine "there" there:
+
+- **Restaurant Row** — Dozens of dining options from casual to upscale
+- **Local shops** — Boutiques, bookstores, services
+- **La Fiesta Square** — Shopping center with restaurants and shops
+- **Walkable** — Park once, stroll between spots
+
+## Outdoors
+
+- **Lafayette Reservoir** — The crown jewel. 2.7-mile loop, kayaks, fishing, picnics.
+- **Lafayette-Moraga Trail** — Paved path south to Moraga
+- **Briones Regional Park** — Trailhead access for serious hikers
+
+## Getting Here
+
+- **BART:** Lafayette Station (Antioch line)
+- **Car:** Highway 24 through the Caldecott Tunnel
+- **Bike:** Connected via regional trail system
+
+## Schools
+
+Lafayette's schools are a major draw for families:
+- **Acalanes High School** (top-rated)
+- **Stanley Middle School**
+- **Multiple excellent elementary schools**
+
+*For more, explore the restaurants, things to do, and neighborhood sections.*

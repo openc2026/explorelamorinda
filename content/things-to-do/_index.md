@@ -1,26 +1,47 @@
 ---
 title: "Things to Do"
-description: "Events, activities, and entertainment in Lamorinda"
+description: "Parks, trails, entertainment, and recreation in Lamorinda"
 ---
 
-Lamorinda may be suburban, but it's far from boring. Between the historic Orinda Theatre, summer concerts at Moraga Commons, and endless hiking trails, there's always something to do. The area also hosts beloved annual events that bring the communities together.
+Lamorinda's outdoor spaces are a major reason people move here. Rolling hills, reservoirs, miles of trails, and weather that lets you enjoy them year-round. Here's how to make the most of it.
 
-## Outdoor Recreation
+## The Must-Dos
 
-- **Lafayette Reservoir** — Walking, jogging, fishing, and picnicking around a beautiful reservoir
-- **Briones Regional Park** — Miles of trails through rolling grasslands with stunning views
-- **Lafayette-Moraga Regional Trail** — Paved multi-use trail perfect for biking and walking
-- **San Pablo Reservoir** — Fishing, kayaking, and nature trails just north of Orinda
+- **Lafayette Reservoir** — The crown jewel. Walk, jog, kayak, or just sit by the water.
+- **Lafayette-Moraga Trail** — Paved path connecting two towns. Great for bikes, strollers, and morning runs.
+- **Orinda Theatre** — Catch a film in an 80-year-old Art Deco landmark.
 
-## Arts & Entertainment
+## Parks & Recreation
 
-- **Orinda Theatre** — Classic Art Deco cinema showing first-run and independent films
-- **Town Hall Theatre** — Local theater company in Lafayette putting on quality productions
-- **California Shakespeare Theater** — Outdoor Shakespeare performances in the Orinda hills
+### Lafayette
+- Lafayette Reservoir
+- Lafayette Community Park
+- Briones Regional Park (trailhead access)
 
-## Annual Events
+### Moraga
+- Moraga Commons Park (concerts in summer)
+- Rancho Laguna Park
+- Campolindo trails
 
-- **Lafayette Art & Wine Festival** (September)
-- **Orinda Classic Car Show** (September)
-- **Moraga Pear Festival** (September)
-- **Fourth of July Parades** — All three towns host their own celebrations
+### Orinda
+- Orinda Oaks Park
+- Siesta Valley
+- San Pablo Dam Road scenic routes
+
+## Trails
+
+The East Bay Regional Park District and local trail systems offer everything from paved paths to serious hikes:
+
+- **Lafayette-Moraga Regional Trail** — 7.6 miles, paved, flat
+- **Briones to Mt. Diablo Trail** — Connects regional parks
+- **Reservoir rim trails** — Both paved and unpaved options
+
+## Entertainment
+
+- **Orinda Theatre** — First-run and independent films
+- **Summer concerts** at Moraga Commons
+- **Farmers markets** (seasonal, check locations)
+
+## The Lifestyle
+
+Living here means integrating outdoors into your routine. Morning walks at the reservoir, bike commutes on the trail, post-dinner strolls through downtown. The infrastructure makes it easy.
