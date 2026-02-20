@@ -1,0 +1,45 @@
+baseURL = 'https://explorelamorinda.com/'
+languageCode = 'en-us'
+title = 'Explore Lamorinda'
+theme = 'lamorinda'
+
+[params]
+  description = "Your complete guide to Lafayette, Moraga, and Orinda"
+  tagline = "Discover the best of Lafayette, Moraga & Orinda"
+  author = "Explore Lamorinda"
+
+[menu]
+  [[menu.main]]
+    name = "Lafayette"
+    url = "/lafayette/"
+    weight = 1
+  [[menu.main]]
+    name = "Moraga"
+    url = "/moraga/"
+    weight = 2
+  [[menu.main]]
+    name = "Orinda"
+    url = "/orinda/"
+    weight = 3
+  [[menu.main]]
+    name = "Getting Around"
+    url = "/getting-around/"
+    weight = 4
+  [[menu.main]]
+    name = "Things to Do"
+    url = "/things-to-do/"
+    weight = 5
+  [[menu.main]]
+    name = "Real Estate"
+    url = "/real-estate/"
+    weight = 6
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  town = "towns"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

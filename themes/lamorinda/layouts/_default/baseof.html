@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ .Site.BaseURL }}" class="logo">
+        <span class="logo-text">Explore</span>
+        <span class="logo-accent">Lamorinda</span>
+      </a>
+      <nav class="main-nav">
+        {{ range .Site.Menus.main }}
+          <a href="{{ .URL }}" class="{{ if $.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+      <button class="mobile-menu-toggle" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-about">
+          <h3>Explore Lamorinda</h3>
+          <p>Your complete guide to Lafayette, Moraga, and Orinda in California's East Bay.</p>
+        </div>
+        <div class="footer-links">
+          <h4>Towns</h4>
+          <ul>
+            <li><a href="/lafayette/">Lafayette</a></li>
+            <li><a href="/moraga/">Moraga</a></li>
+            <li><a href="/orinda/">Orinda</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="/getting-around/">Getting Around</a></li>
+            <li><a href="/things-to-do/">Things to Do</a></li>
+            <li><a href="/real-estate/">Real Estate</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Connect</h4>
+          <ul>
+            <li><a href="/about/">About Us</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; {{ now.Year }} Explore Lamorinda. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="{{ "js/main.js" | relURL }}"></script>
+</body>
+</html>

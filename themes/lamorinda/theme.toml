@@ -1,0 +1,10 @@
+# Theme metadata
+name = "Lamorinda"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourproject/blob/master/LICENSE"
+description = "A clean, modern theme for Explore Lamorinda"
+tags = ["responsive", "local", "guide"]
+min_version = "0.100.0"
+
+[author]
+  name = "Explore Lamorinda"

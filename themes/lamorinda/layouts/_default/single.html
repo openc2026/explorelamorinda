@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="page single">
+  <div class="container">
+    <header class="page-header">
+      {{ with .Params.image }}
+      <div class="hero-image">
+        <img src="{{ . }}" alt="{{ $.Title }}">
+      </div>
+      {{ end }}
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+    </header>
+    
+    <div class="page-content">
+      {{ .Content }}
+    </div>
+    
+    {{ if .Params.address }}
+    <div class="info-box">
+      <h3>Details</h3>
+      <dl>
+        {{ with .Params.address }}<dt>Address</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.phone }}<dt>Phone</dt><dd>{{ . }}</dd>{{ end }}
+        {{ with .Params.website }}<dt>Website</dt><dd><a href="{{ . }}" target="_blank">{{ . }}</a></dd>{{ end }}
+        {{ with .Params.hours }}<dt>Hours</dt><dd>{{ . }}</dd>{{ end }}
+      </dl>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

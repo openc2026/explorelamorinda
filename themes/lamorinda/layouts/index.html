@@ -1,0 +1,54 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <h1>Discover <span class="accent">Lamorinda</span></h1>
+    <p class="hero-tagline">{{ .Site.Params.tagline }}</p>
+    <div class="hero-cards">
+      <a href="/lafayette/" class="hero-card">
+        <h2>Lafayette</h2>
+        <p>Charming downtown, great restaurants, family-friendly parks</p>
+      </a>
+      <a href="/moraga/" class="hero-card">
+        <h2>Moraga</h2>
+        <p>Peaceful trails, excellent schools, close-knit community</p>
+      </a>
+      <a href="/orinda/" class="hero-card">
+        <h2>Orinda</h2>
+        <p>Rolling hills, historic theater, outdoor living</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">What is Lamorinda?</h2>
+    <div class="intro-text">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+
+<section class="section alt">
+  <div class="container">
+    <h2 class="section-title">Explore by Category</h2>
+    <div class="category-grid">
+      <a href="/getting-around/" class="category-card">
+        <span class="category-icon">🚇</span>
+        <h3>Getting Around</h3>
+        <p>BART, parking, buses & more</p>
+      </a>
+      <a href="/things-to-do/" class="category-card">
+        <span class="category-icon">🎭</span>
+        <h3>Things to Do</h3>
+        <p>Events, activities & entertainment</p>
+      </a>
+      <a href="/real-estate/" class="category-card">
+        <span class="category-icon">🏡</span>
+        <h3>Real Estate</h3>
+        <p>Neighborhoods & market insights</p>
+      </a>
+    </div>
+  </div>
+</section>
+{{ end }}
