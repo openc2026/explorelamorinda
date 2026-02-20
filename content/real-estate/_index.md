@@ -41,8 +41,6 @@ In a competitive market, your agent matters. Look for:
 - **5-star ratings** on Zillow, Yelp, Google, and Trulia
 - **DRE# 01390784**
 
-{{< testimonials >}}
-
 ### What Clients Say
 
 > "We couldn't have asked for a better realtor than Vlatka Bathgate. We worked with her to help us buy a new home and sell our previous property. Vlatka has an exceptional understanding of the local market."
@@ -74,8 +72,6 @@ In a competitive market, your agent matters. Look for:
 
 > "My husband and I recently had the pleasure of working with Vlatka as our realtor in our quest to find the perfect home in the Lafayette-Orinda-Moraga area. She was exceptional throughout the process."
 > — *Zillow review (2024)*
-
-{{< /testimonials >}}
 
 ### Contact Vlatka
 
