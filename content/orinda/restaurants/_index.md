@@ -3,6 +3,8 @@ title: "Orinda Restaurants"
 description: "Where to eat in Orinda — Theatre Square dining and a legendary roadhouse"
 ---
 
+![Theatre Square Orinda](/images/Orinda_TheaterSquare.jpg)
+
 Orinda's dining scene centers on two distinct areas: the bustling Theatre Square complex downtown and the legendary Casa Orinda just off the beaten path. Whether you're catching a movie, meeting friends for drinks, or celebrating a special occasion, Orinda delivers.
 
 ## Theatre Square

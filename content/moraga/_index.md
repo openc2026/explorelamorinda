@@ -3,6 +3,8 @@ title: "Moraga"
 description: "Quieter, greener, and home to Saint Mary's College"
 ---
 
+![Moraga Way flowers](/images/Moraga_MoragaWayFlowers.jpg)
+
 Moraga is the quietest of the three Lamorinda towns — more residential, more spread out, and a little more rural in feel. It's home to Saint Mary's College and some of the area's most scenic neighborhoods.
 
 ## The Essentials
@@ -32,7 +34,10 @@ The college brings energy, athletics, and one of the most beautiful campuses in 
 - **Moraga Commons Park** — Summer concerts, playground, community gathering
 - **Lafayette-Moraga Trail** — Connects north to Lafayette
 - **Rancho Laguna Park** — Equestrian area and open space
+- **Moraga Country Club** — Golf and community hub
 - **Surrounding hills** — Scenic drives and hiking access
+
+![Moraga Country Club Golf Course](/images/Moraga_GolfCourse.jpg)
 
 ## Schools
 

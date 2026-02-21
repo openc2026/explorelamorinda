@@ -9,6 +9,8 @@ price: "$$$"
 tags: ["italian", "fine-dining", "date-night", "moraga"]
 ---
 
+![La Finestra Ristorante](/images/Moraga_LaFinestra.jpg)
+
 La Finestra brings upscale Italian dining to Moraga, opened in 2018 by Chef Assadi after the success of his Lafayette establishment. It's become the go-to spot for special occasions in town.
 
 ## The Experience

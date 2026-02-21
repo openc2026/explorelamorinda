@@ -6,11 +6,16 @@ website: "https://www.stmarys-ca.edu"
 tags: ["campus", "architecture", "moraga", "sports", "walking"]
 ---
 
+![Saint Mary's College](/images/Moraga_StMarysCollege.jpg)
+
 Saint Mary's College brings a touch of classic California collegiate beauty to Moraga. The campus is open to visitors, and it's worth a wander — Spanish Mission-style architecture, palm-lined walkways, and views of the surrounding hills.
 
 ## What to See
 
 ### The Chapel
+
+![Saint Mary's Chapel](/images/Moraga_StMarysChapel.jpg)
+
 The heart of campus, architecturally and spiritually. The Spanish Mission-style chapel is beautiful and typically open to visitors during the day.
 
 ### The Grounds

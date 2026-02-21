@@ -6,6 +6,8 @@ website: "https://theorindatheatre.com"
 tags: ["entertainment", "movies", "historic", "orinda", "date-night"]
 ---
 
+![Orinda Theatre with BART](/images/Orinda_TheaterWithBART.jpg)
+
 The Orinda Theatre is more than just a place to watch movies — it's a Lamorinda landmark. Built in 1941, this Art Deco gem has been showing films for over 80 years. The distinctive façade, with its vertical "ORINDA" sign, is one of the most recognizable images in the East Bay.
 
 ## The Experience

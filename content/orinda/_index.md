@@ -3,6 +3,8 @@ title: "Orinda"
 description: "Theatre Square, BART access, and classic California hillside living"
 ---
 
+![Downtown Orinda](/images/Orinda_Downtown.jpg)
+
 Orinda is perhaps the most recognizable of the three Lamorinda towns, thanks to its iconic Art Deco theatre and position as the first stop out of the Caldecott Tunnel. With its own BART station and charming Theatre Square, it's where many visitors get their first taste of Lamorinda.
 
 ## The Essentials

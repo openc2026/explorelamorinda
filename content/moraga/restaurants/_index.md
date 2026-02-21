@@ -17,6 +17,8 @@ Moraga's dining scene is smaller than Lafayette's, but what it lacks in quantity
 - **Lou's Chicken Shop** — Fried chicken done right
 - **Nation's Giant Hamburgers** — Classic burgers
 - **Ranch House Cafe** — Diner vibes
+- **Loard's Ice Cream** — Old-school scoops, perfect post-dinner stop
+- **Si Si Caffé** — Coffee and cafe
 
 ## The Moraga Dining Vibe
 
