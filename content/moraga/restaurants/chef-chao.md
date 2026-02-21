@@ -4,9 +4,10 @@ description: "Family-owned Chinese restaurant serving Lamorinda for over 35 year
 address: "343 Rheem Blvd, Moraga, CA 94556"
 phone: "(925) 376-1740"
 website: "https://www.chefchaorestaurant.com"
-hours: ""
+hours: "Tue-Sat 11am-2pm & 4pm-9pm, Sun 3pm-9pm, Closed Mon"
 price: "$$"
 tags: ["chinese", "family-owned", "longtime-local", "rheem"]
+lastVerified: "2026-02-21"
 ---
 
 Chef Chao has been a Lamorinda institution for over 35 years. This family-owned restaurant offers both modern and traditional Chinese dishes, with a dedicated staff that treats regulars like family.
@@ -25,7 +26,8 @@ In a world of restaurant turnover, Chef Chao's longevity says everything. The fa
 
 - Family-owned and operated
 - Great for takeout
+- **10% discount for cash** — a nice perk
 - A true Moraga institution — ask any longtime resident
-- Located in Rheem Center
+- Located in Rheem Center, near Moraga City Hall
 
 *A restaurant doesn't last 35 years in the same community without doing something right.*

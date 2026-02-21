@@ -36,6 +36,12 @@ Several picnic areas dot the shoreline, some with BBQ grills. Popular for birthd
 - **Weekends get busy** — arrive early for parking
 - Dogs allowed on leash on paved trails
 
+## Seasonal Tips
+
+- **Late winter/early spring** (Feb-Apr): The hills turn emerald green after rains, and early wildflowers appear on the ridge trails. One of the prettiest times to visit.
+- **Summer**: Arrive before 9am to beat the heat and the parking crunch.
+- **Fall**: Golden grasses and cooler temps make for ideal hiking.
+
 ## Getting There
 
 Main entrance on Mt. Diablo Blvd, about a mile east of downtown Lafayette. The lot can fill up on nice weekends — come early.

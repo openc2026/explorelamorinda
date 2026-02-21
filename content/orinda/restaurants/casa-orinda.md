@@ -7,6 +7,7 @@ website: "https://casaorindarestaurant.com"
 hours: "Wed-Thu 4pm-9pm, Fri-Sat 4pm-10pm, Sun 4pm-9pm, Closed Mon-Tue"
 price: "$$"
 tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-night"]
+lastVerified: "2026-02-21"
 ---
 
 Casa Orinda has been serving Lamorinda since 1932 — that's over 90 years of fried chicken, steaks, and old-school hospitality. This isn't a restaurant trying to feel historic; it actually is historic. Walking in is like stepping back in time.
@@ -32,3 +33,7 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 - Not in Theatre Square — it's on Bryant Way, a few minutes away
 - Cash and cards accepted
 - The kind of place you bring out-of-town guests to impress them with local character
+
+## Local Lore
+
+Ask any longtime Lamorinda resident about the "best fried chicken debate" and Casa Orinda inevitably comes up. Ninety years later, people still argue about whether anyone does it better — which tells you something about just how good it is.
