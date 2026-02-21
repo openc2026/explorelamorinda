@@ -4,6 +4,17 @@
 
 Keep the site fresh for Google. Stale sites rank poorly. Daily micro-updates signal active maintenance.
 
+## Image Resources
+
+**OrindaRealty.com** — Owned by Andrew. Free to use any images from this site.
+- Community pages have neighborhood photos: `/orinda/`, `/lafayette/`, `/moraga/`
+- Can hotlink or download to `/static/images/`
+- Example: `https://orindarealty.com/wp-content/uploads/...`
+
+When adding images, prefer local copies in `/static/images/` for performance, but hotlinking is acceptable.
+
+---
+
 ## Daily Job (7:00 AM PST)
 
 ### What It Does
