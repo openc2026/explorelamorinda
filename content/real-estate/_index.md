@@ -75,8 +75,9 @@ In a competitive market, your agent matters. Look for:
 
 ### Contact Vlatka
 
+- **Phone:** [(925) 597-1573](tel:+19255971573)
 - **Website:** [orindarealty.com](https://orindarealty.com/)
-- **Coldwell Banker Orinda:** 5 Moraga Way, Orinda, CA 94563
+- **Office:** Coldwell Banker Orinda, 5 Moraga Way, Orinda, CA 94563
 - **DRE# 01390784**
 
 ---
