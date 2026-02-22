@@ -33,6 +33,10 @@ theme = 'lamorinda'
     name = "Real Estate"
     url = "/real-estate/"
     weight = 6
+  [[menu.main]]
+    name = "Useful Numbers"
+    url = "/useful-numbers/"
+    weight = 7
 
 [taxonomies]
   category = "categories"
