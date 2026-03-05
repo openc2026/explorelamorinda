@@ -28,6 +28,12 @@ The paved surface makes this trail accessible to everyone:
 
 It's not wilderness — it's better for certain purposes. The pavement means you can use it year-round, wet or dry. The gentle grade means everyone from kids to grandparents can enjoy it. And it connects two towns, making it actually useful for transportation, not just recreation.
 
+## Seasonal Tips
+
+- **Late March through April**: Peak wildflower season in the East Bay. The hillsides along the trail turn green and dotted with California poppies, lupine, and buttercups. Worth bringing a camera.
+- **Summer**: Start early — shade is limited and the paved surface can get hot. Morning hours are best.
+- **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even after rain.
+
 ## Good to Know
 
 - **Free** — no parking fees at trailheads

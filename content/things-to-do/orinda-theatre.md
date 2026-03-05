@@ -28,6 +28,10 @@ Theatre Square surrounds the cinema with dining and drinks:
 - Drinks at **Fourth Bore Tap Room** after
 - Quick bite at **Comelones Tacos** or **Petra**
 
+## Local Lore
+
+The Orinda Theatre opened on Christmas Day, 1941 — just weeks after Pearl Harbor. Through World War II and the decades since, it's remained a community anchor. The Art Deco design was the work of Alexander Aimwell Cantin, who designed several California theaters in this era. Unlike most of his contemporaries, the Orinda Theatre survived the multiplex revolution, thanks in part to a passionate local community that has fought to preserve it as a working cinema rather than let it become a retail space.
+
 ## Good to Know
 
 - **Parking** is free in the Theatre Square garage (validated)
