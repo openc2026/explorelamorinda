@@ -17,6 +17,8 @@ Moraga is the quietest of the three Lamorinda towns — more residential, more s
 
 Where Lafayette has a walkable downtown and Orinda has Theatre Square, Moraga has... space. The hills are greener, the lots are larger, and the pace is slower. This is intentional — residents like it this way.
 
+**Visiting in March or April?** You'll see Moraga at its most beautiful. The surrounding hills turn a vivid emerald green after winter rains, and wildflowers start dotting the ridgelines. It's when the "greener hills" claim really delivers.
+
 ## The Town Center(s)
 
 Dining and shopping split between two centers:

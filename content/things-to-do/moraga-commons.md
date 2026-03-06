@@ -9,7 +9,9 @@ Moraga Commons is the town's gathering place. With a bandshell, playground, picn
 
 ## Summer Concert Series
 
-The park's bandshell comes alive during summer with free outdoor concerts. Families spread blankets on the lawn, kids run around, and the community gathers for music under the evening sky. It's small-town America in the best way.
+The park's bandshell comes alive during summer with free outdoor concerts, organized by the **Moraga Park Foundation**. Shows run **Thursday evenings from 6:30 to 8:30pm** throughout the summer months. Families spread blankets on the lawn, kids run around, and the community gathers for music under the evening sky. Food trucks roll in for the occasion — grab dinner and stay for the show.
+
+It's small-town America in the best way, and arguably the most "Moraga" thing you can do in Moraga.
 
 ## For Kids
 
@@ -31,6 +33,12 @@ Beyond concerts, the park hosts:
 - Youth sports
 - Holiday events
 - Informal meetups
+
+## Best Times to Visit
+
+- **Late winter/early spring** (Feb-Apr): The surrounding hills are at their greenest. Perfect for a picnic before summer crowds arrive.
+- **Summer Thursdays**: Concert nights — plan to arrive early for a good blanket spot.
+- **Year-round**: The playground doesn't have a season. Kids don't care about weather.
 
 ## Good to Know
 

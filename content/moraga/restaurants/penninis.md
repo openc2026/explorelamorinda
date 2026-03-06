@@ -17,13 +17,21 @@ Two menus, one location. Dining in the Pennini's side? Feel free to order from M
 
 ## What to Order
 
-- Italian classics from Pennini's
-- Bar favorites from Michael's
-- Mix and match freely
+**From Pennini's:**
+- **Pasta dishes** — Hearty, traditional preparations
+- **Italian sandwiches** — Good for lunch or takeout
+- **Classic appetizers** — Garlic bread, bruschetta
+
+**From Michael's:**
+- **Burgers and bar food** — When you want American comfort
+- **Cocktails and beer** — Full bar selection
+
+The ability to order from either menu at any table is genuinely useful — especially with kids who want chicken fingers while parents want linguine.
 
 ## Good to Know
 
-- Located on Moraga Way
-- Family-friendly atmosphere
-- Good for both casual dinners and takeout
-- Bar available for drinks while you wait
+- **Location:** Moraga Way, in the Moraga Shopping Center area
+- **Family-friendly** — This is a neighborhood spot, not a date night destination
+- **Takeout-friendly** — Popular for quick pickups
+- **The bar side (Michael's)** — Good for a drink while waiting for your table or your order
+- **Parking:** Easy — it's Moraga
