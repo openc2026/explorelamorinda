@@ -4,6 +4,8 @@ description: "Paved trail connecting Lafayette and Moraga — perfect for walkin
 tags: ["outdoors", "hiking", "biking", "walking", "family-friendly", "lafayette", "moraga"]
 ---
 
+![Lafayette-Moraga Trail](/images/new_trails.png)
+
 The Lafayette-Moraga Regional Trail is a 7.6-mile paved path connecting Olympic Boulevard in Lafayette to the Commons Park in Moraga. Following the route of an old railroad line, it's flat, family-friendly, and one of the best ways to experience Lamorinda without a car.
 
 ## The Route

@@ -3,6 +3,8 @@ title: "Things to Do"
 description: "Parks, trails, entertainment, and recreation in Lamorinda"
 ---
 
+![Lamorinda trails](/images/new_trails.png)
+
 Lamorinda's outdoor spaces are a major reason people move here. Rolling hills, reservoirs, miles of trails, and weather that lets you enjoy them year-round. Here's how to make the most of it.
 
 ## The Must-Dos

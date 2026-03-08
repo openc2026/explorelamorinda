@@ -3,6 +3,8 @@ title: "Lafayette Restaurants"
 description: "Restaurant Row and beyond — where to eat in Lafayette"
 ---
 
+![Downtown Lafayette dining](/images/new_downtown.png)
+
 Lafayette's dining scene punches above its weight. The stretch of Mt. Diablo Boulevard through downtown has earned the nickname "Restaurant Row" — and for good reason. From craft cocktails to housemade pasta, casual brunch to white-tablecloth dinners, it's all here.
 
 ## The Icons

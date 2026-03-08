@@ -5,6 +5,8 @@ address: "1425 St Mary's Road, Moraga, CA 94556"
 tags: ["parks", "playground", "concerts", "family-friendly", "moraga", "community"]
 ---
 
+![Moraga hills panorama](/images/new_panoramic4.png)
+
 Moraga Commons is the town's gathering place. With a bandshell, playground, picnic areas, and sports courts, it hosts everything from summer concerts to youth sports to lazy weekend picnics.
 
 ## Summer Concert Series

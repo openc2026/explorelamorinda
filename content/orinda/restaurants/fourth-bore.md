@@ -10,6 +10,8 @@ tags: ["craft-beer", "american", "sports-bar", "theatre-square", "casual", "live
 lastVerified: "2026-03-07"
 ---
 
+![Orinda Theatre Square](/images/new_theater.png)
+
 Named for the Caldecott Tunnel (Lamorinda's gateway), Fourth Bore is Theatre Square's craft beer destination. With 28 rotating taps and solid pub grub, it's the spot for catching a game, meeting friends, or grabbing a drink before or after a movie at the Orinda Theatre next door.
 
 ## The Beer

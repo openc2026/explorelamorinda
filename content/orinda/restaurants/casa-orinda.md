@@ -10,6 +10,8 @@ tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-nigh
 lastVerified: "2026-02-21"
 ---
 
+![Orinda Theatre](/images/new_theater.png)
+
 Casa Orinda has been serving Lamorinda since 1932 — that's over 90 years of fried chicken, steaks, and old-school hospitality. This isn't a restaurant trying to feel historic; it actually is historic. Walking in is like stepping back in time.
 
 ## The Legend

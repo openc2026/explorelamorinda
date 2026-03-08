@@ -9,6 +9,8 @@ price: "$$"
 tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable"]
 ---
 
+![Downtown Lafayette](/images/new_downtown.png)
+
 Social Bird is one of Lafayette's liveliest dining destinations, bringing an energetic vibe to Restaurant Row. This neighborhood kitchen and bar focuses on sustainable American fare, craft cocktails, and an impressive craft beer and wine selection.
 
 ## The Vibe

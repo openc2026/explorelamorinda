@@ -3,6 +3,8 @@ title: "Useful Numbers"
 description: "Important phone numbers and contacts for Lafayette, Moraga, and Orinda residents"
 ---
 
+![Lamorinda community](/images/new_generic.png)
+
 Keep this page bookmarked. These are the numbers you'll actually need.
 
 ---

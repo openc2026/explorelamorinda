@@ -9,6 +9,8 @@ price: "$$$"
 tags: ["italian", "california-cuisine", "fine-dining", "date-night", "downtown", "lunch", "dinner"]
 ---
 
+![Downtown Lafayette](/images/new_downtown.png)
+
 Postino has been a Lafayette institution since 1992, housed in a charming Carr Jones-designed historic building in the heart of downtown. The restaurant celebrates Italian-influenced California cuisine, with a focus on fresh, seasonal ingredients and housemade pastas. With over 1,100 reviews and consistently high ratings, it remains one of Lamorinda's most beloved dining destinations.
 
 ## What to Expect

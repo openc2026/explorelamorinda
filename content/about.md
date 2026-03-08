@@ -3,6 +3,8 @@ title: "About"
 description: "Who we are and why we built Explore Lamorinda"
 ---
 
+![Lamorinda hills](/images/new_panoramic3.png)
+
 ## Hey, Neighbor 👋
 
 Explore Lamorinda is a passion project by local residents who love these three towns and want to share them with the world.

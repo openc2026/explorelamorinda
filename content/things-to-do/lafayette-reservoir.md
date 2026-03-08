@@ -7,6 +7,8 @@ website: "https://www.ebmud.com/recreation/east-bay/lafayette-reservoir"
 tags: ["outdoors", "hiking", "walking", "fishing", "kayaking", "family-friendly", "lafayette"]
 ---
 
+![Mt Diablo view](/images/new_mtdiablo.png)
+
 The Lafayette Reservoir is the heart of outdoor recreation in Lamorinda. A 2.7-mile paved loop circles the reservoir, making it perfect for walkers, joggers, and cyclists of all ages. On any given weekend, you'll see families with strollers, serious runners getting their miles in, and retirees enjoying a morning constitutional.
 
 ## The Rim Trail Loop

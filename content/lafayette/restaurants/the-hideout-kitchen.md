@@ -10,6 +10,8 @@ tags: ["american", "california-cuisine", "brunch", "downtown", "popular", "date-
 lastVerified: "2026-03-07"
 ---
 
+![Downtown Lafayette](/images/new_downtown.png)
+
 The Hideout Kitchen has become one of Lafayette's most beloved restaurants since opening in the circle at the heart of downtown. With thousands of rave reviews and a devoted local following, it's the kind of neighborhood bistro that makes you feel like a regular from your first visit.
 
 ## What to Expect

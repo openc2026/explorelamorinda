@@ -3,6 +3,8 @@ title: "Moraga Restaurants"
 description: "Where to eat in Moraga — from longtime local favorites to neighborhood gems"
 ---
 
+![Moraga hills](/images/new_panoramic4.png)
+
 Moraga's dining scene is smaller than Lafayette's, but what it lacks in quantity it makes up for in character. You'll find longtime family-owned institutions, casual spots perfect for after soccer practice, and a few hidden gems that locals guard jealously.
 
 ## Local Favorites

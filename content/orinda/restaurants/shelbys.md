@@ -9,6 +9,8 @@ price: "$$$"
 tags: ["american", "upscale", "theatre-square", "date-night"]
 ---
 
+![Orinda Theatre Square](/images/new_theater.png)
+
 Shelby's anchors Theatre Square's dining scene with upscale American cuisine. It's the spot for a proper dinner before the movies, a business lunch with style, or a date night without driving to Walnut Creek.
 
 ## The Experience

@@ -9,6 +9,8 @@ price: "$$"
 tags: ["italian", "bar", "family-friendly", "moraga-way"]
 ---
 
+![Moraga hills](/images/new_panoramic4.png)
+
 Pennini's and Michael's Restaurant share a space — and you can order from either menu whether you're dining in or taking out. It's a unique setup that gives you the best of both worlds: Italian comfort food and a full bar menu.
 
 ## The Concept

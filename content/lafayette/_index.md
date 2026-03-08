@@ -3,6 +3,8 @@ title: "Lafayette"
 description: "Downtown dining, the reservoir, and small-town charm with easy BART access"
 ---
 
+![Downtown Lafayette](/images/new_downtown.png)
+
 Lafayette is the commercial heart of Lamorinda. With a walkable downtown, dozens of restaurants along Mt. Diablo Boulevard, and its own BART station, it offers the best of suburban living with urban conveniences.
 
 ## The Essentials

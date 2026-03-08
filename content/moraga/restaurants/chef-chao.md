@@ -10,6 +10,8 @@ tags: ["chinese", "family-owned", "longtime-local", "rheem"]
 lastVerified: "2026-02-21"
 ---
 
+![Moraga hills](/images/new_panoramic4.png)
+
 Chef Chao has been a Lamorinda institution for over 35 years. This family-owned restaurant offers both modern and traditional Chinese dishes, with a dedicated staff that treats regulars like family.
 
 ## Why It's Lasted 35+ Years

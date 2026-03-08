@@ -9,6 +9,8 @@ price: "$$"
 tags: ["american", "global", "burgers", "brunch", "craft-cocktails", "downtown"]
 ---
 
+![Downtown Lafayette](/images/new_downtown.png)
+
 Batch & Brine brings a world of flavors to downtown Lafayette. Created by a dynamic family with roots stretching from New Mexico and the Mediterranean to California, this restaurant captures the essence of home cooking from around the globe.
 
 ## The Concept

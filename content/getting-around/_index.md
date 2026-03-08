@@ -3,6 +3,8 @@ title: "Getting Around"
 description: "BART, trails, driving, and navigating Lamorinda"
 ---
 
+![Lamorinda panoramic view](/images/new_panoramic2.png)
+
 Lamorinda is car-oriented but more connected than most East Bay suburbs. Two BART stations, excellent regional trails, and easy freeway access make getting around manageable.
 
 ## BART
