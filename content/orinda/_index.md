@@ -13,6 +13,8 @@ Orinda is perhaps the most recognizable of the three Lamorinda towns, thanks to 
 - **BART Access:** Yes — Orinda Station
 - **Vibe:** Classic California suburb, hillside homes, good schools
 
+**Visiting in March?** You've timed it well. The hills surrounding Orinda turn vivid green after winter rains, and the moderate temperatures make it perfect for exploring Theatre Square on foot. Catch a matinee at the historic theatre, then wander the square with a coffee — peak casual California afternoon.
+
 ## Theatre Square
 
 The heart of downtown Orinda. Built around the historic 1941 Orinda Theatre, this plaza offers:

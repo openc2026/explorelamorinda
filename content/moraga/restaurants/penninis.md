@@ -28,6 +28,10 @@ Two menus, one location. Dining in the Pennini's side? Feel free to order from M
 
 The ability to order from either menu at any table is genuinely useful — especially with kids who want chicken fingers while parents want linguine.
 
+## Local Lore
+
+Pennini's has been feeding Moraga families since the late 1980s — making it one of the longest-running restaurants in town. The dual-concept with Michael's evolved over time, with the bar side giving parents somewhere to grab a drink while kids demolished breadsticks. It's become a rite of passage for Lamorinda families: kids who grew up eating spaghetti here now bring their own children. The staff knows regulars by name, and there's always someone waving across the room. That's not marketing — that's just how Moraga works.
+
 ## Good to Know
 
 - **Location:** Moraga Way, in the Moraga Shopping Center area

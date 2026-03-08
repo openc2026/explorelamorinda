@@ -36,8 +36,9 @@ Beyond concerts, the park hosts:
 
 ## Best Times to Visit
 
+- **March**: The sweet spot. Hills are emerald green, the weather's warming up, but the summer crowds haven't arrived yet. Great time for a quiet weekday picnic.
 - **Late winter/early spring** (Feb-Apr): The surrounding hills are at their greenest. Perfect for a picnic before summer crowds arrive.
-- **Summer Thursdays**: Concert nights — plan to arrive early for a good blanket spot.
+- **Summer Thursdays**: Concert nights — plan to arrive early for a good blanket spot. The Thursday concert series typically runs June through August.
 - **Year-round**: The playground doesn't have a season. Kids don't care about weather.
 
 ## Good to Know
