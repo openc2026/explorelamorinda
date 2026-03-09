@@ -22,6 +22,8 @@ Both are on the **Antioch (Yellow) line**. About 25 minutes to downtown San Fran
 ### The Caldecott Tunnel
 Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the hills. The fourth bore opened in 2013, adding much-needed capacity.
 
+**Local lore:** The tunnel is named for Thomas E. Caldecott, who served on the Alameda County Board of Supervisors and championed the original tunnel project in the 1930s. The first bore opened in 1937, the second in 1964, the third in 1986, and the fourth in 2013. Each expansion was controversial at the time — residents worried about increased traffic and development — but today the four-bore tunnel is simply how Bay Area life works. Over 160,000 vehicles pass through daily.
+
 **Traffic patterns:**
 - **Morning:** Heavy westbound (toward SF)
 - **Evening:** Heavy eastbound (toward Lamorinda)

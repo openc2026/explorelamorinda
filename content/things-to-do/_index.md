@@ -48,7 +48,7 @@ The East Bay Regional Park District and local trail systems offer everything fro
 
 **Spring is here.** The hills have turned their signature emerald green after winter rains, and early wildflowers are appearing along the trails. California poppies, lupine, and buttercups make the Lafayette-Moraga Trail and reservoir rim trails especially beautiful through April.
 
-**Daylight Saving Time starts March 8** — that extra hour of evening light makes after-work trail walks and bike rides possible again. The reservoir and trails see a noticeable uptick in weekday evening visitors once the clocks spring forward.
+**Daylight Saving Time is now in effect** — that extra hour of evening light makes after-work trail walks and bike rides possible again. The reservoir sees noticeably more weekday evening visitors from now through fall. If you haven't walked the reservoir loop at golden hour, this is your season.
 
 ## The Lifestyle
 

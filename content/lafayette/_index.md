@@ -13,6 +13,8 @@ Lafayette is the commercial heart of Lamorinda. With a walkable downtown, dozens
 - **BART Access:** Yes — Lafayette Station
 - **Vibe:** Upscale suburb with a real downtown
 
+**Visiting in March?** This is Lafayette at its best. The hills are impossibly green, the reservoir is full from winter rains, and wildflowers are starting to appear along the trails. Take a golden-hour stroll around the reservoir loop — the evening light on the water with green hills behind is quintessential California.
+
 ## Downtown Lafayette
 
 The stretch of Mt. Diablo Boulevard through town is what makes Lafayette special. Unlike many suburbs where retail scatters across strip malls, Lafayette has a genuine "there" there:
