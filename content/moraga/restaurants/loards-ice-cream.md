@@ -1,12 +1,13 @@
 ---
 title: "Loard's Ice Cream"
-description: "Old-school ice cream parlor — a Moraga tradition"
-address: "Moraga, CA"
-phone: ""
-website: ""
-hours: ""
+description: "Old-school ice cream parlor — a Moraga tradition since 1950"
+address: "1480 Moraga Rd, Moraga, CA 94556"
+phone: "(925) 388-0695"
+website: "https://loards.com"
+hours: "Mon-Thu 12pm-8pm, Fri 11am-9pm, Sat 11am-9pm, Sun 12pm-8pm"
 price: "$"
-tags: ["ice-cream", "dessert", "family-friendly", "moraga"]
+tags: ["ice-cream", "dessert", "family-friendly", "moraga", "rheem"]
+lastVerified: "2026-03-11"
 ---
 
 ![Loard's Ice Cream](/images/Moraga_LoardsIceCream.jpg)

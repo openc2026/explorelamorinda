@@ -44,11 +44,13 @@ The East Bay Regional Park District and local trail systems offer everything fro
 - **Summer concerts** at Moraga Commons
 - **Farmers markets** (seasonal, check locations)
 
-## Seasonal Note: March 2026
+## Seasonal Note: Mid-March 2026
 
-**Spring is here.** The hills have turned their signature emerald green after winter rains, and early wildflowers are appearing along the trails. California poppies, lupine, and buttercups make the Lafayette-Moraga Trail and reservoir rim trails especially beautiful through April.
+**Peak wildflower season is arriving.** The hills have turned their signature emerald green after winter rains, and wildflowers are hitting their stride. California poppies, lupine, and buttercups make the Lafayette-Moraga Trail and reservoir rim trails especially beautiful now through mid-April.
 
-**Daylight Saving Time is now in effect** — that extra hour of evening light makes after-work trail walks and bike rides possible again. The reservoir sees noticeably more weekday evening visitors from now through fall. If you haven't walked the reservoir loop at golden hour, this is your season.
+**Daylight Saving Time is now in effect** — that extra hour of evening light makes after-work trail walks and bike rides possible again. The reservoir sees noticeably more weekday evening visitors from now through fall.
+
+**This week's tip:** The ridge trails above Lafayette Reservoir are starting to show orange waves of California poppies. Best viewing is mid-morning when the blooms are fully open. Bring sunscreen — the spring sun sneaks up on you.
 
 ## The Lifestyle
 

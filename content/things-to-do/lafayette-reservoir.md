@@ -40,7 +40,8 @@ Several picnic areas dot the shoreline, some with BBQ grills. Popular for birthd
 
 ## Seasonal Tips
 
-- **Late winter/early spring** (Feb-Apr): The hills turn emerald green after rains, and early wildflowers appear on the ridge trails. One of the prettiest times to visit.
+- **Mid-March through April**: Peak wildflower time. California poppies are blooming on the ridge trails (especially the Ohlone Point Trail), turning hillsides orange. The lupine and buttercups follow. Weekends get busy — arrive by 9am for parking.
+- **Late winter/early spring** (Feb-Apr): The hills turn emerald green after rains. One of the prettiest times to visit.
 - **Summer**: Arrive before 9am to beat the heat and the parking crunch.
 - **Fall**: Golden grasses and cooler temps make for ideal hiking.
 
