@@ -32,9 +32,13 @@ It's not wilderness — it's better for certain purposes. The pavement means you
 
 ## Seasonal Tips
 
-- **Late March through April**: Peak wildflower season in the East Bay. The hillsides along the trail turn green and dotted with California poppies, lupine, and buttercups. Worth bringing a camera.
-- **Summer**: Start early — shade is limited and the paved surface can get hot. Morning hours are best.
-- **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even after rain.
+- **Mid-March through April**: Peak wildflower season in the East Bay. The hillsides along the trail are emerald green and starting to bloom with California poppies, lupine, and buttercups. The stretch near Valle Vista offers particularly good views of the surrounding hillside color. Worth bringing a camera — mid-morning light is best for photos when the poppies fully open.
+- **Summer**: Start early — shade is limited and the paved surface can get hot. Before 9am is ideal.
+- **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even right after rain.
+
+## Mid-March Note
+
+This is one of the best times to walk or bike the trail. The hills are still green from winter rains, wildflowers are emerging, and the weather is mild — often 60s and sunny. Weekday mornings are especially peaceful.
 
 ## Good to Know
 

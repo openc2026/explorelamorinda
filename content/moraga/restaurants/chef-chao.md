@@ -7,7 +7,7 @@ website: "https://www.chefchaorestaurant.com"
 hours: "Tue-Sat 11am-2pm & 4pm-9pm, Sun 3pm-9pm, Closed Mon"
 price: "$$"
 tags: ["chinese", "family-owned", "longtime-local", "rheem"]
-lastVerified: "2026-02-21"
+lastVerified: "2026-03-12"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -20,9 +20,16 @@ In a world of restaurant turnover, Chef Chao's longevity says everything. The fa
 
 ## What Locals Order
 
-- Traditional Chinese favorites, well-executed
-- Family-style dishes perfect for groups
-- Lunch specials for a quick midday meal
+- **Honey Walnut Prawns** — The crowd-pleaser, crispy and sweet
+- **Eggplant Tempura** — A longtime favorite; perfectly crispy
+- **Chicken with String Beans** — In white sauce, beans stay crunchy
+- **Hot and Sour Soup** — Classic starter, well-balanced
+- **Lemon Chicken** — Comfort food done right
+- **Potstickers** — Good for sharing while you decide on mains
+
+## Lunch Specials
+
+The weekday lunch specials are the local secret: appetizer, soup, rice, and a fortune cookie included. Quick, filling, and easy on the wallet. Perfect for the Rheem Center lunch crowd.
 
 ## Good to Know
 
