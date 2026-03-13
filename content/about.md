@@ -58,4 +58,4 @@ Got a great shot of Lamorinda? We'd love to see it. Send it over with location d
 - We're not affiliated with the cities of Lafayette, Moraga, or Orinda
 - Built with ☕ and 🥾 in Lamorinda
 
-*Last updated: February 2026*
+*Last updated: March 2026*
