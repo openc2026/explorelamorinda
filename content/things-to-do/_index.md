@@ -46,11 +46,13 @@ The East Bay Regional Park District and local trail systems offer everything fro
 
 ## Seasonal Note: Mid-March 2026
 
-**Peak wildflower season is arriving.** The hills have turned their signature emerald green after winter rains, and wildflowers are hitting their stride. California poppies, lupine, and buttercups make the Lafayette-Moraga Trail and reservoir rim trails especially beautiful now through mid-April.
+**Peak wildflower season is here.** The hills have turned their signature emerald green after winter rains, and wildflowers are hitting their stride. California poppies, lupine, and buttercups make the Lafayette-Moraga Trail and reservoir rim trails especially beautiful now through mid-April.
 
 **Daylight Saving Time is now in effect** — that extra hour of evening light makes after-work trail walks and bike rides possible again. The reservoir sees noticeably more weekday evening visitors from now through fall.
 
-**This week's tip:** The ridge trails above Lafayette Reservoir are starting to show orange waves of California poppies. Best viewing is mid-morning when the blooms are fully open. Bring sunscreen — the spring sun sneaks up on you.
+**This week's tip:** The ridge trails above Lafayette Reservoir are showing orange waves of California poppies. Best viewing is mid-morning when the blooms are fully open. Bring sunscreen — the spring sun sneaks up on you.
+
+**Pi Day (March 14):** It's 3.14! Local bakeries like Town Bakery & Cafe in Moraga's Rheem Center often have pie specials — worth checking if you're looking for a sweet excuse to celebrate. Lafayette's Sideboard and Copperwood Tavern are also known for their desserts if pie is calling.
 
 ## The Lifestyle
 

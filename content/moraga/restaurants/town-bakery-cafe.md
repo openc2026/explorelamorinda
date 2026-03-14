@@ -39,6 +39,7 @@ Small, bright, and unpretentious. Grab a pastry at the counter, find a seat, wav
 - **Get there early** for the best pastry selection
 - Takeout-friendly for weekday mornings
 - The dinner salads are generous enough to split
+- **Pi Day tip:** Their tarts and Basque cheesecake make a worthy pie substitute on March 14th
 
 ## The Verdict
 
