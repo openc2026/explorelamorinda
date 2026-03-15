@@ -7,7 +7,7 @@ website: "https://thefourthbore.com"
 hours: "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 11am-9pm"
 price: "$$"
 tags: ["craft-beer", "american", "sports-bar", "theatre-square", "casual", "live-music"]
-lastVerified: "2026-03-07"
+lastVerified: "2026-03-15"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)

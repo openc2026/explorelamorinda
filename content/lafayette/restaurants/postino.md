@@ -38,3 +38,11 @@ A more recent addition, lunch service offers a lighter take on the dinner menu �
 - Full bar with excellent Italian wine selection
 - Private dining room for events and celebrations
 - Catering available for special occasions
+
+## Local Lore: The Carr Jones Building
+
+The charming building housing Postino is a piece of local architectural history. It's a **Carr Jones** design — Jones was a local architect known for his Spanish Revival and storybook style homes throughout the East Bay in the 1920s-30s. His residential designs in Oakland, Piedmont, and Berkeley are highly sought-after today.
+
+This downtown Lafayette building showcases his signature touches: warm stucco, exposed brick, intimate scale, and that hard-to-define quality of feeling both elegant and approachable. When Postino opened in 1992, they weren't just opening a restaurant — they were becoming stewards of a piece of Lafayette's architectural heritage.
+
+The marriage of California-Italian cuisine with a Carr Jones interior isn't accidental. Both share a philosophy: quality materials, attention to detail, and timelessness over trendiness. After 30+ years, both the building and the restaurant have aged beautifully together.

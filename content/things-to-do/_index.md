@@ -52,7 +52,7 @@ The East Bay Regional Park District and local trail systems offer everything fro
 
 **This week's tip:** The ridge trails above Lafayette Reservoir are showing orange waves of California poppies. Best viewing is mid-morning when the blooms are fully open. Bring sunscreen — the spring sun sneaks up on you.
 
-**Pi Day (March 14):** It's 3.14! Local bakeries like Town Bakery & Cafe in Moraga's Rheem Center often have pie specials — worth checking if you're looking for a sweet excuse to celebrate. Lafayette's Sideboard and Copperwood Tavern are also known for their desserts if pie is calling.
+**Spring Equinox (March 20):** The official start of spring arrives this Thursday. Days and nights reach equal length, and it's the astronomical peak of golden-hour magic. Consider a sunset walk at Lafayette Reservoir around 7:15pm — the light on the water as the hills turn golden is worth planning around. The reservoir's western trails face east toward the sunset reflections.
 
 ## The Lifestyle
 
