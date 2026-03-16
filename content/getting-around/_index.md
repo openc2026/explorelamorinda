@@ -42,6 +42,12 @@ Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the
 
 For committed cyclists, it's possible to bike-commute from Moraga to BART in Lafayette or Orinda.
 
+## Seasonal Note: Mid-March 2026
+
+**Daylight Saving Time is in effect** — those extra evening hours change everything. The Lafayette-Moraga Trail, nearly empty on dark winter evenings, is suddenly full of after-work joggers, dog walkers, and bike commuters. If you've been hibernating from outdoor commuting, now's the time to dust off the bike.
+
+**BART parking tip:** With nicer weather and longer days, more people are commuting. Arrive before 8am for guaranteed parking at Lafayette or Orinda stations — or consider biking to the station via the trail system.
+
 ## The Reality
 
 Most people drive. The towns are hilly, sprawling, and parking is easy. But for recreation, exercise, and occasional errands, the trails and BART make car-free trips possible.
