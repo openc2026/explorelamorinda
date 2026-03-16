@@ -7,6 +7,9 @@ theme = 'lamorinda'
   description = "Your complete guide to Lafayette, Moraga, and Orinda"
   tagline = "Discover the best of Lafayette, Moraga & Orinda"
   author = "Explore Lamorinda"
+  # Contact form uses FormSubmit.co - no API key needed
+  # Emails go to: vlatka@bestlamorindahomes.com (primary)
+  # CC: vlatka.bathgate@camoves.com, openc2026@outlook.com
 
 [menu]
   [[menu.main]]

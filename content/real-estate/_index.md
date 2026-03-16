@@ -3,6 +3,11 @@ title: "Real Estate"
 description: "Buying or selling in Lamorinda — what you need to know"
 ---
 
+<div class="real-estate-cta-box">
+<strong>Ready to make your move?</strong> Connect with Vlatka Bathgate, #1 Coldwell Banker Realtor in Orinda, for expert guidance on buying or selling in Lafayette, Moraga, or Orinda.
+<a href="#contact-form" class="cta-button">Contact Vlatka Now →</a>
+</div>
+
 Lamorinda's real estate market is competitive, desirable, and not for the faint of heart. Excellent schools, safe neighborhoods, and easy access to San Francisco make these three towns perennial favorites for families and professionals alike.
 
 ## The Market
