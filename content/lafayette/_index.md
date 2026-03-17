@@ -36,6 +36,10 @@ The stretch of Mt. Diablo Boulevard through town is what makes Lafayette special
 - **Car:** Highway 24 through the Caldecott Tunnel
 - **Bike:** Connected via regional trail system
 
+## Local Lore: The Name
+
+Yes, *that* Lafayette. The town is named for the Marquis de Lafayette — the French aristocrat who fought alongside George Washington in the American Revolution. In the 1850s, when early settler Elam Brown established a settlement here, the name honored America's favorite Frenchman. You'll find Lafayettes scattered across America (there are over 40 U.S. places with the name), but this one has perhaps the most pleasant setting: rolling California hills, oak-studded valleys, and that golden light the East Bay does so well.
+
 ## Schools
 
 Lafayette's schools are a major draw for families:
