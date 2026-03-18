@@ -41,6 +41,10 @@ The college brings energy, athletics, and one of the most beautiful campuses in 
 
 ![Moraga Country Club Golf Course](/images/Moraga_GolfCourse.jpg)
 
+## Local Lore: The Name
+
+Moraga carries the legacy of one of California's founding families. José Joaquín Moraga was a Spanish soldier who led the expedition that founded San Francisco's Presidio in 1776 — he's literally one of the people who started San Francisco. His descendants received a massive land grant from the Mexican government in 1835: Rancho Laguna de los Palos Colorados, covering much of what's now Moraga and parts of Orinda. The Moraga Adobe, built in 1841 and still standing in Orinda, is the oldest building in the entire East Bay. When the area developed in the 20th century, the town took the family's name. So yes, Joaquin Moraga Intermediate School is named after a genuine California pioneer.
+
 ## Schools
 
 - **Campolindo High School** (excellent reputation)

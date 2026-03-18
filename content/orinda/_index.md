@@ -41,6 +41,10 @@ The heart of downtown Orinda. Built around the historic 1941 Orinda Theatre, thi
 - **Car:** Highway 24 through the Caldecott Tunnel
 - **The Caldecott:** Four bores, named after a local public health official
 
+## Local Lore: The Name
+
+Orinda owes its name to poetry and romance. In the 1870s, County Sheriff William Walker Camron and his wife Alice Marsh Camron owned much of what would become Orinda. Alice was a devotee of 17th-century English poet Katherine Philips, who wrote under the pen name "The Matchless Orinda." When the Camrons named their property — and eventually the town — they honored Alice's literary heroine. It's a charmingly obscure reference: most Californians have never heard of Katherine Philips, but they all know Orinda. The poet would probably appreciate the irony — she died in 1664, but her pen name lives on in a California suburb 350 years later.
+
 ## Schools
 
 - **Miramonte High School** (excellent)

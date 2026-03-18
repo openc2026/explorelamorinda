@@ -27,9 +27,14 @@ The dining room buzzes with conversation, but it's the three patios that really 
 
 Sunday through Thursday, 3pm–5pm. Not available for takeout, so you'll need to come in and enjoy the atmosphere.
 
+## The Location
+
+Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spot for people-watching. The corner location means light from multiple directions, and the patios feel like an extension of the sidewalk energy. On warm evenings, the line between indoor and outdoor seating blurs — exactly the California dining vibe the owners were going for.
+
 ## Good to Know
 
 - From the same owners as Esin Restaurant and Revel Kitchen & Bar in Danville
 - Reservations recommended for weekend evenings
 - Multiple patio options — request outdoor seating when booking
 - Lively atmosphere; not ideal for quiet conversations
+- **Spring evenings** are prime time for the patios — book ahead for outdoor seating
