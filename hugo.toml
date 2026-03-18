@@ -33,25 +33,29 @@ theme = 'lamorinda'
     url = "/things-to-do/"
     weight = 5
   [[menu.main]]
+    name = "Schools"
+    url = "/schools/"
+    weight = 6
+  [[menu.main]]
     name = "Family Guide"
     url = "/raising-kids-in-lamorinda/"
-    weight = 6
+    weight = 7
   [[menu.main]]
     name = "Moving Guide"
     url = "/moving-to-lamorinda/"
-    weight = 7
+    weight = 8
   [[menu.main]]
     name = "Real Estate"
     url = "/real-estate/"
-    weight = 8
+    weight = 9
   [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 9
+    weight = 10
   [[menu.main]]
     name = "Useful Numbers"
     url = "/useful-numbers/"
-    weight = 10
+    weight = 11
 
 [taxonomies]
   category = "categories"
