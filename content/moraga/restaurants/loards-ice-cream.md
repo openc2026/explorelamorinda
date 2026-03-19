@@ -29,6 +29,10 @@ Scoops are generous, flavors are classic (with some fun options), and the vibe i
 
 Loard's isn't just a Moraga thing — it's a Bay Area original. Founded in 1950 in the East Bay, Loard's grew into a beloved regional chain before most locations eventually closed. The Moraga store is one of the surviving outposts, making it both a local treasure and a piece of mid-century Bay Area history. When longtime residents talk about Loard's, they're often remembering childhood trips to now-vanished locations across the East Bay.
 
+## Seasonal Note: Spring
+
+Late March through May is when Loard's shifts back into high gear. Youth baseball and softball seasons are in full swing at Moraga's fields, and the post-game pilgrimage to Loard's is practically mandatory. If you're visiting on a warm Saturday afternoon, expect to wait — but also expect to see Lamorinda community life in action: muddy cleats, trophy celebrations, and kids debating the merits of mint chip vs. cookies and cream.
+
 ## Good to Know
 
 - Cash and cards accepted

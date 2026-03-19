@@ -28,6 +28,10 @@ The menu is seasonal Californian comfort cuisine — familiar flavors executed w
 
 Located in Lafayette Circle, the restaurant occupies a prime spot in downtown Lafayette's walkable core. Indoor and outdoor seating available. The atmosphere strikes that sweet spot between upscale and approachable — nice enough for a celebration, relaxed enough for a Tuesday dinner.
 
+## Spring Tip
+
+Late March is prime patio season at The Hideout. The weather is warm enough to sit outside but not yet hot, and Lafayette's spring light hits the circle beautifully in the afternoon. If you're planning a weekend brunch, book early in the week — good weather weekends fill up fast, and the outdoor tables go first.
+
 ## Good to Know
 
 - **Reservations** strongly recommended — this place books up, especially weekends
