@@ -40,6 +40,17 @@ The stretch of Mt. Diablo Boulevard through town is what makes Lafayette special
 
 Yes, *that* Lafayette. The town is named for the Marquis de Lafayette — the French aristocrat who fought alongside George Washington in the American Revolution. In the 1850s, when early settler Elam Brown established a settlement here, the name honored America's favorite Frenchman. You'll find Lafayettes scattered across America (there are over 40 U.S. places with the name), but this one has perhaps the most pleasant setting: rolling California hills, oak-studded valleys, and that golden light the East Bay does so well.
 
+## Neighborhoods
+
+Lafayette offers the widest variety of neighborhoods in Lamorinda:
+
+- **[Downtown](/lafayette/neighborhoods/downtown/)** — Walkable, urban village feel
+- **[Burton Valley](/lafayette/neighborhoods/burton-valley/)** — Family heartland, flat streets
+- **[Happy Valley](/lafayette/neighborhoods/happy-valley/)** — Prestigious hillside estates
+- **[Trail/Reliez Valley](/lafayette/neighborhoods/trail-reliez-valley/)** — Active lifestyle, trail access
+
+[Explore all Lafayette neighborhoods →](/lafayette/neighborhoods/)
+
 ## Schools
 
 Lafayette's schools are a major draw for families:
@@ -47,4 +58,4 @@ Lafayette's schools are a major draw for families:
 - **Stanley Middle School**
 - **Multiple excellent elementary schools**
 
-*For more, explore the restaurants, things to do, and neighborhood sections.*
+*For more, explore the restaurants, neighborhoods, and things to do sections.*

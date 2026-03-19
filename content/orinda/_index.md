@@ -45,10 +45,21 @@ The heart of downtown Orinda. Built around the historic 1941 Orinda Theatre, thi
 
 Orinda owes its name to poetry and romance. In the 1870s, County Sheriff William Walker Camron and his wife Alice Marsh Camron owned much of what would become Orinda. Alice was a devotee of 17th-century English poet Katherine Philips, who wrote under the pen name "The Matchless Orinda." When the Camrons named their property — and eventually the town — they honored Alice's literary heroine. It's a charmingly obscure reference: most Californians have never heard of Katherine Philips, but they all know Orinda. The poet would probably appreciate the irony — she died in 1664, but her pen name lives on in a California suburb 350 years later.
 
+## Neighborhoods
+
+Orinda is a collection of distinct neighborhoods, each with its own character:
+
+- **[Glorietta](/orinda/neighborhoods/glorietta/)** — Family-friendly, walkable to elementary school
+- **[Ivy Drive](/orinda/neighborhoods/ivy-drive/)** — BART-convenient, established homes
+- **[Orinda Country Club](/orinda/neighborhoods/orinda-country-club/)** — Classic club lifestyle
+- **[Sleepy Hollow](/orinda/neighborhoods/sleepy-hollow/)** — Prestigious, secluded, $2M-$12M+
+
+[Explore all Orinda neighborhoods →](/orinda/neighborhoods/)
+
 ## Schools
 
 - **Miramonte High School** (excellent)
 - **Orinda Intermediate School**
 - **Top-rated elementary schools**
 
-*For more, explore the restaurants and things to do sections.*
+*For more, explore the restaurants, neighborhoods, and things to do sections.*
