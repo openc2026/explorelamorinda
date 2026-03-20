@@ -52,7 +52,7 @@ The East Bay Regional Park District and local trail systems offer everything fro
 
 **This week's tip:** The ridge trails above Lafayette Reservoir are showing orange waves of California poppies. Best viewing is mid-morning when the blooms are fully open. Bring sunscreen — the spring sun sneaks up on you.
 
-**Spring Equinox (March 20):** The official start of spring arrives this Thursday. Days and nights reach equal length, and it's the astronomical peak of golden-hour magic. Consider a sunset walk at Lafayette Reservoir around 7:15pm — the light on the water as the hills turn golden is worth planning around. The reservoir's western trails face east toward the sunset reflections.
+**Spring Equinox (March 20):** Today marks the official start of spring. Days and nights reach equal length, and it's the astronomical peak of golden-hour magic. Consider a sunset walk at Lafayette Reservoir around 7:15pm — the light on the water as the hills turn golden is worth planning around. The reservoir's western trails face east toward the sunset reflections. Spring equinox sunsets have a particular quality — not quite the drama of summer, but with air still clear from winter rains.
 
 ## The Lifestyle
 
