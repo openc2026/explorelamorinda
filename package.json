@@ -1,0 +1,24 @@
+{
+  "name": "explorelamorinda",
+  "version": "1.0.0",
+  "description": "A comprehensive guide to Lafayette, Moraga, and Orinda.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openc2026/explorelamorinda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/openc2026/explorelamorinda/issues"
+  },
+  "homepage": "https://github.com/openc2026/explorelamorinda#readme",
+  "dependencies": {
+    "pdfkit": "^0.18.0"
+  }
+}

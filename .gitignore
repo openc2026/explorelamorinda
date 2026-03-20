@@ -15,3 +15,7 @@ Thumbs.db
 
 # Hugo lock file
 .hugo_build.lock
+
+# Node.js (for PDF generation scripts)
+node_modules/
+package-lock.json

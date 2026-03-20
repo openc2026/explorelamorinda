@@ -8,6 +8,10 @@ description: "Buying or selling in Lamorinda — what you need to know"
 <a href="#contact-form" class="cta-button">Contact Vlatka Now →</a>
 </div>
 
+<div class="lead-magnet-callout">
+📋 <strong>FREE DOWNLOAD:</strong> <a href="/real-estate/home-buyers-checklist/">Lamorinda Home Buyer's Checklist</a> — Pre-approval steps, fire zone concerns, inspection tips, and questions to ask your agent.
+</div>
+
 Lamorinda's real estate market is competitive, desirable, and not for the faint of heart. Excellent schools, safe neighborhoods, and easy access to San Francisco make these three towns perennial favorites for families and professionals alike.
 
 ## The Market
