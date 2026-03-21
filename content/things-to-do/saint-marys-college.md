@@ -34,6 +34,7 @@ Saint Mary's competes in Division I athletics (West Coast Conference). Basketbal
 
 ## Best Times to Visit
 
+- **Late March (March Madness)**: If the Gaels made the NCAA tournament, campus buzzes with excitement and watch parties. Even if not, this is prime time — spring blooms, green hills, and perfect weather. Check the schedule for any remaining home games or community events.
 - **March-April**: Spring brings blooming flowers and lush green hills surrounding campus. The combination of California poppies, Spanish architecture, and palm trees is peak California beauty.
 - **Summer**: Campus is quieter with students away — ideal for peaceful wandering.
 - **Basketball season** (Nov-March): Catch a Gaels game for local atmosphere.
