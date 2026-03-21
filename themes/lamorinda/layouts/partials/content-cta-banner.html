@@ -1,0 +1,15 @@
+{{/* Subtle "Thinking of moving here?" banner for content pages */}}
+{{/* Only show on restaurant, activity, and trail pages - not on real estate pages */}}
+
+{{ if not (hasPrefix .RelPermalink "/real-estate") }}
+<div class="content-cta-banner">
+  <div class="content-cta-inner">
+    <span class="content-cta-icon">🏡</span>
+    <div class="content-cta-text">
+      <strong>Thinking of moving here?</strong>
+      <span>Discover why families love calling Lamorinda home.</span>
+    </div>
+    <a href="/real-estate/" class="content-cta-link">Learn More →</a>
+  </div>
+</div>
+{{ end }}

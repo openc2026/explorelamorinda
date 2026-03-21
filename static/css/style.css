@@ -1070,3 +1070,344 @@ body:has(.contact-form-wrapper) .floating-cta {
     font-size: 1.1rem;
   }
 }
+
+/* ===========================================
+   DAY 6: STICKY CTAs - CONTENT PAGE BANNER
+   =========================================== */
+
+.content-cta-banner {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-md);
+  background: linear-gradient(135deg, #f0f7f2 0%, #e8f0ea 100%);
+  border-radius: 12px;
+  border: 1px solid rgba(45, 90, 61, 0.15);
+}
+
+.content-cta-inner {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+}
+
+.content-cta-icon {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.content-cta-text {
+  flex: 1;
+  min-width: 200px;
+}
+
+.content-cta-text strong {
+  display: block;
+  color: var(--color-primary);
+  font-size: 1.1rem;
+  margin-bottom: 4px;
+}
+
+.content-cta-text span {
+  color: var(--color-text-light);
+  font-size: 0.95rem;
+}
+
+.content-cta-link {
+  padding: 10px 20px;
+  background: var(--color-primary);
+  color: white;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+
+.content-cta-link:hover {
+  background: var(--color-primary-light);
+  color: white;
+  transform: translateX(3px);
+}
+
+/* ===========================================
+   DAY 6: BLOG END-OF-ARTICLE CTA
+   =========================================== */
+
+.blog-end-cta {
+  margin-top: var(--spacing-xl);
+  margin-bottom: var(--spacing-lg);
+  padding: var(--spacing-lg);
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  border-radius: 16px;
+  color: white;
+  box-shadow: 0 8px 32px rgba(45, 90, 61, 0.25);
+}
+
+.blog-cta-content h4 {
+  color: white;
+  font-size: 1.5rem;
+  margin-bottom: var(--spacing-sm);
+  font-family: var(--font-heading);
+}
+
+.blog-cta-content > p {
+  opacity: 0.9;
+  margin-bottom: var(--spacing-md);
+  line-height: 1.6;
+}
+
+.blog-cta-agent {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+  padding: var(--spacing-sm);
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+.agent-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.agent-info strong {
+  display: block;
+  font-size: 1.1rem;
+  color: white;
+}
+
+.agent-info span {
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.blog-cta-button {
+  display: inline-block;
+  padding: 14px 28px;
+  background: white;
+  color: var(--color-primary);
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.3s;
+}
+
+.blog-cta-button:hover {
+  background: var(--color-accent);
+  color: white;
+  transform: translateY(-2px);
+}
+
+/* ===========================================
+   DAY 6: SIDEBAR REALTOR WIDGET
+   =========================================== */
+
+.content-with-sidebar {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: var(--spacing-lg);
+  align-items: start;
+}
+
+.main-content-area {
+  min-width: 0;
+}
+
+.sidebar-realtor-widget {
+  position: sticky;
+  top: 90px;
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: var(--spacing-md);
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.widget-header {
+  margin-bottom: var(--spacing-sm);
+}
+
+.widget-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  background: linear-gradient(135deg, var(--color-accent) 0%, #d4b872 100%);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 20px;
+}
+
+.widget-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto var(--spacing-sm);
+  border: 3px solid var(--color-primary);
+}
+
+.sidebar-realtor-widget h4 {
+  font-size: 1.1rem;
+  margin-bottom: 4px;
+  color: var(--color-primary);
+}
+
+.widget-title {
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-sm);
+}
+
+.widget-stats {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 var(--spacing-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.widget-stats li {
+  font-size: 0.85rem;
+  color: var(--color-text);
+}
+
+.widget-stats strong {
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+.widget-cta {
+  display: block;
+  padding: 10px 16px;
+  background: var(--color-primary);
+  color: white;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  margin-bottom: var(--spacing-xs);
+}
+
+.widget-cta:hover {
+  background: var(--color-primary-light);
+  color: white;
+  transform: translateY(-1px);
+}
+
+.widget-phone {
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.widget-phone a {
+  color: var(--color-text-light);
+}
+
+.widget-phone a:hover {
+  color: var(--color-primary);
+}
+
+/* ===========================================
+   DAY 6: ENHANCED FLOATING CTA
+   =========================================== */
+
+.floating-cta {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 22px;
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  color: white;
+  border-radius: 50px;
+  box-shadow: 0 4px 20px rgba(45, 90, 61, 0.4);
+  z-index: 99;
+  transition: all 0.3s;
+  text-decoration: none;
+  overflow: visible;
+}
+
+.floating-cta-pulse {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 50px;
+  animation: pulse-ring 2s ease-out infinite;
+  pointer-events: none;
+}
+
+@keyframes pulse-ring {
+  0% {
+    box-shadow: 0 0 0 0 rgba(45, 90, 61, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 12px rgba(45, 90, 61, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(45, 90, 61, 0);
+  }
+}
+
+.floating-cta:hover {
+  background: linear-gradient(135deg, var(--color-primary-light) 0%, #4a8a60 100%);
+  color: white;
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 8px 28px rgba(45, 90, 61, 0.5);
+}
+
+.floating-cta:hover .floating-cta-pulse {
+  animation: none;
+}
+
+/* ===========================================
+   RESPONSIVE - DAY 6 CTAs
+   =========================================== */
+
+@media (max-width: 900px) {
+  .content-with-sidebar {
+    grid-template-columns: 1fr;
+  }
+  
+  .sidebar-realtor-widget {
+    position: static;
+    max-width: 350px;
+    margin: var(--spacing-lg) auto 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .content-cta-inner {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .content-cta-link {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .blog-end-cta {
+    padding: var(--spacing-md);
+  }
+  
+  .blog-cta-content h4 {
+    font-size: 1.25rem;
+  }
+  
+  .blog-cta-agent {
+    flex-direction: column;
+    text-align: center;
+  }
+}

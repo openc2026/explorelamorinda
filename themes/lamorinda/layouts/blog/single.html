@@ -1,24 +1,34 @@
 {{ define "main" }}
 <article class="page single blog-post">
   <div class="container">
-    <header class="page-header">
-      {{ with .Params.image }}
-      <div class="hero-image">
-        <img src="{{ . }}" alt="{{ $.Title }}">
+    <div class="content-with-sidebar">
+      <div class="main-content-area">
+        <header class="page-header">
+          {{ with .Params.image }}
+          <div class="hero-image">
+            <img src="{{ . }}" alt="{{ $.Title }}">
+          </div>
+          {{ end }}
+          <time datetime="{{ .Date.Format "2006-01-02" }}" class="blog-date">{{ .Date.Format "January 2, 2006" }}</time>
+          <h1>{{ .Title }}</h1>
+          {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+        </header>
+        
+        <div class="page-content blog-content">
+          {{ .Content }}
+        </div>
+
+        {{/* End-of-article CTA */}}
+        {{ partial "blog-end-cta.html" . }}
+        
+        <footer class="blog-footer">
+          <a href="/blog/" class="back-link">← Back to Blog</a>
+        </footer>
       </div>
-      {{ end }}
-      <time datetime="{{ .Date.Format "2006-01-02" }}" class="blog-date">{{ .Date.Format "January 2, 2006" }}</time>
-      <h1>{{ .Title }}</h1>
-      {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
-    </header>
-    
-    <div class="page-content blog-content">
-      {{ .Content }}
+
+      {{/* Sidebar widget for blog posts */}}
+      {{ partial "sidebar-widget.html" . }}
     </div>
-    
-    <footer class="blog-footer">
-      <a href="/blog/" class="back-link">← Back to Blog</a>
-    </footer>
   </div>
 </article>
 {{ end }}
