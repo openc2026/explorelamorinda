@@ -14,6 +14,8 @@ description: "Buying or selling in Lamorinda — what you need to know"
 
 Lamorinda's real estate market is competitive, desirable, and not for the faint of heart. Excellent schools, safe neighborhoods, and easy access to San Francisco make these three towns perennial favorites for families and professionals alike.
 
+📊 **[Read the Latest Market Update →](/real-estate/market-updates/)** — Monthly analysis of prices, inventory, and trends across Lafayette, Moraga, and Orinda.
+
 ## The Market
 
 - **Median home prices:** Generally $1.5M–$3M+ depending on location and size
