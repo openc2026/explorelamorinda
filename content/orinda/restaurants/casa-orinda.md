@@ -38,6 +38,10 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 - Cash and cards accepted
 - The kind of place you bring out-of-town guests to impress them with local character
 
+## Sunday Suppers
+
+Sunday evenings at Casa Orinda (4pm-9pm) have a special energy. The weekday rush is absent, the bar is convivial but not packed, and the fried chicken tastes even better when you're not watching the clock. It's a quieter, more leisurely experience than Friday or Saturday — locals know this is when Casa feels most like the family roadhouse it's always been.
+
 ## Local Lore
 
 The Casa has seen things. Its 90+ year history includes rumors of illegal gambling, more than one death at the bar, and an unsolved murder that contributes to its reputation for being haunted. Staff who've worked there for decades report things that "go bump in the night" and feelings of unseen presences in the corners.

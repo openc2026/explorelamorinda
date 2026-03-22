@@ -62,6 +62,10 @@ Happy Valley attracts people who could live anywhere and chose this. They value 
 
 There's wealth here, but it's not showy. Range Rovers share driveways with muddy hiking boots. People are involved in the community but on their own terms.
 
+## Best Time to Visit
+
+**Late March (now):** This is Happy Valley at its most stunning. The hills are emerald green, California poppies are starting to bloom, and the winding roads reveal views that explain why people pay a premium for this neighborhood. Drive Reliez Valley Road up through Happy Valley to Briones — you'll see what country-living-near-BART actually looks like.
+
 ## Considerations
 
 - **Isolation** — some homes feel truly remote
