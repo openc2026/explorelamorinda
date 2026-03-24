@@ -60,6 +60,12 @@ Burton Valley is unpretentious. People here prioritized schools and community ov
 
 It's competitive in its way — the school fundraisers are well-funded, the sports teams are serious — but it's competition in service of community, not status.
 
+## Best Time to Visit
+
+**Late March through April** is ideal for exploring Burton Valley. The weather is mild (often 65–75°F), the neighborhood is green, and you get the authentic feel of family life here — kids walking to school, neighbors out on morning jogs, the community rhythm that makes this place special. Spring break (typically late March) offers a slightly quieter look, while regular school weeks show the neighborhood at full energy.
+
+Drive through in the late afternoon when families are returning from school and activities. That's when Burton Valley feels most alive.
+
 ## Considerations
 
 - **Less dramatic** than hillside neighborhoods — no views, no estates

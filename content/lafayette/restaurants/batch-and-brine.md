@@ -28,6 +28,14 @@ Batch & Brine brings a world of flavors to downtown Lafayette. Created by a dyna
 
 Monday through Friday, 2:30pm–5:30pm.
 
+## The Cocktails
+
+Don't sleep on the bar program. The craft cocktails here are thoughtful and well-executed — not an afterthought to the food menu. Ask the bartender for recommendations based on your taste; they know their spirits.
+
+## Late March Note
+
+Patio weather has arrived. The outdoor seating at Batch & Brine is ideal for a Saturday brunch or weeknight happy hour this time of year — warm afternoons, golden evening light, and the downtown Lafayette bustle around you. The global comfort food pairs perfectly with a cold drink and fading sunset.
+
 ## Good to Know
 
 - Family-owned by the Ghaben family
