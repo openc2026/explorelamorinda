@@ -4,6 +4,17 @@ description: "Your message has been received"
 url: "/real-estate/thank-you/"
 ---
 
+<!-- Track form submission completion as conversion -->
+<script>
+  if (typeof trackConversion === 'function') {
+    trackConversion('form_submission_complete', {
+      event_category: 'Lead',
+      event_label: 'Contact Form Completed',
+      value: 10  // Assign lead value for reporting
+    });
+  }
+</script>
+
 <div class="thank-you-message">
 
 ## Thank you for reaching out!
