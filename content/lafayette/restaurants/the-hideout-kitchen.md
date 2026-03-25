@@ -7,7 +7,7 @@ website: "https://www.hideoutkitchen.com"
 hours: "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "california-cuisine", "brunch", "downtown", "popular", "date-night"]
-lastVerified: "2026-03-07"
+lastVerified: "2026-03-25"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -39,6 +39,12 @@ Late March is prime patio season at The Hideout. The weather is warm enough to s
 - **Happy Hour** daily 3-5pm at the bar
 - **Walk-ins** possible but expect a wait during peak hours
 - Also has a Walnut Creek location, but the Lafayette original has the neighborhood magic
+
+## Local Lore: The Circle
+
+Lafayette Circle isn't just a location — it's the town's symbolic center. This small traffic roundabout, where Mt. Diablo Boulevard meets Moraga Road, has been the heart of downtown since the town incorporated in 1968. The circle's distinctive design (rare for car-centric suburbs) was meant to slow traffic and create a pedestrian-friendly hub — a European sensibility in California sprawl.
+
+When The Hideout Kitchen opened here, they weren't just picking a good spot for foot traffic. They were planting a flag at Lafayette's living room. The restaurant's wraparound windows look out on the circle's daily parade: morning joggers, lunch-break strollers, evening diners moving between restaurants. It's a front-row seat to Lafayette's community rhythm.
 
 ## Why It Works
 

@@ -179,4 +179,4 @@ All part of the Contra Costa County Library system: [ccclib.org](https://ccclib.
 
 ---
 
-*Numbers verified February 2026. If you spot an error, [let us know](/about).*
+*Numbers verified March 2026. If you spot an error, [let us know](/about).*
