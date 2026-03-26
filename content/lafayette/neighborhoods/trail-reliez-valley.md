@@ -62,6 +62,14 @@ This neighborhood attracts people who actually use outdoor space, not just admir
 
 It's less status-conscious than other Lafayette neighborhoods. People here care about trail conditions, park maintenance, open space preservation. The community organizes around shared outdoor passion.
 
+## Best Time to Visit
+
+**Late March through May** is prime time for exploring the Trail Neighborhood. The Lafayette-Moraga Trail comes alive with walkers, joggers, and cyclists enjoying extended daylight and mild weather (typically 60–75°F). The surrounding hills are green, California poppies bloom along the trail edges, and the outdoor lifestyle that defines this neighborhood is on full display.
+
+Visit on a weekday morning or late afternoon to see the neighborhood's commuter-trail culture — locals biking to BART or walking home from downtown Lafayette. Weekend mornings (8–11am) showcase peak trail activity: families, serious runners, and the coffee-and-walk crowd all sharing the path.
+
+For house-hunting, spring is ideal because you'll see how residents actually use the trail — the feature that makes this neighborhood unique.
+
 ## Considerations
 
 - **Trail can be busy** — weekends see heavy foot/bike traffic

@@ -68,6 +68,14 @@ Sleepy Hollow is intense about the things it values: kids, schools, community, a
 
 That intensity isn't for everyone. But for families who want the best schools, a safe place for kids to roam, and neighbors who share their values, Sleepy Hollow delivers.
 
+## Best Time to Visit
+
+**Late March through early May** showcases Sleepy Hollow at its most beautiful. The hills backing the valley turn deep green, wildflowers bloom on the Briones trails, and the secluded setting feels almost magical with California's spring light filtering through the oaks.
+
+Drive through on a weekday afternoon around 3pm to see school pickup at Sleepy Hollow Elementary — that's when the neighborhood's family-centered character is most visible. The pool and tennis club come alive as weather warms, but the real energy builds through April and May as swim team practice starts.
+
+Spring is also when Sleepy Hollow homes most frequently come to market. Families list after accepting their kids into next year's schools, making March-May the window for serious buyers.
+
 ## Considerations
 
 - **Premium pricing** — entry point is $2M+

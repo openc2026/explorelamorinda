@@ -44,6 +44,10 @@ The patio is particularly pleasant on mild spring evenings — Moraga's cooler t
 
 Chef Assadi's culinary journey brought him to Lafayette in 2003, where he first built a following for his authentic Sicilian-influenced cooking. By 2018, demand warranted a second location, and La Finestra in Moraga was born. The same attention to quality — fresh ingredients, house-made pastas, consistent execution — transferred to the new space. For Moraga residents, it means fine Italian dining without the drive to Walnut Creek or Lafayette.
 
+## Late March Tip
+
+Spring evenings at La Finestra are special. Moraga's slightly cooler temperatures mean the patio is comfortable even as other parts of the Bay warm up. Request outdoor seating for a Tuesday or Wednesday dinner — the weekend rush hasn't hit, the service is attentive, and you can linger over tiramisu as the evening light fades over the Moraga hills. It's the kind of weeknight luxury that makes living here feel like a permanent vacation.
+
 ## Good to Know
 
 - **Reservations strongly recommended**, especially weekends
