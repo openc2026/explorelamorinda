@@ -36,9 +36,9 @@ It's not wilderness — it's better for certain purposes. The pavement means you
 - **Summer**: Start early — shade is limited and the paved surface can get hot. Before 9am is ideal.
 - **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even right after rain.
 
-## Mid-March Note
+## Late March into April
 
-This is one of the best times to walk or bike the trail. The hills are still green from winter rains, wildflowers are emerging, and the weather is mild — often 60s and sunny. Weekday mornings are especially peaceful.
+Peak wildflower season is here. The hills along the trail are lush and green, California poppies are opening on the sunny slopes, and the lupine won't be far behind. This window — late March through mid-April — is arguably the trail's most beautiful stretch of the year. Mornings are crisp, afternoons warm to the mid-60s, and the light has that golden spring quality that makes everything look better. If you've been meaning to walk or bike the trail, don't wait — the green hills start fading to gold by late May.
 
 ## Good to Know
 

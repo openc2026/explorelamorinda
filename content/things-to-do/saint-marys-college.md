@@ -39,6 +39,14 @@ Saint Mary's competes in Division I athletics (West Coast Conference). Basketbal
 - **Summer**: Campus is quieter with students away — ideal for peaceful wandering.
 - **Basketball season** (Nov-March): Catch a Gaels game for local atmosphere.
 
+## Local Lore
+
+Saint Mary's College has been in Moraga since 1928, but the institution itself dates to 1863 — making it one of California's oldest colleges. Before settling in Moraga, the school moved multiple times: San Francisco, Oakland, and even a brief stint in Martinez. The Moraga campus was chosen for its isolation and beauty — the Christian Brothers who run the college wanted a contemplative setting away from urban distractions.
+
+The campus's distinctive palm-lined walkways weren't just aesthetic choices. The palms were planted in the 1930s by students as part of campus beautification, and they've become one of the most photographed features of the grounds. The main quad, with its mission-style buildings and mountain backdrop, has appeared in films and commercials seeking "classic California college" scenery.
+
+Fun fact: The campus sits in what was once the Moraga Rancho, a Mexican land grant from 1835. The Moraga family — descendants of José Joaquín Moraga, who led the expedition that founded San Francisco — owned these hills for generations before selling to developers and the college.
+
 ## Good to Know
 
 - Campus is **open to visitors** — just park in visitor areas

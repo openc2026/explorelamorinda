@@ -68,6 +68,10 @@ Sanders Ranch attracts families who want it all: top schools, large lots, privac
 
 The community is engaged but not overwhelming. HOA events bring people together without being mandatory. Neighbors look out for each other but respect privacy.
 
+## Best Time to Visit
+
+**Late March into April:** Sanders Ranch is at its most photogenic right now. The surrounding hills are emerald green, wildflowers are pushing up along the trails, and the private park comes alive with families enjoying the spring weather. If you're house-hunting, this is when the neighborhood sells itself — the views, the open space, the sense of being tucked into nature while still minutes from everything. Drive in (guest entry at the gate) and you'll immediately understand the premium.
+
 ## Considerations
 
 - **HOA fees** — required for community amenities
