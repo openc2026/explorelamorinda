@@ -63,6 +63,16 @@ Downtown Lafayette attracts people who chose Lamorinda but want to minimize its 
 
 It's less family-focused than Burton Valley, less exclusive than Happy Valley. People here tend to be social, convenience-oriented, and often working in SF.
 
+## Local Lore
+
+Downtown Lafayette evolved in reverse from most suburbs. While typical American towns grow outward from a downtown core, Lafayette's hills were settled first — ranchers and fruit growers spreading across the valleys in the late 1800s. "Downtown" was just a crossroads where Mt. Diablo Boulevard met the Southern Pacific railroad (now BART right-of-way).
+
+The real transformation came in 1973 when BART opened the Lafayette station. Suddenly, the sleepy crossroads had a direct connection to San Francisco. Within a decade, the blocks around the station filled with shops, restaurants, and the apartment/condo developments that give downtown its density today.
+
+The 1989 Loma Prieta earthquake damaged some older buildings and accelerated redevelopment. La Fiesta Square's current form, the restaurants along Mt. Diablo Boulevard, the mixed-use buildings — most of what defines "downtown Lafayette" today postdates 1990.
+
+What makes downtown unusual: it's one of the few places in Lamorinda where you can live a genuinely transit-oriented lifestyle. The neighborhood exists *because* of BART, not despite it.
+
 ## Considerations
 
 - **Noise** — Mt. Diablo Blvd has traffic; BART can be heard

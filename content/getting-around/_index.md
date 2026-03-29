@@ -42,11 +42,13 @@ Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the
 
 For committed cyclists, it's possible to bike-commute from Moraga to BART in Lafayette or Orinda.
 
-## Seasonal Note: Mid-March 2026
+## Seasonal Note: Late March into April
 
-**Daylight Saving Time is in effect** — those extra evening hours change everything. The Lafayette-Moraga Trail, nearly empty on dark winter evenings, is suddenly full of after-work joggers, dog walkers, and bike commuters. If you've been hibernating from outdoor commuting, now's the time to dust off the bike.
+**Peak trail season has arrived.** The Lafayette-Moraga Trail is busiest right now — after-work joggers, dog walkers, bike commuters, and weekend strollers all claiming their share of the path. The extended evening daylight makes 6pm feel like afternoon, and everyone's taking advantage.
 
-**BART parking tip:** With nicer weather and longer days, more people are commuting. Arrive before 8am for guaranteed parking at Lafayette or Orinda stations — or consider biking to the station via the trail system.
+**Watch for wildflowers** along trail shoulders and hillsides through mid-April. The green hills won't last much longer — by May they'll start their transition to golden brown.
+
+**BART parking tip:** Spring weather means more commuters. Arrive before 7:45am for guaranteed parking at Lafayette or Orinda stations, or bike to the station via the trail system. The ride's actually pleasant when it's not raining or dark.
 
 ## The Reality
 

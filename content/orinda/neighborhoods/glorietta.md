@@ -9,6 +9,8 @@ Glorietta is Orinda's most family-focused neighborhood — a flatland enclave wh
 
 Glorietta feels like a neighborhood, not just a collection of houses. The relatively flat terrain (rare in hilly Orinda) means kids can actually walk and bike to school safely. The community is engaged — you'll see parents at school events, neighbors chatting on evening walks, and a general sense that people chose this neighborhood deliberately.
 
+**Visiting in late March or April?** This is when Glorietta shines. Kids are out on bikes after school, yards are at their greenest, and you'll catch families walking to evening sports practices at the school fields. The flat streets fill with the kind of neighborhood activity that's hard to find elsewhere in Lamorinda.
+
 ## Typical Homes
 
 - **Style:** Mix of 1960s-70s ranch homes and newer construction
