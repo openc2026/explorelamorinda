@@ -65,6 +65,16 @@ Ivy Drive attracts people who want Orinda schools and community without Orinda d
 - **Variable lot sizes and views** — some gems, some ordinary
 - **Street parking can be tight** on narrower roads
 
+## Local Lore
+
+Ivy Drive developed during Orinda's post-WWII boom, when returning veterans and young families sought affordable homes in the East Bay hills. The neighborhood filled in during the 1950s and 60s, a generation after Orinda's earliest developments. While it lacked the ranch estates of Sleepy Hollow or the country club cachet of OCC, Ivy Drive offered something practical: solid homes at reasonable prices, close to the commercial center.
+
+The neighborhood's name is straightforward — the streets were named for plants and trees common in the area, a typical suburban convention of the era. What makes Ivy Drive distinctive today is precisely its ordinariness: no drama, no pretension, just generations of families quietly building lives. Many current residents are second- or third-generation Ivy Drive families who never saw a reason to leave.
+
+## Late March Tip
+
+Spring is a good time to scout Ivy Drive. The mature landscaping shows off — flowering cherry and plum trees along several streets, gardens coming to life, and that golden afternoon light filtering through the established tree canopy. If you're considering buying here, walking the neighborhood on a late-March evening gives you the truest sense of the vibe: neighbors out gardening, kids biking on quiet streets, the casual energy of a neighborhood that works.
+
 ---
 
 <div class="real-estate-cta-box">

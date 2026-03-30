@@ -44,15 +44,15 @@ The East Bay Regional Park District and local trail systems offer everything fro
 - **Summer concerts** at Moraga Commons
 - **Farmers markets** (seasonal, check locations)
 
-## Seasonal Note: Mid-March 2026
+## Seasonal Note: Late March 2026
 
-**Peak wildflower season is here.** The hills have turned their signature emerald green after winter rains, and wildflowers are hitting their stride. California poppies, lupine, and buttercups make the Lafayette-Moraga Trail and reservoir rim trails especially beautiful now through mid-April.
+**Wildflower peak.** This is the climax — California poppies are at their brightest orange, lupine carpets the hillsides in purple, and the green hills provide a perfect backdrop. The next two weeks are prime time before the blooms start to fade. Lafayette-Moraga Trail, the reservoir rim trails, and especially the ridge trails above the reservoir are showing off.
 
-**Daylight Saving Time is now in effect** — that extra hour of evening light makes after-work trail walks and bike rides possible again. The reservoir sees noticeably more weekday evening visitors from now through fall.
+**Evening magic.** Sunsets are now pushing past 7:30pm, which means after-work trail time is in full swing. The reservoir sees its biggest crowds of the year on nice evenings — arrive by 5pm if you want a parking spot for a golden-hour loop.
 
-**This week's tip:** The ridge trails above Lafayette Reservoir are showing orange waves of California poppies. Best viewing is mid-morning when the blooms are fully open. Bring sunscreen — the spring sun sneaks up on you.
+**This week's tip:** Monday March 30 through mid-April is the sweet spot for wildflowers before they fade. Mornings are still cool and perfect for hiking; afternoons warm into the mid-60s to low-70s. Bring layers — Lamorinda's microclimates mean you might shed a jacket mid-hike.
 
-**Spring has sprung:** The equinox passed March 20, and now days officially outpace nights. Sunsets push past 7:20pm and climbing. The golden-hour magic continues — consider a sunset walk at Lafayette Reservoir any evening this week. The reservoir's western trails face east toward the sunset reflections on the water. Spring air still holds that post-rain clarity that makes everything look crisp and vivid.
+**Looking ahead:** Easter is Sunday, April 5 — expect busier trails and parks that weekend. The Moraga Commons Easter egg hunt typically draws families; check local announcements. Early April also brings the transition from vivid green hills to the golden grasses that define California summer.
 
 ## The Lifestyle
 
