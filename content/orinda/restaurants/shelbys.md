@@ -38,6 +38,12 @@ White tablecloth territory for Orinda, but not stuffy. The menu blends Californi
 
 The staff knows the movie crowd. If you mention you have a 7pm show, they'll pace your meal accordingly. It's a well-practiced dance between kitchen and theatre that makes dinner-and-a-movie seamless.
 
+## Local Lore: Theatre Square's Anchor
+
+Shelby's occupies prime real estate in a complex with real history. Theatre Square exists because the community refused to let a landmark die. The Orinda Theatre opened on December 27, 1941 — built by Donald Rheem (the same Rheem whose name marks Moraga's Rheem Valley). By the 1980s, the Art Deco movie palace was slated for demolition. Local preservationists fought back, and when the theatre was saved in 1989, the retail and restaurant complex grew up around it.
+
+Shelby's has been part of this ecosystem for decades, serving as the go-to dinner spot for moviegoers. The restaurant and theatre have developed an unspoken rhythm — the kitchen knows when shows start, the servers pace courses accordingly, and regulars know to book a 5:30 reservation for a 7pm film. It's dinner-and-a-movie infrastructure, refined over years of practice.
+
 ## Good to Know
 
 - **Hours simplified**: Now open daily 11:30am-8pm (same hours every day)

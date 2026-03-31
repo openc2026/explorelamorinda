@@ -44,15 +44,17 @@ The East Bay Regional Park District and local trail systems offer everything fro
 - **Summer concerts** at Moraga Commons
 - **Farmers markets** (seasonal, check locations)
 
-## Seasonal Note: Late March 2026
+## Seasonal Note: Early April 2026
 
-**Wildflower peak.** This is the climax — California poppies are at their brightest orange, lupine carpets the hillsides in purple, and the green hills provide a perfect backdrop. The next two weeks are prime time before the blooms start to fade. Lafayette-Moraga Trail, the reservoir rim trails, and especially the ridge trails above the reservoir are showing off.
+**Wildflower season holds.** We're past peak but still gorgeous — California poppies remain vivid orange on the hillsides, lupine is fading but present, and the green hills are lush. The first two weeks of April offer prime trail conditions before blooms fully fade and grasses start their transition to gold.
 
-**Evening magic.** Sunsets are now pushing past 7:30pm, which means after-work trail time is in full swing. The reservoir sees its biggest crowds of the year on nice evenings — arrive by 5pm if you want a parking spot for a golden-hour loop.
+**Evening magic.** Sunsets push past 7:40pm now, stretching after-work trail time. The reservoir and Lafayette-Moraga Trail see their busiest crowds of the year on nice evenings — arrive by 5pm if you want a parking spot for a golden-hour loop.
 
-**This week's tip:** Monday March 30 through mid-April is the sweet spot for wildflowers before they fade. Mornings are still cool and perfect for hiking; afternoons warm into the mid-60s to low-70s. Bring layers — Lamorinda's microclimates mean you might shed a jacket mid-hike.
+**Easter weekend (April 5):** Expect busier trails and parks this Sunday. The Moraga Commons Easter egg hunt typically draws families; check local announcements. Plan for crowds at the reservoir and popular trailheads.
 
-**Looking ahead:** Easter is Sunday, April 5 — expect busier trails and parks that weekend. The Moraga Commons Easter egg hunt typically draws families; check local announcements. Early April also brings the transition from vivid green hills to the golden grasses that define California summer.
+**This week's tip:** Early April mornings are perfect — cool starts warming to mid-60s to low-70s by afternoon. Wildflowers are holding strong, but photograph them now; by mid-month they'll be fading. Bring layers — Lamorinda's microclimates can surprise you.
+
+**Looking ahead:** Mid-April marks the transition. The vivid green hills start turning golden, wildflowers fade, and California's dry season approaches. Enjoy the green while it lasts.
 
 ## The Lifestyle
 
