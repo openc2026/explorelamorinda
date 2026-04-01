@@ -34,9 +34,9 @@ The owners also run **The Forge Pizza Fire Truck** — a 1970 Ford fire truck co
 
 The Caldecott Tunnel is Lamorinda's gateway — four tubes (called "bores") carrying Highway 24 through the hills between Oakland and Orinda. For decades there were only three bores, creating legendary traffic bottlenecks. The fourth bore finally opened in 2013 after years of construction, adding much-needed capacity. The restaurant's name is a tribute to this local milestone — and a nod to the relief everyone felt when that fourth tube finally opened.
 
-## Seasonal Note: Late March
+## Seasonal Note: Early April 2026
 
-Spring has arrived and Theatre Square is coming alive. The patio at Fourth Bore is now prime real estate — warm afternoons, lingering sunsets, 28 beers on tap. Catch a Sunday ballgame on the TVs inside or grab a spot outside and people-watch the post-BART crowd. This is the stretch of year when Lamorinda remembers why it loves outdoor dining.
+Patio season is in full swing. Theatre Square is alive with evening energy — warm afternoons stretching past 7:30pm sunsets, 28 beers rotating on tap, and baseball season officially underway. Catch Giants or A's games on the TVs inside, or grab a spot on the patio for the golden-hour people-watching. This is peak outdoor dining weather in Lamorinda: perfect temperatures, lingering light, and the energy of a community shaking off winter.
 
 ## Good to Know
 
