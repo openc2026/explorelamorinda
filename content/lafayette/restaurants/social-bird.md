@@ -38,3 +38,7 @@ Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spo
 - Multiple patio options — request outdoor seating when booking
 - Lively atmosphere; not ideal for quiet conversations
 - **Spring evenings** are prime time for the patios — book ahead for outdoor seating
+
+## Early April 2026
+
+Patio season is in full swing. With sunsets past 7:40pm and temps in the mid-60s to low-70s, the outdoor seating is the place to be. The craft cocktail program shines this time of year — light, refreshing options pair perfectly with the longer evenings. Book outdoor seating in advance for weekend dinners; walk-ins have better luck on the patio Sunday through Thursday.

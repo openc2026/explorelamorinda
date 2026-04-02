@@ -40,7 +40,7 @@ Several picnic areas dot the shoreline, some with BBQ grills. Popular for birthd
 
 ## Seasonal Tips
 
-- **Post-Equinox (late March)**: Spring is officially here. Days are now longer than nights, with sunsets pushing past 7:20pm and climbing. The equinox energy carries forward — particularly soft evening light and clear air make this week ideal for a late-afternoon loop. The water reflects the surrounding hills beautifully, and the spring bloom is in full swing.
+- **Early April 2026**: Peak spring conditions. Sunsets now push past 7:40pm, giving you a full evening loop in golden light. The water reflects the lush green hills beautifully — this is the sweet spot before grasses start their transition to gold. Wildflowers (especially poppies on the ridge trails) are holding strong but photograph them now; by mid-month they'll be fading. Weekends are busy — arrive by 8:30am for parking.
 - **Mid-March through April**: Peak wildflower time. California poppies are blooming on the ridge trails (especially the Ohlone Point Trail), turning hillsides orange. The lupine and buttercups follow. Weekends get busy — arrive by 9am for parking.
 - **Late winter/early spring** (Feb-Apr): The hills turn emerald green after rains. One of the prettiest times to visit.
 - **Summer**: Arrive before 9am to beat the heat and the parking crunch.

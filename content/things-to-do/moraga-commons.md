@@ -38,7 +38,7 @@ Beyond concerts, the park hosts:
 
 ## Best Times to Visit
 
-- **March (especially around the 20th)**: The sweet spot. Hills are emerald green, the weather's warming up, but the summer crowds haven't arrived yet. The spring equinox brings equal day and night — and some of the year's best golden-hour light for a late-afternoon picnic. Great time to visit before summer concert crowds arrive.
+- **Early April 2026**: Prime time. Hills are still emerald green (enjoy it — they'll start turning gold by mid-month), weather is ideal (mid-60s to low-70s), and the summer concert crowds haven't arrived yet. With sunsets past 7:40pm, after-work picnics are perfect. Easter weekend (April 5) typically brings an egg hunt and family crowds — plan accordingly.
 - **Late winter/early spring** (Feb-Apr): The surrounding hills are at their greenest. Perfect for a picnic before summer crowds arrive.
 - **Summer Thursdays**: Concert nights — plan to arrive early for a good blanket spot. The Thursday concert series typically runs June through August.
 - **Year-round**: The playground doesn't have a season. Kids don't care about weather.
