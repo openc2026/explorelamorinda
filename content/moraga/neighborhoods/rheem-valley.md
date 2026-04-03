@@ -62,6 +62,12 @@ Rheem Valley attracts people who want Moraga without the Moraga premium. They ch
 
 There's less keeping-up-with-the-Joneses than prestigious neighborhoods. People are friendly, the community is engaged, and the focus is on practical quality of life.
 
+## Local Lore
+
+The neighborhood takes its name from **Donald Rheem**, whose family made their fortune in oil and steel (the Rheem Manufacturing Company, founded in 1925, still makes water heaters and HVAC equipment today). In the 1930s and 40s, Rheem developed much of this area, building the shopping center and movie theatre that still anchor the neighborhood.
+
+The **Rheem Theatre** opened in 1957 — a single-screen cinema that's somehow survived the multiplex era. Like the Orinda Theatre, it benefits from a community that values local character over corporate convenience. Together, these two historic theatres make Lamorinda one of the few places in the Bay Area where you can still catch a first-run movie in a classic mid-century cinema.
+
 ## Considerations
 
 - **Less prestigious** than Sanders Ranch or Campolindo

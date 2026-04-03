@@ -34,11 +34,11 @@ The Orinda Theatre opened on Christmas Day, 1941 — just weeks after Pearl Harb
 
 **2026 marks the theatre's 85th anniversary** — a remarkable run for any independent cinema, let alone one that's maintained its original character. Keep an eye out for anniversary events and classic film screenings throughout the year.
 
-## Spring Break & Late March
+## Early April & Easter Weekend
 
-Late March typically brings spring break to Bay Area schools — and the Orinda Theatre is a perfect rainy-day (or any-day) option for families looking to fill the week. Matinee screenings during break tend to be packed with local kids, giving the theatre that classic neighborhood cinema energy.
+With spring break behind us and school back in session, the Orinda Theatre returns to its regular rhythm — but Easter weekend (April 5-6) brings a brief surge of family activity. Expect Saturday matinees to fill up as families look for post-egg-hunt entertainment. The theatre's classic atmosphere makes even a routine movie feel like an event.
 
-Even without kids in tow, spring break week is a good time to catch an afternoon show: the evening crowds are lighter as families shift to earlier showtimes, leaving the late screenings quieter for date nights.
+**85th Anniversary Note:** 2026 marks the Orinda Theatre's 85th year. Throughout spring, keep an eye on their schedule for classic film screenings and special anniversary programming — a rare chance to see golden-age cinema in a golden-age theatre.
 
 ## Good to Know
 

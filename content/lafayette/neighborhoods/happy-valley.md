@@ -64,7 +64,7 @@ There's wealth here, but it's not showy. Range Rovers share driveways with muddy
 
 ## Best Time to Visit
 
-**Late March (now):** This is Happy Valley at its most stunning. The hills are emerald green, California poppies are starting to bloom, and the winding roads reveal views that explain why people pay a premium for this neighborhood. Drive Reliez Valley Road up through Happy Valley to Briones — you'll see what country-living-near-BART actually looks like.
+**Early April 2026:** Peak spring beauty. The hills are still lush green (enjoy it now — by late April they'll begin their transition to gold), California poppies are in full bloom along roadsides and hillsides, and the winding roads reveal views that explain why people pay a premium for this neighborhood. Drive Reliez Valley Road up through Happy Valley to Briones — you'll see what country-living-near-BART actually looks like. Morning light through the oaks is particularly magical this time of year.
 
 ## Considerations
 
