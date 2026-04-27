@@ -3,6 +3,8 @@ title: "Burton Valley"
 description: "Lafayette's family heartland — flat streets, excellent elementary school, and classic suburban living"
 ---
 
+![Charming suburban homes on tree-lined street](/images/neighborhood-suburban-homes.jpg)
+
 Burton Valley is where Lafayette families go. The flattest neighborhood in town, it offers what parents want: safe streets where kids can bike, an excellent elementary school, and a strong sense of community. It's the closest Lamorinda gets to traditional American suburbia — in the best sense.
 
 ## The Character

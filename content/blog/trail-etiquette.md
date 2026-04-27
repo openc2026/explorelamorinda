@@ -4,6 +4,8 @@ description: "Hikers, bikers, dog-walkers, and the delicate dance of right-of-wa
 date: 2026-02-25
 ---
 
+![Scenic hiking trail through nature](/images/nature-hiking-trail.jpg)
+
 Lamorinda has some spectacular trails. The Lafayette Reservoir loop. The Lafayette-Moraga Trail. Briones. Sibley. We're spoiled. We know this.
 
 But with great trails come great responsibility. And a surprising amount of passive-aggressive tension about who's supposed to move for whom.

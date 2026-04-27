@@ -3,6 +3,8 @@ title: "Happy Valley"
 description: "Lafayette's most prestigious neighborhood — secluded hillside living with estate-sized lots and privacy"
 ---
 
+![Beautiful suburban homes in peaceful neighborhood setting](/images/neighborhood-suburban-homes.jpg)
+
 Happy Valley is Lafayette's best-kept secret — a secluded hillside enclave where larger lots, winding roads, and natural beauty create a sense of being apart from it all. It's where Lafayette's most affluent families go when they want space, privacy, and the closest thing to country living within reach of BART.
 
 ## The Character

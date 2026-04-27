@@ -3,6 +3,8 @@ title: "Lafayette School District"
 description: "Complete guide to Lafayette School District: Burton Valley, Happy Valley, Lafayette, Springhill Elementary and Stanley Middle School. Rankings, programs, and what makes Lafayette schools exceptional."
 ---
 
+![Students engaged in collaborative classroom learning](/images/education-students-classroom.jpg)
+
 The **Lafayette School District (LAFSD)** serves the city of Lafayette with five schools — four elementary schools and one middle school — providing TK-8 education for approximately 3,200 students.
 
 Consistently rated **A+ by Niche** and recognized as a "destination district," Lafayette schools combine rigorous academics with strong community support to create an exceptional educational foundation.

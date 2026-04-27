@@ -4,6 +4,8 @@ description: "An investigation into why we'll circle for ten minutes to save a t
 date: 2026-01-22
 ---
 
+![Community shopping area with parking](/images/community-farmers-market.jpg)
+
 I watched a driver circle the Moraga Shopping Center parking lot four times last Tuesday. *Four times.* I know because I was sitting on the bench outside Safeway, drinking coffee and contemplating my life choices. By my calculation, she spent roughly eight minutes searching for a spot that would save her roughly 45 seconds of walking.
 
 This is not a critique. This is *anthropology*.

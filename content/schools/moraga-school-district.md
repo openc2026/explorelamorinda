@@ -3,6 +3,8 @@ title: "Moraga School District"
 description: "Complete guide to Moraga School District: Camino Pablo, Donald Rheem, Los Perales Elementary and Joaquin Moraga Intermediate. Rankings, programs, and what makes Moraga schools exceptional."
 ---
 
+![Diverse group of students in modern classroom](/images/education-students-classroom.jpg)
+
 The **Moraga School District (MSD)** serves the town of Moraga with four schools — three elementary schools and one intermediate school — providing K-8 education for approximately 1,800 students.
 
 Located in a close-knit community where "the majority of parents are highly educated professionals with high expectations," Moraga schools deliver exceptional academic outcomes in an intimate, supportive environment.

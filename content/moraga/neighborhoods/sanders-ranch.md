@@ -3,6 +3,8 @@ title: "Sanders Ranch"
 description: "Moraga's most prestigious neighborhood — gated enclave with custom homes, equestrian properties, and a private park"
 ---
 
+![Elegant modern home with beautiful exterior](/images/home-exterior-modern.jpg)
+
 Sanders Ranch is Moraga's crown jewel — a gated community of custom homes on large lots, backing up to open space and offering the kind of privacy and prestige you'd expect to pay Orinda prices for. It's where Moraga's most successful families go when they want space, security, and community.
 
 ## The Character

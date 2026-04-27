@@ -4,6 +4,8 @@ description: "From the laptop campers to the power-walkers, we're all just looki
 date: 2026-02-03
 ---
 
+![Perfect cappuccino with latte art](/images/coffee-cappuccino.jpg)
+
 Every coffee shop in Lamorinda hosts the same cast of characters. After extensive field research (sitting in coffee shops, drinking coffee), I present my findings.
 
 **The Laptop Camper**

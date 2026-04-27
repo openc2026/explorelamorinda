@@ -4,6 +4,8 @@ description: "A weekly production featuring organic produce, reusable bags, and 
 date: 2026-03-01
 ---
 
+![Vibrant farmers market with fresh produce](/images/community-farmers-market.jpg)
+
 Every Saturday morning, a performance takes place in downtown Lafayette. It runs from approximately 8 AM to 1 PM. Admission is free, though you'll likely spend $40-80 on produce you "didn't plan to buy."
 
 Welcome to the Farmers Market.

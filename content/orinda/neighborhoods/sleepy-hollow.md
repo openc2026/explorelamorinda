@@ -3,6 +3,8 @@ title: "Sleepy Hollow"
 description: "Orinda's most prestigious neighborhood — secluded valley, excellent school, swim & tennis club, and homes from $2M to $12M+"
 ---
 
+![Beautiful home exterior showcasing quality architecture](/images/home-exterior-modern.jpg)
+
 Sleepy Hollow is Orinda's crown jewel. Tucked into a secluded valley backed by Briones Regional Park, it combines privacy, prestige, and a tight-knit community centered on its legendary elementary school and swim & tennis club. Homes range from $2M to $12M+ — and they move fast.
 
 ## The Character

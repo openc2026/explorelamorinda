@@ -4,6 +4,8 @@ description: "Spoiler alert: there are no bad neighborhoods here. It's suspiciou
 date: 2026-03-14
 ---
 
+![Family enjoying outdoor activities together](/images/family-outdoor-activity.jpg)
+
 People moving to Lamorinda often ask: "Which neighborhoods are the most family-friendly?"
 
 It's a reasonable question. In most places, you need spreadsheets, crime maps, and school district boundary forensics to figure out where to raise kids. You make tradeoffs. You compromise.

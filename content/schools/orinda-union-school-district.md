@@ -3,6 +3,8 @@ title: "Orinda Union School District"
 description: "Complete guide to Orinda Union School District: Del Rey, Glorietta, Sleepy Hollow, Wagner Ranch Elementary and Orinda Intermediate. Rankings, programs, and what makes Orinda schools exceptional."
 ---
 
+![Happy students in bright classroom setting](/images/education-students-classroom.jpg)
+
 The **Orinda Union School District (OUSD)** serves the city of Orinda with five schools — four elementary schools and one intermediate school — providing K-8 education for approximately 2,500 students.
 
 With **87% of students meeting or exceeding standards** in both ELA and Math, Orinda schools consistently rank among California's best, attracting families willing to pay premium prices for access to exceptional public education.
