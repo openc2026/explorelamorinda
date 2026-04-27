@@ -3,7 +3,7 @@ title: "Downtown Lafayette"
 description: "The only truly walkable neighborhood in Lamorinda — restaurants, shops, and BART on foot"
 ---
 
-Downtown Lafayette is something rare in the East Bay hills: a walkable neighborhood. You can stroll to dinner, walk to BART, grab coffee without moving your car. For people who crave that urban convenience but want Lamorinda schools and safety, downtown is the answer.
+Downtown Lafayette is something rare in the East Bay hills: a genuinely walkable neighborhood. You can stroll to dinner, walk to BART, grab coffee without starting your car. For those who want urban convenience alongside Lamorinda's excellent schools and safe streets, downtown delivers both.
 
 ## The Character
 
@@ -22,9 +22,9 @@ Downtown housing is eclectic. You'll find historic cottages next to 1970s ranche
 
 ## Price Range
 
-**$1.2M – $2.5M** depending on type and condition
+**$1.3M – $2.6M** depending on type and condition
 
-Condos and smaller homes start around $1.2M. Well-located houses with yards range from $1.5M–$2.5M. True gems with historic character or prime positioning can push higher.
+Condos and smaller homes typically start around $1.3M. Well-located single-family homes with yards range from $1.6M–$2.6M. Properties with historic character, premium lots, or exceptional positioning can command higher prices.
 
 ## Who Lives Here
 

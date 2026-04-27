@@ -7,7 +7,7 @@ website: "https://www.postinorestaurant.com"
 hours: "Mon-Thu 11:30am-3pm & 4:30pm-8pm, Fri-Sun 11:30am-3pm & 4:30pm-8:30pm"
 price: "$$$"
 tags: ["italian", "california-cuisine", "fine-dining", "date-night", "downtown", "lunch", "dinner"]
-lastVerified: "2026-03-25"
+lastVerified: "2026-04-27"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -31,9 +31,9 @@ Both indoor and outdoor patio seating are available, with the patio being partic
 
 A more recent addition, lunch service offers a lighter take on the dinner menu — perfect for a civilized midday meal in downtown Lafayette. Same quality, slightly quicker pace.
 
-## Late March Tip
+## The Patio Experience
 
-The patio at Postino is at its best right now. Late March brings those perfect California afternoons — warm but not hot, golden light filtering through, and the downtown Lafayette sidewalk scene coming alive after winter's quieter months. Request outdoor seating when you book. For lunch especially, the patio transforms a nice meal into a memorable one.
+Postino's outdoor patio is one of downtown Lafayette's gems — especially during spring and early fall when the weather is perfect for al fresco dining. The golden afternoon light filtering through creates an ideal setting for a leisurely lunch or romantic dinner. Request outdoor seating when you book if weather permits.
 
 ## Good to Know
 

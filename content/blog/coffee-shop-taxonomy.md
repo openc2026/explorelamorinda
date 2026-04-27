@@ -8,7 +8,7 @@ Every coffee shop in Lamorinda hosts the same cast of characters. After extensiv
 
 **The Laptop Camper**
 
-Arrives at 8:07 AM. Orders one medium drip. Sets up what can only be described as a mobile command center: laptop, external mouse, phone on stand, AirPods, and a notepad they will never write in. Will not leave until 2:30 PM. Tips well, which is why they're tolerated.
+Arrives at 8:07 AM. Orders one medium drip. Sets up what can only be described as a mobile command center: laptop, external mouse, phone on stand, AirPods, and a notepad they will never write in. Will not leave until 2:30 PM. Tips well, which is the only reason they're tolerated. Has been on the same Zoom call for forty minutes.
 
 *Habitat:* Any table near an outlet. Will guard that outlet with their life.
 
