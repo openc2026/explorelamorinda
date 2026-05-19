@@ -1,6 +1,7 @@
 ---
 title: "Orinda Neighborhoods"
 description: "A guide to Orinda's distinct neighborhoods — from family-friendly Glorietta to prestigious Sleepy Hollow"
+last_updated: 2026-05-19
 ---
 
 Orinda isn't one neighborhood — it's a collection of distinct communities, each with its own character. Whether you're looking for walkability to schools, a swim club lifestyle, or estate-level privacy, there's an Orinda neighborhood that fits.

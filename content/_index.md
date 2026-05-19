@@ -1,6 +1,7 @@
 ---
 title: "Explore Lamorinda"
 description: "Your complete guide to Lafayette, Moraga, and Orinda in California's East Bay"
+last_updated: 2026-05-19
 ---
 
 Lamorinda is a portmanteau of **La**fayette, **Mor**aga, and Or**inda** — three neighboring communities nestled in the hills east of the Caldecott Tunnel. Just 20 minutes from San Francisco and Oakland, these towns offer the rare combination of small-town charm with world-class access.

@@ -1,6 +1,7 @@
 ---
 title: "Lafayette Neighborhoods"
 description: "A guide to Lafayette's distinct neighborhoods — from flatland Burton Valley to hilltop Happy Valley"
+last_updated: 2026-05-19
 ---
 
 Lafayette offers the widest variety of neighborhoods in Lamorinda. From the walkable downtown core to secluded hilltop estates, there's a Lafayette that fits almost any lifestyle. The common thread? Great schools, easy BART access, and that elusive California mix of suburban comfort and natural beauty.

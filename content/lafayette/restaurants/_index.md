@@ -1,6 +1,7 @@
 ---
 title: "Lafayette Restaurants"
 description: "Restaurant Row and beyond — where to eat in Lafayette"
+last_updated: 2026-05-19
 ---
 
 ![Downtown Lafayette dining](/images/new_downtown.png)

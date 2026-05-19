@@ -1,0 +1,27 @@
+vlatka:
+  name: "Vlatka Bathgate"
+  jobTitle: "Real Estate Agent"
+  worksFor: "Coldwell Banker Realty"
+  license: "DRE# 01390784"
+  description: "#1 Coldwell Banker Realtor in Orinda. Lamorinda specialist serving Lafayette, Moraga, and Orinda buyers and sellers."
+  email: "vlatka@bestlamorindahomes.com"
+  url: "/real-estate/"
+  image: "/images/vlatka.jpg"
+  sameAs:
+    - "https://www.zillow.com/profile/vlatka-bathgate/"
+    - "https://www.yelp.com/biz/vlatka-bathgate-coldwell-banker-orinda"
+    - "https://www.coldwellbankerhomes.com/ca/orinda/agent/vlatka-bathgate/"
+    - "https://www.linkedin.com/in/vlatkabathgate/"
+  knowsAbout:
+    - "Lamorinda Real Estate"
+    - "Lafayette Real Estate"
+    - "Moraga Real Estate"
+    - "Orinda Real Estate"
+    - "Bay Area Relocation"
+
+explore-lamorinda:
+  name: "Explore Lamorinda"
+  description: "Independent local guide to Lafayette, Moraga, and Orinda in California's East Bay."
+  url: "/"
+  email: "vlatka@bestlamorindahomes.com"
+  sameAs: []

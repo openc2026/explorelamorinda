@@ -1,6 +1,7 @@
 ---
 title: "Lamorinda Schools Guide"
 description: "Complete guide to public and private schools in Lafayette, Moraga, and Orinda. Award-winning districts, school boundaries, rankings, and what makes Lamorinda education exceptional."
+last_updated: 2026-05-19
 ---
 
 Schools are the #1 reason families move to Lamorinda. And for good reason — the districts serving Lafayette, Moraga, and Orinda consistently rank among California's best, with test scores, graduation rates, and college placement that rival elite private schools.

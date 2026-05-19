@@ -1,6 +1,7 @@
 ---
 title: "Moraga Restaurants"
 description: "Where to eat in Moraga — from longtime local favorites to neighborhood gems"
+last_updated: 2026-05-19
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)

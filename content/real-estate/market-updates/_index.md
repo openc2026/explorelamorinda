@@ -1,6 +1,7 @@
 ---
 title: "Lamorinda Market Updates"
 description: "Monthly real estate market analysis for Lafayette, Moraga, and Orinda"
+last_updated: 2026-05-19
 ---
 
 Stay informed about the Lamorinda real estate market with our monthly updates. We track median prices, days on market, inventory levels, and emerging trends across Lafayette, Moraga, and Orinda.

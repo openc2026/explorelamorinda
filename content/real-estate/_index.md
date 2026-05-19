@@ -1,6 +1,7 @@
 ---
 title: "Real Estate"
 description: "Buying or selling in Lamorinda — what you need to know"
+last_updated: 2026-05-19
 ---
 
 <div class="real-estate-cta-box">

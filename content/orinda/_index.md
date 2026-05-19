@@ -1,6 +1,7 @@
 ---
 title: "Orinda"
 description: "Theatre Square, BART access, and classic California hillside living"
+last_updated: 2026-05-19
 ---
 
 ![Downtown Orinda](/images/Orinda_Downtown.jpg)

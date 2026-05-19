@@ -1,6 +1,7 @@
 ---
 title: "Moraga"
 description: "Quieter, greener, and home to Saint Mary's College"
+last_updated: 2026-05-19
 ---
 
 ![Moraga Way flowers](/images/Moraga_MoragaWayFlowers.jpg)

@@ -1,0 +1,193 @@
+{{/* schema.html — emits JSON-LD blocks appropriate to the current page.
+     Always emits Organization + WebSite + BreadcrumbList.
+     Conditionally emits Place, Person, FAQPage, Article. */}}
+
+{{- $base := .Site.BaseURL | strings.TrimRight "/" -}}
+{{- $url  := printf "%s%s" $base .RelPermalink -}}
+{{- $orgUrl := printf "%s/" $base -}}
+{{- $logo := printf "%s/images/logo.png" $base -}}
+{{- $org := dict
+  "@context" "https://schema.org"
+  "@type" "Organization"
+  "name" .Site.Title
+  "url" $orgUrl
+  "logo" $logo
+  "description" .Site.Params.description
+  "sameAs" (slice
+    "https://www.facebook.com/explorelamorinda"
+    "https://www.instagram.com/explorelamorinda"
+  )
+-}}
+<script type="application/ld+json">{{ $org | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{- $website := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" .Site.Title
+  "url" $orgUrl
+  "description" .Site.Params.description
+  "potentialAction" (dict
+    "@type" "SearchAction"
+    "target" (dict
+      "@type" "EntryPoint"
+      "urlTemplate" (printf "%s/?s={search_term_string}" $base)
+    )
+    "query-input" "required name=search_term_string"
+  )
+-}}
+<script type="application/ld+json">{{ $website | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{/* ---------- BreadcrumbList ---------- */}}
+{{- $crumbs := slice -}}
+{{- $i := 1 -}}
+{{- $crumbs = $crumbs | append (dict
+    "@type" "ListItem"
+    "position" $i
+    "name" "Home"
+    "item" $orgUrl
+) -}}
+{{- range .Ancestors.Reverse -}}
+  {{- if ne .RelPermalink "/" -}}
+    {{- $i = add $i 1 -}}
+    {{- $crumbs = $crumbs | append (dict
+        "@type" "ListItem"
+        "position" $i
+        "name" (.Title | default .Section)
+        "item" (printf "%s%s" $base .RelPermalink)
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- if not .IsHome -}}
+  {{- $i = add $i 1 -}}
+  {{- $crumbs = $crumbs | append (dict
+      "@type" "ListItem"
+      "position" $i
+      "name" (.Title | default .Section)
+      "item" $url
+  ) -}}
+{{- end -}}
+{{- $breadcrumb := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" $crumbs
+-}}
+<script type="application/ld+json">{{ $breadcrumb | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{/* ---------- Place schema for town pages ---------- */}}
+{{- $townSlug := "" -}}
+{{- if eq .RelPermalink "/lafayette/" -}}{{- $townSlug = "lafayette" -}}{{- end -}}
+{{- if eq .RelPermalink "/moraga/"   -}}{{- $townSlug = "moraga"   -}}{{- end -}}
+{{- if eq .RelPermalink "/orinda/"   -}}{{- $townSlug = "orinda"   -}}{{- end -}}
+{{- with (index .Site.Data.towns $townSlug) -}}
+  {{- $place := dict
+    "@context" "https://schema.org"
+    "@type" "Place"
+    "name" .name
+    "url" (printf "%s%s" $base .url)
+    "description" .description
+    "geo" (dict
+      "@type" "GeoCoordinates"
+      "latitude" .lat
+      "longitude" .lng
+    )
+    "address" (dict
+      "@type" "PostalAddress"
+      "addressLocality" .name
+      "addressRegion" "CA"
+      "postalCode" .zip
+      "addressCountry" "US"
+    )
+  -}}
+<script type="application/ld+json">{{ $place | jsonify (dict "indent" "  ") | safeJS }}</script>
+{{- end -}}
+
+{{/* ---------- Person schema on /real-estate/ pages ---------- */}}
+{{- if hasPrefix .RelPermalink "/real-estate" -}}
+  {{- with .Site.Data.authors.vlatka -}}
+    {{- $person := dict
+      "@context" "https://schema.org"
+      "@type" "Person"
+      "name" .name
+      "jobTitle" .jobTitle
+      "description" .description
+      "url" (printf "%s%s" $base .url)
+      "image" (printf "%s%s" $base .image)
+      "email" .email
+      "worksFor" (dict
+        "@type" "Organization"
+        "name" .worksFor
+      )
+      "identifier" .license
+      "knowsAbout" .knowsAbout
+      "sameAs" .sameAs
+      "areaServed" (slice
+        (dict "@type" "Place" "name" "Lafayette, CA")
+        (dict "@type" "Place" "name" "Moraga, CA")
+        (dict "@type" "Place" "name" "Orinda, CA")
+      )
+    -}}
+<script type="application/ld+json">{{ $person | jsonify (dict "indent" "  ") | safeJS }}</script>
+  {{- end -}}
+{{- end -}}
+
+{{/* ---------- FAQPage schema when frontmatter has `faq:` ---------- */}}
+{{- with .Params.faq -}}
+  {{- $items := slice -}}
+  {{- range . -}}
+    {{- $items = $items | append (dict
+        "@type" "Question"
+        "name" .q
+        "acceptedAnswer" (dict
+          "@type" "Answer"
+          "text" .a
+        )
+    ) -}}
+  {{- end -}}
+  {{- $faqpage := dict
+    "@context" "https://schema.org"
+    "@type" "FAQPage"
+    "mainEntity" $items
+  -}}
+<script type="application/ld+json">{{ $faqpage | jsonify (dict "indent" "  ") | safeJS }}</script>
+{{- end -}}
+
+{{/* ---------- Article schema for blog posts ---------- */}}
+{{- if and (eq .Section "blog") (not .IsNode) -}}
+  {{- $author := .Site.Data.authors.vlatka -}}
+  {{- with .Params.author -}}
+    {{- $maybe := index $.Site.Data.authors . -}}
+    {{- if $maybe -}}{{- $author = $maybe -}}{{- end -}}
+  {{- end -}}
+  {{- $datePub := .Date.Format "2006-01-02" -}}
+  {{- $dateMod := .Lastmod.Format "2006-01-02" -}}
+  {{- $img := $logo -}}
+  {{- with .Params.image -}}{{- $img = printf "%s%s" $base . -}}{{- end -}}
+  {{- $article := dict
+    "@context" "https://schema.org"
+    "@type" "Article"
+    "headline" .Title
+    "description" (.Description | default .Summary)
+    "datePublished" $datePub
+    "dateModified" $dateMod
+    "url" $url
+    "image" $img
+    "mainEntityOfPage" (dict
+      "@type" "WebPage"
+      "@id" $url
+    )
+    "author" (dict
+      "@type" "Person"
+      "name" $author.name
+      "url" (printf "%s%s" $base $author.url)
+    )
+    "publisher" (dict
+      "@type" "Organization"
+      "name" $.Site.Title
+      "logo" (dict
+        "@type" "ImageObject"
+        "url" $logo
+      )
+    )
+  -}}
+<script type="application/ld+json">{{ $article | jsonify (dict "indent" "  ") | safeJS }}</script>
+{{- end -}}

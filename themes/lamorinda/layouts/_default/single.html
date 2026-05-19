@@ -11,6 +11,9 @@
           {{ end }}
           <h1>{{ .Title }}</h1>
           {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+          {{ with .Params.last_updated }}
+          <p class="last-updated"><small>Last updated: <time datetime="{{ . }}">{{ dateFormat "January 2, 2006" . }}</time></small></p>
+          {{ end }}
         </header>
         
         <div class="page-content">

@@ -1,6 +1,7 @@
 ---
 title: "Getting Around"
 description: "BART, trails, driving, and navigating Lamorinda"
+last_updated: 2026-05-19
 ---
 
 ![Lamorinda panoramic view](/images/new_panoramic2.png)

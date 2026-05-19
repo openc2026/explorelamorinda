@@ -1,6 +1,7 @@
 ---
 title: "Things to Do"
 description: "Parks, trails, entertainment, and recreation in Lamorinda"
+last_updated: 2026-05-19
 ---
 
 ![Lamorinda trails](/images/new_trails.png)

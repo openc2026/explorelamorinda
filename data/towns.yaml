@@ -1,0 +1,38 @@
+lafayette:
+  name: "Lafayette"
+  state: "California"
+  county: "Contra Costa County"
+  lat: 37.8858
+  lng: -122.1180
+  population: 26000
+  zip: "94549"
+  founded: 1848
+  incorporated: 1968
+  description: "Lafayette, California is the commercial heart of Lamorinda, featuring a walkable downtown along Mt. Diablo Boulevard, top-rated schools, the Lafayette Reservoir, and direct BART access to San Francisco."
+  url: "/lafayette/"
+
+moraga:
+  name: "Moraga"
+  state: "California"
+  county: "Contra Costa County"
+  lat: 37.8349
+  lng: -122.1297
+  population: 16900
+  zip: "94556"
+  founded: 1835
+  incorporated: 1974
+  description: "Moraga, California is a quiet, family-oriented town in Lamorinda known for Saint Mary's College, the Lafayette-Moraga Regional Trail, top-ranked Moraga School District, and abundant open space."
+  url: "/moraga/"
+
+orinda:
+  name: "Orinda"
+  state: "California"
+  county: "Contra Costa County"
+  lat: 37.8771
+  lng: -122.1797
+  population: 19500
+  zip: "94563"
+  founded: 1880
+  incorporated: 1985
+  description: "Orinda, California is the gateway to Lamorinda just east of the Caldecott Tunnel, offering the Orinda Theatre, BART access, the Cal Shakes outdoor amphitheater, and the highly-ranked Orinda Union School District."
+  url: "/orinda/"

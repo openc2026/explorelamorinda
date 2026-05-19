@@ -1,6 +1,7 @@
 ---
 title: "Orinda Restaurants"
 description: "Where to eat in Orinda — Theatre Square dining and a legendary roadhouse"
+last_updated: 2026-05-19
 ---
 
 ![Theatre Square Orinda](/images/Orinda_TheaterSquare.jpg)

@@ -1,6 +1,7 @@
 ---
 title: "Moraga Neighborhoods"
 description: "A guide to Moraga's distinct neighborhoods — from prestigious Sanders Ranch to family-friendly Campolindo"
+last_updated: 2026-05-19
 ---
 
 Moraga's neighborhoods share a common thread: more space, more green, more quiet than the rest of Lamorinda. This is where you go when you want room to breathe. Each neighborhood has its own character, from the country club lifestyle to the academic community around Saint Mary's.

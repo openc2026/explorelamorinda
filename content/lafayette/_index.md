@@ -1,6 +1,7 @@
 ---
 title: "Lafayette"
 description: "Downtown dining, the reservoir, and small-town charm with easy BART access"
+last_updated: 2026-05-19
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
