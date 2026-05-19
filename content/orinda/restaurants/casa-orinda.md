@@ -7,7 +7,7 @@ website: "https://casaorindarestaurant.com"
 hours: "Wed-Thu 4pm-9pm, Fri-Sat 4pm-10pm, Sun 4pm-9pm, Closed Mon-Tue"
 price: "$$"
 tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-night"]
-lastVerified: "2026-03-13"
+lastVerified: "2026-05-19"
 ---
 
 ![Orinda Theatre](/images/new_theater.png)
@@ -41,6 +41,10 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 ## Sunday Suppers
 
 Sunday evenings at Casa Orinda (4pm-9pm) have a special energy. The weekday rush is absent, the bar is convivial but not packed, and the fried chicken tastes even better when you're not watching the clock. It's a quieter, more leisurely experience than Friday or Saturday — locals know this is when Casa feels most like the family roadhouse it's always been.
+
+## Late Spring Tip
+
+Mid-May through June is one of the best windows to visit. The dining room feels especially right when the evenings stretch long and warm — you can leave at 8pm and still have golden light for the drive home through the hills. Bryant Way is a couple of minutes from Theatre Square, so it pairs naturally with an early showing at the Orinda Theatre. Wednesday and Thursday remain the easier nights to walk in without a reservation.
 
 ## Local Lore
 

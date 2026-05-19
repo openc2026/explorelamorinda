@@ -11,9 +11,9 @@ Moraga Commons is the town's gathering place. With a bandshell, playground, picn
 
 ## Summer Concert Series
 
-The park's bandshell comes alive during summer with free outdoor concerts, organized by the **Moraga Park Foundation**. Shows run **Thursday evenings from 6:30 to 8:30pm** throughout the summer months. Families spread blankets on the lawn, kids run around, and the community gathers for music under the evening sky. Food trucks roll in for the occasion — grab dinner and stay for the show.
+The park's bandshell comes alive during summer with free outdoor concerts, organized by the **Moraga Park Foundation**. Shows run **Thursday evenings from 6:30 to 8:30pm**, June through August. The **2026 season includes 11 concerts** — a Valley tradition now in its 42nd year. Tribute bands are the usual lineup (think Sun Kings, Purple Ones, Fleetwood Mask), and families spread blankets on the lawn while kids run around. Food trucks and a beer/wine booth (run by Moraga Rotary and Kiwanis) round out the evening.
 
-It's small-town America in the best way, and arguably the most "Moraga" thing you can do in Moraga.
+It's small-town America in the best way, and arguably the most "Moraga" thing you can do in Moraga. Parking at the Commons fills up fast on concert nights — many regulars walk in from nearby neighborhoods or bike in via the Lafayette-Moraga Trail.
 
 ## For Kids
 
@@ -38,9 +38,9 @@ Beyond concerts, the park hosts:
 
 ## Best Times to Visit
 
-- **Early April 2026**: Prime time. Hills are still emerald green (enjoy it — they'll start turning gold by mid-month), weather is ideal (mid-60s to low-70s), and the summer concert crowds haven't arrived yet. With sunsets past 7:40pm, after-work picnics are perfect. Easter weekend (April 5) typically brings an egg hunt and family crowds — plan accordingly.
+- **Mid-May 2026**: The calm-before-summer window. Hills around the park have shifted to that classic California two-tone — half green, half gold — and the weather hits the sweet spot (low-70s, dry, breezy). The summer concert series doesn't start until June, so the bandshell lawn is wide open for impromptu picnics and frisbee. With sunsets past 8pm, after-dinner playground runs are easy. Memorial Day weekend brings the first big family crowds of the season.
+- **Summer Thursdays** (June-Aug): Concert nights. Plan to arrive by 5:30pm for a good blanket spot. The 2026 series runs Thursday evenings 6:30-8:30pm.
 - **Late winter/early spring** (Feb-Apr): The surrounding hills are at their greenest. Perfect for a picnic before summer crowds arrive.
-- **Summer Thursdays**: Concert nights — plan to arrive early for a good blanket spot. The Thursday concert series typically runs June through August.
 - **Year-round**: The playground doesn't have a season. Kids don't care about weather.
 
 ## Good to Know
