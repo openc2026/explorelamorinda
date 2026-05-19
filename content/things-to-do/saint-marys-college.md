@@ -4,6 +4,7 @@ description: "Beautiful campus open to visitors — chapel, grounds, and college
 address: "1928 Saint Mary's Road, Moraga, CA 94575"
 website: "https://www.stmarys-ca.edu"
 tags: ["campus", "architecture", "moraga", "sports", "walking"]
+last_updated: 2026-05-19
 ---
 
 ![Saint Mary's College](/images/Moraga_StMarysCollege.jpg)
@@ -34,10 +35,11 @@ Saint Mary's competes in Division I athletics (West Coast Conference). Basketbal
 
 ## Best Times to Visit
 
-- **Early April 2026**: Post-March Madness, campus settles into a quieter rhythm — but this is arguably its most beautiful moment. The palm-lined walkways glow in spring light, the surrounding hills are still emerald green (they'll transition to gold by late April), and California poppies dot the slopes near the athletic fields. Temperatures hover in the comfortable mid-60s. Come on a weekday afternoon for contemplative wandering; the students are in class and you'll have the grounds nearly to yourself.
-- **March-April**: Spring brings blooming flowers and lush green hills surrounding campus. The combination of California poppies, Spanish architecture, and palm trees is peak California beauty.
-- **Summer**: Campus is quieter with students away — ideal for peaceful wandering.
-- **Basketball season** (Nov-March): Catch a Gaels game for local atmosphere.
+- **Mid-May 2026 (Commencement Week)**: The campus is at its most alive this week. The Class of 2026 graduates across two ceremonies — Graduate & Professional Studies on **Thursday, May 21 at 6 p.m.**, and **Undergraduate Commencement on Friday, May 22 at 11 a.m.** Both will be live-streamed and recorded. If you're visiting campus during these days, expect significant traffic around Saint Mary's Road, full visitor lots, and ceremonial road closures near the main quad. If you're not attending a ceremony, this is **not** the week for a quiet wander — try the following weekend instead.
+- **Late May to Mid-August**: Once commencement wraps, campus enters its quietest stretch of the year. The hills are transitioning from green to their classic California gold, the palm-lined walkways glow in the long evening light (sunset is past 8:20 p.m. by late May), and you'll often have the main quad nearly to yourself. Weekday mornings are sublime. Bring a coffee; sit on the chapel steps; nobody will bother you.
+- **September–October**: Students return, campus energy rebuilds, and the weather is consistently in the 70s with crisp mornings. Football and soccer seasons get going.
+- **Basketball Season (November–March)**: Catch a Gaels game at McKeon Pavilion for local atmosphere. Men's basketball draws the biggest crowds, especially when the West Coast Conference rival Gonzaga rolls through.
+- **March–April**: Spring brings blooming flowers and lush green hills surrounding campus. The combination of California poppies, Spanish architecture, and palm trees is peak California beauty.
 
 ## Local Lore
 
