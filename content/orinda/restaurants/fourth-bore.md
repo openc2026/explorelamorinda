@@ -7,7 +7,7 @@ website: "https://thefourthbore.com"
 hours: "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 11am-9pm"
 price: "$$"
 tags: ["craft-beer", "american", "sports-bar", "theatre-square", "casual", "live-music"]
-lastVerified: "2026-03-15"
+lastVerified: "2026-05-20"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)
@@ -34,9 +34,9 @@ The owners also run **The Forge Pizza Fire Truck** — a 1970 Ford fire truck co
 
 The Caldecott Tunnel is Lamorinda's gateway — four tubes (called "bores") carrying Highway 24 through the hills between Oakland and Orinda. For decades there were only three bores, creating legendary traffic bottlenecks. The fourth bore finally opened in 2013 after years of construction, adding much-needed capacity. The restaurant's name is a tribute to this local milestone — and a nod to the relief everyone felt when that fourth tube finally opened.
 
-## Seasonal Note: Early April 2026
+## Seasonal Note: Memorial Day Weekend 2026
 
-Patio season is in full swing. Theatre Square is alive with evening energy — warm afternoons stretching past 7:30pm sunsets, 28 beers rotating on tap, and baseball season officially underway. Catch Giants or A's games on the TVs inside, or grab a spot on the patio for the golden-hour people-watching. This is peak outdoor dining weather in Lamorinda: perfect temperatures, lingering light, and the energy of a community shaking off winter.
+With Memorial Day weekend (May 23–25) ushering in the unofficial start of summer, Theatre Square hits its stride. Sunsets now stretch past 8:15pm, afternoons settle in the upper 70s, and the patio holds its warmth well into evening. Giants and A's interleague play is in full swing on the TVs inside, and 28 rotating taps give plenty of reason to linger. The Friday-Saturday after-movie crowd from the Orinda Theatre next door starts building around 9pm — get there earlier if you want a relaxed patio table. If you're walking the long way home, the Caldecott bores (the actual fourth bore included) hum steadily in the distance: a fitting soundtrack for the tap room named after them.
 
 ## Good to Know
 

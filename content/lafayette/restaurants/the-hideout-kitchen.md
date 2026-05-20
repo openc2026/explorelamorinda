@@ -7,7 +7,7 @@ website: "https://www.hideoutkitchen.com"
 hours: "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "california-cuisine", "brunch", "downtown", "popular", "date-night"]
-lastVerified: "2026-03-25"
+lastVerified: "2026-05-20"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -28,9 +28,9 @@ The menu is seasonal Californian comfort cuisine — familiar flavors executed w
 
 Located in Lafayette Circle, the restaurant occupies a prime spot in downtown Lafayette's walkable core. Indoor and outdoor seating available. The atmosphere strikes that sweet spot between upscale and approachable — nice enough for a celebration, relaxed enough for a Tuesday dinner.
 
-## Spring Tip
+## Late-Spring Tip: Memorial Day Weekend 2026
 
-Late March is prime patio season at The Hideout. The weather is warm enough to sit outside but not yet hot, and Lafayette's spring light hits the circle beautifully in the afternoon. If you're planning a weekend brunch, book early in the week — good weather weekends fill up fast, and the outdoor tables go first.
+Memorial Day weekend (May 23–25) is the first true summer-crowd weekend at The Hideout. Afternoons in the upper 70s, sunsets past 8:15pm, and the Lafayette Circle patio holds its warmth almost all the way to closing. Brunch outside on Saturday or Sunday is the obvious play, but those circle-facing tables turn fastest between 10:30am and 12:30pm — book by Tuesday or Wednesday, or aim for the post-1pm wave. If it's just drinks, daily Happy Hour (3–5pm) catches the best of the afternoon light before the dinner crowd resets the room.
 
 ## Good to Know
 

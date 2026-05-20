@@ -7,6 +7,7 @@ website: "https://batchandbrine.com"
 hours: "Mon-Tue 11:30am-8pm, Wed-Fri 11:30am-9pm, Sat 10am-9pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "global", "burgers", "brunch", "craft-cocktails", "downtown"]
+lastVerified: "2026-05-20"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -32,9 +33,9 @@ Monday through Friday, 2:30pm–5:30pm.
 
 Don't sleep on the bar program. The craft cocktails here are thoughtful and well-executed — not an afterthought to the food menu. Ask the bartender for recommendations based on your taste; they know their spirits.
 
-## Seasonal Note: Early April 2026
+## Seasonal Note: Memorial Day Weekend 2026
 
-Prime patio season. The outdoor seating at Batch & Brine is at its best right now — sunsets pushing past 7:30pm, temperatures in the comfortable mid-60s to low-70s, and the downtown Lafayette bustle building as locals emerge from winter hibernation. Grab a Saturday brunch table outside or slide into happy hour on a weeknight and watch the golden light play off Mt. Diablo Blvd. This is the stretch of year when global comfort food and craft cocktails taste best.
+Memorial Day weekend (May 23–25) is the patio's first big test of the season — sunsets past 8:15pm, temperatures running upper 70s by mid-afternoon, and downtown Lafayette buzzing as the long-weekend crowd takes over Mt. Diablo Blvd. Saturday brunch outside is the move; tables turn fast between 10:30am and 1pm, so either go early or aim for the post-1pm lull. For a quieter angle on the same patio energy, weekday Happy Hour (Mon-Fri 2:30–5:30pm) still has plenty of golden light and far fewer elbows. This is the stretch where the global comfort menu and craft cocktail program really earn their keep.
 
 ## Good to Know
 
