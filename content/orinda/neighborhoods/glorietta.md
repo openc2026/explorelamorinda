@@ -1,6 +1,14 @@
 ---
 title: "Glorietta"
 description: "Family-friendly neighborhood in Orinda with walkable streets, top-rated elementary, and engaged community"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Glorietta located within Orinda?"
+    a: "Glorietta is one of Orinda's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Glorietta?"
+    a: "Most Glorietta addresses feed into the Orinda K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Glorietta?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Glorietta micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 Glorietta is Orinda's most family-focused neighborhood — a flatland enclave where kids still ride bikes to school, neighbors know each other, and the elementary school anchors community life. If you're looking for the classic California suburban experience with Orinda's excellent schools, Glorietta delivers.

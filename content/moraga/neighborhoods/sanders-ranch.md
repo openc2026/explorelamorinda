@@ -1,6 +1,14 @@
 ---
 title: "Sanders Ranch"
 description: "Moraga's most prestigious neighborhood — gated enclave with custom homes, equestrian properties, and a private park"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Sanders Ranch located within Moraga?"
+    a: "Sanders Ranch is one of Moraga's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Sanders Ranch?"
+    a: "Most Sanders Ranch addresses feed into the Moraga K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Sanders Ranch?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Sanders Ranch micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 ![Elegant modern home with beautiful exterior](/images/home-exterior-modern.jpg)

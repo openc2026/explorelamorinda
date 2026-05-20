@@ -1,6 +1,14 @@
 ---
 title: "Trail Neighborhood & Reliez Valley"
 description: "Connected community along the Lafayette-Moraga Trail — active lifestyle, diverse housing, and outdoor access"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Trail Neighborhood & Reliez Valley located within Lafayette?"
+    a: "Trail Neighborhood & Reliez Valley is one of Lafayette's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Trail Neighborhood & Reliez Valley?"
+    a: "Most Trail Neighborhood & Reliez Valley addresses feed into the Lafayette K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Trail Neighborhood & Reliez Valley?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Trail Neighborhood & Reliez Valley micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 The Trail Neighborhood and Reliez Valley share a defining feature: the Lafayette-Moraga Regional Trail runs right through them. This paved multi-use path creates something rare in Lamorinda — a linear community where neighbors meet on foot and bike, not just in cars. If outdoor access and an active lifestyle matter to you, this is your neighborhood.

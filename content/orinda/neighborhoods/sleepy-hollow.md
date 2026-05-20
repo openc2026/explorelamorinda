@@ -1,6 +1,14 @@
 ---
 title: "Sleepy Hollow"
 description: "Orinda's most prestigious neighborhood — secluded valley, excellent school, swim & tennis club, and homes from $2M to $12M+"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Sleepy Hollow located within Orinda?"
+    a: "Sleepy Hollow is one of Orinda's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Sleepy Hollow?"
+    a: "Most Sleepy Hollow addresses feed into the Orinda K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Sleepy Hollow?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Sleepy Hollow micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 ![Beautiful home exterior showcasing quality architecture](/images/home-exterior-modern.jpg)

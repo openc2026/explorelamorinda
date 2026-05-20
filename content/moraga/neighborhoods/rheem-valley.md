@@ -1,6 +1,14 @@
 ---
 title: "Rheem Valley"
 description: "Convenient Moraga location near shopping and schools — diverse housing with easy access to daily life"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Rheem Valley located within Moraga?"
+    a: "Rheem Valley is one of Moraga's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Rheem Valley?"
+    a: "Most Rheem Valley addresses feed into the Moraga K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Rheem Valley?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Rheem Valley micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 Rheem Valley is Moraga's most convenient neighborhood — centered around Rheem Shopping Center and close to schools, parks, and services. It's where you go when you want Moraga's excellent schools and green setting without the isolation of hillside neighborhoods.

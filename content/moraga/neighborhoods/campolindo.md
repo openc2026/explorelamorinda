@@ -1,6 +1,14 @@
 ---
 title: "Campolindo"
 description: "Family-focused Moraga neighborhood with excellent schools, engaged community, and accessible pricing"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Campolindo located within Moraga?"
+    a: "Campolindo is one of Moraga's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Campolindo?"
+    a: "Most Campolindo addresses feed into the Moraga K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Campolindo?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Campolindo micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 Campolindo is Moraga's family heartland — the neighborhood that grew up around the high school and became synonymous with Moraga's excellent education. If you're moving to Moraga for the schools (and most people are), Campolindo puts you at the center of that community.

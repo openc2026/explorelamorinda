@@ -1,0 +1,49 @@
+# "Lamorinda vs <place>" comparison entries. One per generated page at
+# content/compare/lamorinda-vs-<slug>/_index.md. Verdicts are intentionally
+# even-handed; we are not bashing the other place.
+
+comparisons:
+  - slug: walnut-creek
+    name: "Walnut Creek"
+    short_name: "Walnut Creek"
+    schools: "Walnut Creek splits between Mt. Diablo Unified (elementary/middle) and Acalanes Union (high), with quality varying by neighborhood. Lamorinda flows entirely into the Acalanes Union High School District plus three tightly run K-8 districts that consistently rank in California's top tier."
+    prices: "Median single-family prices are broadly comparable, but Lamorinda's premium goes into lot size and school-district reputation; Walnut Creek offers far more condo and townhome inventory and easier new-construction options."
+    vibe: "Walnut Creek has a real downtown with department stores, multiplex cinemas, and nightlife. Lamorinda has three smaller downtowns (Lafayette being the largest) and a quieter, more residential feel."
+    commute: "Both are BART-served on the Yellow Line. Walnut Creek is one stop further from San Francisco, but its station has substantially more parking and dedicated bus connections."
+    verdict: "Choose Walnut Creek if you want a denser downtown, more retail, and more housing-type variety. Choose Lamorinda if school district uniformity, larger lots, and a quieter feel are priorities."
+
+  - slug: danville
+    name: "Danville"
+    short_name: "Danville"
+    schools: "Danville is in the San Ramon Valley Unified School District — also top-ranked statewide. Educational outcomes are broadly comparable to Lamorinda's, with Lamorinda's K-8 districts being smaller and more village-scale."
+    prices: "Comparable medians, with Danville offering more newer construction and master-planned subdivisions and Lamorinda offering more 1950s–1980s housing on larger varied lots."
+    vibe: "Danville feels distinctly newer and more uniform — large planned communities, wide boulevards, and a hotter inland climate. Lamorinda's three towns each have older, more idiosyncratic character."
+    commute: "Danville is not directly BART-served; the closest stations are Walnut Creek or Dublin/Pleasanton. Lamorinda's Lafayette and Orinda stations are inside the towns themselves."
+    verdict: "Choose Danville for newer homes, planned-community amenities, and South Bay-adjacent commutes. Choose Lamorinda for direct BART access, older neighborhood character, and a cooler climate."
+
+  - slug: piedmont
+    name: "Piedmont"
+    short_name: "Piedmont"
+    schools: "Piedmont Unified School District is small, well-funded, and consistently top-ranked. Lamorinda's Acalanes Union (high school) plus its three K-8 districts perform comparably and serve a much larger student body across three towns."
+    prices: "Piedmont's premium is among the steepest in the East Bay; Lamorinda generally offers more square footage and larger lots at similar or lower prices."
+    vibe: "Piedmont is a single small city surrounded by Oakland, with a more uniform, established feel and a famously tight community. Lamorinda spreads three distinct towns across rolling hills and is less insular."
+    commute: "Piedmont sits closer to downtown Oakland and San Francisco bridges. Lamorinda residents typically take BART; Piedmont residents drive."
+    verdict: "Choose Piedmont if proximity to Oakland and a single-city school experience matter most. Choose Lamorinda for BART access, larger lots, and three distinct town personalities."
+
+  - slug: berkeley
+    name: "Berkeley"
+    short_name: "Berkeley"
+    schools: "Berkeley Unified varies by school site and admissions zone. Lamorinda's Acalanes Union and its K-8 districts deliver more uniform top-tier outcomes."
+    prices: "Comparable medians for comparable square footage, but Lamorinda's larger lots typically come with more privacy and outdoor space."
+    vibe: "Berkeley is denser, more diverse, and more politically active — a college town atmosphere. Lamorinda is quieter, more residential, and more family-focused."
+    commute: "Berkeley has multiple BART stations and direct AC Transit service to San Francisco. Lamorinda has BART at Lafayette and Orinda and a single bus connection."
+    verdict: "Choose Berkeley for urban energy, university culture, and walkable density. Choose Lamorinda for top-ranked schools, larger homes, and a quieter residential rhythm."
+
+  - slug: san-ramon
+    name: "San Ramon"
+    short_name: "San Ramon"
+    schools: "San Ramon is in the same San Ramon Valley Unified School District as Danville — top-ranked statewide. Lamorinda's Acalanes Union plus K-8 districts perform comparably."
+    prices: "San Ramon often comes in slightly lower than Lamorinda for comparable square footage, with newer construction widely available — especially in the Dougherty Valley and Bishop Ranch areas."
+    vibe: "San Ramon is a newer, more master-planned suburb with a stronger employer base (Chevron, GE Digital, and the Bishop Ranch office park). Lamorinda is older, more residential, and built around BART rather than office parks."
+    commute: "San Ramon has no BART station; the closest options are Dublin/Pleasanton or Walnut Creek. Lamorinda residents board BART inside their own towns."
+    verdict: "Choose San Ramon for newer homes, in-town employers, and master-planned amenities. Choose Lamorinda for BART access, older neighborhood character, and three distinct town options."

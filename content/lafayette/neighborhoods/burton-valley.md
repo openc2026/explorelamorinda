@@ -1,6 +1,14 @@
 ---
 title: "Burton Valley"
 description: "Lafayette's family heartland — flat streets, excellent elementary school, and classic suburban living"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Burton Valley located within Lafayette?"
+    a: "Burton Valley is one of Lafayette's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Burton Valley?"
+    a: "Most Burton Valley addresses feed into the Lafayette K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Burton Valley?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Burton Valley micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 ![Charming suburban homes on tree-lined street](/images/neighborhood-suburban-homes.jpg)

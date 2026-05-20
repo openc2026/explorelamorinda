@@ -1,6 +1,14 @@
 ---
 title: "Ivy Drive"
 description: "Established Orinda neighborhood with BART proximity, mature landscaping, and a mix of original and updated homes"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Ivy Drive located within Orinda?"
+    a: "Ivy Drive is one of Orinda's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Ivy Drive?"
+    a: "Most Ivy Drive addresses feed into the Orinda K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Ivy Drive?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Ivy Drive micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 Ivy Drive is Orinda's quiet achiever — an established neighborhood close to downtown and BART, with mature trees, winding streets, and a mix of original mid-century homes alongside thoughtful renovations. It's where practicality meets Orinda charm.

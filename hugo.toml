@@ -29,6 +29,10 @@ theme = 'lamorinda'
     url = "/getting-around/"
     weight = 4
   [[menu.main]]
+    name = "Neighborhoods"
+    url = "/neighborhoods/"
+    weight = 4.5
+  [[menu.main]]
     name = "Things to Do"
     url = "/things-to-do/"
     weight = 5

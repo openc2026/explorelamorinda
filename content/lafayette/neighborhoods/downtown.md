@@ -1,6 +1,14 @@
 ---
 title: "Downtown Lafayette"
 description: "The only truly walkable neighborhood in Lamorinda — restaurants, shops, and BART on foot"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Downtown Lafayette located within Lafayette?"
+    a: "Downtown Lafayette is one of Lafayette's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Downtown Lafayette?"
+    a: "Most Downtown Lafayette addresses feed into the Lafayette K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Downtown Lafayette?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Downtown Lafayette micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 Downtown Lafayette is something rare in the East Bay hills: a genuinely walkable neighborhood. You can stroll to dinner, walk to BART, grab coffee without starting your car. For those who want urban convenience alongside Lamorinda's excellent schools and safe streets, downtown delivers both.

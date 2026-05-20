@@ -1,0 +1,137 @@
+# Lamorinda neighborhood manifest.
+# Each entry mirrors a published page under /<town>/neighborhoods/<slug>/.
+# Used by schema, list partials, and Day-2 internal-linking. Add new entries
+# here AND create the matching content file under content/<town>/neighborhoods/.
+
+neighborhoods:
+  - slug: downtown
+    town: lafayette
+    name: "Downtown Lafayette"
+    url: "/lafayette/neighborhoods/downtown/"
+    blurb: "The only truly walkable neighborhood in Lamorinda — restaurants, shops, and BART on foot."
+    vibe: "Walkable urban village"
+    price_band: "$1.3M–$2.6M"
+    schools: "Lafayette or Burton Valley Elementary → Stanley Middle → Acalanes High"
+    walkability: "Highest in Lamorinda"
+    image: "/images/new_downtown.png"
+
+  - slug: burton-valley
+    town: lafayette
+    name: "Burton Valley"
+    url: "/lafayette/neighborhoods/burton-valley/"
+    blurb: "Lafayette's family heartland — flat streets, excellent elementary school, and classic suburban living."
+    vibe: "Family-first suburban"
+    price_band: "$1.5M–$3M"
+    schools: "Burton Valley Elementary → Stanley Middle → Acalanes High"
+    walkability: "High (flat, sidewalks)"
+    image: "/images/neighborhood-suburban-homes.jpg"
+
+  - slug: happy-valley
+    town: lafayette
+    name: "Happy Valley"
+    url: "/lafayette/neighborhoods/happy-valley/"
+    blurb: "Quiet, secluded, and prestigious — larger lots, hillside settings, and a sense of being apart from it all."
+    vibe: "Prestigious hillside estates"
+    price_band: "$2M–$5M+"
+    schools: "Happy Valley Elementary → Stanley Middle → Acalanes High"
+    walkability: "Low (hills, no sidewalks)"
+    image: "/images/new_home1.png"
+
+  - slug: trail-reliez-valley
+    town: lafayette
+    name: "Trail / Reliez Valley"
+    url: "/lafayette/neighborhoods/trail-reliez-valley/"
+    blurb: "Where the Lafayette-Moraga Trail brings community together. Diverse housing, connected feel, outdoor access at your doorstep."
+    vibe: "Active, trail-connected"
+    price_band: "$1.3M–$2.5M"
+    schools: "Springhill or Lafayette Elementary → Stanley Middle → Acalanes High"
+    walkability: "Moderate (trail spine)"
+    image: "/images/new_home2.png"
+
+  - slug: campolindo
+    town: moraga
+    name: "Campolindo"
+    url: "/moraga/neighborhoods/campolindo/"
+    blurb: "Family-focused Moraga neighborhood anchored by top-ranked Campolindo High."
+    vibe: "Athletic, school-centered"
+    price_band: "$1.6M–$3.2M"
+    schools: "Camino Pablo or Donald Rheem Elementary → Joaquin Moraga Intermediate → Campolindo High"
+    walkability: "Moderate"
+    image: "/images/new_home1.png"
+
+  - slug: moraga-country-club
+    town: moraga
+    name: "Moraga Country Club"
+    url: "/moraga/neighborhoods/moraga-country-club/"
+    blurb: "Gated community built around a golf course — low-maintenance living with resort amenities."
+    vibe: "Gated, country-club lifestyle"
+    price_band: "$1.4M–$3M"
+    schools: "Camino Pablo Elementary → Joaquin Moraga Intermediate → Campolindo High"
+    walkability: "Internal (golf cart paths)"
+    image: "/images/new_home2.png"
+
+  - slug: rheem-valley
+    town: moraga
+    name: "Rheem Valley"
+    url: "/moraga/neighborhoods/rheem-valley/"
+    blurb: "Moraga's commercial heart — close to the Rheem shopping center, schools, and the Lafayette-Moraga Trail."
+    vibe: "Convenient, mid-town Moraga"
+    price_band: "$1.4M–$2.6M"
+    schools: "Donald Rheem Elementary → Joaquin Moraga Intermediate → Campolindo High"
+    walkability: "High by Lamorinda standards"
+    image: "/images/new_home1.png"
+
+  - slug: sanders-ranch
+    town: moraga
+    name: "Sanders Ranch"
+    url: "/moraga/neighborhoods/sanders-ranch/"
+    blurb: "Newer Moraga subdivision tucked against open space — larger lots, modern homes, semi-rural feel."
+    vibe: "Newer construction, semi-rural"
+    price_band: "$1.8M–$3.5M"
+    schools: "Los Perales Elementary → Joaquin Moraga Intermediate → Campolindo High"
+    walkability: "Low (rural-edge)"
+    image: "/images/new_home2.png"
+
+  - slug: glorietta
+    town: orinda
+    name: "Glorietta"
+    url: "/orinda/neighborhoods/glorietta/"
+    blurb: "South Orinda neighborhood with its own elementary school, swim club, and tight-knit community feel."
+    vibe: "Family, swim-club community"
+    price_band: "$1.8M–$3.5M"
+    schools: "Glorietta Elementary → Orinda Intermediate → Miramonte High"
+    walkability: "Moderate"
+    image: "/images/new_home1.png"
+
+  - slug: ivy-drive
+    town: orinda
+    name: "Ivy Drive"
+    url: "/orinda/neighborhoods/ivy-drive/"
+    blurb: "Walkable Orinda — close to downtown, BART, and the Orinda Country Club, with quiet residential streets."
+    vibe: "Walkable, near-downtown"
+    price_band: "$1.7M–$3.2M"
+    schools: "Wagner Ranch or Sleepy Hollow Elementary → Orinda Intermediate → Miramonte High"
+    walkability: "High (near downtown Orinda)"
+    image: "/images/new_home2.png"
+
+  - slug: orinda-country-club
+    town: orinda
+    name: "Orinda Country Club"
+    url: "/orinda/neighborhoods/orinda-country-club/"
+    blurb: "Historic Orinda neighborhood around the country club — classic estates and golf-course living."
+    vibe: "Historic, country-club estates"
+    price_band: "$2M–$5M+"
+    schools: "Wagner Ranch Elementary → Orinda Intermediate → Miramonte High"
+    walkability: "Low (hilly, golf course)"
+    image: "/images/new_home1.png"
+
+  - slug: sleepy-hollow
+    town: orinda
+    name: "Sleepy Hollow"
+    url: "/orinda/neighborhoods/sleepy-hollow/"
+    blurb: "North Orinda's wooded enclave — winding lanes, mature trees, and a strong neighborhood association."
+    vibe: "Wooded, established estates"
+    price_band: "$2M–$4.5M"
+    schools: "Sleepy Hollow Elementary → Orinda Intermediate → Miramonte High"
+    walkability: "Low (wooded hills)"
+    image: "/images/new_home2.png"

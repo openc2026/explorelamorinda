@@ -2,6 +2,7 @@
 title: "Moving to Lamorinda: The Complete Relocation Guide"
 description: "Everything you need to know about relocating to Lafayette, Moraga, and Orinda. Schools, commute times, home prices, and why families love living here."
 image: "/images/new_home1.png"
+last_updated: 2026-05-20
 keywords: ["moving to Lamorinda", "relocating to Orinda", "Lafayette CA relocation", "Moraga California homes", "Lamorinda real estate", "East Bay suburbs", "best places to live Bay Area"]
 ---
 

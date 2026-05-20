@@ -1,0 +1,92 @@
+# Origin-city data for "Moving from <city> to Lamorinda" pages.
+# One entry per origin -> one generated page at content/moving-to-lamorinda/from-<slug>/_index.md.
+# Keep fields factual and conservative; we link out to existing town/school/real-estate pages.
+
+cities:
+  - slug: san-francisco
+    name: "San Francisco"
+    short_name: "SF"
+    commute_notes: "BART from Lafayette or Orinda stations is the dominant commute path — about 30 minutes to Embarcadero, 35–40 to Montgomery. Driving via the Bay Bridge takes 30–60 minutes off-peak and can stretch past 75 minutes in rush hour."
+    lifestyle_contrast: "Trades dense walkable neighborhoods for hill-and-valley suburbia, but keeps a one-seat transit ride to downtown. Most ex-San Franciscans cite schools, square footage, and outdoor space as the move's payoff."
+    price_contrast: "Lamorinda single-family medians sit in the $1.5M–$3M+ range, comparable to mid-tier SF neighborhoods, but you get 2–3× the square footage and a yard. Property taxes in Contra Costa County are roughly 1.1–1.25% of assessed value."
+    top_3_differences:
+      - "Yards, garages, and home offices replace tiny urban floor plans."
+      - "Public-school quality jumps materially — the Acalanes Union High School District is among California's top-ranked."
+      - "Car ownership becomes the default again, even with BART; expect 1–2 cars per household."
+
+  - slug: oakland
+    name: "Oakland"
+    short_name: "Oakland"
+    commute_notes: "Caldecott Tunnel drops you in Oakland in 15–20 minutes off-peak. BART connects Lafayette and Orinda stations to downtown Oakland in about 18 minutes."
+    lifestyle_contrast: "The closest comparable East Bay foothill experience — but quieter streets, larger lots, and a more single-family-home-dominated housing stock. You keep Bay Area food access; you lose some urban density and diversity."
+    price_contrast: "Comparable to mid-tier Oakland Hills neighborhoods, but with consistently top-tier schools and lower crime statistics. Property taxes remain about 1.1–1.25% of assessed value."
+    top_3_differences:
+      - "Lamorinda schools are uniformly top-rated; Oakland's vary widely by district."
+      - "Fire-zone awareness matters here — many properties are in CAL FIRE-mapped wildfire zones."
+      - "Less restaurant density, but the Caldecott Tunnel keeps Oakland's food scene 15 minutes away."
+
+  - slug: berkeley
+    name: "Berkeley"
+    short_name: "Berkeley"
+    commute_notes: "20–25 minutes by car through the Caldecott Tunnel; BART connects Berkeley to Lafayette/Orinda with a transfer at MacArthur (about 30 minutes door-to-door)."
+    lifestyle_contrast: "Berkeley's politics, density, and street life give way to quieter, hillier suburbs. Outdoor culture stays similar — trails, regional parks, and the Lafayette-Moraga Trail."
+    price_contrast: "Lamorinda prices generally exceed comparable Berkeley homes for similar square footage, with the offset being larger lots and uniformly stronger public schools."
+    top_3_differences:
+      - "Public schools are a step up versus most Berkeley Unified options."
+      - "Less walkability outside downtown Lafayette and downtown Orinda."
+      - "More uniform politics and demographics than Berkeley's neighborhood-by-neighborhood mix."
+
+  - slug: walnut-creek
+    name: "Walnut Creek"
+    short_name: "Walnut Creek"
+    commute_notes: "A 10–15 minute drive over a single ridgeline, or one BART stop. Many Lamorinda residents use Walnut Creek's broader retail base for everyday shopping."
+    lifestyle_contrast: "Trades a denser downtown core and big-box retail for smaller, more residential towns and stronger school districts."
+    price_contrast: "Roughly comparable medians, but Lamorinda's premium goes into school district reputation and lot sizes; Walnut Creek offers more new-construction condos and apartments."
+    top_3_differences:
+      - "Schools — Acalanes Union High School District consistently outranks Mt. Diablo Unified."
+      - "Quieter feel — Lamorinda lacks Walnut Creek's downtown density."
+      - "Easier hill-and-trail access from Lamorinda's residential streets."
+
+  - slug: piedmont
+    name: "Piedmont"
+    short_name: "Piedmont"
+    commute_notes: "Piedmont sits inside Oakland; the commute to Lamorinda is the Caldecott Tunnel, about 15–25 minutes."
+    lifestyle_contrast: "Piedmont families often move to Lamorinda for more land per dollar while keeping a comparable schools-first culture."
+    price_contrast: "Lamorinda generally offers more square footage and lot size at similar or lower price points than Piedmont's premium blocks."
+    top_3_differences:
+      - "Larger lots and more usable outdoor space."
+      - "BART access from your own town instead of driving to Rockridge or MacArthur."
+      - "Three distinct towns to choose from, each with its own school district feeder pattern."
+
+  - slug: mill-valley
+    name: "Mill Valley"
+    short_name: "Mill Valley / Marin"
+    commute_notes: "There is no direct transit; the drive is 45–75 minutes via the Richmond-San Rafael Bridge or through San Francisco. Most Marin-to-Lamorinda movers are coming for a job change or schools, not a commute."
+    lifestyle_contrast: "Both are wooded, family-focused, school-strong suburbs. Lamorinda has BART; Marin does not. Marin has the ocean; Lamorinda has the Caldecott."
+    price_contrast: "Comparable price bands, with Lamorinda usually offering slightly more house for the money and easier access to East Bay and San Francisco employers."
+    top_3_differences:
+      - "BART access from Lafayette and Orinda — a genuine commute alternative."
+      - "Closer to East Bay tech and biotech employers."
+      - "Hotter, drier summers than Marin's coastal climate."
+
+  - slug: san-jose
+    name: "San Jose"
+    short_name: "San Jose"
+    commute_notes: "South Bay commutes are tough — 60–90 minutes by car, longer in rush hour. BART now reaches Berryessa/North San Jose, but it's still a 90-minute door-to-door trip from Lamorinda."
+    lifestyle_contrast: "Trades sprawling, sunbelt-style suburbs for compact East Bay foothill towns. Climate is cooler; lot sizes can be similar."
+    price_contrast: "Median prices are broadly comparable to higher-end West Valley San Jose neighborhoods, with Lamorinda offering older housing stock and stronger top-of-district school rankings."
+    top_3_differences:
+      - "Commute reality — if your job is in the South Bay, this is a hard move."
+      - "Smaller, more cohesive school districts than San Jose Unified."
+      - "More established neighborhoods; less new construction."
+
+  - slug: pleasanton
+    name: "Pleasanton"
+    short_name: "Pleasanton"
+    commute_notes: "About 25–35 minutes by car via Highway 24 and I-680. BART connects Pleasanton/Dublin to the Lamorinda stations with a transfer at Bay Fair (about 45 minutes)."
+    lifestyle_contrast: "Pleasanton trades hot inland-valley summers and grid-style subdivisions for cooler, hillier, more wooded towns and older housing stock."
+    price_contrast: "Lamorinda generally commands a premium versus Pleasanton for similar square footage, with the offset being smaller, more established neighborhoods and a different school-district landscape."
+    top_3_differences:
+      - "Cooler microclimate — Lamorinda summers run 5–15°F cooler than Pleasanton."
+      - "Older, more varied housing stock versus Pleasanton's planned communities."
+      - "BART-served towns versus a Pleasanton commute that still leans car-first."

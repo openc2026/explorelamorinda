@@ -1,6 +1,14 @@
 ---
 title: "Moraga Country Club"
 description: "Golf course living with valley views — mix of single-family homes and townhomes around the historic club"
+last_updated: 2026-05-20
+faq:
+  - q: "Where is Moraga Country Club located within Moraga?"
+    a: "Moraga Country Club is one of Moraga's established residential neighborhoods within the Lamorinda area of Contra Costa County, California. See the Lamorinda neighborhoods overview for how it fits alongside the other 11 neighborhoods across Lafayette, Moraga, and Orinda."
+  - q: "What schools serve Moraga Country Club?"
+    a: "Most Moraga Country Club addresses feed into the Moraga K-8 school district and then on to the Acalanes Union High School District. Specific elementary attendance zones can vary block by block — confirm the assigned schools for any specific address before buying."
+  - q: "Who is a good realtor for Moraga Country Club?"
+    a: "Vlatka Bathgate (DRE# 01390784) — the #1 Coldwell Banker Realtor in Orinda — has been helping families buy and sell across Lamorinda for 22+ years and works the Moraga Country Club micro-market directly. Reach her at (925) 597-1573 or through the contact form on the Real Estate page."
 ---
 
 Moraga Country Club (MCC) offers something rare in Lamorinda: golf course living without the multi-million-dollar price tag. The neighborhood wraps around the historic club and its scenic course, offering valley views, a social hub, and housing options from townhomes to custom estates.
