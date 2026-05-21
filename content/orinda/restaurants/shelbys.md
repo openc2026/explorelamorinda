@@ -7,7 +7,7 @@ website: "https://www.shelbyseatbetter.com"
 hours: "Daily 11:30am-8pm"
 price: "$$$"
 tags: ["california-cuisine", "upscale", "theatre-square", "date-night", "continental", "lunch", "dinner"]
-lastVerified: "2026-03-14"
+lastVerified: "2026-05-21"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)
@@ -43,6 +43,10 @@ The staff knows the movie crowd. If you mention you have a 7pm show, they'll pac
 Shelby's occupies prime real estate in a complex with real history. Theatre Square exists because the community refused to let a landmark die. The Orinda Theatre opened on December 27, 1941 — built by Donald Rheem (the same Rheem whose name marks Moraga's Rheem Valley). By the 1980s, the Art Deco movie palace was slated for demolition. Local preservationists fought back, and when the theatre was saved in 1989, the retail and restaurant complex grew up around it.
 
 Shelby's has been part of this ecosystem for decades, serving as the go-to dinner spot for moviegoers. The restaurant and theatre have developed an unspoken rhythm — the kitchen knows when shows start, the servers pace courses accordingly, and regulars know to book a 5:30 reservation for a 7pm film. It's dinner-and-a-movie infrastructure, refined over years of practice.
+
+## Late-Spring Tip: Memorial Day Weekend 2026
+
+The long evenings work in Shelby's favor right now. With sunset past 8:20pm and upper-70s afternoons through Memorial Day weekend (May 23–25), the early-dinner-then-movie rhythm shifts later — a 6pm table still leaves the dining room sunlit, and there's a real golden-hour window in Theatre Square between dinner and an 8:15pm Orinda Theatre showing. If you're pairing dinner with a film, a 5:30 or 6pm reservation now works for anything starting after 8pm. For pure dinner without the movie, weeknight Tuesday or Wednesday is the quietest window before the summer crowd settles in.
 
 ## Good to Know
 

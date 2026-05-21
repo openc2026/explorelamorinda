@@ -4,7 +4,7 @@ description: "Beautiful campus open to visitors — chapel, grounds, and college
 address: "1928 Saint Mary's Road, Moraga, CA 94575"
 website: "https://www.stmarys-ca.edu"
 tags: ["campus", "architecture", "moraga", "sports", "walking"]
-last_updated: 2026-05-19
+last_updated: 2026-05-21
 ---
 
 ![Saint Mary's College](/images/Moraga_StMarysCollege.jpg)
@@ -35,9 +35,10 @@ Saint Mary's competes in Division I athletics (West Coast Conference). Basketbal
 
 ## Best Times to Visit
 
-- **Mid-May 2026 (Commencement Week)**: The campus is at its most alive this week. The Class of 2026 graduates across two ceremonies — Graduate & Professional Studies on **Thursday, May 21 at 6 p.m.**, and **Undergraduate Commencement on Friday, May 22 at 11 a.m.** Both will be live-streamed and recorded. If you're visiting campus during these days, expect significant traffic around Saint Mary's Road, full visitor lots, and ceremonial road closures near the main quad. If you're not attending a ceremony, this is **not** the week for a quiet wander — try the following weekend instead.
-- **Late May to Mid-August**: Once commencement wraps, campus enters its quietest stretch of the year. The hills are transitioning from green to their classic California gold, the palm-lined walkways glow in the long evening light (sunset is past 8:20 p.m. by late May), and you'll often have the main quad nearly to yourself. Weekday mornings are sublime. Bring a coffee; sit on the chapel steps; nobody will bother you.
-- **September–October**: Students return, campus energy rebuilds, and the weather is consistently in the 70s with crisp mornings. Football and soccer seasons get going.
+- **This Week — May 21–22, 2026 (Commencement Days)**: The Class of 2026 graduates today and tomorrow — Graduate & Professional Studies tonight (**Thursday, May 21 at 6 p.m.**) and Undergraduate Commencement (**Friday, May 22 at 11 a.m.**). Both ceremonies are live-streamed and recorded. Expect heavy traffic on Saint Mary's Road, full visitor lots, and temporary road closures around the main quad through Friday afternoon. If you're not attending a ceremony, hold off until the weekend.
+- **Memorial Day Weekend (May 23–25) and Beyond — Post-Commencement Quiet**: Once the caps and gowns clear out Friday, campus enters its quietest and arguably most beautiful stretch of the year. The hills are mid-transition from green to their classic California gold, the palm-lined walkways glow in the long evening light (sunset is past 8:20 p.m. now), and you'll often have the main quad nearly to yourself. Memorial Day weekend is the first real taste of summer-quiet — weekday and weekend mornings both work. Bring a coffee; sit on the chapel steps; nobody will bother you. This window holds through mid-August.
+- **Mid-August Reset**: The summer hush breaks when new students arrive for orientation. If you want the contemplative version of campus, mid-August is your last reliable window.
+- **September–October**: Students return in full, campus energy rebuilds, and the weather is consistently in the 70s with crisp mornings. Football and soccer seasons get going.
 - **Basketball Season (November–March)**: Catch a Gaels game at McKeon Pavilion for local atmosphere. Men's basketball draws the biggest crowds, especially when the West Coast Conference rival Gonzaga rolls through.
 - **March–April**: Spring brings blooming flowers and lush green hills surrounding campus. The combination of California poppies, Spanish architecture, and palm trees is peak California beauty.
 
