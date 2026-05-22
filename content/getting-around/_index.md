@@ -1,7 +1,7 @@
 ---
 title: "Getting Around"
-description: "BART, trails, driving, and navigating Lamorinda"
-last_updated: 2026-05-19
+description: "BART, trails, driving, and navigating Lamorinda — including Caldecott Tunnel patterns, BART parking, and the Lafayette-Moraga Trail."
+last_updated: 2026-05-22
 ---
 
 ![Lamorinda panoramic view](/images/new_panoramic2.png)
@@ -43,15 +43,17 @@ Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the
 
 For committed cyclists, it's possible to bike-commute from Moraga to BART in Lafayette or Orinda.
 
-## Seasonal Note: Early April 2026
+## Seasonal Note: Memorial Day Weekend 2026 (Late May)
 
-**Peak trail season continues.** The Lafayette-Moraga Trail remains the busiest corridor in Lamorinda — joggers, dog walkers, bike commuters, and evening strollers sharing the path. With sunset pushing past 7:40pm, after-work trail time is in full swing and the 6pm crowd rivals weekends.
+**Holiday weekend traffic patterns.** Friday afternoon (May 22) westbound 24 will be lighter than usual — commuters left town early. Eastbound 24 toward Walnut Creek, I-680, and the I-80 connector to Tahoe will be heavy from about 2pm onward and peak between 4–7pm. If you're heading north or east this weekend, leaving before noon Friday or after 9pm Friday are the two viable windows. (See: [The Friday Before Memorial Day](/blog/memorial-day-friday-exodus/).)
 
-**Wildflowers along the trail** are holding into early April — California poppies and lupine still brighten the hillside sections. By mid-month, expect the blooms to fade and grasses to start their transition to California gold.
+**BART parking is unusually easy.** With many regular commuters out of town and no Friday commute crush, both Lafayette and Orinda BART lots have abundant midday availability through Tuesday. Worth knowing if you're heading into SF for the long weekend. Normal weekday parking pressure resumes Wednesday, May 27.
 
-**Easter weekend (April 5):** Trail traffic will spike. Plan early-morning or off-peak visits to avoid the crowds, especially near the reservoir.
+**Saturday May 23 — St. Mary's College commencement.** Expect heavy traffic in and out of Moraga from roughly 9am–2pm. Moraga Road, St. Mary's Road, and Rheem Boulevard will be slow. Plan grocery runs and errands for Friday or early Saturday morning. The [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) is a faster way between the two towns on Saturday than any road.
 
-**BART parking tip:** Spring weather and nice commuting conditions mean fuller lots. Arrive before 7:45am for guaranteed parking at Lafayette or Orinda stations. Bike-to-BART is genuinely pleasant this time of year — dry trails, comfortable temperatures.
+**Trail conditions are peak.** The hills have started their gold-and-green transition. Wildflower season is winding down — late poppies and the last of the lupine still appearing on shaded sections. Sunset is just before 8:25pm, so after-work trail traffic runs heavy until almost 8pm. The Lafayette Reservoir Rim Trail is especially packed between 8–11am on Saturday and Sunday; aim for late afternoon (4–7pm) for the calmest loop.
+
+**Caldecott Tunnel — the long weekend pattern.** Friday evening and Monday evening eastbound (returning travelers) are the two pinch points. Westbound is generally smooth all weekend. Saturday and Sunday daytime traffic through the tunnel is the lightest it gets all year — a genuinely pleasant time to drive into Oakland or San Francisco.
 
 ## The Reality
 
