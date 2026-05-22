@@ -7,7 +7,7 @@ website: "https://www.chefchaorestaurant.com"
 hours: "Tue-Sat 11am-2pm & 4pm-9pm, Sun 3pm-9pm, Closed Mon"
 price: "$$"
 tags: ["chinese", "family-owned", "longtime-local", "rheem"]
-lastVerified: "2026-03-16"
+lastVerified: "2026-05-22"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -30,6 +30,12 @@ In a world of restaurant turnover, Chef Chao's longevity says everything. The fa
 ## Lunch Specials
 
 The weekday lunch specials are the local secret: appetizer, soup, rice, and a fortune cookie included. Quick, filling, and easy on the wallet. Perfect for the Rheem Center lunch crowd.
+
+**Sweet-spot timing:** Tuesday and Wednesday around 12:15pm is reliably the calmest lunch window — late enough to miss the noon rush, early enough to beat the school pickup loop that starts forming around 1pm. You'll usually get a table without a wait and food in under fifteen minutes.
+
+## Between Services
+
+Chef Chao closes 2pm-4pm between lunch and dinner — a Moraga rhythm that catches first-time visitors off guard. If you're driving in from out of town, plan for an 11:30am lunch or a 4:15pm early dinner; arriving at 3pm to a dark dining room is a small local rite of passage.
 
 ## Good to Know
 

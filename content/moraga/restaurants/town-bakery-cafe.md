@@ -4,10 +4,10 @@ description: "European-style bakery and neighborhood cafe in Rheem Center"
 address: "337 Rheem Blvd, Moraga, CA 94556"
 phone: "(925) 247-5965"
 website: "https://www.townbakerycafe.com"
-hours: "Tue-Sun 8am-3pm; Dinner Tue-Sat 4pm-7:30pm; Closed Monday"
+hours: "Tue-Sun 8am-3pm; Dinner Tue-Sat 4pm-7:50pm; Closed Monday"
 price: "$-$$"
 tags: ["bakery", "breakfast", "cafe", "dinner", "pastries", "rheem"]
-lastVerified: "2026-03-13"
+lastVerified: "2026-05-22"
 ---
 
 Town Bakery & Cafe is one of those neighborhood gems that makes you feel lucky to live nearby. Tucked into the Rheem Shopping Center, it's a European-style bakery by morning and a surprisingly good dinner spot by evening — run by owners who clearly care about every pastry that leaves the display case.
@@ -36,10 +36,11 @@ Small, bright, and unpretentious. Grab a pastry at the counter, find a seat, wav
 
 - **Closed Mondays** — Plan accordingly
 - **Afternoon break** — Closes 3–4pm between breakfast/lunch and dinner service
+- **Dinner runs until 7:50pm** (Tue-Sat), so this is an early-evening spot — not a late-night option
 - **Get there early** for the best pastry selection
 - Takeout-friendly for weekday mornings
 - The dinner salads are generous enough to split
-- **Pi Day tip:** Their tarts and Basque cheesecake make a worthy pie substitute on March 14th
+- **Early-summer tip:** The Basque cheesecake travels well — grab a slice and walk five minutes to the Rheem Center benches for an afternoon sit, or pair it with an iced coffee for a Lafayette Reservoir picnic stop
 
 ## The Verdict
 
