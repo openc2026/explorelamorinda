@@ -20,12 +20,17 @@ param(
   [switch]$AutoMerge
 )
 
-$ErrorActionPreference = "Stop"
+# Don't let PowerShell treat git/gh stderr progress as terminating errors.
+# We rely on $LASTEXITCODE only.
+$ErrorActionPreference = "Continue"
 
 function Invoke-Checked {
   param([string]$Cmd, [string[]]$CmdArgs)
-  & $Cmd @CmdArgs
-  if ($LASTEXITCODE -ne 0) { throw "$Cmd $($CmdArgs -join ' ') failed (exit $LASTEXITCODE)" }
+  & $Cmd @CmdArgs 2>&1 | ForEach-Object { Write-Host $_ }
+  if ($LASTEXITCODE -ne 0) {
+    Write-Host "FAIL: $Cmd $($CmdArgs -join ' ') exited $LASTEXITCODE"
+    exit $LASTEXITCODE
+  }
 }
 
 $DateTag = Get-Date -Format "yyyy-MM-dd"
@@ -77,7 +82,8 @@ if ($AutoMerge) {
 
 # return to master
 Invoke-Checked "git" @("checkout", $Base)
-& git pull --ff-only origin $Base 2>$null
+Invoke-Checked "git" @("pull", "--ff-only", "origin", $Base)
 
 Write-Host "DONE: $Subject"
 Write-Host "PR_URL=$prUrl"
+exit 0
