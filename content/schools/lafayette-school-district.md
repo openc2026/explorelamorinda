@@ -277,3 +277,7 @@ Lafayette, CA 94549
 - [Acalanes Union High School District](/schools/acalanes-union-high-school-district/) — High schools for Lafayette students
 - [Complete Lamorinda Schools Overview](/schools/)
 - [Raising Kids in Lamorinda](/raising-kids-in-lamorinda/) — Beyond schools: parks, activities, community
+
+**Towns Served:**
+- [Lafayette](/lafayette/) — The community this district serves
+- [Real Estate in Lafayette](/real-estate/) — Buying or selling in a Lafayette School District boundary

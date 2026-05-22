@@ -57,3 +57,12 @@ The next time you're coasting downhill toward Moraga Commons, remember: a centur
 - **Water fountains** at various points
 - **Shade is limited** â€” bring sun protection on hot days
 - Connects to **Briones to Mt. Diablo Trail** for longer adventures
+
+
+---
+
+## Explore More in Lamorinda
+
+- [Lafayette Guide](/lafayette/) — Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) — More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) — Buying or selling in Lafayette, Lafayette, Moraga, or Orinda

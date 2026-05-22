@@ -47,3 +47,12 @@ With spring break behind us and school back in session, the Orinda Theatre retur
 - **Smaller screens** than modern multiplexes, but the character is worth it
 - Check showtimes online â€” this is a neighborhood theatre, not a 24-hour operation
 - One of the few remaining single-screen-feeling experiences in the Bay Area
+
+
+---
+
+## Explore More in Lamorinda
+
+- [Orinda Guide](/orinda/) — Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) — More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) — Buying or selling in Orinda, Lafayette, Moraga, or Orinda

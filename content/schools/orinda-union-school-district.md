@@ -302,3 +302,7 @@ Orinda, CA 94563
 - [Acalanes Union High School District](/schools/acalanes-union-high-school-district/) — Miramonte High School details
 - [Complete Lamorinda Schools Overview](/schools/)
 - [Raising Kids in Lamorinda](/raising-kids-in-lamorinda/) — Beyond schools: parks, activities, community
+
+**Towns Served:**
+- [Orinda](/orinda/) — The community this district serves
+- [Real Estate in Orinda](/real-estate/) — Buying or selling in an Orinda Union School District boundary

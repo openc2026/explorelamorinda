@@ -28,6 +28,12 @@
       {{ end }}
     </div>
     {{ end }}
+
+    {{/* Day 4: Newsletter signup at bottom of town index pages */}}
+    {{ $rel := .RelPermalink }}
+    {{ if or (eq $rel "/lafayette/") (or (eq $rel "/moraga/") (eq $rel "/orinda/")) }}
+      {{ partial "newsletter-signup.html" . }}
+    {{ end }}
   </div>
 </article>
 {{ end }}

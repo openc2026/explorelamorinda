@@ -1,0 +1,72 @@
+{{/* Newsletter signup — FormSubmit.co (mirrors contact-form.html pattern). */}}
+{{/* Lightweight: name + email + interest. Used at bottom of blog posts and town index pages. */}}
+{{/* Called with the page context (.) directly. */}}
+
+{{ $rel := .RelPermalink }}
+{{ $source := "Newsletter Signup" }}
+{{ if eq .Kind "section" }}
+  {{ $source = printf "Town Page: %s" .Title }}
+{{ else if eq (.Section | default "") "blog" }}
+  {{ $source = printf "Blog Post: %s" .Title }}
+{{ end }}
+{{ $idSeed := $rel | anchorize }}
+
+<div class="newsletter-signup-wrapper" id="newsletter-signup">
+  <div class="newsletter-signup-header">
+    <h3>Get the Lamorinda Letter</h3>
+    <p>Monthly notes on the Lamorinda market, schools, events, and neighborhood news. No spam, unsubscribe anytime.</p>
+  </div>
+
+  <form action="https://formsubmit.co/vlatka@bestlamorindahomes.com" method="POST" class="newsletter-form">
+    <!-- CC additional recipients -->
+    <input type="hidden" name="_cc" value="vlatka.bathgate@camoves.com,openc2026@outlook.com">
+
+    <!-- Subject line for email -->
+    <input type="hidden" name="_subject" value="New Newsletter Signup — ExploreLamorinda.com">
+
+    <!-- Redirect after submission -->
+    <input type="hidden" name="_next" value="{{ .Site.BaseURL }}real-estate/thank-you/">
+
+    <!-- Disable captcha -->
+    <input type="hidden" name="_captcha" value="false">
+
+    <!-- Honeypot for spam protection -->
+    <input type="text" name="_honey" style="display:none">
+
+    <!-- Template for nicer emails -->
+    <input type="hidden" name="_template" value="table">
+
+    <!-- Track source -->
+    <input type="hidden" name="Source" value="{{ $source }}">
+
+    <div class="form-row">
+      <div class="form-group">
+        <label for="newsletter-name-{{ $idSeed }}">Name</label>
+        <input type="text" id="newsletter-name-{{ $idSeed }}" name="name" placeholder="Your name">
+      </div>
+      <div class="form-group">
+        <label for="newsletter-email-{{ $idSeed }}">Email *</label>
+        <input type="email" id="newsletter-email-{{ $idSeed }}" name="email" required placeholder="you@example.com">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="newsletter-interest-{{ $idSeed }}">I'm most interested in...</label>
+      <select id="newsletter-interest-{{ $idSeed }}" name="Interest">
+        <option value="">Pick one (optional)</option>
+        <option value="Market updates">Market updates</option>
+        <option value="Schools and family life">Schools and family life</option>
+        <option value="Things to do and events">Things to do and events</option>
+        <option value="Buying or selling soon">Buying or selling soon</option>
+        <option value="Just exploring">Just exploring</option>
+      </select>
+    </div>
+
+    <button type="submit" class="btn-newsletter">
+      <span>Subscribe</span>
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+    </button>
+
+    <p class="form-disclaimer">We respect your inbox. One email a month, max. Unsubscribe anytime.</p>
+  </form>
+</div>

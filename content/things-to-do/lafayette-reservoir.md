@@ -48,3 +48,12 @@ Several picnic areas dot the shoreline, some with BBQ grills. Popular for birthd
 ## Getting There
 
 Main entrance on Mt. Diablo Blvd, about a mile east of downtown Lafayette. The lot can fill up on nice weekends â€” come early.
+
+
+---
+
+## Explore More in Lamorinda
+
+- [Lafayette Guide](/lafayette/) — Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) — More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) — Buying or selling in Lafayette, Lafayette, Moraga, or Orinda

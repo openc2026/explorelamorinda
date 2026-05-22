@@ -234,3 +234,8 @@ Lafayette, CA 94549
 - [Moraga School District](/schools/moraga-school-district/) — Elementary & middle schools feeding Campolindo
 - [Orinda Union School District](/schools/orinda-union-school-district/) — Elementary & middle schools feeding Miramonte
 - [Complete Lamorinda Schools Overview](/schools/)
+
+**Towns Served:**
+- [Lafayette](/lafayette/) — Acalanes High and Las Lomas attendance area
+- [Moraga](/moraga/) — Campolindo High attendance area
+- [Orinda](/orinda/) — Miramonte High attendance area
