@@ -4,10 +4,10 @@ description: "Italian-California cuisine in a landmark Carr Jones building"
 address: "3565 Mt Diablo Blvd, Lafayette, CA 94549"
 phone: "(925) 299-8700"
 website: "https://www.postinorestaurant.com"
-hours: "Mon-Thu 11:30am-3pm & 4:30pm-8pm, Fri-Sun 11:30am-3pm & 4:30pm-8:30pm"
+hours: "Lunch Mon-Sat 11:30am-3pm (no Sun lunch); Dinner Sun-Thu 4:30pm-8pm, Fri-Sat 4:30pm-8:30pm"
 price: "$$$"
 tags: ["italian", "california-cuisine", "fine-dining", "date-night", "downtown", "lunch", "dinner"]
-lastVerified: "2026-04-27"
+lastVerified: "2026-05-23"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -37,12 +37,27 @@ Postino's outdoor patio is one of downtown Lafayette's gems — especially durin
 
 ## Good to Know
 
-- **Reservations** strongly recommended, especially weekends
+- **Reservations** strongly recommended, especially weekends — bookings via Toast Tables on their website
+- **No Sunday lunch** — Sunday is dinner-only (4:30pm-8pm); the lunch service runs Monday through Saturday
+- **Bar seating between services** — the bar offers the full menu in the gap between lunch (3pm) and dinner (4:30pm), useful for an off-hour drop-in
 - **Delivery & Takeout** available via their website
 - Valet parking available
 - Full bar with excellent Italian wine selection
 - Private dining room for events and celebrations
 - Catering available for special occasions
+
+## 2026 Closure Dates
+
+Postino publishes its annual closure calendar in advance — worth knowing if you're planning ahead:
+
+- **Monday, May 25** — Closed for Memorial Day
+- **Saturday, July 4** — Closed for Fourth of July
+- **Monday, September 7** — Closed for Labor Day
+- **Friday-Saturday, September 19-20** — Open through Lafayette's Art & Wine Festival weekend (worth a reservation as downtown gets busy)
+- **Thursday, November 26** — Closed for Thanksgiving
+- **Thursday, December 25** — Closed for Christmas
+- **Friday, December 26** — Dinner only (lunch closed)
+- **Thursday, December 31** — NYE dinner only (lunch closed)
 
 ## Local Lore: The Carr Jones Building
 

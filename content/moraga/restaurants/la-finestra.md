@@ -4,10 +4,10 @@ description: "Upscale Italian dining in the heart of Moraga"
 address: "1419 Moraga Way, Moraga, CA 94556"
 phone: "(925) 376-4444"
 website: "https://lafinestraristorante.com"
-hours: "Tue-Thu 11:30am-8pm, Fri 12pm-9pm, Sat 4:30pm-9pm, Sun 4:30pm-8:30pm, Closed Mon"
+hours: "Tue-Thu 11:30am-8pm, Fri 11:30am-8:30pm, Sat 4:30pm-8:30pm, Sun 4:30pm-8pm, Closed Mon"
 price: "$$$"
 tags: ["italian", "fine-dining", "date-night", "moraga"]
-lastVerified: "2026-03-19"
+lastVerified: "2026-05-23"
 ---
 
 ![La Finestra Ristorante](/images/Moraga_LaFinestra.jpg)
@@ -44,16 +44,17 @@ The patio is particularly pleasant on mild spring evenings — Moraga's cooler t
 
 Chef Assadi's culinary journey brought him to Lafayette in 2003, where he first built a following for his authentic Sicilian-influenced cooking. By 2018, demand warranted a second location, and La Finestra in Moraga was born. The same attention to quality — fresh ingredients, house-made pastas, consistent execution — transferred to the new space. For Moraga residents, it means fine Italian dining without the drive to Walnut Creek or Lafayette.
 
-## Late March Tip
+## Early-Summer Tip
 
-Spring evenings at La Finestra are special. Moraga's slightly cooler temperatures mean the patio is comfortable even as other parts of the Bay warm up. Request outdoor seating for a Tuesday or Wednesday dinner — the weekend rush hasn't hit, the service is attentive, and you can linger over tiramisu as the evening light fades over the Moraga hills. It's the kind of weeknight luxury that makes living here feel like a permanent vacation.
+Late May and early June are arguably La Finestra's best stretch of the year. The patio gets long, soft evening light from about 7pm onward, Moraga's hillside cool kicks in once the sun drops behind the ridge, and the weeknight pace is dramatically calmer than weekends. Aim for a 6:30-7pm Tuesday or Wednesday reservation — the kitchen is fresh, the service is attentive, and you'll catch the golden hour over the Moraga hills with your antipasti.
 
 ## Good to Know
 
 - **Reservations strongly recommended**, especially weekends
 - **Closed Mondays** — plan accordingly
 - Lunch service Tue-Fri; dinner-only Sat-Sun
-- Also offers catering for events and private parties (great for graduations and family celebrations)
+- **Earliest kitchen close on Sunday (8pm)** — if you're aiming for a late-evening dinner, Tue-Thu or Fri-Sat give you more runway
+- Also offers catering for events and private parties (great for graduations and family celebrations) — graduation season is peak demand, so book well ahead in May/June
 - Upscale but not stuffy — Moraga casual still applies
-- A **20% service charge is included** on all checks
+- A **20% service charge is included** on all checks (factor this in when comparing menu prices to other spots)
 - Parking in the Moraga Shopping Center lot — easy access
