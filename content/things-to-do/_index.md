@@ -53,6 +53,12 @@ Dogs are welcome on leash on most paved Lamorinda trails. Always check trailhead
 - **Summer concerts** at Moraga Commons
 - **Farmers markets** (seasonal, check locations)
 
+## Sports & Active Recreation
+
+- **[Pickleball in Lamorinda](/things-to-do/pickleball/)** — Court locations, drop-in hours, and etiquette across Lafayette, Moraga, and Orinda
+- **Tennis** — Public courts at Orinda Community Center, Moraga Commons, and Lafayette Community Park
+- **Cycling** — The Lafayette-Moraga Trail and Tunnel Road climbs are the regional favorites
+
 ## Seasonal Note: Late May 2026
 
 **The two-tone hills are here.** The classic Lamorinda watercolor moment is happening right now — ridges shifting from emerald to gold in patchwork, a look that only lasts a couple of weeks before the dry season takes over completely. Best photographed from the [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) rim trail or any high point on the Lafayette-Moraga Trail.
