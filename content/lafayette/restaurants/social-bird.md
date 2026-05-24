@@ -7,6 +7,7 @@ website: "https://www.social-bird.com"
 hours: "Sun-Thu 11:30am-9pm, Fri-Sat 11:30am-9:30pm"
 price: "$$"
 tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable"]
+lastVerified: "2026-05-24"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -25,7 +26,7 @@ The dining room buzzes with conversation, but it's the three patios that really 
 
 ## Happy Hour
 
-Sunday through Thursday, 3pm–5pm. Not available for takeout, so you'll need to come in and enjoy the atmosphere.
+Sunday through Thursday, **3pm–5pm**. Not available for takeout, so you'll need to come in and enjoy the atmosphere. Confirmed on the operator site as of late May 2026.
 
 ## The Location
 
@@ -39,6 +40,8 @@ Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spo
 - Lively atmosphere; not ideal for quiet conversations
 - **Spring evenings** are prime time for the patios — book ahead for outdoor seating
 
-## Early April 2026
+## Late-Spring Tip: Memorial Day Weekend 2026
 
-Patio season is in full swing. With sunsets past 7:40pm and temps in the mid-60s to low-70s, the outdoor seating is the place to be. The craft cocktail program shines this time of year — light, refreshing options pair perfectly with the longer evenings. Book outdoor seating in advance for weekend dinners; walk-ins have better luck on the patio Sunday through Thursday.
+Memorial Day weekend (May 23–25) is when the three patios really earn their keep. With sunsets past 8:15pm and afternoons running upper-70s, the outdoor seating is where you want to be — and the corner location means light from multiple directions well into the evening. The craft cocktail program is at its best in this stretch: lighter, brighter pours pair naturally with the long evenings. Weekend dinners on the patio book up fast (especially Saturday), so reserve outdoor seating in advance or aim for the Sun–Thu Happy Hour (3–5pm) when walk-ins still have a real shot at a patio table.
+
+If you're piecing together a Memorial Day weekend dinner downtown, Social Bird and **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** sit across Mt. Diablo Blvd from each other — same Restaurant Row block, different vibes (gastropub vs. world kitchen). Both are open all three days of the weekend, including Memorial Day Monday.
