@@ -4,7 +4,7 @@ description: "Beautiful campus open to visitors — chapel, grounds, and college
 address: "1928 Saint Mary's Road, Moraga, CA 94575"
 website: "https://www.stmarys-ca.edu"
 tags: ["campus", "architecture", "moraga", "sports", "walking"]
-last_updated: 2026-05-21
+last_updated: 2026-05-25
 ---
 
 ![Saint Mary's College](/images/Moraga_StMarysCollege.jpg)
@@ -35,8 +35,8 @@ Saint Mary's competes in Division I athletics (West Coast Conference). Basketbal
 
 ## Best Times to Visit
 
-- **This Week — May 21–22, 2026 (Commencement Days)**: The Class of 2026 graduates today and tomorrow — Graduate & Professional Studies tonight (**Thursday, May 21 at 6 p.m.**) and Undergraduate Commencement (**Friday, May 22 at 11 a.m.**). Both ceremonies are live-streamed and recorded. Expect heavy traffic on Saint Mary's Road, full visitor lots, and temporary road closures around the main quad through Friday afternoon. If you're not attending a ceremony, hold off until the weekend.
-- **Memorial Day Weekend (May 23–25) and Beyond — Post-Commencement Quiet**: Once the caps and gowns clear out Friday, campus enters its quietest and arguably most beautiful stretch of the year. The hills are mid-transition from green to their classic California gold, the palm-lined walkways glow in the long evening light (sunset is past 8:20 p.m. now), and you'll often have the main quad nearly to yourself. Memorial Day weekend is the first real taste of summer-quiet — weekday and weekend mornings both work. Bring a coffee; sit on the chapel steps; nobody will bother you. This window holds through mid-August.
+- **Today — Memorial Day Monday (May 25, 2026)**: The Class of 2026 graduated Thursday and Friday (May 21–22), and the campus has now settled into its post-commencement hush. Memorial Day itself is one of the best days of the year to wander — administrative offices are closed, almost no foot traffic, and the chapel and grounds are still open to visitors during daylight hours. Park in any visitor lot; you'll likely have your pick. Bring a coffee from [Town Bakery Cafe](/moraga/restaurants/town-bakery-cafe/) on the way in.
+- **Late May Through Mid-August — Summer Quiet**: With commencement wrapped, campus enters its quietest and arguably most beautiful stretch of the year. The hills are mid-transition from green to their classic California gold, the palm-lined walkways glow in the long evening light (sunset is past 8:20 p.m. now), and you'll often have the main quad nearly to yourself. Weekday and weekend mornings both work; late-afternoon golden hour is the photographer's pick. This window holds through mid-August.
 - **Mid-August Reset**: The summer hush breaks when new students arrive for orientation. If you want the contemplative version of campus, mid-August is your last reliable window.
 - **September–October**: Students return in full, campus energy rebuilds, and the weather is consistently in the 70s with crisp mornings. Football and soccer seasons get going.
 - **Basketball Season (November–March)**: Catch a Gaels game at McKeon Pavilion for local atmosphere. Men's basketball draws the biggest crowds, especially when the West Coast Conference rival Gonzaga rolls through.
@@ -63,6 +63,6 @@ Fun fact: The campus sits in what was once the Moraga Rancho, a Mexican land gra
 
 ## Explore More in Lamorinda
 
-- [Moraga Guide](/moraga/) � Full overview of the town this sits in
-- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
-- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Moraga, Lafayette, Moraga, or Orinda
+- [Moraga Guide](/moraga/) � Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Moraga, Lafayette, Moraga, or Orinda

@@ -7,7 +7,7 @@ website: "https://www.hideoutkitchen.com"
 hours: "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "california-cuisine", "brunch", "downtown", "popular", "date-night"]
-lastVerified: "2026-05-20"
+lastVerified: "2026-05-25"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -31,6 +31,8 @@ Located in Lafayette Circle, the restaurant occupies a prime spot in downtown La
 ## Late-Spring Tip: Memorial Day Weekend 2026
 
 Memorial Day weekend (May 23–25) is the first true summer-crowd weekend at The Hideout. Afternoons in the upper 70s, sunsets past 8:15pm, and the Lafayette Circle patio holds its warmth almost all the way to closing. Brunch outside on Saturday or Sunday is the obvious play, but those circle-facing tables turn fastest between 10:30am and 12:30pm — book by Tuesday or Wednesday, or aim for the post-1pm wave. If it's just drinks, daily Happy Hour (3–5pm) catches the best of the afternoon light before the dinner crowd resets the room.
+
+**Memorial Day Monday (May 25, 2026):** Open on regular Monday hours — **11am–9pm**. No published holiday closure, so the Hideout is one of the reliable downtown Lafayette options for a Memorial Day lunch or dinner. (Note: [Postino](/lafayette/restaurants/postino/), a few blocks away on Mt. Diablo Blvd, *is* closed today — plan around that if you were debating between the two.)
 
 ## Good to Know
 
