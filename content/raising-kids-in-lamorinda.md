@@ -302,62 +302,88 @@ All three branches offer:
 
 ## Summer Camps
 
-Planning summer? Here's your camp guide by category.
+Planning summer in Lamorinda is its own seasonal sport — a months-long jigsaw of registrations, carpools, and color-coded spreadsheets. (See our field guide to [the Lamorinda summer camp economy](/blog/summer-camp-economy/) for the full anthropology.) Most local schools dismiss around June 11, and the first camp sessions typically start the week of June 15. Here's the guide by category.
 
 ### Community Center Camps
 
+Affordable, walkable, and the closest thing to a hometown summer experience. Your kid will know half the other kids on Day 1.
+
 | Provider | Ages | What They Offer |
 |----------|------|-----------------|
-| **City of Lafayette** | 4-15 | Sports, arts, general day camps, specialty camps |
-| **Town of Moraga** | 4-14 | Day camps, sports camps, themed weeks |
-| **City of Orinda** | 4-15 | "Curiosity Quest" themed camps, sports, arts |
+| [**City of Lafayette**](https://www.lovelafayette.org/city-services/parks-and-recreation/community-classes-and-camps) | 4–15 | Sports, arts, general day camps, specialty camps at the Lafayette Community Center |
+| [**Town of Moraga**](https://www.moraga.ca.us/171/Camps) | 4–14 | Day camps, sports camps, themed weeks at the Hacienda |
+| [**City of Orinda**](https://www.cityoforinda.org/188/Camps) | 4–15 | "Curiosity Quest" themed camps, sports, arts at the Orinda Community Center |
 
-*Registration typically opens in March. Set reminders — popular sessions fill fast.*
+*Registration typically opens in late February or March. Popular weeks sell out within hours — set a calendar reminder and have payment info pre-filled in your browser.*
 
 ### Outdoor & Adventure Camps
 
 | Camp | Ages | Focus |
 |------|------|-------|
-| **Roughing It Day Camp** | 4-16 | Outdoor skills at Lafayette Reservoir since 1972 |
-| **Camp Galileo** | Pre-K–8 | Innovation + outdoor exploration |
-| **Adventure Day Camp** | K-8 | Active outdoor games, excursions |
-| **EBPRD Camps** | Various | Nature, ecology, outdoor skills at regional parks |
+| [**Roughing It Day Camp**](https://www.roughingit.com/) | 4–16 | Outdoor skills, horseback riding, and waterfront at the [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) — a Lamorinda legacy since 1972 |
+| [**Camp Galileo**](https://galileo-camps.com/) | Pre-K–8 | Innovation + outdoor exploration (locations in Lafayette/Orinda) |
+| [**Adventure Day Camp**](https://www.adventuredaycamp.com/) | K–8 | Active outdoor games, weekly excursions, traditional camp feel |
+| [**EBRPD Camps**](https://www.ebparks.org/) | Various | Nature, ecology, and outdoor skills at East Bay Regional Parks |
+| **Camp Augusta** | 7–16 | Sleepaway in Nevada City — popular Lamorinda destination |
 
 ### Sports Camps
 
 | Camp | Sport | Notes |
 |------|-------|-------|
-| **Lamorinda Soccer Club** | Soccer | Skills development by age group |
-| **Lamorinda Basketball Academy** | Basketball | Multiple sessions all summer |
-| **Orinda Tennis** | Tennis | Half and full-day options |
-| **US Sports Camps** | Multiple | Various locations, multiple sports |
+| [**Lamorinda Soccer Club**](https://www.lamorindasc.org/) | Soccer | Skills development by age group; multiple weeks |
+| **Lamorinda Basketball Academy** | Basketball | Multiple sessions all summer at local gyms |
+| **Orinda Tennis Club** | Tennis | Half and full-day options |
+| [**US Sports Camps**](https://www.ussportscamps.com/) | Multiple | Nike-branded camps at St. Mary's College and area schools |
+| **Diablo Aquatics / OMPA** | Swim | Connected to the [Lamorinda swim club](/blog/pool-club-anthropology/) ecosystem |
 
 ### Arts & Creativity Camps
 
 | Camp | Focus | Notes |
 |------|-------|-------|
+| [**Town Hall Theatre Camp**](https://www.townhalltheatre.com/) | Drama | Lafayette-based, ages 4–18, weekly themes culminating in a Play-in-a-Day |
 | **Orinda Academy of Performing Arts** | Theater | Full productions by end of session |
-| **Town Hall Theatre Camp** | Drama | Lafayette-based, excellent instruction |
-| **California Shakespeare Theater** | Shakespeare | For serious young actors |
-| **Art Room** | Visual arts | Drop-in and camp options |
+| [**California Shakespeare Theater**](https://calshakes.org/) | Shakespeare | Conservatory-style for serious young actors |
+| **Art Room (Lafayette)** | Visual arts | Drop-in and camp options |
 
 ### STEM & Academic Camps
 
 | Camp | Focus | Notes |
 |------|-------|-------|
-| **iD Tech** | Coding/gaming | Saint Mary's location |
+| [**iD Tech**](https://www.idtech.com/) | Coding/gaming | Held at Saint Mary's College in Moraga |
 | **Engineering for Kids** | Engineering | Building and problem-solving |
-| **Kumon/Mathnasium** | Academic | Math skill maintenance |
+| **Mathnasium / Kumon** | Academic | Math skill maintenance — useful for kids preparing for advanced placement |
 | **Destination Science** | Science | Hands-on experiments |
+
+### Sleepaway Camps (Popular with Lamorinda Families)
+
+Lamorinda kids often start sleepaway around 8–10, and a few destinations show up year after year:
+
+- **Camp Tawonga** (Groveland) — Long-running, popular with East Bay families
+- **Camp Tuolumne Trails** (Sierra foothills) — Outdoor focus, multi-week sessions
+- **YMCA Camp Loma Mar** (San Mateo coast) — Closer to home, great first sleepaway
+- **Camp Augusta** (Nevada City) — High counselor-to-camper ratio
+- **Plantation Farm Camp** (Sonoma County) — Working ranch experience
+
+### Hidden & Free Options
+
+Not every great summer week needs a $700 invoice:
+
+- **Lafayette Library** summer reading and programming — free, weekly
+- **Moraga Commons** [free summer concerts](/things-to-do/moraga-commons/) on Thursday evenings
+- **Lafayette Reservoir** day passes — pack a lunch, walk the rim trail
+- **Soda Aquatic Center** open swim — perfect for OMPA families already at the pool
+- **Neighborhood pool club guest privileges** — often included with a friend's family membership
 
 ### Camp Planning Tips
 
-1. **February/March** — Registration opens for most camps
-2. **Book early** — Popular camps sell out in hours
-3. **Mix it up** — Two weeks of one camp is often enough; variety helps
-4. **Check logistics** — Drop-off/pickup times, lunch requirements, extended care
-5. **Ask about siblings** — Many camps offer discounts
-6. **Don't overschedule** — Kids need downtime too
+1. **February/March** — Registration opens for most popular camps; set calendar reminders
+2. **Book early** — Roughing It, Galileo, and rec camps' favorite weeks fill in hours, not days
+3. **Mix it up** — Two weeks of one camp is often enough; variety prevents burnout
+4. **Check logistics** — Drop-off/pickup times, lunch requirements, extended care, after-care
+5. **Ask about siblings** — Many camps offer 10–15% sibling discounts
+6. **Don't overschedule** — A "decompression week" between school and camp pays dividends
+7. **Carpool early** — A WhatsApp group with three other camp families saves your sanity by Week 2
+8. **Scholarships exist** — City rec camps and several nonprofits offer financial aid; ask
 
 ---
 
