@@ -7,7 +7,7 @@ website: "https://www.social-bird.com"
 hours: "Sun-Thu 11:30am-9pm, Fri-Sat 11:30am-9:30pm"
 price: "$$"
 tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable"]
-lastVerified: "2026-05-24"
+lastVerified: "2026-05-26"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -38,10 +38,10 @@ Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spo
 - Reservations recommended for weekend evenings
 - Multiple patio options — request outdoor seating when booking
 - Lively atmosphere; not ideal for quiet conversations
-- **Spring evenings** are prime time for the patios — book ahead for outdoor seating
+- **Late-spring and early-summer evenings** are prime time for the patios — book ahead for outdoor seating
 
-## Late-Spring Tip: Memorial Day Weekend 2026
+## Early Summer Tip: Late May Through Mid-June 2026
 
-Memorial Day weekend (May 23–25) is when the three patios really earn their keep. With sunsets past 8:15pm and afternoons running upper-70s, the outdoor seating is where you want to be — and the corner location means light from multiple directions well into the evening. The craft cocktail program is at its best in this stretch: lighter, brighter pours pair naturally with the long evenings. Weekend dinners on the patio book up fast (especially Saturday), so reserve outdoor seating in advance or aim for the Sun–Thu Happy Hour (3–5pm) when walk-ins still have a real shot at a patio table.
+With Memorial Day weekend behind us, the three patios slide into their best stretch of the year. Sunsets are now past 8:20pm, afternoons settle in the upper 70s, and the corner location means light from multiple directions well into the evening. The craft cocktail program is at its best in this window: lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering. Weekend patio dinners still book up fast (especially Saturday), so reserve outdoor seating in advance — or aim for the Sun–Thu Happy Hour (3–5pm), which gets noticeably easier now that the long-weekend crowd has cleared out.
 
-If you're piecing together a Memorial Day weekend dinner downtown, Social Bird and **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** sit across Mt. Diablo Blvd from each other — same Restaurant Row block, different vibes (gastropub vs. world kitchen). Both are open all three days of the weekend, including Memorial Day Monday.
+If you're piecing together a downtown Lafayette dinner, Social Bird and **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** sit across Mt. Diablo Blvd from each other — same Restaurant Row block, different vibes (gastropub vs. world kitchen). Both are easy to walk between for a drink-then-dinner split.
