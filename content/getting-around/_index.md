@@ -1,7 +1,7 @@
 ---
 title: "Getting Around"
 description: "BART, trails, driving, and navigating Lamorinda — including Caldecott Tunnel patterns, BART parking, and the Lafayette-Moraga Trail."
-last_updated: 2026-05-22
+last_updated: 2026-05-26
 ---
 
 ![Lamorinda panoramic view](/images/new_panoramic2.png)
@@ -43,17 +43,21 @@ Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the
 
 For committed cyclists, it's possible to bike-commute from Moraga to BART in Lafayette or Orinda.
 
-## Seasonal Note: Memorial Day Weekend 2026 (Late May)
+## Seasonal Note: Early Summer 2026 (Late May through Mid-June)
 
-**Holiday weekend traffic patterns.** Friday afternoon (May 22) westbound 24 will be lighter than usual — commuters left town early. Eastbound 24 toward Walnut Creek, I-680, and the I-80 connector to Tahoe will be heavy from about 2pm onward and peak between 4–7pm. If you're heading north or east this weekend, leaving before noon Friday or after 9pm Friday are the two viable windows. (See: [The Friday Before Memorial Day](/blog/memorial-day-friday-exodus/).)
+Memorial Day is behind us. School runs through about June 11 in most Lamorinda districts. The next three weeks are the interstitial window — commute patterns are still in school-year rhythm, but graduation traffic, end-of-year events, and the start of camp season are all reshaping the roads. (See: [The Tuesday After Memorial Day](/blog/tuesday-after-memorial-day/).)
 
-**BART parking is unusually easy.** With many regular commuters out of town and no Friday commute crush, both Lafayette and Orinda BART lots have abundant midday availability through Tuesday. Worth knowing if you're heading into SF for the long weekend. Normal weekday parking pressure resumes Wednesday, May 27.
+**BART weekday commute is back to normal — but lighter than peak.** Wednesday May 27 onward, both Lafayette and Orinda lots return to standard weekday pressure: full by about 8:15am Lafayette, 8:30am Orinda. Pressure starts to ease again the week of June 8 as schools wind down and more commuters telework or take time off; by mid-June, midday parking is comfortable. Antioch-line trains run on standard weekday schedule; about 25 minutes Lafayette → Montgomery, 22 minutes Orinda → Montgomery.
 
-**Saturday May 23 — St. Mary's College commencement.** Expect heavy traffic in and out of Moraga from roughly 9am–2pm. Moraga Road, St. Mary's Road, and Rheem Boulevard will be slow. Plan grocery runs and errands for Friday or early Saturday morning. The [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) is a faster way between the two towns on Saturday than any road.
+**Graduation weekend (May 30–31) traffic.** Saturday May 30 is the biggest graduation party weekend of the year in the Acalanes Union High School District. Expect concentrated neighborhood traffic in the afternoons and evenings — caterers, rental delivery trucks, out-of-town relatives navigating with GPS that doesn't know about Burton Valley's one-lane stretches. Streets near Acalanes High, Miramonte, and Campolindo see slow rolling congestion between 2–8pm Saturday. The [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) and side streets parallel to Mt. Diablo Boulevard remain the quietest routes.
 
-**Trail conditions are peak.** The hills have started their gold-and-green transition. Wildflower season is winding down — late poppies and the last of the lupine still appearing on shaded sections. Sunset is just before 8:25pm, so after-work trail traffic runs heavy until almost 8pm. The Lafayette Reservoir Rim Trail is especially packed between 8–11am on Saturday and Sunday; aim for late afternoon (4–7pm) for the calmest loop.
+**The last two weeks of school — pickup chaos peaks.** From May 27 through dismissal, school zones run at maximum congestion as end-of-year events, field days, half-days, and minimum days shift pickup times unpredictably. Mt. Diablo Boulevard near Lafayette Elementary and Stanley Middle School backs up between 12:30–1:30pm on minimum days. Moraga Road around Joaquin Moraga Intermediate is similar. *Pro tip:* Check the school calendar before any midday errand — a minimum day you didn't know about can add fifteen minutes to a Trader Joe's run.
 
-**Caldecott Tunnel — the long weekend pattern.** Friday evening and Monday evening eastbound (returning travelers) are the two pinch points. Westbound is generally smooth all weekend. Saturday and Sunday daytime traffic through the tunnel is the lightest it gets all year — a genuinely pleasant time to drive into Oakland or San Francisco.
+**Caldecott Tunnel — early-summer pattern.** Through June 11, weekday eastbound 24 peaks 4:30–6:30pm and westbound peaks 7–9am — standard school-year rhythm. Once school dismisses, weekday peaks soften by roughly 20% as commute volume drops with vacation and remote-work upticks. Weekend tunnel traffic is light in both directions through mid-June; the heavier summer weekend patterns kick in around the Fourth of July and again Labor Day.
+
+**Trail conditions — peak shoulder season.** Wildflower season is mostly done but the hills are at their gold-and-green best through about mid-June, when the gold takes over completely. Sunset hits 8:28pm by the end of May and 8:36pm by mid-June, so after-work trail traffic now runs heavy until almost 8:30pm — particularly the Lafayette Reservoir Rim Trail and the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) between 5 and 7pm. Saturday morning Reservoir parking still fills by 9:30am; weekday mornings (Tue–Thu) and late afternoons remain the calmest windows. Tick activity is high — check after every hike.
+
+**Saint Mary's College summer — quieter Moraga.** With commencement past (May 23) and undergraduate summer session starting limited capacity, Moraga Road and St. Mary's Road run noticeably calmer through August. The Soda Aquatic Center is the main draw on campus this time of year; parking is easy and the access road is fast. Through traffic to Lamorinda Crossroads is faster on weekends than at any other point in the year.
 
 ## The Reality
 
