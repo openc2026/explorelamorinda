@@ -7,7 +7,7 @@ website: "https://www.hideoutkitchen.com"
 hours: "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "california-cuisine", "brunch", "downtown", "popular", "date-night"]
-lastVerified: "2026-05-25"
+lastVerified: "2026-05-27"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -28,11 +28,16 @@ The menu is seasonal Californian comfort cuisine — familiar flavors executed w
 
 Located in Lafayette Circle, the restaurant occupies a prime spot in downtown Lafayette's walkable core. Indoor and outdoor seating available. The atmosphere strikes that sweet spot between upscale and approachable — nice enough for a celebration, relaxed enough for a Tuesday dinner.
 
-## Late-Spring Tip: Memorial Day Weekend 2026
+## Graduation Season Tip: Late May Through Mid-June 2026
 
-Memorial Day weekend (May 23–25) is the first true summer-crowd weekend at The Hideout. Afternoons in the upper 70s, sunsets past 8:15pm, and the Lafayette Circle patio holds its warmth almost all the way to closing. Brunch outside on Saturday or Sunday is the obvious play, but those circle-facing tables turn fastest between 10:30am and 12:30pm — book by Tuesday or Wednesday, or aim for the post-1pm wave. If it's just drinks, daily Happy Hour (3–5pm) catches the best of the afternoon light before the dinner crowd resets the room.
+Memorial Day weekend has cleared and AUHSD graduation parties are landing. Hideout is the easier-to-book counterpart to [Postino](/lafayette/restaurants/postino/) two blocks east — same Restaurant Row caliber, a bit more relaxed, and the Lafayette Circle patio is at its annual peak right now.
 
-**Memorial Day Monday (May 25, 2026):** Open on regular Monday hours — **11am–9pm**. No published holiday closure, so the Hideout is one of the reliable downtown Lafayette options for a Memorial Day lunch or dinner. (Note: [Postino](/lafayette/restaurants/postino/), a few blocks away on Mt. Diablo Blvd, *is* closed today — plan around that if you were debating between the two.)
+- **Brunch weekends (Sat–Sun, May 30–June 14):** The graduation-party brunch crowd shows up. Circle-facing patio tables turn fastest 10:30am–12:30pm — book by Wednesday for a prime weekend slot, or aim for the post-1pm wave when the room resets. Sunsets are past 8:25pm now and the patio holds afternoon warmth nearly all the way to closing.
+- **Saturday-night dinner (May 30 + June 6 + June 13):** The three big AUHSD graduation-party Saturdays through the window. The 6:30–7:30pm slots fill 5–7 days out. If you couldn't get Postino, Hideout's 6:00pm and 8:00pm tables are usually the next-best fallback for visiting relatives — still walkable from anywhere in downtown Lafayette, still that neighborhood-bistro feel.
+- **Weeknights, late May through June 11:** The genuinely easy window. Tuesday and Wednesday dinner remain a near-guaranteed walk-in. The daily 3–5pm Happy Hour at the bar catches the best afternoon light before the dinner crowd resets the room — the move if you're killing time before an 8pm movie at the [Orinda Theatre](/things-to-do/orinda-theatre/) or pacing a relative's jet lag.
+- **June 12–14 (Miramonte/Campolindo grad-weekend window):** A second booking surge. Book by Monday June 8 for Saturday night.
+
+If the relatives are on East Coast time and want an early Sunday brunch before flying out, the 10am opening is one of the few in downtown Lafayette that hits early enough for an 11:30am airport push.
 
 ## Good to Know
 
