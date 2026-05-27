@@ -7,7 +7,7 @@ website: "https://www.shelbyseatbetter.com"
 hours: "Daily 11:30am-8pm"
 price: "$$$"
 tags: ["california-cuisine", "upscale", "theatre-square", "date-night", "continental", "lunch", "dinner"]
-lastVerified: "2026-05-21"
+lastVerified: "2026-05-27"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)
@@ -44,9 +44,9 @@ Shelby's occupies prime real estate in a complex with real history. Theatre Squa
 
 Shelby's has been part of this ecosystem for decades, serving as the go-to dinner spot for moviegoers. The restaurant and theatre have developed an unspoken rhythm — the kitchen knows when shows start, the servers pace courses accordingly, and regulars know to book a 5:30 reservation for a 7pm film. It's dinner-and-a-movie infrastructure, refined over years of practice.
 
-## Late-Spring Tip: Memorial Day Weekend 2026
+## Early Summer Tip: Late May Through Mid-June 2026
 
-The long evenings work in Shelby's favor right now. With sunset past 8:20pm and upper-70s afternoons through Memorial Day weekend (May 23–25), the early-dinner-then-movie rhythm shifts later — a 6pm table still leaves the dining room sunlit, and there's a real golden-hour window in Theatre Square between dinner and an 8:15pm Orinda Theatre showing. If you're pairing dinner with a film, a 5:30 or 6pm reservation now works for anything starting after 8pm. For pure dinner without the movie, weeknight Tuesday or Wednesday is the quietest window before the summer crowd settles in.
+The long evenings work in Shelby's favor right now. With sunset past 8:20pm and afternoons settling into the upper 70s through early June, the dinner-then-movie rhythm shifts later — a 6pm table still leaves the dining room sunlit, and there's a real golden-hour window in [Theatre Square](/things-to-do/orinda-theatre/) between dinner and an 8:15pm showing at the Orinda Theatre next door. If you're pairing dinner with a film, a 5:30 or 6pm reservation now works for anything starting after 8pm. For pure dinner without the movie, weeknight Tuesday or Wednesday is the quietest window — Memorial Day weekend has come and gone, and the school-is-out / graduation crowd hasn't quite arrived yet. The next two to three weeks are the sweet spot.
 
 ## Good to Know
 
