@@ -7,7 +7,7 @@ website: "https://casaorindarestaurant.com"
 hours: "Wed-Thu 4pm-9pm, Fri-Sat 4pm-10pm, Sun 4pm-9pm, Closed Mon-Tue"
 price: "$$"
 tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-night"]
-lastVerified: "2026-05-27"
+lastVerified: "2026-05-28"
 ---
 
 ![Orinda Theatre](/images/new_theater.png)
@@ -32,7 +32,7 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 
 ## Good to Know
 
-- Reservations strongly recommended (2,700+ OpenTable reviews speak to its popularity)
+- Reservations strongly recommended (2,800+ OpenTable reviews speak to its popularity)
 - Closed Monday and Tuesday
 - Not in Theatre Square — it's on Bryant Way, a few minutes away
 - Cash and cards accepted

@@ -4,6 +4,7 @@ description: "Historic Art Deco movie palace — catch a film in style"
 address: "2 Orinda Theatre Square, Orinda, CA 94563"
 website: "https://theorindatheatre.com"
 tags: ["entertainment", "movies", "historic", "orinda", "date-night"]
+lastVerified: "2026-05-28"
 ---
 
 ![Orinda Theatre with BART](/images/Orinda_TheaterWithBART.jpg)
@@ -34,11 +35,15 @@ The Orinda Theatre opened on Christmas Day, 1941 — just weeks after Pearl Harb
 
 **2026 marks the theatre's 85th anniversary** — a remarkable run for any independent cinema, let alone one that's maintained its original character. Keep an eye out for anniversary events and classic film screenings throughout the year.
 
-## Early April & Easter Weekend
+## Late Spring Through Mid-June 2026
 
-With spring break behind us and school back in session, the Orinda Theatre returns to its regular rhythm — but Easter weekend (April 5-6) brings a brief surge of family activity. Expect Saturday matinees to fill up as families look for post-egg-hunt entertainment. The theatre's classic atmosphere makes even a routine movie feel like an event.
+Memorial Day weekend has cleared and the AUHSD graduation-party surge (May 30 / June 6 / June 13 Saturdays) is the dominant pattern in Theatre Square right now. The theatre itself stays comparatively easy to walk into — the dinner reservations a block away are the bottleneck, not the movie. Sunsets are past 8:25pm, which makes the marquee genuinely worth lingering for after the 8pm showing.
 
-**85th Anniversary Note:** 2026 marks the Orinda Theatre's 85th year. Throughout spring, keep an eye on their schedule for classic film screenings and special anniversary programming — a rare chance to see golden-age cinema in a golden-age theatre.
+- **Pair with dinner first:** The post-Memorial-Day rhythm in Theatre Square is dinner at [Shelby's](/orinda/restaurants/shelbys/), [Casa Orinda](/orinda/restaurants/casa-orinda/), or [Fourth Bore Tap Room](/orinda/restaurants/fourth-bore-tap-room/) for an 8:00–8:15pm showing — all three pages now flag the same window. Reserve dinner by Wednesday for prime weekend slots; the theatre itself is rarely the rate-limiting step.
+- **Tuesday & Wednesday evenings** remain the quietest window through mid-June — both for parking in the Theatre Square garage and for an unhurried walk-up at the box office.
+- **Father's Day weekend (June 19–21)** is the next natural surge point; after that the summer-blockbuster rhythm takes over.
+
+**85th Anniversary Note:** 2026 marks the Orinda Theatre's 85th year — opened Christmas Day 1941, the theatre has been running for 85 continuous years through this calendar. Watch the schedule for anniversary classic-film screenings; the late-spring and early-summer programming windows have historically been where independents like the Orinda slot in their best repertory picks.
 
 ## Good to Know
 
@@ -53,6 +58,6 @@ With spring break behind us and school back in session, the Orinda Theatre retur
 
 ## Explore More in Lamorinda
 
-- [Orinda Guide](/orinda/) � Full overview of the town this sits in
-- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
-- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Orinda, Lafayette, Moraga, or Orinda
+- [Orinda Guide](/orinda/) � Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Orinda, Lafayette, Moraga, or Orinda
