@@ -1,7 +1,7 @@
 ---
 title: "Getting Around"
 description: "BART, trails, driving, and navigating Lamorinda — including Caldecott Tunnel patterns, BART parking, and the Lafayette-Moraga Trail."
-last_updated: 2026-05-26
+last_updated: 2026-05-29
 ---
 
 ![Lamorinda panoramic view](/images/new_panoramic2.png)
@@ -21,9 +21,9 @@ Both are on the **Antioch (Yellow) line**. About 25 minutes to downtown San Fran
 ## Driving
 
 ### The Caldecott Tunnel
-Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the hills. The fourth bore opened in 2013, adding much-needed capacity.
+Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the hills. The fourth bore opened in 2013, adding much-needed capacity and finally eliminating the old reversible-middle-bore system. See our full [Caldecott Tunnel guide](/getting-around/caldecott-tunnel/) for history, traffic patterns, bore-by-bore quirks, alternate routes, and what to do when it closes.
 
-**Local lore:** The tunnel is named for Thomas E. Caldecott, who served on the Alameda County Board of Supervisors and championed the original tunnel project in the 1930s. The first bore opened in 1937, the second in 1964, the third in 1986, and the fourth in 2013. Each expansion was controversial at the time — residents worried about increased traffic and development — but today the four-bore tunnel is simply how Bay Area life works. Over 160,000 vehicles pass through daily.
+**Local lore:** The tunnel is named for Thomas E. Caldecott (1878–1951), former mayor of Berkeley, Alameda County Supervisor, and president of the Joint Highway District that built the first two bores. Bores 1 and 2 opened in 1937, the third bore in 1964, and the fourth bore in 2013. Each expansion was controversial at the time — residents worried about increased traffic and development — but today the four-bore tunnel is simply how Bay Area life works. Roughly 170,000–180,000 vehicles pass through daily.
 
 **Traffic patterns:**
 - **Morning:** Heavy westbound (toward SF)
