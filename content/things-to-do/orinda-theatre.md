@@ -4,7 +4,7 @@ description: "Historic Art Deco movie palace — catch a film in style"
 address: "2 Orinda Theatre Square, Orinda, CA 94563"
 website: "https://theorindatheatre.com"
 tags: ["entertainment", "movies", "historic", "orinda", "date-night"]
-lastVerified: "2026-05-28"
+lastVerified: "2026-05-29"
 ---
 
 ![Orinda Theatre with BART](/images/Orinda_TheaterWithBART.jpg)
@@ -25,9 +25,9 @@ The theatre shows a mix of:
 ## Make a Night of It
 
 Theatre Square surrounds the cinema with dining and drinks:
-- Grab dinner at **Shelby's** before the show
-- Drinks at **Fourth Bore Tap Room** after
-- Quick bite at **Comelones Tacos** or **Petra**
+- Grab dinner at **[Shelby's](/orinda/restaurants/shelbys/)** before the show
+- Drinks at **[Fourth Bore Tap Room](/orinda/restaurants/fourth-bore/)** after
+- Quick bite at **Comelones Tacos** (Jalisco-style tacos, burritos, halal and veggie options; Suite 142, open daily until 8:30 PM) or **Petra Cafe** (Greek-Mediterranean wraps, falafel, gyros; Suite 105, open daily until 8:00 PM, Fri until 8:30 PM)
 
 ## Local Lore
 

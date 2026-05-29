@@ -2,7 +2,8 @@
 title: "Where to Play Pickleball in Lamorinda"
 description: "Public courts, drop-in hours, reservations, and unwritten rules for pickleball in Lafayette, Moraga, and Orinda."
 tags: ["pickleball", "recreation", "outdoors", "lafayette", "moraga", "orinda", "family-friendly"]
-last_updated: 2026-05-23
+last_updated: 2026-05-29
+lastVerified: "2026-05-29"
 ---
 
 ![Lamorinda trails and outdoor recreation](/images/new_trails.png)
@@ -39,9 +40,9 @@ Hours change seasonally and around city programming. Check the [City of Orinda p
 
 **Address:** Moraga Commons, 1425 St. Mary's Rd, Moraga, CA
 
-Moraga's public courts are dual-lined for tennis and pickleball. There's no formal pickleball-only schedule at the Commons, which means courts are first-come, first-served and shared with tennis players. Mornings are typically pickleball-heavy; afternoons skew tennis. Bring portable nets if you want to be sure of a setup — some regulars do.
+Moraga's public courts at the Commons are dual-lined for tennis and pickleball. There's no formal pickleball-only schedule, which means courts are first-come, first-served and shared with tennis players. Mornings are typically pickleball-heavy; afternoons skew tennis. Bring portable nets if you want to be sure of a setup — some regulars do.
 
-**Realistic expectation:** You may wait. Be polite about the queue, and don't roll onto a court mid-tennis-match expecting an immediate handoff.
+**Realistic expectation:** You may wait. Be polite about the queue, and don't roll onto a court mid-tennis-match expecting an immediate handoff. **Summer concert nights** (Thursdays June 11 – Aug 20 in 2026) bring extra foot traffic to the Commons starting around 5:30 PM — court play is fine, but the parking lot is the bottleneck.
 
 For broader Moraga Commons information (concerts, playgrounds, picnic facilities), see our [Moraga Commons guide](/things-to-do/moraga-commons/).
 
@@ -85,6 +86,15 @@ These are not written down anywhere. They are deadly important.
 ## Lessons & Clinics
 
 The Orinda Parks & Recreation department, Lafayette Parks & Recreation, and several private instructors offer pickleball clinics. Check each city's seasonal program guide. Group clinics are an efficient way to learn the strange three-zone court geometry and the underhand serve mechanics without embarrassing yourself in open play.
+
+## Late Spring 2026 — Court Reality Check
+
+As of late May 2026, all three public-court sites are in their easy-weather sweet spot — low-70s afternoons, dry mornings, and 8:25pm sunsets that stretch evening sessions usefully. A few timely notes:
+
+- **Orinda Community Center Park** Tuesday and Thursday evening sessions (5–8 PM) are the social peak right now — the Light Card requirement kicks in once the sun drops past the ridge, typically around 7:45 PM through June.
+- **Moraga Commons** courts have been quiet on Saturday afternoons but get squeezed on Thursdays after 5:30 PM as the [summer concert series](/things-to-do/moraga-commons/#summer-concert-series) (returning June 11) starts pulling crowds into the park. Play earlier or play Friday.
+- **Lafayette Community Park** is still the informal-play option; bring chalk and a portable net, and don't expect a formal schedule.
+- **Smoke / air-quality watch:** Lamorinda's first hot, dry stretch is usually when early-season fire smoke shows up. Check AQI before booking morning sessions in late June and beyond.
 
 ## Best Times to Play
 

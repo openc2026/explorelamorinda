@@ -3,6 +3,7 @@ title: "Moraga Commons Park"
 description: "Community heart of Moraga — playground, concerts, and gathering space"
 address: "1425 St Mary's Road, Moraga, CA 94556"
 tags: ["parks", "playground", "concerts", "family-friendly", "moraga", "community"]
+lastVerified: "2026-05-29"
 ---
 
 ![Moraga hills panorama](/images/new_panoramic4.png)
@@ -58,7 +59,7 @@ All shows 6:30 – 8:30 PM at the Moraga Commons Bandshell. **Free admission.**
 ## For Everyone Else
 
 - **Picnic areas** — Tables and lawn space
-- **Sports courts** — Basketball and more
+- **Sports courts** — Basketball, plus dual-lined tennis/pickleball courts (first-come, first-served; see our [Lamorinda pickleball guide](/things-to-do/pickleball/) for etiquette and best times)
 - **Walking paths** — Connect to the Lafayette-Moraga Trail
 - **Dog walking** — On leash
 
@@ -92,6 +93,6 @@ Beyond concerts, the park hosts:
 
 ## Explore More in Lamorinda
 
-- [Moraga Guide](/moraga/) � Full overview of the town this sits in
-- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
-- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Moraga, Lafayette, Moraga, or Orinda
+- [Moraga Guide](/moraga/) � Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Moraga, Lafayette, Moraga, or Orinda
