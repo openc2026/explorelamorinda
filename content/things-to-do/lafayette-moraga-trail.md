@@ -2,6 +2,8 @@
 title: "Lafayette-Moraga Regional Trail"
 description: "Paved trail connecting Lafayette and Moraga — perfect for walking, running, and cycling"
 tags: ["outdoors", "hiking", "biking", "walking", "family-friendly", "lafayette", "moraga"]
+last_updated: 2026-05-30
+lastVerified: "2026-05-30"
 ---
 
 ![Lafayette-Moraga Trail](/images/new_trails.png)
@@ -36,9 +38,15 @@ It's not wilderness — it's better for certain purposes. The pavement means you
 - **Summer**: Start early — shade is limited and the paved surface can get hot. Before 9am is ideal.
 - **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even right after rain.
 
-## Late March into April
+## Late May / Early June 2026 — The Green-to-Gold Pivot
 
-Peak wildflower season is here. The hills along the trail are lush and green, California poppies are opening on the sunny slopes, and the lupine won't be far behind. This window — late March through mid-April — is arguably the trail's most beautiful stretch of the year. Mornings are crisp, afternoons warm to the mid-60s, and the light has that golden spring quality that makes everything look better. If you've been meaning to walk or bike the trail, don't wait — the green hills start fading to gold by late May.
+Late May is the trail's transitional moment: the hills are mid-shift from emerald spring green to their classic California summer gold, and you can see both palettes on the same ridge depending on slope and sun exposure. By mid-June it'll be mostly gold; right now you still get the contrast. A few timely notes for the first weekend of June:
+
+- **Best window:** 7–9 a.m. on weekdays, before 9 a.m. on weekends. Sunsets are past 8:25 p.m., so evening rides from ~6:30 p.m. also work well — the light is excellent and the pavement has cooled.
+- **Memorial Day reset:** Weekend foot traffic has dropped back to its normal rhythm after the holiday surge. Expect the usual mix of stroller crews, dog walkers, and road cyclists — but no holiday crowds.
+- **Trail surface:** Dry, fast, and clean after a rain-free stretch. Roadie-friendly conditions all the way down to the Moraga end.
+- **Heads-up:** PG&E vegetation management is ongoing this season between Oliveira Lane and the Lafayette Community Center; trail width is occasionally restricted in those sections during brush removal. Verify current status on the [EBparks trail page](https://www.ebparks.org/trails/interpark/lafayette-moraga) before a long ride if you're routing through that stretch.
+- **Cross-link:** Pair the south end with a stop at [Moraga Commons](/things-to-do/moraga-commons/) — Thursday concert nights start June 11, so an early-evening trail run plus picnic-blanket music is back on the menu.
 
 ## Local Lore
 
@@ -63,6 +71,6 @@ The next time you're coasting downhill toward Moraga Commons, remember: a centur
 
 ## Explore More in Lamorinda
 
-- [Lafayette Guide](/lafayette/) � Full overview of the town this sits in
-- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
-- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Lafayette, Lafayette, Moraga, or Orinda
+- [Lafayette Guide](/lafayette/) � Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Lafayette, Lafayette, Moraga, or Orinda
