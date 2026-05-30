@@ -7,7 +7,7 @@ website: "https://www.townbakerycafe.com"
 hours: "Tue-Sun 8am-3pm; Dinner Tue-Sat 4pm-7:50pm; Closed Monday"
 price: "$-$$"
 tags: ["bakery", "breakfast", "cafe", "dinner", "pastries", "rheem"]
-lastVerified: "2026-05-22"
+lastVerified: "2026-05-30"
 ---
 
 Town Bakery & Cafe is one of those neighborhood gems that makes you feel lucky to live nearby. Tucked into the Rheem Shopping Center, it's a European-style bakery by morning and a surprisingly good dinner spot by evening — run by owners who clearly care about every pastry that leaves the display case.
@@ -40,7 +40,7 @@ Small, bright, and unpretentious. Grab a pastry at the counter, find a seat, wav
 - **Get there early** for the best pastry selection
 - Takeout-friendly for weekday mornings
 - The dinner salads are generous enough to split
-- **Early-summer tip:** The Basque cheesecake travels well — grab a slice and walk five minutes to the Rheem Center benches for an afternoon sit, or pair it with an iced coffee for a Lafayette Reservoir picnic stop
+- **Late-spring / early-summer tip:** The Basque cheesecake travels well — grab a slice and walk five minutes to the Rheem Center benches for an afternoon sit, or pair it with an iced coffee for a [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) picnic stop
 
 ## The Verdict
 
