@@ -1,7 +1,7 @@
 ---
 title: "Things to Do"
 description: "Parks, trails, entertainment, and recreation in Lamorinda"
-last_updated: 2026-05-19
+last_updated: 2026-05-30
 ---
 
 ![Lamorinda trails](/images/new_trails.png)
@@ -59,19 +59,21 @@ Dogs are welcome on leash on most paved Lamorinda trails. Always check trailhead
 - **Tennis** — Public courts at Orinda Community Center, Moraga Commons, and Lafayette Community Park
 - **Cycling** — The Lafayette-Moraga Trail and Tunnel Road climbs are the regional favorites
 
-## Seasonal Note: Late May 2026
+## Seasonal Note: Memorial Day Weekend → Early June 2026
 
-**The two-tone hills are here.** The classic Lamorinda watercolor moment is happening right now — ridges shifting from emerald to gold in patchwork, a look that only lasts a couple of weeks before the dry season takes over completely. Best photographed from the [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) rim trail or any high point on the Lafayette-Moraga Trail.
+**The hills have turned.** The two-tone watercolor moment is essentially over for 2026 — the ridges have shifted decisively toward gold, with only the deepest canyon folds and shaded north slopes still holding green. Dry season is on. The hills will hold their amber palette through October. Best ridge views right now: the [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) rim trail and the high stretch of the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) between the Olympic Boulevard staging area and Moraga Road.
 
-**Long evenings, late light.** Sunsets are stretching past 8:15pm. Post-dinner trail walks are firmly in season, and the reservoir loop after 6:30pm is one of the best uses of an hour you'll find in the East Bay. Bring a light layer — the canyon cool comes in fast once the sun drops behind the ridge.
+**Sunset is past 8:20pm.** With civil twilight running to almost 9pm, the after-dinner trail window is at its widest of the year. The reservoir gates close at sunset; the perimeter sidewalk on Mt. Diablo Boulevard and the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) (no gate, no curfew) are the late-evening alternatives. Bring a light layer once the sun drops behind the ridge — the canyon cool moves fast.
 
-**Memorial Day weekend (May 23-25):** Expect peak crowds at the reservoir, [Moraga Commons](/things-to-do/moraga-commons/), and downtown patios. Arrive at popular trailheads before 9am for parking, or come after 4pm when the morning rush has cleared. Read more in our [Memorial Day soft launch post](/blog/memorial-day-soft-launch/).
+**Graduation traffic this weekend (May 30-31).** Acalanes, Campolindo, Miramonte, and Saint Mary's College commencement weekends overlap here. Expect parking pressure and afternoon street congestion around Moraga (St. Mary's Road, Moraga Way, Camino Pablo) and downtown Lafayette (Mt. Diablo Blvd between Oak Hill and Hampton). The Caldecott Tunnel runs hot eastbound 3-7pm Friday and Saturday — see our [Caldecott Tunnel guide](/getting-around/caldecott-tunnel/) for timing and alternate routes. Read the full graduation-weekend field report in [Saturday the Party](/blog/saturday-the-party/).
 
-**Graduation weekends ahead.** Saint Mary's College commencement (late May) and local high school graduations (Acalanes, Campolindo, Miramonte) push traffic and parking pressure into the first week of June, especially around Moraga and downtown Lafayette. Plan ahead.
+**Pool clubs are fully open.** Lafayette, Orinda Park Pool, Soda Aquatic Center at Campolindo, and the swim/tennis clubs (Burton Valley, Orinda Country Club, Moraga Country Club) are in regular-season hours. Lap swim mornings start as early as 5:30am; family swim runs through 8pm at most clubs through Labor Day.
 
-**This week's tip:** Mornings start in the upper 50s, afternoons crest into the low 80s, and the air is crisp-dry. The Moraga Commons summer concert series doesn't fire up until June 11, so the bandshell lawn is wide open for impromptu picnics this week. Pool clubs around the area opened over the past weekend.
+**Farmers markets in full swing.** The [Lafayette Farmers Market](/blog/farmers-market-theater/) (Sunday 9am-1pm, behind La Fiesta Square) and the Orinda Farmers Market (Saturday 9am-1pm, Orinda Way) are at peak stone-fruit transition — late cherries giving way to apricots, the first peaches arriving, and the strawberry stalls deep into their second flush.
 
-**Looking ahead:** June brings the [Moraga Commons concerts](/things-to-do/moraga-commons/) (Thursdays, 6:30-8:30pm), the first 90°+ heat waves, and the start of the summer farmers market peak. Pack sunscreen and start hydrating now.
+**Moraga Commons concerts start June 11.** The free Thursday-night summer series at the [Moraga Commons](/things-to-do/moraga-commons/) bandshell runs 6:30-8:30pm weekly through the end of July. Bring blankets, low chairs, and food — the lawn fills by 6pm on the opening weeks.
+
+**Looking ahead — June 2026:** First 90°+ heat waves typically land in the second week of June. School ends in the first week (Acalanes Union HSD: June 5). Camp drop-off chaos peaks Monday June 8 across the Lafayette Community Center, Moraga Parks & Rec, and Orinda Community Center programs. The [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) gets dramatically busier the moment school lets out — arrive before 9am or after 5pm for parking through August.
 
 ## The Lifestyle
 
