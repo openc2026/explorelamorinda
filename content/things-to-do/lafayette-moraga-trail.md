@@ -2,20 +2,23 @@
 title: "Lafayette-Moraga Regional Trail"
 description: "Paved trail connecting Lafayette and Moraga — perfect for walking, running, and cycling"
 tags: ["outdoors", "hiking", "biking", "walking", "family-friendly", "lafayette", "moraga"]
-last_updated: 2026-05-30
-lastVerified: "2026-05-30"
+last_updated: 2026-05-31
+lastVerified: "2026-05-31"
 ---
 
 ![Lafayette-Moraga Trail](/images/new_trails.png)
 
-The Lafayette-Moraga Regional Trail is a 7.6-mile paved path connecting Olympic Boulevard in Lafayette to the Commons Park in Moraga. Following the route of an old railroad line, it's flat, family-friendly, and one of the best ways to experience Lamorinda without a car.
+The Lafayette-Moraga Regional Trail is a 7.65-mile paved path running roughly parallel to St. Mary's Road, connecting the Olympic Boulevard staging area in Lafayette to the EBMUD Valle Vista staging area on the southern edge of Moraga. Following the route of an old railroad line, it's flat, family-friendly, and one of the best ways to experience Lamorinda without a car.
 
 ## The Route
 
-Starting in Lafayette, the trail winds through residential areas and open space, passing:
-- **Lafayette Community Park**
-- **Valle Vista Staging Area**
-- **Moraga Commons Park** (southern terminus)
+Starting at the **Olympic Boulevard staging area** in Lafayette (the formal northern trailhead), the trail winds through residential areas and open space, passing:
+
+- **Lafayette Community Park** — water, restrooms, and the most popular mid-route rest stop
+- **Moraga Commons Park** — the practical southern exit for most users; cross-link to the [Moraga Commons](/things-to-do/moraga-commons/) entry for amenities and the summer concert series
+- **Valle Vista Staging Area** — the trail's formal southern terminus, just past Moraga at the EBMUD watershed boundary
+
+Most riders and walkers end their trips at Moraga Commons because of the parking, restrooms, and easy car pickup. The trail itself continues another short stretch to the EBMUD Valle Vista staging area, where it ends officially. Both are valid finish points depending on what you're after.
 
 The old railroad route means gentle grades throughout — strollers and road bikes handle it easily.
 
