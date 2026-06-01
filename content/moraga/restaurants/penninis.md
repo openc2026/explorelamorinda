@@ -1,45 +1,50 @@
 ---
 title: "Pennini's & Michael's Restaurant"
-description: "Two restaurants in one — Italian comfort food and a full bar"
-address: "1375 Moraga Way, Suite D, Moraga, CA 94556"
+description: "Two restaurants, one address — casual Italian by week, fine dining on weekends"
+address: "1375 Moraga Way, Moraga, CA 94556"
 phone: "(925) 376-1515"
 website: "https://www.penninis.com"
-hours: "Mon 4pm-8pm, Tue-Sat 12pm-9pm, Sun 12pm-8pm"
+hours: "Pennini's: Mon 4pm-8pm, Tue-Sat 12pm-9pm, Sun 12pm-8pm. Michael's: Fri-Sat 4pm-9pm only."
 price: "$$"
-tags: ["italian", "bar", "family-friendly", "moraga-way"]
-lastVerified: "2026-05-22"
+tags: ["italian", "bar", "family-friendly", "moraga-way", "fine-dining"]
+lastVerified: "2026-06-01"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
 
-Pennini's and Michael's Restaurant share a space — and you can order from either menu whether you're dining in or taking out. It's a unique setup that gives you the best of both worlds: Italian comfort food and a full bar menu.
+Pennini's and Michael's share an address — but they're two distinct restaurants, side by side, with two different vibes. Pennini's (Suite D) is the casual family Italian spot you'll find open most of the week. Michael's (Suite A) is the dressed-up fine-dining sibling that only opens Friday and Saturday evenings.
 
 ## The Concept
 
-Two menus, one location. Dining in the Pennini's side? Feel free to order from Michael's. Getting takeout? Mix and match. It's the kind of flexibility that makes this a neighborhood favorite.
+One Moraga address, two side-by-side restaurants under shared ownership: Pennini's is the everyday neighborhood Italian — pasta, sandwiches, a full bar, kids in booster seats. Michael's, next door in Suite A, is the white-tablecloth weekend room. Same kitchen lineage, very different rooms.
+
+If you're new to the spot, the short version: **weeknight = Pennini's. Date night Friday or Saturday = Michael's.**
 
 ## What to Order
 
-**From Pennini's:**
+**Pennini's (casual side):**
 - **Pasta dishes** — Hearty, traditional preparations
 - **Italian sandwiches** — Good for lunch or takeout
 - **Classic appetizers** — Garlic bread, bruschetta
+- **The bar** — Full beer, wine, and cocktail list; the only seven-day bar option in the Moraga Shopping Center area
 
-**From Michael's:**
-- **Burgers and bar food** — When you want American comfort
-- **Cocktails and beer** — Full bar selection
-
-The ability to order from either menu at any table is genuinely useful — especially with kids who want chicken fingers while parents want linguine.
+**Michael's (Friday & Saturday only):**
+- **Fine-dining Italian** — A more ambitious, slower-paced version of the Pennini's-side menu
+- **Reservations recommended** — Two nights a week and a small dining room means the good tables go early
+- **Separate phone for Michael's reservations:** (925) 376-4300
 
 ## Local Lore
 
-Pennini's has been feeding Moraga families since the late 1980s — making it one of the longest-running restaurants in town. The dual-concept with Michael's evolved over time, with the bar side giving parents somewhere to grab a drink while kids demolished breadsticks. It's become a rite of passage for Lamorinda families: kids who grew up eating spaghetti here now bring their own children. The staff knows regulars by name, and there's always someone waving across the room. That's not marketing — that's just how Moraga works.
+Pennini's has been feeding Moraga families since the late 1980s — making it one of the longest-running restaurants in town. The Michael's side evolved as the upscale-evening complement: same ownership, same culinary roots, but a different room, a different pace, and a Friday/Saturday-only schedule that keeps it special. For many Lamorinda families, Pennini's is where the kids grew up eating spaghetti, and Michael's is where they came back for their parents' anniversaries.
+
+The staff knows regulars by name, and there's always someone waving across the room. That's not marketing — that's just how Moraga works.
 
 ## Good to Know
 
-- **Location:** Moraga Way, in the Moraga Shopping Center area
-- **Family-friendly** — This is a neighborhood spot, not a date night destination
-- **Takeout-friendly** — Popular for quick pickups
-- **The bar side (Michael's)** — Good for a drink while waiting for your table or your order
-- **Happy Hour:** Monday–Friday 4–5pm, $2 off any beer, wine, or cocktail — a quiet, civilized window before the family-dinner rush hits
+- **Two suites, one address:** Pennini's = Suite D (925.376.1515). Michael's = Suite A (925.376.4300).
+- **Schedules are very different:** Pennini's runs almost every day; Michael's is Friday-Saturday evenings only.
+- **Family-friendly (Pennini's side)** — This is a neighborhood spot, kids welcome
+- **Date-night room (Michael's side)** — Reserve ahead, especially on weekends with a Saint Mary's home event
+- **Takeout** — Pennini's is the takeout-friendly side; Michael's is a sit-down room
+- **Happy Hour:** Pennini's bar, Monday–Friday 4–5pm, $2 off any beer, wine, or cocktail — a quiet, civilized window before the family-dinner rush hits
 - **Parking:** Easy — it's Moraga

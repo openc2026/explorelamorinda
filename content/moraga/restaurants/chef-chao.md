@@ -7,7 +7,7 @@ website: "https://www.chefchaorestaurant.com"
 hours: "Tue-Sat 11am-2pm & 4pm-9pm, Sun 3pm-9pm, Closed Mon"
 price: "$$"
 tags: ["chinese", "family-owned", "longtime-local", "rheem"]
-lastVerified: "2026-05-22"
+lastVerified: "2026-06-01"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -36,6 +36,8 @@ The weekday lunch specials are the local secret: appetizer, soup, rice, and a fo
 ## Between Services
 
 Chef Chao closes 2pm-4pm between lunch and dinner — a Moraga rhythm that catches first-time visitors off guard. If you're driving in from out of town, plan for an 11:30am lunch or a 4:15pm early dinner; arriving at 3pm to a dark dining room is a small local rite of passage.
+
+**Early summer note:** With school out and Campolindo families easing into summer-evening routines, the 4–5:30pm early-dinner window is your friend if you're traveling with kids. The post-pool, pre-bedtime crowd hasn't quite formed yet, so you'll usually walk straight to a table; by 6:30pm the dining room fills up with families who've spent the afternoon outside and want something hot, fast, and familiar. The Tuesday/Wednesday lunch sweet-spot still holds in summer — and on the hottest afternoons, the closed Mondays mean Tuesday lunch is the first slot of the week, so it can be busier than usual right at 11:30am opening.
 
 ## Good to Know
 
