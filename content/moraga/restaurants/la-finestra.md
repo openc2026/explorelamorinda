@@ -7,7 +7,7 @@ website: "https://lafinestraristorante.com"
 hours: "Tue-Thu 11:30am-8pm, Fri 11:30am-8:30pm, Sat 4:30pm-8:30pm, Sun 4:30pm-8pm, Closed Mon"
 price: "$$$"
 tags: ["italian", "fine-dining", "date-night", "moraga"]
-lastVerified: "2026-05-23"
+lastVerified: "2026-06-02"
 ---
 
 ![La Finestra Ristorante](/images/Moraga_LaFinestra.jpg)

@@ -57,6 +57,6 @@ Main entrance on Mt. Diablo Blvd, about a mile east of downtown Lafayette. The l
 
 ## Explore More in Lamorinda
 
-- [Lafayette Guide](/lafayette/) � Full overview of the town this sits in
-- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
-- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Lafayette, Lafayette, Moraga, or Orinda
+- [Lafayette Guide](/lafayette/) — Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) — More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) — Buying or selling in Lafayette, Moraga, or Orinda
