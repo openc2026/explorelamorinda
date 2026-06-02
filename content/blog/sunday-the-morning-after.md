@@ -40,11 +40,11 @@ There is coffee. There is a *lot* of coffee. The host has made enough coffee for
 
 The other relatives — the ones who *did* drink — will not appear until 11:30 AM. Some will not appear until noon. One of them, somewhere in the house, will not appear until they have to be physically encouraged toward an Uber to SFO at 2:45 PM.
 
-**11:00 AM — The Sunday Lafayette Farmers Market**
+**11:00 AM — The Moraga Farmers Market**
 
-Meanwhile, downtown Lafayette, behind La Fiesta Square, the [Sunday Farmers Market](/blog/farmers-market-theater/) is operating at about 60% of its usual capacity. The vendors are there. The early-stone-fruit vendor has the first real Brentwood peaches of the season — small, dense, very promising. But the *crowd* is thin. The serious Saturday-market regulars are not here, because the Lafayette serious-market regulars went to *yesterday's* Orinda Saturday market and are now hosting their own brunches.
+Meanwhile, ten minutes south at the [Moraga Farmers Market](/things-to-do/farmers-markets/) (Sundays 9 AM–1 PM, Moraga Center), the market is operating at about 60% of its usual capacity. The vendors are there. The early-stone-fruit vendor has the first real Brentwood peaches of the season — small, dense, very promising. But the *crowd* is thin. The serious Saturday-market regulars are not here, because the Lamorinda serious-market regulars went to *yesterday's* Orinda Saturday market and are now hosting their own brunches.
 
-The people who *are* at the Sunday market this morning are a particular Lamorinda subspecies: the host's *neighbors*, who deliberately scheduled their grocery run for Sunday morning specifically to avoid the graduation-party Saturday crowd, and who are now walking the loop with a small smug expression because they were right.
+The people who *are* at the Moraga market this morning are a particular Lamorinda subspecies: the host's *neighbors*, who deliberately scheduled their grocery run for Sunday morning specifically to avoid the graduation-party Saturday crowd, and who are now walking the loop with a small smug expression because they were right.
 
 **12:30 PM — The Goodbye Loop**
 

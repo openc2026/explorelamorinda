@@ -14,7 +14,7 @@ faq:
   - q: "Is Lafayette walkable?"
     a: "Downtown Lafayette is genuinely walkable — Mt. Diablo Boulevard runs about a mile of restaurants, shops, and services where you can park once and stroll between stops. Most residential neighborhoods, however, are car-oriented suburban streets. Burton Valley is the most walkable residential area due to its flat terrain and sidewalks."
   - q: "What is there to do in Lafayette, CA?"
-    a: "Lafayette's signature attractions are the Lafayette Reservoir (2.7-mile loop, kayaking, fishing), the downtown restaurant scene along Mt. Diablo Boulevard, the Lafayette-Moraga Regional Trail, and easy access to Briones Regional Park for hiking. The town also hosts the annual Art & Wine Festival each September and a year-round Thursday farmers market."
+    a: "Lafayette's signature attractions are the Lafayette Reservoir (2.7-mile loop, kayaking, fishing), the downtown restaurant scene along Mt. Diablo Boulevard, the Lafayette-Moraga Regional Trail, and easy access to Briones Regional Park for hiking. The town also hosts the annual Art & Wine Festival each September. Note: Lafayette no longer has its own weekly farmers market (the original closed in 2013); nearby Orinda runs a Saturday market and Moraga a Sunday market — both serve all of Lamorinda."
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -39,7 +39,7 @@ Lafayette occupies a sweet spot in the East Bay: close enough to San Francisco t
 
 The town stretches along a narrow valley framed by oak-studded hills. Highway 24 cuts through the middle, BART runs alongside it, and Mt. Diablo Boulevard threads the commercial spine. Pull off the freeway at any of the three Lafayette exits and you're within five minutes of either downtown, a trailhead, or your driveway.
 
-What makes Lafayette unusual for a Bay Area suburb is the density of its civic life. The library is busy. The farmers market is busy. The 4th of July parade actually has a crowd. The high school football games draw locals who haven't had a kid in the district for a decade. People know their neighbors. They run into each other at Diablo Foods or at Susie's Coffee. It is a town in the older sense of the word — a place with a there, there.
+What makes Lafayette unusual for a Bay Area suburb is the density of its civic life. The library is busy. The Saturday morning crowd at the [Orinda Farmers Market](/things-to-do/farmers-markets/) five minutes east is half-Lafayette. The 4th of July parade actually has a crowd. The high school football games draw locals who haven't had a kid in the district for a decade. People know their neighbors. They run into each other at Diablo Foods or at Susie's Coffee. It is a town in the older sense of the word — a place with a there, there.
 
 ## History
 
@@ -58,7 +58,7 @@ The stretch of Mt. Diablo Boulevard through town is what makes Lafayette special
 - **La Fiesta Square** — Shopping center with restaurants and shops
 - **Walkable** — Park once, stroll between spots
 
-A typical Saturday morning has people walking dogs to the farmers market, sitting outside Susie's or Chow with a coffee, and ducking into bookshops or the hardware store. By evening, Restaurant Row is alive in a way that few suburban "downtowns" actually manage.
+A typical Saturday morning has people walking dogs along Mt. Diablo Boulevard, sitting outside Susie's or Chow with a coffee, and ducking into bookshops or the hardware store — many of them just back from the [Orinda Farmers Market](/things-to-do/farmers-markets/) up the road. By evening, Restaurant Row is alive in a way that few suburban "downtowns" actually manage.
 
 ## Neighborhoods
 
@@ -150,7 +150,7 @@ Most Lafayette students attend Acalanes High School, with some neighborhoods fee
 Downtown Lafayette is genuinely walkable. Most residential neighborhoods are car-oriented suburban streets, though Burton Valley is the most walkable residential area due to its flat terrain and sidewalks.
 
 **What is there to do in Lafayette?**
-The Lafayette Reservoir, downtown's Restaurant Row, the Lafayette-Moraga Regional Trail, Briones Regional Park, and the annual Art & Wine Festival are the marquee draws. Day-to-day, downtown alone gives you a week's worth of restaurants, the farmers market, and the library.
+The Lafayette Reservoir, downtown's Restaurant Row, the Lafayette-Moraga Regional Trail, Briones Regional Park, and the annual Art & Wine Festival are the marquee draws. Day-to-day, downtown gives you a week's worth of restaurants and the library; for a weekly farmers market, Lamorinda residents drive five minutes to the [Orinda (Saturday) or Moraga (Sunday) markets](/things-to-do/farmers-markets/).
 
 ---
 

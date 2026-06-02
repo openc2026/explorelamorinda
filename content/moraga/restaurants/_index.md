@@ -48,7 +48,7 @@ Chef Assadi's second restaurant (the first was in Lafayette), opened in Moraga i
 ### Town Bakery & Café (Moraga)
 **Rheem Center area, Moraga**
 
-A locals' breakfast and bakery spot — pastries, breakfast sandwiches, the regular morning coffee crowd, and a small bench of "I just walked the dog" seating. Good for a quick weekday pastry, a Saturday breakfast before [the Lafayette farmers market](/blog/farmers-market-theater/), or to grab a tray of croissants for a Sunday open house.
+A locals' breakfast and bakery spot — pastries, breakfast sandwiches, the regular morning coffee crowd, and a small bench of "I just walked the dog" seating. Good for a quick weekday pastry, a Saturday breakfast before [the Orinda Farmers Market](/things-to-do/farmers-markets/) up the road, a Sunday pre-market stop before [Moraga's own market](/things-to-do/farmers-markets/) two blocks away, or to grab a tray of croissants for a Sunday open house.
 
 - **Known for:** Morning croissants, breakfast sandwiches, the bagel selection.
 - **Vibe:** In-and-out, neighborhood, a steady regulars rotation. The line moves quickly.
