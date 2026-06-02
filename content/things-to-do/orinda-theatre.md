@@ -58,6 +58,6 @@ Memorial Day weekend has cleared and the AUHSD graduation-party surge (May 30 / 
 
 ## Explore More in Lamorinda
 
-- [Orinda Guide](/orinda/) � Full overview of the town this sits in
-- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
-- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Orinda, Lafayette, Moraga, or Orinda
+- [Orinda Guide](/orinda/) — Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) — More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) — Buying or selling in Lafayette, Moraga, or Orinda

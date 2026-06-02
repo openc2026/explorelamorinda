@@ -93,6 +93,6 @@ Beyond concerts, the park hosts:
 
 ## Explore More in Lamorinda
 
-- [Moraga Guide](/moraga/) � Full overview of the town this sits in
-- [All Things to Do](/things-to-do/) � More Lamorinda outings, parks, and venues
-- [Real Estate in Lamorinda](/real-estate/) � Buying or selling in Moraga, Lafayette, Moraga, or Orinda
+- [Moraga Guide](/moraga/) — Full overview of the town this sits in
+- [All Things to Do](/things-to-do/) — More Lamorinda outings, parks, and venues
+- [Real Estate in Lamorinda](/real-estate/) — Buying or selling in Lafayette, Moraga, or Orinda
