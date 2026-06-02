@@ -51,7 +51,7 @@ Dogs are welcome on leash on most paved Lamorinda trails. Always check trailhead
 
 - **Orinda Theatre** — First-run and independent films
 - **Summer concerts** at Moraga Commons
-- **Farmers markets** (seasonal, check locations)
+- **[Farmers markets](/things-to-do/farmers-markets/)** — Orinda (Saturday) and Moraga (Sunday), both year-round 9am-1pm
 
 ## Sports & Active Recreation
 
@@ -73,7 +73,7 @@ Dogs are welcome on leash on most paved Lamorinda trails. Always check trailhead
 
 **Pool clubs are fully open.** Lafayette Community Pool, Orinda Park Pool, Soda Aquatic Center at Campolindo, and the swim/tennis clubs (Burton Valley, Orinda Country Club, Moraga Country Club) are in regular-season hours. Lap swim starts as early as 5:30am; family swim runs through 8pm at most clubs through Labor Day. First full no-school weekend (June 13-14) is the unofficial pool-season peak — arrive early for a deck chair.
 
-**Farmers markets in stone-fruit transition.** The Lafayette Farmers Market (Sunday 9am-1pm, behind La Fiesta Square) and the Orinda Farmers Market (Saturday 9am-1pm, Orinda Way) are at the cherry-to-peach handoff. Late Brooks and Bing cherries are still around, the first real Brentwood peaches and apricots are arriving, and strawberries are deep into their second flush. See [Farmers Market Theater](/blog/farmers-market-theater/) for the local etiquette.
+**Farmers markets in stone-fruit transition.** The [Orinda Farmers Market](/things-to-do/farmers-markets/) (Saturday 9am-1pm, Orinda Way, in front of Rite Aid) and the [Moraga Farmers Market](/things-to-do/farmers-markets/) (Sunday 9am-1pm, Moraga Center at Moraga Road & Moraga Way) are at the cherry-to-peach handoff. Late Brooks and Bing cherries are still around, the first real Brentwood peaches and apricots are arriving, and strawberries are deep into their second flush. (Note: there is no Lafayette Farmers Market — it closed in 2013 — so Lamorinda's two farmers markets are Orinda Saturdays and Moraga Sundays.) See the [Farmers Markets guide](/things-to-do/farmers-markets/) for the full rundown, or [Farmers Market Theater](/blog/farmers-market-theater/) for the local etiquette.
 
 **Moraga Commons concerts open Thursday June 11.** The free Thursday-night summer series at the [Moraga Commons](/things-to-do/moraga-commons/) bandshell runs 6:30-8:30pm weekly through August 20 — opening night is the **Sun Kings** (Beatles tribute). Bring blankets, low chairs, and food. The lawn fills by 6pm on the opening weeks — biking in via the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) is the move on concert nights once parking gets tight.
 
