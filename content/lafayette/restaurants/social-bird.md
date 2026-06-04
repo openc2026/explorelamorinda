@@ -6,8 +6,8 @@ phone: "(925) 298-5828"
 website: "https://www.social-bird.com"
 hours: "Sun-Thu 11:30am-9pm, Fri-Sat 11:30am-9:30pm"
 price: "$$"
-tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable"]
-lastVerified: "2026-05-26"
+tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable", "restaurant-row"]
+lastVerified: "2026-06-04"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -40,8 +40,14 @@ Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spo
 - Lively atmosphere; not ideal for quiet conversations
 - **Late-spring and early-summer evenings** are prime time for the patios — book ahead for outdoor seating
 
-## Early Summer Tip: Late May Through Mid-June 2026
+## Early June Tip: First Two Weeks of June 2026
 
-With Memorial Day weekend behind us, the three patios slide into their best stretch of the year. Sunsets are now past 8:20pm, afternoons settle in the upper 70s, and the corner location means light from multiple directions well into the evening. The craft cocktail program is at its best in this window: lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering. Weekend patio dinners still book up fast (especially Saturday), so reserve outdoor seating in advance — or aim for the Sun–Thu Happy Hour (3–5pm), which gets noticeably easier now that the long-weekend crowd has cleared out.
+With Memorial Day behind us and the last day of school approaching (Acalanes finishes June 11), the three patios slide into their best stretch of the year. Sunsets are now past 8:27pm by the first week of June and push toward 8:32pm by mid-month; afternoons settle in the upper 70s, and the corner location means light from multiple directions well into the evening. The craft cocktail program is at its best in this window: lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering. Tuesday through Thursday patios have noticeable breathing room right now — the long-weekend crowd has cleared out and the school-is-out family surge hasn't fully landed yet. Weekend patio dinners still book up fast (especially Saturday), so reserve outdoor seating in advance — or aim for the Sun–Thu Happy Hour (3–5pm), which is the easiest window of the entire week.
 
-If you're piecing together a downtown Lafayette dinner, Social Bird and **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** sit across Mt. Diablo Blvd from each other — same Restaurant Row block, different vibes (gastropub vs. world kitchen). Both are easy to walk between for a drink-then-dinner split.
+If you're piecing together a downtown Lafayette evening, three Restaurant Row choices sit within a one-block walk:
+
+- **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** — directly across Mt. Diablo Blvd; world-kitchen brunch energy with a Mon-Fri 2:30–5:30pm Happy Hour
+- **Social Bird** (here) — lively American gastropub with three patios and craft cocktails
+- **[Postino](/lafayette/restaurants/postino/)** — a few doors down; white-tablecloth Italian-California in the historic Carr Jones building
+
+All three are walkable from the same downtown Lafayette parking, which makes a drink-here / dinner-there split easy to pull off.

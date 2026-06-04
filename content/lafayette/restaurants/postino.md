@@ -46,6 +46,15 @@ Postino's outdoor patio is one of downtown Lafayette's gems — especially durin
 - Private dining room for events and celebrations
 - Catering available for special occasions
 
+## Restaurant Row: Walking Distance Pair-Ups
+
+Postino anchors the upscale end of downtown Lafayette's Restaurant Row, but it's not isolated — two more casual spots sit within a one-block walk and pair naturally with a drink-here / dinner-there split:
+
+- **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** (3602 Mt. Diablo Blvd) — world-kitchen brunch and dinner with a generous Mon-Fri 2:30–5:30pm Happy Hour; useful for an early drink before a 7pm Postino reservation
+- **[Social Bird](/lafayette/restaurants/social-bird/)** (3593 Mt. Diablo Blvd) — lively American gastropub with three patios and craft cocktails; good landing spot if visiting relatives want a livelier post-dinner round
+
+All three are walkable from the same downtown parking, so a party split across two venues doesn't require moving the car.
+
 ## Graduation Season Tip: Late May Through Mid-June 2026
 
 Postino is the natural "the relatives don't want to cook" pick for AUHSD graduation weekend — historic Carr Jones building, white-tablecloth elegance, walkable from downtown Lafayette parking. The reservation window is tighter than people expect:
