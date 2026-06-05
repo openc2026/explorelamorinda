@@ -1,7 +1,7 @@
 ---
 title: "Things to Do"
 description: "Parks, trails, entertainment, and recreation in Lamorinda"
-last_updated: 2026-06-01
+last_updated: 2026-06-05
 ---
 
 ![Lamorinda trails](/images/new_trails.png)
@@ -61,9 +61,9 @@ Dogs are welcome on leash on most paved Lamorinda trails. Always check trailhead
 
 ## Seasonal Note: First Week of June 2026
 
-**Graduation traffic has cleared.** Acalanes, Campolindo, Miramonte, and Saint Mary's College commencements are in the rearview. Moraga Way, St. Mary's Road, Camino Pablo, and downtown Lafayette are back to baseline midweek traffic. The eastbound Caldecott still warms up 4-6pm weekdays, but the late-afternoon graduation-weekend pressure on the [Caldecott Tunnel](/getting-around/caldecott-tunnel/) is gone until the next school-calendar event.
+**Graduation weekend is here.** [Acalanes graduates **tonight**, Friday June 5](/blog/acalanes-friday-the-hours-before/) — football field, 6 PM, gates open at 5. [Campolindo graduates Saturday June 6](/blog/graduation-eve-supply-chain/) at its own home field. Miramonte's ceremony follows the next weekend (June 12). Saint Mary's College commencement weekend has already passed. **Practical traffic note:** Pleasant Hill Road between Stanley Boulevard and Highway 24 is effectively closed for normal use **Friday 4:30–7 PM** and Moraga Road / Camino Pablo near Campolindo is the same story **Saturday 4:30–7 PM**. Reroute downtown errands via Mt. Diablo Boulevard. The eastbound [Caldecott Tunnel](/getting-around/caldecott-tunnel/) also gets a late-afternoon spike both days from out-of-town family driving in from Berkeley, Oakland, and SFO.
 
-**Last week of K-8 school.** Most Lafayette, Moraga, and Orinda K-8 sites finish the week of **June 8-12**. Acalanes Union HSD wraps **Friday June 5** — graduation events are done, finals week is the main event. The trail and reservoir crowds shift dramatically the morning of Monday June 8 (camp season opens — see below). This is the last reliable week of *quiet* mid-morning trail use until September.
+**Last week of K-8 school.** Most Lafayette, Moraga, and Orinda K-8 sites finish the week of **June 8-12**. Acalanes Union HSD wraps **Friday June 5** with tonight's graduation — finals week is over, the campus quiets Monday. The trail and reservoir crowds shift dramatically the morning of Monday June 8 (camp season opens — see below). The mid-June 8-12 window is the last reliable stretch of *quiet* mid-morning trail use until September — book your weekday reservoir loop, [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) ride, or downtown brunch then if you can.
 
 **June Gloom is doing its thing — but mostly to other people.** Marine layer mornings are showing up west of the Berkeley Hills ridge through about mid-June. Lamorinda usually clears by 9am or never sees it at all; Oakland, Berkeley, and the city often stay socked in until 10-11am. Practical impact for your morning plans: the [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) and [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) tend to be sunny at 7:30am even on days the East Bay flats are gray. (Field report on the geography of this is in [June Gloom and the Smug Side of the Tunnel](/blog/june-gloom-the-other-side-of-the-tunnel/).)
 
