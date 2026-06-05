@@ -6,7 +6,7 @@ phone: "(925) 299-8700"
 website: "https://www.postinorestaurant.com"
 hours: "Lunch Mon-Sat 11:30am-3pm (no Sun lunch); Dinner Sun-Thu 4:30pm-8pm, Fri-Sat 4:30pm-8:30pm"
 price: "$$$"
-tags: ["italian", "california-cuisine", "fine-dining", "date-night", "downtown", "lunch", "dinner"]
+tags: ["italian", "california-cuisine", "fine-dining", "date-night", "downtown", "lunch", "dinner", "restaurant-row"]
 lastVerified: "2026-05-27"
 ---
 
