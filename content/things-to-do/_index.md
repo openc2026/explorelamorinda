@@ -1,7 +1,7 @@
 ---
 title: "Things to Do"
 description: "Parks, trails, entertainment, and recreation in Lamorinda"
-last_updated: 2026-06-05
+last_updated: 2026-06-06
 ---
 
 ![Lamorinda trails](/images/new_trails.png)
@@ -49,9 +49,9 @@ Dogs are welcome on leash on most paved Lamorinda trails. Always check trailhead
 
 ## Entertainment
 
-- **Orinda Theatre** — First-run and independent films
-- **Summer concerts** at Moraga Commons
-- **[Farmers markets](/things-to-do/farmers-markets/)** — Orinda (Saturday) and Moraga (Sunday), both year-round 9am-1pm
+- **[Orinda Theatre](/things-to-do/orinda-theatre/)** — First-run and independent films in an 80-year-old Art Deco landmark
+- **[Summer Concerts at Moraga Commons](/things-to-do/moraga-commons/)** — free Thursday-evening bandshell series, **2026 season opens Thursday, June 11** with Sun Kings (Beatles tribute); runs through August 20
+- **[Farmers markets](/things-to-do/farmers-markets/)** — [Orinda Saturday](/things-to-do/farmers-markets/) and [Moraga Sunday](/things-to-do/farmers-markets/), both year-round 9am-1pm; second-weekend-of-June is graduation-party-prep peak
 
 ## Sports & Active Recreation
 

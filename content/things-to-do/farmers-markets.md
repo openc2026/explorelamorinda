@@ -2,7 +2,7 @@
 title: "Lamorinda Farmers Markets — Orinda, Moraga, and Where Lafayette Goes"
 description: "A practical local's guide to the Orinda Farmers Market (Saturdays) and Moraga Farmers Market (Sundays) — hours, locations, what's in season, and the answer to the most-asked question: is there a Lafayette Farmers Market?"
 tags: ["farmers-market", "shopping", "weekends", "moraga", "orinda", "family-friendly", "outdoors"]
-lastVerified: "2026-06-02"
+lastVerified: "2026-06-06"
 ---
 
 ![Lamorinda farmers market](/images/community-farmers-market.jpg)
@@ -114,13 +114,20 @@ If you want to do this *properly* on a single weekend in early summer:
 
 You will have spent your weekend at both markets, walked one trail, eaten two meals out, and brought home enough local produce to anchor the entire next week of cooking. This is the model. Most Lamorinda households who use the markets seriously settle into some version of it.
 
+## A Note on the Second Weekend of June
+
+The second weekend of June is, every year, the busiest weekend of the year at the Orinda Saturday market — by a meaningful margin. Acalanes graduates Friday night, Campolindo Saturday night, and the Saturday-morning market becomes the single most efficient staging ground in Lamorinda for the wave of afternoon and Sunday graduation parties. **Strawberries, flowers, and bread sell out a full hour earlier than normal.** The cheese guy doubles his board sales. The grain-free granola stand has the slowest Saturday of its year.
+
+If you're hosting a grad party this weekend: get to the market by 9:15 sharp. If you're not: come at 11:30 for the calm, the kettle corn, and a remarkable amount of leftover lavender. See the [Orinda Farmers Market on Graduation Saturday](/blog/orinda-farmers-market-grad-saturday/) field report for the full anthropology.
+
 ## See Also
 
 - The [Farmers Market Theater](/blog/farmers-market-theater/) blog post — the local-etiquette-and-behavior field guide, for the spirit of the thing.
+- The [Orinda Farmers Market on Graduation Saturday](/blog/orinda-farmers-market-grad-saturday/) field report — what the second weekend of June looks like on the ground.
 - [Things to Do in Lamorinda](/things-to-do/) — full seasonal calendar and outdoor guide.
 - [Raising Kids in Lamorinda](/raising-kids-in-lamorinda/) — for the parent-with-stroller market angle.
 - [Moraga Restaurants](/moraga/restaurants/) and [Orinda Restaurants](/orinda/restaurants/) — for the brunch pairings.
 
 ---
 
-*Hours and vendor counts verified June 2, 2026 against the operating market associations (CCCFM and CFMA). Markets occasionally adjust for holidays — check the operator pages before driving over for a special Sunday or Saturday.*
+*Hours and vendor counts verified June 6, 2026 against the operating market associations (CCCFM and CFMA). Markets occasionally adjust for holidays — check the operator pages before driving over for a special Sunday or Saturday.*
