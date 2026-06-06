@@ -3,7 +3,7 @@ title: "Moraga Commons Park"
 description: "Community heart of Moraga — playground, concerts, and gathering space"
 address: "1425 St Mary's Road, Moraga, CA 94556"
 tags: ["parks", "playground", "concerts", "family-friendly", "moraga", "community"]
-lastVerified: "2026-05-29"
+lastVerified: "2026-06-06"
 ---
 
 ![Moraga hills panorama](/images/new_panoramic4.png)
@@ -22,7 +22,7 @@ All shows 6:30 – 8:30 PM at the Moraga Commons Bandshell. **Free admission.**
 
 | Date | Act | Genre |
 |------|-----|-------|
-| Thu, Jun 11 | **Sun Kings** | Reggae · Beatles Tribute |
+| Thu, Jun 11 | **Sun Kings** | Beatles Tribute |
 | Thu, Jun 18 | **Purple Ones** | Prince Tribute |
 | Thu, Jun 25 | **Refugees** | Tom Petty Tribute |
 | Sat, Jul 4 | **Wayhighs** (opener) + **Neon Velvet** (main) | 60s Psychedelic / Contemporary Rock |
@@ -73,7 +73,7 @@ Beyond concerts, the park hosts:
 
 ## Best Times to Visit
 
-- **Late May 2026 (now through June 10)**: The calm-before-concerts window. Hills around the park have shifted to that classic California two-tone — half green, half gold — and the weather hits the sweet spot (low-70s, dry, breezy). The summer concert series doesn't start until June 11, so the bandshell lawn is wide open for impromptu picnics and frisbee. With sunsets past 8 PM, after-dinner playground runs are easy.
+- **First Week of June 2026 (now through June 10)**: The final stretch of the calm-before-concerts window — five days out from the Sun Kings opener on Thursday, June 11. Hills around the park have shifted to that classic California two-tone (half green, half gold), and the weather hits the sweet spot (low-70s, dry, breezy). The bandshell lawn is still wide open for impromptu picnics and frisbee through Wednesday June 10, but the production crew typically starts staging equipment Thursday afternoon. With sunsets past 8:28 PM this week — pushing toward 8:32 PM by mid-month — after-dinner playground runs are easy.
 - **Summer Thursdays** (June 11 – Aug 20): Concert nights. Plan to arrive by 5:30 PM for a good blanket spot. The 2026 series runs Thursday evenings 6:30 – 8:30 PM, plus a special Saturday July 4th show.
 - **Saturday July 4, 2026**: The only Saturday show of the season — Wayhighs open, Neon Velvet headlines. Bigger crowd than a typical Thursday.
 - **Late winter/early spring** (Feb-Apr): The surrounding hills are at their greenest. Perfect for a picnic before summer crowds arrive.

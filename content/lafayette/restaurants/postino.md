@@ -7,7 +7,7 @@ website: "https://www.postinorestaurant.com"
 hours: "Lunch Mon-Sat 11:30am-3pm (no Sun lunch); Dinner Sun-Thu 4:30pm-8pm, Fri-Sat 4:30pm-8:30pm"
 price: "$$$"
 tags: ["italian", "california-cuisine", "fine-dining", "date-night", "downtown", "lunch", "dinner", "restaurant-row"]
-lastVerified: "2026-05-27"
+lastVerified: "2026-06-06"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -55,14 +55,14 @@ Postino anchors the upscale end of downtown Lafayette's Restaurant Row, but it's
 
 All three are walkable from the same downtown parking, so a party split across two venues doesn't require moving the car.
 
-## Graduation Season Tip: Late May Through Mid-June 2026
+## Graduation Season Tip: First Two Weeks of June 2026
 
-Postino is the natural "the relatives don't want to cook" pick for AUHSD graduation weekend — historic Carr Jones building, white-tablecloth elegance, walkable from downtown Lafayette parking. The reservation window is tighter than people expect:
+Postino is the natural "the relatives don't want to cook" pick for AUHSD graduation weekend — historic Carr Jones building, white-tablecloth elegance, walkable from downtown Lafayette parking. We're inside the active window now, and the reservation pressure is tighter than people expect:
 
-- **Saturday, May 30, 2026 (graduation-party weekend):** AUHSD commencements run late May into early June (Acalanes, Campolindo, Miramonte all in this window). Postino's 6:00–7:30pm Saturday tables typically fill 7–10 days out during graduation season. Book by **Wednesday** for any prime weekend slot through June 14.
-- **Sunday, May 31, 2026:** Dinner-only (4:30–8pm; no Sunday lunch). The 5:00pm and 5:30pm slots are favorites for visiting grandparents — quieter dining room, golden-hour patio light, and home before dark.
-- **Weeknights, June 1–11:** Easier walk-in window before school dismisses. Tuesday and Wednesday dinner remain genuinely quiet. The patio peaks in this stretch — sunsets push past 8:30pm by the second week of June, and the Mt. Diablo Boulevard light filtering across the patio is the reason regulars time their visits to this exact window.
-- **June 12–14 (Miramonte/Campolindo graduation weekend window):** A second graduation-driven booking surge. Book by Monday June 8 for any Saturday-night table.
+- **Saturday, June 6, 2026 (Acalanes-weekend Saturday):** First of the two graduation Saturdays. Acalanes commencement is Thursday June 11, so the families with relatives already in town are booking June 6 dinners around the rehearsal week. Postino's 6:00–7:30pm Saturday tables typically book out 7–10 days ahead during graduation season — by this point in the week, expect only 5:00pm or 8:00pm slots to remain. The patio is the move if you can get it.
+- **Sunday, June 7, 2026:** Dinner-only (4:30–8pm; no Sunday lunch). The 5:00pm and 5:30pm slots are favorites for visiting grandparents — quieter dining room, golden-hour patio light, and home before dark.
+- **Weeknights, June 8–11 (the final week before Acalanes commencement):** Easier walk-in window than the weekend bookends. Tuesday and Wednesday dinner remain genuinely quiet. The patio peaks in this stretch — sunsets push past 8:32pm by mid-month, and the Mt. Diablo Boulevard light filtering across the patio is the reason regulars time their visits to this exact window.
+- **Saturday, June 13, 2026 (Miramonte/Campolindo graduation weekend):** A second graduation-driven booking surge. Book by **Monday June 8** for any Saturday-night table; same Acalanes-week dynamic compressed into a one-week-later cycle.
 
 If you want the bar instead, the gap between lunch service (ends 3pm) and dinner (starts 4:30pm) offers full-menu seating with no reservation required — useful for visiting relatives who landed on a 2pm flight and need feeding *now*.
 
