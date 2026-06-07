@@ -19,7 +19,7 @@ Lamorinda's outdoor spaces are a major reason people move here. Rolling hills, r
 ### Lafayette
 - [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) — 2.7-mile paved loop, kayaks, picnics
 - Lafayette Community Park — playground, sports fields, dog park
-- Briones Regional Park (trailhead access from Bear Creek Road)
+- [Briones Regional Park](/things-to-do/briones-regional-park/) — 6,255 acres of ridge and grassland, trailhead access from Bear Creek Road
 - Lafayette Community Center & pool
 
 ### Moraga
@@ -40,6 +40,7 @@ Lamorinda's outdoor spaces are a major reason people move here. Rolling hills, r
 The East Bay Regional Park District and local trail systems offer everything from paved paths to serious hikes:
 
 - **[Lafayette-Moraga Regional Trail](/things-to-do/lafayette-moraga-trail/)** — 7.6 miles, paved, flat, perfect for bikes and strollers
+- **[Briones Regional Park trails](/things-to-do/briones-regional-park/)** — Mott Peak, Briones Peak, and the Old Briones Road climb from Bear Creek staging — real dirt and real elevation
 - **Briones to Mt. Diablo Trail** — Connects regional parks, more serious hiking
 - **Reservoir rim trails** — Both paved (2.7 mi) and unpaved (5+ mi) options
 - **Ohlone Point Trail** — Climbs from the reservoir to Mt. Diablo views
