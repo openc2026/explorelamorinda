@@ -88,7 +88,7 @@ For a town of 26,000, Lafayette has an outsized list of things you can actually 
 
 - **[Lafayette Reservoir](/things-to-do/)** — The crown jewel. The 2.7-mile paved loop is a near-universal local ritual. Kayak rentals in season, fishing for trout and bass year-round, and a picnic area that books up for birthdays months in advance.
 - **Lafayette-Moraga Regional Trail** — Paved, mostly flat, 7.5 miles connecting Lafayette to Moraga along an old rail right-of-way. Walk, run, bike, or push a stroller.
-- **Briones Regional Park** — Trailhead access from the north end of town. Serious hiking, mountain biking, and the kind of views that make people post real-estate listings on Instagram.
+- **[Briones Regional Park](/things-to-do/briones-regional-park/)** — Trailhead access from the north end of town via Bear Creek Road. Serious hiking, mountain biking, and the kind of views that make people post real-estate listings on Instagram.
 - **Acalanes Ridge** — Smaller open space, great for short hikes and evening dog walks.
 - **Lafayette Library and Learning Center** — Genuinely beautiful building with a strong public-program lineup.
 - **Annual Lafayette Art & Wine Festival** — Held every September; one of the East Bay's best community festivals.
