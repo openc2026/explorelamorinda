@@ -2,8 +2,8 @@
 title: "Lafayette-Moraga Regional Trail"
 description: "Paved trail connecting Lafayette and Moraga — perfect for walking, running, and cycling"
 tags: ["outdoors", "hiking", "biking", "walking", "family-friendly", "lafayette", "moraga"]
-last_updated: 2026-05-31
-lastVerified: "2026-05-31"
+last_updated: 2026-06-07
+lastVerified: "2026-06-07"
 ---
 
 ![Lafayette-Moraga Trail](/images/new_trails.png)
@@ -41,15 +41,15 @@ It's not wilderness — it's better for certain purposes. The pavement means you
 - **Summer**: Start early — shade is limited and the paved surface can get hot. Before 9am is ideal.
 - **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even right after rain.
 
-## Late May / Early June 2026 — The Green-to-Gold Pivot
+## Second Week of June 2026 — Gold Taking Over, Concert Season Opens
 
-Late May is the trail's transitional moment: the hills are mid-shift from emerald spring green to their classic California summer gold, and you can see both palettes on the same ridge depending on slope and sun exposure. By mid-June it'll be mostly gold; right now you still get the contrast. A few timely notes for the first weekend of June:
+The green-to-gold pivot is mostly done: hillsides along the southern stretch (Valle Vista, the EBMUD watershed boundary) have shifted to their classic California summer palette, while a few north-facing slopes near the Lafayette Community Center still hold pockets of late green. By next weekend it'll be fully gold. A few timely notes for the week of June 7–14:
 
-- **Best window:** 7–9 a.m. on weekdays, before 9 a.m. on weekends. Sunsets are past 8:25 p.m., so evening rides from ~6:30 p.m. also work well — the light is excellent and the pavement has cooled.
-- **Memorial Day reset:** Weekend foot traffic has dropped back to its normal rhythm after the holiday surge. Expect the usual mix of stroller crews, dog walkers, and road cyclists — but no holiday crowds.
-- **Trail surface:** Dry, fast, and clean after a rain-free stretch. Roadie-friendly conditions all the way down to the Moraga end.
-- **Heads-up:** PG&E vegetation management is ongoing this season between Oliveira Lane and the Lafayette Community Center; trail width is occasionally restricted in those sections during brush removal. Verify current status on the [EBparks trail page](https://www.ebparks.org/trails/interpark/lafayette-moraga) before a long ride if you're routing through that stretch.
-- **Cross-link:** Pair the south end with a stop at [Moraga Commons](/things-to-do/moraga-commons/) — Thursday concert nights start June 11, so an early-evening trail run plus picnic-blanket music is back on the menu.
+- **Best window:** 7–9 a.m. on weekdays, before 9 a.m. on weekends. Sunsets are past 8:28 p.m. pushing toward 8:32 p.m. by mid-month, so evening rides from ~6:30 p.m. also work well — the light is excellent and the pavement has cooled.
+- **Concert-night pairing is back:** [Moraga Commons](/things-to-do/moraga-commons/) opens its summer concert series Thursday, June 11 (Sun Kings, Beatles tribute) and runs through August 20. The classic move — trail ride south, finish at the Commons, picnic blanket for the 6:30 p.m. set — is officially in play again. Plan to be off the trail and at the lawn by 5:30 p.m. for opener-night blanket placement.
+- **Graduation-week trail rhythm:** Acalanes commencement is Thursday June 11; K-8 sites wrap the same Friday. Expect lighter-than-usual morning traffic Thursday and Friday (everyone is at a ceremony), and a noticeable bump in stroller-and-grandparent walking-tour traffic Saturday June 13 as out-of-town families do the lap before brunch.
+- **Trail surface:** Dry and fast after the rain-free stretch. Roadie-friendly conditions all the way down to the Moraga end.
+- **Heads-up:** PG&E vegetation management work has historically been active along the Oliveira Lane stretch this time of year; trail width can be occasionally restricted during brush removal. Verify current status on the [EBparks trail page](https://www.ebparks.org/trails/interpark/lafayette-moraga) before a long ride if you're routing through that stretch.
 
 ## Local Lore
 

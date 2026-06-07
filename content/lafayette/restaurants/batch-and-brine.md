@@ -6,8 +6,8 @@ phone: "(925) 298-5687"
 website: "https://batchandbrine.com"
 hours: "Mon-Tue 11:30am-8pm, Wed-Fri 11:30am-9pm, Sat 10am-9pm, Sun 10am-8pm"
 price: "$$"
-tags: ["american", "global", "burgers", "brunch", "craft-cocktails", "downtown"]
-lastVerified: "2026-06-03"
+tags: ["american", "global", "burgers", "brunch", "craft-cocktails", "downtown", "restaurant-row"]
+lastVerified: "2026-06-07"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -33,13 +33,14 @@ Monday through Friday, 2:30pm–5:30pm.
 
 Don't sleep on the bar program. The craft cocktails here are thoughtful and well-executed — not an afterthought to the food menu. Ask the bartender for recommendations based on your taste; they know their spirits.
 
-## Seasonal Note: Early June 2026
+## Seasonal Note: Second Week of June 2026
 
-Downtown Lafayette has settled into its long-evening summer rhythm — sunsets past 8:25pm by the first week of June, upper-70s afternoons, and the Mt. Diablo Blvd patio stretch holding its warmth almost to closing. The window between Memorial Day and the last day of school (Acalanes wraps Friday, June 5 with graduation that evening; K-8 sites finish the week of June 8–12) is actually one of the more pleasant times to drop in: weekends are still busy, but Tuesday-Thursday dinners outside finally have breathing room before school-is-out crowds arrive. Saturday brunch outside is still the move; tables turn fast between 10:30am and 1pm, so go early or aim for the post-1pm lull. For a quieter angle on the same patio energy, weekday Happy Hour (Mon-Fri 2:30–5:30pm) catches the best of the golden-hour light. This is the stretch where the global comfort menu and craft cocktail program really earn their keep.
+Downtown Lafayette is fully into its long-evening summer rhythm — sunsets past 8:28pm pushing toward 8:32pm by mid-month, upper-70s afternoons, and the Mt. Diablo Blvd patio stretch holding its warmth almost to closing. This is graduation week: Acalanes commencement falls Thursday, June 11, and the K-8 sites wrap that same Friday. Expect Restaurant Row to run two-speed all week — Thursday and Friday dinners turn into family gatherings (book early for parties of six-plus), while Monday-Wednesday is the sweet spot for a calmer patio meal before the summer-vacation rhythm fully arrives. Saturday brunch outside is still the move; tables turn fast between 10:30am and 1pm, so go early or aim for the post-1pm lull. For a quieter angle on the same patio energy, weekday Happy Hour (Mon-Fri 2:30–5:30pm) catches the best of the golden-hour light. The Adult Happy Meal ($23.99, Mon-Thu) holds up especially well as a post-work-pre-grad-event option this week — Monday, Tuesday, and Wednesday all qualify before the Thursday commencement crunch.
 
-If you're piecing together a downtown Lafayette evening, you've got two natural pair-ups on the same Restaurant Row block:
+If you're piecing together a downtown Lafayette evening, you've got three natural pair-ups on the same Restaurant Row block:
 
 - **[Social Bird](/lafayette/restaurants/social-bird/)** sits directly across Mt. Diablo Blvd — same block, different vibe (world kitchen vs. lively American gastropub). Easy to start at one bar and walk to the other for dinner.
+- **[The Hideout Kitchen](/lafayette/restaurants/the-hideout-kitchen/)** is around the corner in Lafayette Circle — Californian comfort cuisine for the night when you want a quieter, more bistro-style sit-down without leaving Restaurant Row.
 - **[Postino](/lafayette/restaurants/postino/)** is a few doors down in the Carr Jones building — white-tablecloth Italian-California if Batch & Brine's casual brunch energy isn't the night you're after, or as a Saturday-evening upgrade when the relatives are in town.
 
 ## Good to Know
