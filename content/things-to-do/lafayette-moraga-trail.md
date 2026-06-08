@@ -2,8 +2,8 @@
 title: "Lafayette-Moraga Regional Trail"
 description: "Paved trail connecting Lafayette and Moraga — perfect for walking, running, and cycling"
 tags: ["outdoors", "hiking", "biking", "walking", "family-friendly", "lafayette", "moraga"]
-last_updated: 2026-06-07
-lastVerified: "2026-06-07"
+last_updated: 2026-06-08
+lastVerified: "2026-06-08"
 ---
 
 ![Lafayette-Moraga Trail](/images/new_trails.png)
@@ -19,6 +19,8 @@ Starting at the **Olympic Boulevard staging area** in Lafayette (the formal nort
 - **Valle Vista Staging Area** — the trail's formal southern terminus, just past Moraga at the EBMUD watershed boundary
 
 Most riders and walkers end their trips at Moraga Commons because of the parking, restrooms, and easy car pickup. The trail itself continues another short stretch to the EBMUD Valle Vista staging area, where it ends officially. Both are valid finish points depending on what you're after.
+
+**One persistent closure to know about:** the final half-mile from Valle Vista to Westchester Street on the Moraga end has been closed since the 2022–2023 winter storms (a mudslide at the Canyon Bridge crossing of Moraga Creek). The remaining 7 miles between Lafayette and Moraga are fully open and behave like a normal trail; the closed half-mile is a stub at the far Moraga end that most users never use anyway. Always check the [EBparks trail page](https://www.ebparks.org/trails/interpark/lafayette-moraga) for the latest status before routing through Valle Vista.
 
 The old railroad route means gentle grades throughout — strollers and road bikes handle it easily.
 
@@ -50,6 +52,7 @@ The green-to-gold pivot is mostly done: hillsides along the southern stretch (Va
 - **Graduation-week trail rhythm:** Acalanes commencement is Thursday June 11; K-8 sites wrap the same Friday. Expect lighter-than-usual morning traffic Thursday and Friday (everyone is at a ceremony), and a noticeable bump in stroller-and-grandparent walking-tour traffic Saturday June 13 as out-of-town families do the lap before brunch.
 - **Trail surface:** Dry and fast after the rain-free stretch. Roadie-friendly conditions all the way down to the Moraga end.
 - **Heads-up:** PG&E vegetation management work has historically been active along the Oliveira Lane stretch this time of year; trail width can be occasionally restricted during brush removal. Verify current status on the [EBparks trail page](https://www.ebparks.org/trails/interpark/lafayette-moraga) before a long ride if you're routing through that stretch.
+- **Valle Vista stub still closed:** see the Route section above — the final half-mile to Westchester Street remains closed (storm damage from 2022–2023). The 7-mile Lafayette-to-Moraga run is unaffected.
 
 ## Local Lore
 
