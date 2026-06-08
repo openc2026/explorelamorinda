@@ -7,7 +7,7 @@ website: "https://www.penninis.com"
 hours: "Pennini's: Mon 4pm-8pm, Tue-Sat 12pm-9pm, Sun 12pm-8pm. Michael's: Fri-Sat 4pm-9pm only."
 price: "$$"
 tags: ["italian", "bar", "family-friendly", "moraga-way", "fine-dining"]
-lastVerified: "2026-06-01"
+lastVerified: "2026-06-08"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -48,3 +48,13 @@ The staff knows regulars by name, and there's always someone waving across the r
 - **Takeout** — Pennini's is the takeout-friendly side; Michael's is a sit-down room
 - **Happy Hour:** Pennini's bar, Monday–Friday 4–5pm, $2 off any beer, wine, or cocktail — a quiet, civilized window before the family-dinner rush hits
 - **Parking:** Easy — it's Moraga
+
+## Pair It With
+
+Pennini's sits in the Moraga Shopping Center cluster on Moraga Way — a handful of other Moraga institutions are within a five-minute walk or drive, which makes the "start somewhere, end somewhere else" rhythm work well on a weeknight or a weekend evening:
+
+- **Before:** Coffee or a quick pastry at [Town Bakery & Café](/moraga/restaurants/town-bakery-cafe/) if you're meeting friends earlier in the day, or a glass of wine at the [La Finestra](/moraga/restaurants/la-finestra/) bar two blocks down if Pennini's has a wait.
+- **Instead of (same-night call):** If the Pennini's wait is long and you want family-friendly Italian, La Finestra is the upgrade play. If you want non-Italian comfort and the kids are happy, [Chef Chao](/moraga/restaurants/chef-chao/) over in Rheem is the parallel weeknight institution.
+- **After:** A scoop at [Loard's Ice Cream](/moraga/restaurants/loards-ice-cream/) for the post-dinner walk — the classic Moraga end-of-evening move.
+
+See the full picture on the [Moraga Restaurants](/moraga/restaurants/) overview.
