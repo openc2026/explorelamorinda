@@ -1,7 +1,7 @@
 ---
 title: "Orinda Restaurants: Where to Eat in Orinda, CA"
 description: "Complete guide to Orinda dining — Theatre Square's pre-movie restaurants, the legendary Casa Orinda roadhouse since 1932, casual tacos, craft beer, and what's new in 2026."
-last_updated: 2026-05-24
+last_updated: 2026-06-08
 ---
 
 ![Theatre Square Orinda](/images/Orinda_TheaterSquare.jpg)
@@ -28,10 +28,11 @@ Built around the saved-from-demolition [1941 Orinda Theatre](/things-to-do/orind
 - **Europa Hofbrau Deli & Pub** — Old-school deli sandwiches, German specialties, and a casual neighborhood-bar feel. The kind of spot that's been around long enough to be everyone's "the one near the theatre." *$*
 - **Kibi's Cafe** — Japanese counter dining with sushi, donburi, and bento options. Lunch and early-dinner only. *$$*
 
-### Coffee & Bites
+### Coffee, Bites & Ice Cream
 
 - **Starbucks** — Theatre Square location, standard menu. Useful as a meet-up point.
 - **Subway** — Yes, it's there. Useful for kids' birthday party logistics.
+- **[Loard's Ice Cream & Candies](/orinda/restaurants/loards-ice-cream-orinda/)** — Across Brookwood from the theatre. 43 hand-dipped flavors, real sundaes, a candy counter, and 70+ years of Orinda history. The classic post-movie stop. Open 7 days, late on Fri/Sat. *$*
 
 ### What's New in 2026
 
@@ -55,7 +56,7 @@ Built around the saved-from-demolition [1941 Orinda Theatre](/things-to-do/orind
 
 **For a date night:** [Shelby's](/orinda/restaurants/shelbys/) with a 7 PM reservation and a [Lamorinda Theatre Arts Foundation](/things-to-do/orinda-theatre/) show, or a destination dinner at [Casa Orinda](/orinda/restaurants/casa-orinda/) followed by a drive home through the hills.
 
-**For a family meal:** La Piazza, Comelones, or Fourth Bore — all kid-friendly with menus that won't induce negotiations.
+**For a family meal:** La Piazza, Comelones, or Fourth Bore — all kid-friendly with menus that won't induce negotiations. End with cones at [Loard's](/orinda/restaurants/loards-ice-cream-orinda/) across the street; everyone's mood resets.
 
 **For a quick weekday lunch:** Petra Cafe, Comelones, or Europa Hofbrau. All offer fast counter service and outdoor seating in Theatre Square's plaza.
 
@@ -67,7 +68,7 @@ Built around the saved-from-demolition [1941 Orinda Theatre](/things-to-do/orind
 - **Pre-movie reservations** are smart on Friday and Saturday nights — the theatre's 7 PM showings overlap with peak dinner hour.
 - **Outdoor seating** in Theatre Square's plaza is at a premium on warm evenings (May through October). Arrive early or call ahead.
 - **Casa Orinda** is closed Monday and Tuesday — plan accordingly.
-- **Late nights:** Most Orinda restaurants close by 9 PM. For after-theatre drinks past 10 PM, Fourth Bore is your best bet.
+- **Late nights:** Most Orinda restaurants close by 9 PM. For after-theatre drinks past 10 PM, Fourth Bore is your best bet. For dessert after a late film, [Loard's](/orinda/restaurants/loards-ice-cream-orinda/) runs until 10 PM Fri/Sat — the latest dessert option in downtown Orinda.
 
 ## Related Guides
 
