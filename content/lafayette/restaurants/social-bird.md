@@ -7,7 +7,7 @@ website: "https://www.social-bird.com"
 hours: "Sun-Thu 11:30am-9pm, Fri-Sat 11:30am-9:30pm"
 price: "$$"
 tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable", "restaurant-row"]
-lastVerified: "2026-06-04"
+lastVerified: "2026-06-09"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -26,7 +26,7 @@ The dining room buzzes with conversation, but it's the three patios that really 
 
 ## Happy Hour
 
-Sunday through Thursday, **3pm–5pm**. Not available for takeout, so you'll need to come in and enjoy the atmosphere. Confirmed on the operator site as of late May 2026.
+Sunday through Thursday, **3pm–5pm**. Not available for takeout, so you'll need to come in and enjoy the atmosphere. Confirmed on the operator site as of early June 2026.
 
 ## The Location
 
@@ -40,14 +40,19 @@ Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spo
 - Lively atmosphere; not ideal for quiet conversations
 - **Late-spring and early-summer evenings** are prime time for the patios — book ahead for outdoor seating
 
-## Early June Tip: First Two Weeks of June 2026
+## Graduation Week Tip: June 9–14, 2026
 
-With Memorial Day behind us and the last day of school approaching (Acalanes finishes June 11), the three patios slide into their best stretch of the year. Sunsets are now past 8:27pm by the first week of June and push toward 8:32pm by mid-month; afternoons settle in the upper 70s, and the corner location means light from multiple directions well into the evening. The craft cocktail program is at its best in this window: lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering. Tuesday through Thursday patios have noticeable breathing room right now — the long-weekend crowd has cleared out and the school-is-out family surge hasn't fully landed yet. Weekend patio dinners still book up fast (especially Saturday), so reserve outdoor seating in advance — or aim for the Sun–Thu Happy Hour (3–5pm), which is the easiest window of the entire week.
+We're inside the AUHSD graduation window now — Acalanes commencement is Thursday June 11, with the big party Saturdays bracketing it on June 6 (just past) and June 13. The three patios are at their annual peak: sunsets are past 8:30pm and pushing toward 8:33pm by week's end, afternoons settle in the upper 70s, and the corner location keeps light coming from multiple directions well after the dinner rush starts. The craft cocktail program is at its best in this window — lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering.
 
-If you're piecing together a downtown Lafayette evening, three Restaurant Row choices sit within a one-block walk:
+- **Tonight through Thursday (June 9–11):** Weeknight patios have noticeable breathing room right now — the long-weekend crowd has cleared and the school-is-out family surge hasn't fully landed. Tuesday and Wednesday remain near-guaranteed walk-ins; Thursday tightens after commencement lets out around 8pm. The Sun–Thu Happy Hour (3–5pm) is the easiest window of the entire week if you want patio light without the dinner crush.
+- **Saturday June 13 (Miramonte/Campolindo grad-party Saturday):** The second of the two big AUHSD party Saturdays. The 6:30–7:30pm dinner slots fill 5–7 days out — book by Monday June 8 (today/tomorrow window) for a prime patio. The 6:00pm and 8:00pm tables are the next-best fallback.
+- **Sunday June 14:** Brunch-equivalent doesn't apply here (Social Bird opens at 11:30am), but the 11:30am–1pm patio is a strong post-celebration recovery slot — quieter than Hideout's brunch room two blocks east, with the same downtown light.
 
-- **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** — directly across Mt. Diablo Blvd; world-kitchen brunch energy with a Mon-Fri 2:30–5:30pm Happy Hour
+If you're piecing together a downtown Lafayette evening, four Restaurant Row choices sit within a one-block walk:
+
+- **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** — directly across Mt. Diablo Blvd; world-kitchen brunch energy with a Mon–Fri 2:30–5:30pm Happy Hour
 - **Social Bird** (here) — lively American gastropub with three patios and craft cocktails
+- **[The Hideout Kitchen](/lafayette/restaurants/the-hideout-kitchen/)** — one block north in Lafayette Circle; seasonal Californian comfort with a daily 3–5pm Happy Hour at the bar (good fallback if Social Bird's bar is full)
 - **[Postino](/lafayette/restaurants/postino/)** — a few doors down; white-tablecloth Italian-California in the historic Carr Jones building
 
-All three are walkable from the same downtown Lafayette parking, which makes a drink-here / dinner-there split easy to pull off.
+All four are walkable from the same downtown Lafayette parking, which makes a drink-here / dinner-there split easy to pull off.
