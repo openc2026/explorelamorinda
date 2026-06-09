@@ -7,7 +7,7 @@ website: "https://www.postinorestaurant.com"
 hours: "Lunch Mon-Sat 11:30am-3pm (no Sun lunch); Dinner Sun-Thu 4:30pm-8pm, Fri-Sat 4:30pm-8:30pm"
 price: "$$$"
 tags: ["italian", "california-cuisine", "fine-dining", "date-night", "downtown", "lunch", "dinner", "restaurant-row"]
-lastVerified: "2026-06-06"
+lastVerified: "2026-06-09"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -48,23 +48,25 @@ Postino's outdoor patio is one of downtown Lafayette's gems — especially durin
 
 ## Restaurant Row: Walking Distance Pair-Ups
 
-Postino anchors the upscale end of downtown Lafayette's Restaurant Row, but it's not isolated — two more casual spots sit within a one-block walk and pair naturally with a drink-here / dinner-there split:
+Postino anchors the upscale end of downtown Lafayette's Restaurant Row, but it's not isolated — three more casual spots sit within a one-block walk and pair naturally with a drink-here / dinner-there split:
 
 - **[Batch & Brine](/lafayette/restaurants/batch-and-brine/)** (3602 Mt. Diablo Blvd) — world-kitchen brunch and dinner with a generous Mon-Fri 2:30–5:30pm Happy Hour; useful for an early drink before a 7pm Postino reservation
 - **[Social Bird](/lafayette/restaurants/social-bird/)** (3593 Mt. Diablo Blvd) — lively American gastropub with three patios and craft cocktails; good landing spot if visiting relatives want a livelier post-dinner round
+- **[The Hideout Kitchen](/lafayette/restaurants/the-hideout-kitchen/)** (around the corner in Lafayette Circle) — Californian comfort cuisine in a quieter bistro setting, with a daily 3–5pm Happy Hour at the bar; the natural choice when one half of the party wants a calmer pre-dinner drink than a busy Postino bar can offer between services
 
-All three are walkable from the same downtown parking, so a party split across two venues doesn't require moving the car.
+All four are walkable from the same downtown parking, so a party split across two venues doesn't require moving the car.
 
-## Graduation Season Tip: First Two Weeks of June 2026
+## Graduation Week Tip: June 9–14, 2026
 
-Postino is the natural "the relatives don't want to cook" pick for AUHSD graduation weekend — historic Carr Jones building, white-tablecloth elegance, walkable from downtown Lafayette parking. We're inside the active window now, and the reservation pressure is tighter than people expect:
+Postino is the natural "the relatives don't want to cook" pick for AUHSD graduation week — historic Carr Jones building, white-tablecloth elegance, walkable from downtown Lafayette parking. Acalanes commencement is Thursday June 11 at 5pm; the Miramonte/Campolindo graduation Saturday follows on June 13. Reservation pressure is now at week's peak:
 
-- **Saturday, June 6, 2026 (Acalanes-weekend Saturday):** First of the two graduation Saturdays. Acalanes commencement is Thursday June 11, so the families with relatives already in town are booking June 6 dinners around the rehearsal week. Postino's 6:00–7:30pm Saturday tables typically book out 7–10 days ahead during graduation season — by this point in the week, expect only 5:00pm or 8:00pm slots to remain. The patio is the move if you can get it.
-- **Sunday, June 7, 2026:** Dinner-only (4:30–8pm; no Sunday lunch). The 5:00pm and 5:30pm slots are favorites for visiting grandparents — quieter dining room, golden-hour patio light, and home before dark.
-- **Weeknights, June 8–11 (the final week before Acalanes commencement):** Easier walk-in window than the weekend bookends. Tuesday and Wednesday dinner remain genuinely quiet. The patio peaks in this stretch — sunsets push past 8:32pm by mid-month, and the Mt. Diablo Boulevard light filtering across the patio is the reason regulars time their visits to this exact window.
-- **Saturday, June 13, 2026 (Miramonte/Campolindo graduation weekend):** A second graduation-driven booking surge. Book by **Monday June 8** for any Saturday-night table; same Acalanes-week dynamic compressed into a one-week-later cycle.
+- **Tonight & Wednesday, June 9–10:** The last genuinely walkable Postino weeknights of the week. Tuesday and Wednesday dinner remain comparatively quiet through 6:30pm — the families with relatives in town are saving the energy for Thursday. Bar seating in the gap between lunch (ends 3pm) and dinner (starts 4:30pm) is the easiest no-reservation window all week. The patio peaks in this stretch — sunsets are past 8:30pm pushing toward 8:33pm by week's end, and the Mt. Diablo Boulevard light filtering across the patio is the reason regulars time their visits to this exact week.
+- **Thursday, June 11 (Acalanes commencement, 5pm):** The post-ceremony dinner rush hits Restaurant Row from roughly 7:00pm onward — caps still in pockets, grandparents still in the dress shoes. Postino's 7:30–8:00pm Thursday tables are typically the last to book; if you have not reserved by today, Wednesday morning is the absolute latest. Some families pivot to the lunch service Thursday (11:30am–3pm) to beat the dinner crush — an underused move that works well with a late-afternoon commencement.
+- **Friday, June 12:** Concert-and-Plaza night locally — [Moraga Commons](/things-to-do/moraga-commons/) had its opener Thursday, Lafayette's Rock the Plaza runs 6–8pm with Kyle Athayde Dance Party, and downtown is *loud* in the good way. Postino's earlier slots (5:00pm, 5:30pm) are the move if you want the building's calm interior energy as a counterweight to the plaza buzz two blocks east. The 8:00pm tables will go to the post-Plaza crowd.
+- **Saturday, June 13 (Miramonte/Campolindo grad Saturday):** Second graduation-driven booking surge of the week. If you have not booked by **Wednesday June 10**, the patio is gone and only the 5:00pm or post-8:00pm slots will remain — same Acalanes-week dynamic compressed into a one-week-later cycle. The dining room handles this Saturday with practiced calm; the kitchen has done eleven of these in a row.
+- **Sunday, June 14:** Dinner-only (4:30–8pm; no Sunday lunch). The recovery slot. The 5:00pm and 5:30pm tables are favorites for visiting grandparents — quieter dining room, golden-hour patio light, and home before dark. Easiest weekend table of the week to land at the last minute.
 
-If you want the bar instead, the gap between lunch service (ends 3pm) and dinner (starts 4:30pm) offers full-menu seating with no reservation required — useful for visiting relatives who landed on a 2pm flight and need feeding *now*.
+If you want the bar instead, the gap between lunch service (ends 3pm) and dinner (starts 4:30pm) offers full-menu seating with no reservation required — useful for visiting relatives who landed on a 2pm flight and need feeding *now*. For a quieter pre-dinner drink during this same window, [The Hideout Kitchen](/lafayette/restaurants/the-hideout-kitchen/) around the corner in Lafayette Circle holds a daily 3–5pm Happy Hour at the bar — useful overflow when the Postino bar is wedged.
 
 ## 2026 Closure Dates
 
