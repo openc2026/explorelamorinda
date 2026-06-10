@@ -7,7 +7,7 @@ website: "https://lafinestraristorante.com"
 hours: "Tue-Thu 11:30am-8pm, Fri 11:30am-8:30pm, Sat 4:30pm-8:30pm, Sun 4:30pm-8pm, Closed Mon"
 price: "$$$"
 tags: ["italian", "fine-dining", "date-night", "moraga"]
-lastVerified: "2026-06-02"
+lastVerified: "2026-06-10"
 ---
 
 ![La Finestra Ristorante](/images/Moraga_LaFinestra.jpg)
@@ -58,3 +58,13 @@ Late May and early June are arguably La Finestra's best stretch of the year. The
 - Upscale but not stuffy — Moraga casual still applies
 - A **20% service charge is included** on all checks (factor this in when comparing menu prices to other spots)
 - Parking in the Moraga Shopping Center lot — easy access
+
+## Pair It With
+
+La Finestra shares the Moraga Shopping Center cluster with two other Moraga institutions on Moraga Way, so the "start somewhere, end somewhere else" rhythm works easily on a weekend night:
+
+- **Before:** A coffee or pastry at [Town Bakery & Café](/moraga/restaurants/town-bakery-cafe/) earlier in the day if relatives are arriving — it sets the tone for a slower-paced evening at La Finestra.
+- **Instead of (same-night call):** If you wanted upscale Italian and La Finestra is fully booked (a frequent Saturday problem), [Michael's](/moraga/restaurants/penninis/) next to Pennini's runs Friday–Saturday evenings only and is the closest in-town parallel — different kitchen, similar white-tablecloth weekend energy. If you want family-friendly Italian without the 20% service charge, Pennini's itself (the casual side of the same address) is the everyday substitute.
+- **After:** Loard's closes too early for a post-La-Finestra-dinner scoop on most nights, so the natural after-move is a slow walk around the shopping center plaza or a nightcap at the [Pennini's](/moraga/restaurants/penninis/) bar two blocks down — the only seven-day bar option in the immediate area.
+
+See the full picture on the [Moraga Restaurants](/moraga/restaurants/) overview.

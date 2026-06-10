@@ -7,7 +7,7 @@ website: "https://www.chefchaorestaurant.com"
 hours: "Tue-Sat 11am-2pm & 4pm-9pm, Sun 3pm-9pm, Closed Mon"
 price: "$$"
 tags: ["chinese", "family-owned", "longtime-local", "rheem"]
-lastVerified: "2026-06-01"
+lastVerified: "2026-06-10"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -46,6 +46,16 @@ Chef Chao closes 2pm-4pm between lunch and dinner — a Moraga rhythm that catch
 - **10% discount for cash** — a nice perk
 - A true Moraga institution — ask any longtime resident
 - Located in Rheem Center, near Moraga City Hall
+
+## Pair It With
+
+Chef Chao anchors the Rheem Center side of Moraga, a short drive from the Moraga Shopping Center cluster on Moraga Way. The two clusters function as parallel weeknight ecosystems, and locals routinely mix between them:
+
+- **Before:** A quick errand at Rheem Center on the way in — the dry cleaner, the post office, or a stop at the small CVS — pairs naturally with Chef Chao's 4–5:30pm early-dinner window, especially with kids in tow.
+- **Instead of (same-night call):** If you wanted Italian and the [Pennini's](/moraga/restaurants/penninis/) bar wait is long, Chef Chao is the parallel Moraga institution — same family-friendly, no-fuss energy, just on the other side of town. Same logic in reverse: if Chef Chao is closed (Mondays) or the dining room is wedged with a Campolindo crowd, Pennini's over on Moraga Way handles the weeknight overflow.
+- **After:** A walk around the Rheem Valley fountain area, or drive five minutes west to [Loard's Ice Cream](/moraga/restaurants/loards-ice-cream/) for the classic post-dinner scoop. The post-Chef-Chao Loard's run is a Lamorinda childhood ritual that long-time Moraga families will recognize on sight.
+
+See the full picture on the [Moraga Restaurants](/moraga/restaurants/) overview.
 
 ## Local Lore
 
