@@ -3,7 +3,7 @@ title: "Moraga Commons Park"
 description: "Community heart of Moraga — playground, concerts, and gathering space"
 address: "1425 St Mary's Road, Moraga, CA 94556"
 tags: ["parks", "playground", "concerts", "family-friendly", "moraga", "community"]
-lastVerified: "2026-06-10"
+lastVerified: "2026-06-11"
 ---
 
 ![Moraga hills panorama](/images/new_panoramic4.png)
@@ -89,8 +89,8 @@ Beyond concerts, the park hosts:
 
 ## Best Times to Visit
 
-- **Concert Eve — Wednesday, June 10, 2026**: The 24-hour window before the Sun Kings open Year 42 of the Summer Concert Series. The bandshell is empty *waiting* (not empty *idle*) — the Moraga Park Foundation production crew typically loads in late morning Wednesday, with the generator, FOH tent, and lighting rigged through the afternoon and a soundcheck happening around 5 PM. The lawn is still fully open today for casual picnics and frisbee, but expect light staging activity behind the bandshell. Sunset hits 8:31 PM tonight; the western ridge goes gold around 7:55. (See our [Wednesday, June 10 field report](/blog/wednesday-the-double-eve/) on what "The Double Eve" looks like in real time.)
-- **Summer Thursdays** (June 11 – Aug 20): Concert nights. Plan to arrive by 5:30 PM for a good blanket spot. The 2026 series runs Thursday evenings 6:30 – 8:30 PM, plus a special Saturday July 4th show. See the **Opening Night Survival Guide** above for first-timer logistics.
+- **Opening Night — Thursday, June 11, 2026 (TONIGHT)**: The Sun Kings open Year 42 of the Summer Concert Series. Bandshell crew has been live since Wednesday morning; soundcheck happens around 11:30 AM and again at 4:30 PM. Blanket-claimers start arriving on the lawn by 3:45 PM; the prime front-center sweet spot is gone by 5:30. Sunset hits 8:31 PM; the western ridge goes gold around 7:55. Several Acalanes families are running the [stadium-to-bandshell handoff](/blog/thursday-the-double-event/) tonight — commencement wraps ~6:15, drive 8–14 minutes, catch *"Eleanor Rigby."* The Moraga Lions & Kiwanis booth opens at 5:30. (See our [opening-night field report](/blog/thursday-the-double-event/) for the hour-by-hour.)
+- **Summer Thursdays** (June 11 – Aug 20): Concert nights. Plan to arrive by 5:30 PM for a good blanket spot. The 2026 series runs Thursday evenings 6:30 – 8:30 PM, plus a special Saturday July 4th show. See the **Opening Night Survival Guide** above for first-timer logistics. **Next up: Thursday, June 18 — Purple Ones (Prince tribute).**
 - **Saturday July 4, 2026**: The only Saturday show of the season — Wayhighs open, Neon Velvet headlines. Bigger crowd than a typical Thursday.
 - **Late winter/early spring** (Feb-Apr): The surrounding hills are at their greenest. Perfect for a picnic before summer crowds arrive.
 - **Year-round**: The playground doesn't have a season. Kids don't care about weather.
