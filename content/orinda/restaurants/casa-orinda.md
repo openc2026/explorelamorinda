@@ -7,7 +7,7 @@ website: "https://casaorindarestaurant.com"
 hours: "Wed-Thu 4pm-9pm, Fri-Sat 4pm-10pm, Sun 4pm-9pm, Closed Mon-Tue"
 price: "$$"
 tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-night"]
-lastVerified: "2026-05-28"
+lastVerified: "2026-06-11"
 ---
 
 ![Orinda Theatre](/images/new_theater.png)
@@ -42,9 +42,15 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 
 Sunday evenings at Casa Orinda (4pm-9pm) have a special energy. The weekday rush is absent, the bar is convivial but not packed, and the fried chicken tastes even better when you're not watching the clock. It's a quieter, more leisurely experience than Friday or Saturday — locals know this is when Casa feels most like the family roadhouse it's always been.
 
-## Early Summer Tip
+## Graduation Week Tip: June 11–14, 2026
 
-Late May through mid-June is one of the best windows to visit. The dining room feels especially right when the evenings stretch long and warm — you can leave at 8pm and still have golden light for the drive home through the hills. Bryant Way is a couple of minutes from [Theatre Square](/things-to-do/orinda-theatre/), so Casa pairs naturally with an early showing at the historic 1941 Orinda Theatre — a fitting double-feature of Lamorinda landmarks. Wednesday and Thursday remain the easier nights to walk in without a reservation; Memorial Day weekend has cleared and the graduation-season surge is still a couple of weeks out.
+Tonight is **Acalanes commencement** (Thursday June 11, 5pm at the Lafayette campus); the second AUHSD party Saturday is **June 13** (Miramonte/Campolindo). Casa is the natural celebration-dinner spot for families who want something with weight — a 90-year-old roadhouse beats a chain steakhouse for a once-in-four-years occasion, and the dining room handles a four-or-six-top better than most rooms in town. Booking pressure for tonight and tomorrow is already heavy; for Friday June 12 (the calm beat between commencement and Saturday's parties) you can still get a reasonable walk-in around 4:30pm. **Saturday June 13** is the hardest reservation of the week — if you don't have a 6pm or earlier table booked by Thursday, you're unlikely to get one. Sunday June 14 returns to the easier pace, and Sunday's quieter energy (see below) makes it the sleeper pick for a post-graduation family dinner once the weekend's parties are over. The dining room feels especially right in mid-June when evenings stretch past 8:32pm — you can leave at 8pm and still have golden light for the drive home through the hills. Bryant Way is a couple of minutes from [Theatre Square](/things-to-do/orinda-theatre/), so Casa pairs naturally with an early showing at the historic 1941 Orinda Theatre — a fitting double-feature of Lamorinda landmarks.
+
+## Pair It With
+
+- **Before:** A 4pm Casa reservation pairs cleanly with a 7pm or later showing at the [Orinda Theatre](/things-to-do/orinda-theatre/) — Bryant Way to Theatre Square is a three-minute drive or a ten-minute walk if the evening is warm.
+- **Instead of:** If you want lively and casual instead of intimate and historic, [Fourth Bore Tap Room & Grill](/orinda/restaurants/fourth-bore/) at Theatre Square is the lighter-touch alternative — 28 craft taps, sports on the TVs, no reservation needed. Fourth Bore also covers Monday and Tuesday nights when Casa is closed.
+- **After:** Casa's hand-carved mahogany bar handles a quiet post-dinner Manhattan better than almost any room in Lamorinda — the staff knows their classics, and the wagon-wheel chandeliers do most of the atmospheric work.
 
 ## Local Lore
 
