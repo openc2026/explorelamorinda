@@ -4,8 +4,8 @@ description: "Beautiful campus open to visitors — chapel, grounds, and college
 address: "1928 Saint Mary's Road, Moraga, CA 94575"
 website: "https://www.stmarys-ca.edu"
 tags: ["campus", "architecture", "moraga", "sports", "walking"]
-last_updated: 2026-05-30
-lastVerified: "2026-05-30"
+last_updated: 2026-06-11
+lastVerified: "2026-06-11"
 ---
 
 ![Saint Mary's College](/images/Moraga_StMarysCollege.jpg)
@@ -36,8 +36,9 @@ Saint Mary's competes in Division I athletics (West Coast Conference). Basketbal
 
 ## Best Times to Visit
 
-- **Late May 2026 — Post-Commencement Hush**: The Class of 2026 graduated May 21–22, Memorial Day weekend has come and gone, and the campus has fully settled into its quietest stretch of the year. The first weekend of June is one of the best of the season to wander — minimal foot traffic, chapel and grounds open during daylight hours, and you'll typically have your pick of any visitor lot. Bring a coffee from [Town Bakery Cafe](/moraga/restaurants/town-bakery-cafe/) on the way in (closed Mondays — plan a Tuesday-through-Sunday visit if you want the pastry stop).
-- **Late May Through Mid-August — Summer Quiet**: With commencement wrapped, campus enters its quietest and arguably most beautiful stretch of the year. The hills are mid-transition from green to their classic California gold, the palm-lined walkways glow in the long evening light (sunset is past 8:20 p.m. now), and you'll often have the main quad nearly to yourself. Weekday and weekend mornings both work; late-afternoon golden hour is the photographer's pick. This window holds through mid-August.
+- **Mid-June 2026 — The Deep Summer Hush Begins**: The Class of 2026 graduated May 21–22, the K–12 graduations across Lamorinda are wrapping this week, and the SMC campus is at its quietest stretch of the year. Mid-June through July is the *contemplative window* — minimal foot traffic, chapel and grounds open during daylight hours, and visitor lots reliably wide open. The hills around the campus are just past peak green, transitioning into the classic California gold that holds through August. Pair the walk with a coffee from [Town Bakery Cafe](/moraga/restaurants/town-bakery-cafe/) on the way in (closed Mondays — Tuesday–Sunday if you want the pastry stop) or a slice from [Pennini's](/moraga/restaurants/penninis/) after.
+- **Mid-June Through Mid-August — Long Evening Light**: The palm-lined walkways glow at golden hour, and sunset is currently past 8:30 PM — the photographer's window is roughly 7:30 to 8:15 PM, when the chapel's bell tower catches the last warm light against the eastern hills. Weekday and weekend mornings both work; late-afternoon golden hour is the photographer's pick.
+- **Thursday Evenings (June 11 – Aug 20) — Pair with the Sun Kings**: The [Moraga Commons Summer Concert Series](/things-to-do/moraga-commons/) is six minutes down Moraga Way. A late-afternoon SMC campus wander into the 6:30 PM concert is one of the best Moraga summer evenings you can stitch together.
 - **Mid-August Reset**: The summer hush breaks when new students arrive for orientation. If you want the contemplative version of campus, mid-August is your last reliable window.
 - **September–October**: Students return in full, campus energy rebuilds, and the weather is consistently in the 70s with crisp mornings. Football and soccer seasons get going.
 - **Basketball Season (November–March)**: Catch a Gaels game at McKeon Pavilion for local atmosphere. Men's basketball draws the biggest crowds, especially when the West Coast Conference rival Gonzaga rolls through.
