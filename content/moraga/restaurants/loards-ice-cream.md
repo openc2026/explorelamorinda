@@ -7,7 +7,7 @@ website: "https://loards.com"
 hours: "Closed Mon; Tue-Thu 11am-8pm; Fri-Sat 11am-9pm; Sun 12pm-8pm"
 price: "$"
 tags: ["ice-cream", "dessert", "family-friendly", "moraga", "rheem"]
-lastVerified: "2026-06-08"
+lastVerified: "2026-06-12"
 ---
 
 ![Loard's Ice Cream in Rheem Center](/images/Moraga_LoardsIceCream.jpg)
@@ -78,14 +78,14 @@ Loard's started as a candy company in 1950 and added ice cream shortly after. At
 
 The Moraga store opened in Rheem Center and quietly outlived almost all of them, partly because Rheem rents stayed reasonable and partly because Moraga is exactly the kind of generationally-stable suburb where a hand-dipped scoop is still a *Saturday plan*. The fact that there's also still a Loard's in Orinda — across from the theatre, [in the Theatre Square ecosystem](/things-to-do/orinda-theatre/) — means Lamorinda is, structurally, the *last stronghold* of a vanishing Bay Area institution.
 
-## Seasonal Note: Early Summer 2026
+## Seasonal Note: Mid-June 2026
 
-With sunsets now past 8:25 PM and the kind of warm-evening weather that pulls families out for after-dinner walks, this is **Loard's peak season**. Youth baseball and softball trophy ceremonies, end-of-school-year celebrations, the [Moraga Commons concert series opening June 11](/things-to-do/moraga-commons/), and the post-Memorial-Day shift into full summer rhythm all funnel through here.
+With sunsets now past 8:33 PM and the kind of warm-evening weather that pulls families out for after-dinner walks, this is **Loard's peak season**. AUHSD graduation week, end-of-school-year celebrations, the [Moraga Commons concert series](/things-to-do/moraga-commons/) (now mid-stride after the Sun Kings opener — next up Thursday June 18, the Purple Ones Prince tribute), and the post-Memorial-Day shift into full summer rhythm all funnel through here.
 
 Expect a line:
-- **Saturday afternoons**, post-game wave 3–5 PM
+- **Saturday afternoons**, post-game wave 3–5 PM — noticeably heavier through June 13 (Miramonte/Campolindo grad Saturday)
 - **Saturday/Sunday evenings**, post-dinner wave 7–8:30 PM
-- **Concert nights** (Thursdays starting June 11) — the pre-Commons stop adds a 5:30–6:15 PM wave on the way to the bandshell
+- **Concert Thursdays** (through August 20) — the pre-Commons stop adds a 5:30–6:15 PM wave on the way to the bandshell
 
 The Friday and Saturday 9 PM close is your friend if you want a quieter scoop after the family rush dies down.
 

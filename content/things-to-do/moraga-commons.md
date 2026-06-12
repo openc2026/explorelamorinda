@@ -3,7 +3,7 @@ title: "Moraga Commons Park"
 description: "Community heart of Moraga — playground, concerts, and gathering space"
 address: "1425 St Mary's Road, Moraga, CA 94556"
 tags: ["parks", "playground", "concerts", "family-friendly", "moraga", "community"]
-lastVerified: "2026-06-11"
+lastVerified: "2026-06-12"
 ---
 
 ![Moraga hills panorama](/images/new_panoramic4.png)
@@ -51,18 +51,18 @@ All shows 6:30 – 8:30 PM at the Moraga Commons Bandshell. **Free admission.**
 - **[Chef Chao](/moraga/restaurants/chef-chao/)** (Rheem Shopping Center) — Reliable Chinese in the Rheem center, fast enough to do a 5:15 in-and-out before walking down to the bandshell.
 - **[Loard's Ice Cream](/moraga/restaurants/loards-ice-cream/)** — Walking distance from the bandshell, open until 9 PM Fri/Sat. The classic post-concert stop with the kids. (Closed Mondays — irrelevant for Thursday concerts but worth knowing.)
 
-### Opening Night Survival Guide (Sun Kings — Thursday, June 11, 2026)
+### Concert Night Survival Guide
 
-Opening night of the Summer Concert Series is, structurally, the biggest single Thursday in Moraga. The lawn fills earlier than any other show on the schedule. A few field-tested specifics for first-timers (and a refresher for regulars):
+A Thursday concert at the Commons is, structurally, the biggest weekly recurring outdoor event in Moraga. The lawn fills earlier than people expect — especially on opening night and on tribute-band weeks (June 18 Prince, June 25 Tom Petty, August 20 Fleetwood Mac). A few field-tested specifics for first-timers (and a refresher for regulars):
 
-- **Arrive at the lawn by 5:30 PM** for a good blanket spot in the front-center sweet spot. By 6:00, the prime real estate (the rectangle directly in front of the bandshell, plus the slope along the eastern edge with the natural sight line) is claimed. After 6:15 you are in the back third — still fine, still fun, but you will be standing for a few of the up-tempo songs.
+- **Arrive at the lawn by 5:30 PM** for a good blanket spot in the front-center sweet spot. By 6:00, the prime real estate (the rectangle directly in front of the bandshell, plus the slope along the eastern edge with the natural sight line) is claimed. After 6:15 you are in the back third — still fine, still fun, but you will be standing for a few of the up-tempo songs. (On a tribute-band night like June 18 / Aug 20, push the arrival window 15 minutes earlier.)
 - **Bring a low chair, not a tall one.** Tall chairs block the families behind you and you will be politely asked to move. Low folding chairs (the soccer-sideline kind) are the standard.
 - **Bring layers.** The lawn cools 8–10°F once the sun drops behind the western ridge around 7:35 PM. A second-half hoodie is the difference between staying for the encore and leaving early.
 - **Park at the Moraga Center shopping center** and walk the half-block in. The Commons lot is full by 5:45 PM on opening night. The shopping center lot is closer than it looks and the walk is part of the ritual.
 - **Bike in if you can.** The [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) drops you within a five-minute walk of the bandshell and you get to skip parking entirely. Bring a lock.
 - **Cash for the beer/wine booth.** The Moraga Lions and Kiwanis run the booth at the back of the bandshell area. They take cards, but lines move faster with cash, and the booth funds local scholarships and community grants.
 - **Food trucks line the path** along the eastern side of the lawn. Lines for the most popular trucks (the woodfired-pizza truck has a near-cult following) hit 25 minutes by 6:45 PM. Eat before, or commit to dinner-as-show-intermission.
-- **The Acalanes-commencement-to-Commons handoff** is a real, runnable maneuver for families doing both. Memorial Stadium to the Commons bandshell is 8–14 minutes by car. You'll miss the first three songs and catch *"Eleanor Rigby"* — worth it.
+- **Watch the sunset behind the western ridge.** It drops behind the hills around 7:35–7:45 PM all summer and the lawn cools fast in the half-hour that follows; this is the hour when low chairs and a hoodie pay for themselves. Latest sunsets of the year run past 8:33 PM in mid-June and 8:36 PM by the solstice.
 - **Kid logistics.** The back lawn is where kids run in packs. Tell them which blanket is yours, then let them. Bathrooms are at the playground side — known to the kids by Year 2.
 - **No glass, no BBQs, no amplified devices** — community park rules. Coolers are fine.
 
@@ -89,8 +89,9 @@ Beyond concerts, the park hosts:
 
 ## Best Times to Visit
 
-- **Opening Night — Thursday, June 11, 2026 (TONIGHT)**: The Sun Kings open Year 42 of the Summer Concert Series. Bandshell crew has been live since Wednesday morning; soundcheck happens around 11:30 AM and again at 4:30 PM. Blanket-claimers start arriving on the lawn by 3:45 PM; the prime front-center sweet spot is gone by 5:30. Sunset hits 8:31 PM; the western ridge goes gold around 7:55. Several Acalanes families are running the [stadium-to-bandshell handoff](/blog/thursday-the-double-event/) tonight — commencement wraps ~6:15, drive 8–14 minutes, catch *"Eleanor Rigby."* The Moraga Lions & Kiwanis booth opens at 5:30. (See our [opening-night field report](/blog/thursday-the-double-event/) for the hour-by-hour.)
-- **Summer Thursdays** (June 11 – Aug 20): Concert nights. Plan to arrive by 5:30 PM for a good blanket spot. The 2026 series runs Thursday evenings 6:30 – 8:30 PM, plus a special Saturday July 4th show. See the **Opening Night Survival Guide** above for first-timer logistics. **Next up: Thursday, June 18 — Purple Ones (Prince tribute).**
+- **Next Up — Thursday, June 18, 2026**: The **Purple Ones** (Prince tribute) take the bandshell, 6:30–8:30 PM. Week two of the series is structurally the second-busiest lawn night of June — the families who didn't make opening night are recalibrating, and the Prince catalog plays to a slightly older, slightly louder dancing-on-the-grass crowd than the Beatles opener did. Arrive by 5:30 PM for front-center; bring layers (the western-ridge cool-down hits around 7:40 PM).
+- **Opening-Night Recap — Thursday, June 11, 2026**: The **Sun Kings** opened Year 42 of the Summer Concert Series last night. Lawn filled to the rectangle-in-front-of-the-bandshell by 5:30; the front-center sweet spot was gone by 5:45. The Moraga Lions & Kiwanis beer-and-wine booth ran continuously from 5:30 until just past the encore. Several Acalanes families successfully ran the [stadium-to-bandshell handoff](/blog/thursday-the-double-event/) from the 5pm commencement and caught most of the back half of the set. (See our [opening-night field report](/blog/thursday-the-double-event/) for the hour-by-hour.)
+- **Summer Thursdays** (through Aug 20): Concert nights. Plan to arrive by 5:30 PM for a good blanket spot. The 2026 series runs Thursday evenings 6:30 – 8:30 PM, plus a special Saturday July 4th show. See the **Concert Night Survival Guide** above for first-timer logistics.
 - **Saturday July 4, 2026**: The only Saturday show of the season — Wayhighs open, Neon Velvet headlines. Bigger crowd than a typical Thursday.
 - **Late winter/early spring** (Feb-Apr): The surrounding hills are at their greenest. Perfect for a picnic before summer crowds arrive.
 - **Year-round**: The playground doesn't have a season. Kids don't care about weather.
