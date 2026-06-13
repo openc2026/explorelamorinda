@@ -7,7 +7,7 @@ website: "https://loards.com"
 hours: "Closed Mon; Tue-Thu 11am-8pm; Fri-Sat 11am-9pm; Sun 12pm-8pm"
 price: "$"
 tags: ["ice-cream", "dessert", "family-friendly", "moraga", "rheem"]
-lastVerified: "2026-06-12"
+lastVerified: "2026-06-13"
 ---
 
 ![Loard's Ice Cream in Rheem Center](/images/Moraga_LoardsIceCream.jpg)
@@ -83,8 +83,8 @@ The Moraga store opened in Rheem Center and quietly outlived almost all of them,
 With sunsets now past 8:33 PM and the kind of warm-evening weather that pulls families out for after-dinner walks, this is **Loard's peak season**. AUHSD graduation week, end-of-school-year celebrations, the [Moraga Commons concert series](/things-to-do/moraga-commons/) (now mid-stride after the Sun Kings opener — next up Thursday June 18, the Purple Ones Prince tribute), and the post-Memorial-Day shift into full summer rhythm all funnel through here.
 
 Expect a line:
-- **Saturday afternoons**, post-game wave 3–5 PM — noticeably heavier through June 13 (Miramonte/Campolindo grad Saturday)
-- **Saturday/Sunday evenings**, post-dinner wave 7–8:30 PM
+- **Saturday afternoons**, post-game wave 3–5 PM — noticeably heavier *this* Saturday (June 13, Miramonte/Campolindo grad Saturday) as out-of-town grandparents get walked through Rheem Center between the ceremony and the dinner reservation; a fully-Lamorinda way to fill the 3–5 PM gap
+- **Saturday/Sunday evenings**, post-dinner wave 7–8:30 PM — tonight's tail is the heaviest of the month as families spill out of [La Finestra](/moraga/restaurants/la-finestra/), [Chef Chao](/moraga/restaurants/chef-chao/), and [Penninis](/moraga/restaurants/penninis.md) toward the 9 PM close
 - **Concert Thursdays** (through August 20) — the pre-Commons stop adds a 5:30–6:15 PM wave on the way to the bandshell
 
 The Friday and Saturday 9 PM close is your friend if you want a quieter scoop after the family rush dies down.
