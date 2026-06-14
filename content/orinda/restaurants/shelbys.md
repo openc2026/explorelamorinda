@@ -7,7 +7,7 @@ website: "https://www.shelbyseatbetter.com"
 hours: "Daily 11:30am-8pm"
 price: "$$$"
 tags: ["california-cuisine", "upscale", "theatre-square", "date-night", "continental", "lunch", "dinner"]
-lastVerified: "2026-05-27"
+lastVerified: "2026-06-14"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)
@@ -44,9 +44,9 @@ Shelby's occupies prime real estate in a complex with real history. Theatre Squa
 
 Shelby's has been part of this ecosystem for decades, serving as the go-to dinner spot for moviegoers. The restaurant and theatre have developed an unspoken rhythm — the kitchen knows when shows start, the servers pace courses accordingly, and regulars know to book a 5:30 reservation for a 7pm film. It's dinner-and-a-movie infrastructure, refined over years of practice.
 
-## Early Summer Tip: Late May Through Mid-June 2026
+## Summer Tip: Father's Day Week, June 14–21, 2026
 
-The long evenings work in Shelby's favor right now. With sunset past 8:20pm and afternoons settling into the upper 70s through early June, the dinner-then-movie rhythm shifts later — a 6pm table still leaves the dining room sunlit, and there's a real golden-hour window in [Theatre Square](/things-to-do/orinda-theatre/) between dinner and an 8:15pm showing at the Orinda Theatre next door. If you're pairing dinner with a film, a 5:30 or 6pm reservation now works for anything starting after 8pm. For pure dinner without the movie, weeknight Tuesday or Wednesday is the quietest window — Memorial Day weekend has come and gone, and the school-is-out / graduation crowd hasn't quite arrived yet. The next two to three weeks are the sweet spot.
+The long-evening summer rhythm is fully in effect — sunsets past 8:33pm now and pushing toward 8:36pm by the solstice on June 21, with golden hour holding past 8pm. AUHSD graduation week wrapped Saturday, June 13, so the visiting-grandparent surge has subsided and Theatre Square is back to its summer-Sunday baseline. **Father's Day falls Sunday, June 21**, and the 5:30–7pm reservation window at Shelby's typically closes out 10–14 days ahead — if you're reading this on the Sunday before Father's Day and considering the call, today is the day. For pure dinner without the movie, the **Tuesday and Wednesday weeknight slots** are the quietest of the week now, with the school-is-out daytime patio energy peaking on weekends. The dinner-then-movie rhythm still works well: a 5:30pm table leaves a comfortable golden-hour walk to an 8:15pm showing at the [Orinda Theatre](/things-to-do/orinda-theatre/) next door, and the Theatre Square between-dinner-and-film stretch is genuinely pleasant on a warm June evening.
 
 ## Good to Know
 
