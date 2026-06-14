@@ -2,8 +2,8 @@
 title: "Lafayette-Moraga Regional Trail"
 description: "Paved trail connecting Lafayette and Moraga — perfect for walking, running, and cycling"
 tags: ["outdoors", "hiking", "biking", "walking", "family-friendly", "lafayette", "moraga"]
-last_updated: 2026-06-08
-lastVerified: "2026-06-08"
+last_updated: 2026-06-14
+lastVerified: "2026-06-14"
 ---
 
 ![Lafayette-Moraga Trail](/images/new_trails.png)
@@ -43,14 +43,15 @@ It's not wilderness — it's better for certain purposes. The pavement means you
 - **Summer**: Start early — shade is limited and the paved surface can get hot. Before 9am is ideal.
 - **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even right after rain.
 
-## Second Week of June 2026 — Gold Taking Over, Concert Season Opens
+## Mid-June 2026 — Father's Day Week, Solstice Approaching, Post-Graduation
 
-The green-to-gold pivot is mostly done: hillsides along the southern stretch (Valle Vista, the EBMUD watershed boundary) have shifted to their classic California summer palette, while a few north-facing slopes near the Lafayette Community Center still hold pockets of late green. By next weekend it'll be fully gold. A few timely notes for the week of June 7–14:
+The green-to-gold pivot is essentially complete: the southern stretch (Valle Vista, the EBMUD watershed boundary) is fully into its classic California summer palette, and even the north-facing slopes near the Lafayette Community Center have shed their last pockets of late green. Today, Sunday June 14, the trail reads as fully summer. A few timely notes for the week of June 14–20:
 
-- **Best window:** 7–9 a.m. on weekdays, before 9 a.m. on weekends. Sunsets are past 8:28 p.m. pushing toward 8:32 p.m. by mid-month, so evening rides from ~6:30 p.m. also work well — the light is excellent and the pavement has cooled.
-- **Concert-night pairing is back:** [Moraga Commons](/things-to-do/moraga-commons/) opens its summer concert series Thursday, June 11 (Sun Kings, Beatles tribute) and runs through August 20. The classic move — trail ride south, finish at the Commons, picnic blanket for the 6:30 p.m. set — is officially in play again. Plan to be off the trail and at the lawn by 5:30 p.m. for opener-night blanket placement.
-- **Graduation-week trail rhythm:** Acalanes commencement is Thursday June 11; K-8 sites wrap the same Friday. Expect lighter-than-usual morning traffic Thursday and Friday (everyone is at a ceremony), and a noticeable bump in stroller-and-grandparent walking-tour traffic Saturday June 13 as out-of-town families do the lap before brunch.
-- **Trail surface:** Dry and fast after the rain-free stretch. Roadie-friendly conditions all the way down to the Moraga end.
+- **Sunday June 14 — the post-graduation recovery walk:** AUHSD graduation week wrapped last night with the Miramonte/Campolindo grad Saturday; today the trail rhythm flips. Expect a noticeable late-morning bump in **out-of-town-grandparent walking traffic** (the post-graduation lap before the airport drive), then a quiet midafternoon, then the usual Sunday-evening jogger-and-stroller wave from ~6 p.m. as the light cools off. The Olympic Boulevard staging area is the cleaner trailhead today — the Moraga Commons end will be slightly busier as departing families do the symmetric lap from the south.
+- **Best window:** 7–9 a.m. on weekdays, before 9 a.m. on weekends. Sunsets are past 8:33 p.m. and pushing toward 8:36 p.m. by the **summer solstice next Sunday, June 21** — the longest evening rides of the year are this week and next. Evening rides from ~6:30 p.m. through about 8 p.m. give you the cooled pavement plus the long-light return ride that defines mid-June trail riding here.
+- **Father's Day, Sunday June 21:** A trail-then-Moraga-Commons lap with the family is a perennial Father's-Day-morning move. Park at Olympic, ride or walk south to Moraga Commons, grab coffee, ride back. The trail tends to be busy 9–11 a.m. on Father's Day with multi-generational groups — plan around it or lean into it.
+- **Concert-night pairing, Week 2:** [Moraga Commons](/things-to-do/moraga-commons/) Week 2 is Thursday, June 18 — **The Purple Ones** (Prince tribute). The classic move — trail ride south, finish at the Commons, picnic blanket for the 6:30 p.m. set — still applies. Plan to be off the trail and at the lawn by 5:30 p.m. for a comfortable bandshell-side spot; the Purple Ones routinely outdraw the opener.
+- **Trail surface:** Dry and fast. The rain-free stretch has held; roadie-friendly conditions all the way down to the Moraga end.
 - **Heads-up:** PG&E vegetation management work has historically been active along the Oliveira Lane stretch this time of year; trail width can be occasionally restricted during brush removal. Verify current status on the [EBparks trail page](https://www.ebparks.org/trails/interpark/lafayette-moraga) before a long ride if you're routing through that stretch.
 - **Valle Vista stub still closed:** see the Route section above — the final half-mile to Westchester Street remains closed (storm damage from 2022–2023). The 7-mile Lafayette-to-Moraga run is unaffected.
 
