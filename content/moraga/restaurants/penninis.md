@@ -7,7 +7,7 @@ website: "https://www.penninis.com"
 hours: "Pennini's: Mon 4pm-8pm, Tue-Sat 12pm-9pm, Sun 12pm-8pm. Michael's: Fri-Sat 4pm-9pm only."
 price: "$$"
 tags: ["italian", "bar", "family-friendly", "moraga-way", "fine-dining"]
-lastVerified: "2026-06-08"
+lastVerified: "2026-06-15"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -46,7 +46,7 @@ The staff knows regulars by name, and there's always someone waving across the r
 - **Family-friendly (Pennini's side)** — This is a neighborhood spot, kids welcome
 - **Date-night room (Michael's side)** — Reserve ahead, especially on weekends with a Saint Mary's home event
 - **Takeout** — Pennini's is the takeout-friendly side; Michael's is a sit-down room
-- **Happy Hour:** Pennini's bar, Monday–Friday 4–5pm, $2 off any beer, wine, or cocktail — a quiet, civilized window before the family-dinner rush hits
+- **Happy Hour:** Pennini's bar, Monday–Friday 4–5pm, $2 off any beer, wine, or cocktail — a quiet, civilized window before the family-dinner rush hits. Monday is the cleanest day of the week to hit it: Pennini's opens at 4pm (no lunch service Monday), so the bar is genuinely fresh and the room is at its quietest of the week.
 - **Parking:** Easy — it's Moraga
 
 ## Pair It With

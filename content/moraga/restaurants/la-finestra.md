@@ -7,7 +7,7 @@ website: "https://lafinestraristorante.com"
 hours: "Tue-Thu 11:30am-8pm, Fri 11:30am-8:30pm, Sat 4:30pm-8:30pm, Sun 4:30pm-8pm, Closed Mon"
 price: "$$$"
 tags: ["italian", "fine-dining", "date-night", "moraga"]
-lastVerified: "2026-06-10"
+lastVerified: "2026-06-15"
 ---
 
 ![La Finestra Ristorante](/images/Moraga_LaFinestra.jpg)
@@ -44,9 +44,11 @@ The patio is particularly pleasant on mild spring evenings — Moraga's cooler t
 
 Chef Assadi's culinary journey brought him to Lafayette in 2003, where he first built a following for his authentic Sicilian-influenced cooking. By 2018, demand warranted a second location, and La Finestra in Moraga was born. The same attention to quality — fresh ingredients, house-made pastas, consistent execution — transferred to the new space. For Moraga residents, it means fine Italian dining without the drive to Walnut Creek or Lafayette.
 
-## Early-Summer Tip
+## Mid-June Tip
 
-Late May and early June are arguably La Finestra's best stretch of the year. The patio gets long, soft evening light from about 7pm onward, Moraga's hillside cool kicks in once the sun drops behind the ridge, and the weeknight pace is dramatically calmer than weekends. Aim for a 6:30-7pm Tuesday or Wednesday reservation — the kitchen is fresh, the service is attentive, and you'll catch the golden hour over the Moraga hills with your antipasti.
+Mid-June is arguably La Finestra's best stretch of the year. We're a week out from the summer solstice (Sunday, June 21), so the patio gets long, soft evening light well past 8pm — sunset is past 8:33pm now and pushing toward 8:36 by solstice. Moraga's hillside cool kicks in once the sun drops behind the ridge, and the weeknight pace is dramatically calmer than weekends. Aim for a 6:30–7pm Tuesday or Wednesday reservation — the kitchen is fresh, the service is attentive, and you'll still catch the golden hour over the Moraga hills with your antipasti.
+
+**Father's Day Sunday, June 21** — La Finestra runs its standard Sunday dinner schedule (4:30–8pm, no lunch). The early seating (4:30–5:30pm) is the play for multi-generational tables that include grandparents who like to be home before dark; the 6:30–7:30pm window is the date-night-with-Dad slot and the one that books out first. With only one weekend dinner shift and a small dining room, the Father's Day reservation list typically firms up about two weeks ahead — if you're reading this as a fallback plan, call now.
 
 ## Good to Know
 
