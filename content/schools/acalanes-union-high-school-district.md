@@ -1,11 +1,22 @@
 ---
 title: "Acalanes Union High School District"
 description: "Complete guide to Lamorinda's high school district: Campolindo, Miramonte, Acalanes, and Las Lomas. Rankings, programs, boundaries, and what makes each school unique."
+lastVerified: "2026-06-16"
 ---
 
 The **Acalanes Union High School District (AUHSD)** serves all three Lamorinda towns plus portions of Walnut Creek, providing high school education for approximately 5,400 students across four comprehensive high schools.
 
 With an overall **A+ rating from Niche** and rankings in the **top 5% of California school districts**, AUHSD is the reason many families stretch their budgets to live in Lamorinda.
+
+## For Incoming Families: Class of 2030 Lands This Fall
+
+The **Class of 2026 just graduated last week** (AUHSD's eleventh consecutive June commencement window), and the district's attention now pivots to the **Class of 2030** — the rising freshmen who'll arrive on Campolindo, Miramonte, Acalanes, and Las Lomas campuses in mid-August. If your family is relocating to Lamorinda over the summer with a 9th-grader in tow, this is the right moment to lock in the practical pieces:
+
+- **Enrollment for fall 2026** is the first stop — each campus runs its own incoming-9th-grade orientation in early-to-mid August, with course registration finalized through summer. Boundary verification (Acalanes vs. Las Lomas in Lafayette) should happen **before** an offer goes in on a house, not after.
+- **Summer assignments** — most AP and Honors track courses release summer reading/work packets in late June; the school websites are the source of truth for current-year lists.
+- **Athletic tryouts** for fall sports (football, water polo, volleyball, cross country) typically open the first week of August. Incoming freshmen athletes should email the head coach in late June or early July to get on the roster radar before tryout week.
+
+For the **Class of 2026 — the graduating cohort that just walked the stage —** the next data point is the published college destination list, which the individual campuses release in late June or early July each year and is the cleanest single read on how AUHSD prepares students for the four-year college path. We'll update this page with the 2026 numbers once they post.
 
 ---
 
@@ -225,7 +236,7 @@ Lafayette, CA 94549
 
 ---
 
-*Last updated: March 2026*
+*Last verified: June 16, 2026* · *Previously updated: March 2026*
 
 ---
 
