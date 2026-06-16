@@ -66,6 +66,45 @@ A Thursday concert at the Commons is, structurally, the biggest weekly recurring
 - **Kid logistics.** The back lawn is where kids run in packs. Tell them which blanket is yours, then let them. Bathrooms are at the playground side - known to the kids by Year 2.
 - **No glass, no BBQs, no amplified devices** - community park rules. Coolers are fine.
 
+### The Pre-Concert Errand Loop (Tuesday-Thursday)
+
+The families who arrive at 5:55 PM with five low chairs, a blanket without wrinkles, a cooler with ice that lasts past sunset, and a babysitter at home with the under-6 cohort *did not improvise that*. They built it across the three days before the show. The standard Lamorinda concert week looks like this:
+
+**Monday evening or Tuesday morning**
+- Pull chairs from the garage. Count them. Identify the *fifth-chair problem* (most families own four; most families bring five). Borrow, buy, or accept that someone is on the blanket.
+- Shake out the blanket on the lawn. Check for the bandshell-grass stain that proves it has been here before.
+- Open the group text. Confirm who is going. Confirm who is bringing what.
+
+**Tuesday**
+- Recon shop at the Lafayette or Moraga [Trader Joe's](/lafayette/) - stone fruit, cheese (the Toscano-with-cherry is the bandshell standard), crackers, sparkling water. Do *not* do the full shop yet; the Tuesday shop is calibration.
+- Triangulate the babysitter for the under-6 set. Premium Thursday demand; ask the favorite by 10 AM, the backup by 11.
+- Decide pre-concert dinner: [La Finestra](/moraga/restaurants/la-finestra/) (book the 6:00 PM by Wednesday), Canyon Club Brewery (walk-in OK), pizza-on-the-blanket from Squa Pan or Tomato Pie, or the cheese board as dinner (empty-nester move).
+
+**Wednesday**
+- Start the 36-hour kitchen-ice-maker run if you are doing the [cooler ice calculus](/blog/tuesday-the-pre-concert-errand-loop/) the thrifty way; otherwise plan the Thursday $4.49 ice run.
+- Refill the water bottles. Wash the reusable plates if you use them.
+- Confirm the La Finestra reservation. Send the babysitter the address.
+
+**Thursday**
+- Morning: final TJ's shop (cheese, fruit, the cucumber salad if you said you were making it).
+- 3:00-4:00 PM: cooler-load. Layered ice on the bottom, cheese and stone fruit in the middle, water bottles on top.
+- 4:30 PM: load the car. Chairs, blanket, cooler, layers (the hoodies for the 7:40 PM cool-down), the bag with napkins/utensils/the bottle opener you always forget.
+- 5:15 PM: leave the house. Park at the [Moraga Center shopping center](/moraga/) and walk in.
+- 5:30 PM: blanket down, front-center if you got here in time, slope on the east edge if you didn't, fine either way.
+- 6:30 PM: downbeat. The loop is *done*. The casualness is the *finish*.
+
+This is the rhythm. Year 1 families improvise. Year 2 families have the chairs. Year 3 families have the *system*. Year 5 families have a tuned cooler, a known babysitter, and a *blanket coordinator* in the group text who confirms the lineup by Tuesday at 4 PM. (For the cultural reading of all this, see [The Pre-Concert Errand Loop](/blog/tuesday-the-pre-concert-errand-loop/).)
+
+### Accessibility & Family Logistics
+
+- **Stroller and wheelchair access** - The lawn slopes gently from the bandshell-side path toward the playground; the eastern path is paved and works for strollers and wheelchairs to within about 20 feet of any blanket spot. The flattest blanket placement for a wheelchair or a stroller-sleeping baby is the **left-rear quadrant** of the lawn (looking at the bandshell), where the grade is mildest and the path is closest.
+- **Restrooms** - Permanent restrooms next to the playground; portable restrooms added near the bandshell on concert nights. The playground restrooms are the cleaner of the two by 7:30 PM.
+- **Diaper-change spots** - Changing surface in the playground-side restroom; the picnic tables along the eastern path work in a pinch.
+- **Nursing** - Quiet corners along the eastern path and the picnic-table cluster on the south end. Nobody pays attention; this is a family park.
+- **Sensory-friendly listening** - The sound system carries to the *back third* of the lawn at a meaningfully lower volume; families with kids who are sound-sensitive consistently land in the back-left area near the basketball courts, where the music is present but conversational.
+- **Dogs on leash** - Allowed in the park year-round. *Discouraged at concerts* on the main lawn (the crowd density spooks most dogs by 6:45 PM); the walking-paths perimeter is the better dog route on Thursday nights.
+- **Hearing assistance** - The bandshell has no assistive listening system; for hard-of-hearing concert-goers, the front-left blanket spots (10-15 feet from stage-left) are the loudest clean sound and the most-recommended placement.
+
 ## For Kids
 
 - **Playground** - Recently updated, good for multiple age groups
@@ -82,10 +121,11 @@ A Thursday concert at the Commons is, structurally, the biggest weekly recurring
 ## Community Events
 
 Beyond concerts, the park hosts:
-- Community gatherings
-- Youth sports
-- Holiday events
-- Informal meetups
+- **Community gatherings** - Moraga's Fourth of July fireworks staging, Earth Day clean-ups, and the periodic Moraga Park Foundation fundraiser
+- **Youth sports** - AYSO soccer practices on the open lawn weekday afternoons (fall) and informal kid-pickup basketball year-round on the courts
+- **Holiday events** - Egg hunt in early April (Moraga Park Foundation), pumpkin-and-hayride afternoon in late October
+- **Informal meetups** - Mom-and-stroller groups Tuesday mornings 9:30-10:30, retired-walker loop most weekday mornings around 8:00, dog-walking confluence around 7:30 AM and 4:30 PM
+- **Movie Night in the Park** - One Friday evening in late July or August on the bandshell lawn; bring the same low chairs and the same cooler as the concert series; confirm date with [moragaparks.org](https://moragaparks.org/) in early July
 
 ## Best Times to Visit
 
