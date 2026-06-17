@@ -1,6 +1,7 @@
 ---
 title: "Lafayette School District"
 description: "Complete guide to Lafayette School District: Burton Valley, Happy Valley, Lafayette, Springhill Elementary and Stanley Middle School. Rankings, programs, and what makes Lafayette schools exceptional."
+lastVerified: "2026-06-17"
 ---
 
 ![Students engaged in collaborative classroom learning](/images/education-students-classroom.jpg)
@@ -8,6 +9,19 @@ description: "Complete guide to Lafayette School District: Burton Valley, Happy 
 The **Lafayette School District (LAFSD)** serves the city of Lafayette with five schools — four elementary schools and one middle school — providing TK-8 education for approximately 3,200 students.
 
 Consistently rated **A+ by Niche** and recognized as a "destination district," Lafayette schools combine rigorous academics with strong community support to create an exceptional educational foundation.
+
+---
+
+## For Incoming Families: Summer 2026 Move-In
+
+The **Stanley Middle School Class of 2026 just promoted last week**, and most LAFSD families are now well into summer mode. If you're relocating to Lafayette over the summer with school-age kids, the next six weeks are when the practical pieces get locked in:
+
+- **Enrollment for fall 2026** — LAFSD elementary assignments are address-based within Lafayette, and the office at 3477 School Street processes new-family registrations through the summer. Bring proof of residency (lease or closing docs) and immunization records. Each elementary campus runs a separate kindergarten/new-family orientation in the second or third week of August.
+- **The boundary question that matters most** — most Lafayette addresses feed Acalanes High; some feed Las Lomas. This is an LAFSD-graduation-to-AUHSD-entry question that families relocating with a rising 5th- or 6th-grader should resolve **before** an offer goes in on a house, not after. The [Acalanes Union High School District](/schools/acalanes-union-high-school-district/) page covers the high-school side; the elementary-to-Stanley side is uniform (all five LAFSD elementary schools feed Stanley Middle for grades 6-8).
+- **Stanley Middle School summer expectations** — incoming 6th graders typically receive a summer reading list and math-readiness materials by late June; the Stanley front office and the student handbook (posted on the LAFSD site each summer) are the canonical source. CORE team assignments and elective choices (Band, Orchestra, Choir, Drama, Spanish, Leadership) come together in early August.
+- **LPIE membership** — the parent-funding piece that keeps Lafayette schools running at the level they do. Most new families are introduced to LPIE at fall orientation, but earlier engagement (the summer giving cycle opens in July) is welcomed and helps the district lock in staffing.
+
+For the **promoting Stanley class** — the rising 9th graders who'll start at Acalanes or Las Lomas in mid-August — the AUHSD page above is the natural next read.
 
 ---
 
@@ -269,7 +283,7 @@ Lafayette, CA 94549
 
 ---
 
-*Last updated: March 2026*
+*Last verified: June 17, 2026 · Previously updated: March 2026*
 
 ---
 
