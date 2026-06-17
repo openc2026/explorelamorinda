@@ -7,7 +7,7 @@ website: "https://casaorindarestaurant.com"
 hours: "Wed-Thu 4pm-9pm, Fri-Sat 4pm-10pm, Sun 4pm-9pm, Closed Mon-Tue"
 price: "$$"
 tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-night"]
-lastVerified: "2026-06-11"
+lastVerified: "2026-06-17"
 ---
 
 ![Orinda Theatre](/images/new_theater.png)
@@ -42,9 +42,11 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 
 Sunday evenings at Casa Orinda (4pm-9pm) have a special energy. The weekday rush is absent, the bar is convivial but not packed, and the fried chicken tastes even better when you're not watching the clock. It's a quieter, more leisurely experience than Friday or Saturday — locals know this is when Casa feels most like the family roadhouse it's always been.
 
-## Graduation Week Tip: June 11–14, 2026
+## This Week: Father's Day Sunday, June 21
 
-Tonight is **Acalanes commencement** (Thursday June 11, 5pm at the Lafayette campus); the second AUHSD party Saturday is **June 13** (Miramonte/Campolindo). Casa is the natural celebration-dinner spot for families who want something with weight — a 90-year-old roadhouse beats a chain steakhouse for a once-in-four-years occasion, and the dining room handles a four-or-six-top better than most rooms in town. Booking pressure for tonight and tomorrow is already heavy; for Friday June 12 (the calm beat between commencement and Saturday's parties) you can still get a reasonable walk-in around 4:30pm. **Saturday June 13** is the hardest reservation of the week — if you don't have a 6pm or earlier table booked by Thursday, you're unlikely to get one. Sunday June 14 returns to the easier pace, and Sunday's quieter energy (see below) makes it the sleeper pick for a post-graduation family dinner once the weekend's parties are over. The dining room feels especially right in mid-June when evenings stretch past 8:32pm — you can leave at 8pm and still have golden light for the drive home through the hills. Bryant Way is a couple of minutes from [Theatre Square](/things-to-do/orinda-theatre/), so Casa pairs naturally with an early showing at the historic 1941 Orinda Theatre — a fitting double-feature of Lamorinda landmarks.
+Father's Day at Casa is a known quantity — a 90-year-old roadhouse with fried chicken, steaks, and a hand-carved bar is the dad-dinner archetype, and the dining room handles a six-or-eight-top better than most rooms in town. Casa's Sunday hours run **4-9pm** (no lunch service), and on Father's Day specifically the **5:00-6:30pm window books out roughly two weeks ahead**. By today (Wednesday, T-minus 4 days) the prime 5:30 and 6:00pm slots are typically full; the **5:00pm early seating** is usually the last reservation to go and is often still bookable midweek, and the **7:30-8:00pm tail end** is the late-call play. The dining room feels especially right around the **summer solstice** — sunset on June 21 lands past **8:35pm**, so a 6:30pm seating means you leave the restaurant with the kind of golden light that makes the drive home through the Orinda hills look like a movie. Bryant Way is a couple of minutes from [Theatre Square](/things-to-do/orinda-theatre/), so Casa pairs naturally with an early showing at the historic 1941 Orinda Theatre — a fitting double-feature of Lamorinda landmarks.
+
+**This week (Wed-Fri, June 17-19):** the post-graduation, pre-Father's-Day window is the cleanest midweek booking pocket of the month. Wednesday and Thursday 4:00-5:30pm seatings are walk-in-friendly; Friday June 19 starts to feel the Father's Day weekend pull by 6pm. **Last week** — AUHSD graduation week (Acalanes commencement Thursday June 11, Miramonte/Campolindo grad Saturday June 13) — was Casa's annual once-in-four-years volume peak; the dining room is now fully out of that pressure pocket and back to its usual rhythm.
 
 ## Pair It With
 
