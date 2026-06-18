@@ -1,6 +1,7 @@
 ---
 title: "Moraga School District"
 description: "Complete guide to Moraga School District: Camino Pablo, Donald Rheem, Los Perales Elementary and Joaquin Moraga Intermediate. Rankings, programs, and what makes Moraga schools exceptional."
+lastVerified: "2026-06-18"
 ---
 
 ![Diverse group of students in modern classroom](/images/education-students-classroom.jpg)
@@ -8,6 +9,19 @@ description: "Complete guide to Moraga School District: Camino Pablo, Donald Rhe
 The **Moraga School District (MSD)** serves the town of Moraga with four schools — three elementary schools and one intermediate school — providing K-8 education for approximately 1,800 students.
 
 Located in a close-knit community where "the majority of parents are highly educated professionals with high expectations," Moraga schools deliver exceptional academic outcomes in an intimate, supportive environment.
+
+---
+
+## For Incoming Families: Summer 2026 Move-In
+
+The **Campolindo Class of 2026 graduated last Saturday** (June 13), and MSD families are now well into summer mode. If you're relocating to Moraga over the summer with school-age kids, here's what makes the MSD pipeline simpler than its Lafayette and Orinda neighbors — and what to lock in before the August start:
+
+- **The single-feeder pipeline is the headline.** Every Moraga elementary school (Camino Pablo, Donald Rheem, Los Perales) feeds **Joaquin Moraga Intermediate** for 6-8, and every JM graduate enters **[Campolindo High School](/schools/acalanes-union-high-school-district/)** for 9-12. Unlike Lafayette (where Stanley Middle students split between Acalanes and Las Lomas at 9th grade) or Orinda (which has its own elementary-to-Orinda Intermediate-to-Miramonte funnel), Moraga has **no boundary question to resolve** — if your address is in Moraga, your child's K-12 path is set on day one. For families relocating with a rising 5th- or 8th-grader, this is the single most valuable piece of information on this page.
+- **Enrollment for fall 2026** — MSD elementary assignments are address-based within Moraga; the district office at 1540 School Street processes new-family registrations through the summer. Bring proof of residency (lease or closing docs) and immunization records. Each elementary campus runs a separate kindergarten/new-family orientation in the second or third week of August.
+- **Joaquin Moraga Intermediate summer expectations** — incoming 6th graders typically receive a summer reading list and math-readiness materials by late June; the JM front office and the student handbook (posted on the MSD site each summer) are the canonical source. Elective choices (Band, Orchestra, Choir, Visual Arts, World Languages, Leadership) come together in early August, along with team and advisory assignments.
+- **MEF membership** — the **Moraga Education Foundation** is the parent-funding piece that keeps MSD's music, art, technology, library, and science programs running at the level they do. Most new families are introduced to MEF at fall orientation, but earlier engagement (the summer giving cycle opens in July) is welcomed and helps the district lock in staffing.
+
+For the **promoting JM class** — the rising 9th graders who'll start at Campolindo in mid-August — the [Acalanes Union High School District](/schools/acalanes-union-high-school-district/) page is the natural next read.
 
 ---
 
@@ -251,7 +265,7 @@ Moraga, CA 94556
 
 ---
 
-*Last updated: March 2026*
+*Last verified: June 18, 2026 · Previously updated: March 2026*
 
 ---
 

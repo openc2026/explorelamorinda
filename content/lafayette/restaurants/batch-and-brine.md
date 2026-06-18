@@ -7,7 +7,7 @@ website: "https://batchandbrine.com"
 hours: "Mon-Tue 11:30am-8pm, Wed-Fri 11:30am-9pm, Sat 10am-9pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "global", "burgers", "brunch", "craft-cocktails", "downtown", "restaurant-row"]
-lastVerified: "2026-06-07"
+lastVerified: "2026-06-18"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -27,15 +27,19 @@ Batch & Brine brings a world of flavors to downtown Lafayette. Created by a dyna
 
 ## Happy Hour
 
-Monday through Friday, 2:30pm–5:30pm.
+Monday through Friday, 2:30pm–5:30pm. Note the **day-of-week split**: weekday Happy Hour runs Mon-Fri, but the **Adult Happy Meal** ($23.99) is **Mon-Thu only** — it doesn't carry into Friday. Saturday and Sunday open at 10am for brunch with no Happy Hour.
 
 ## The Cocktails
 
 Don't sleep on the bar program. The craft cocktails here are thoughtful and well-executed — not an afterthought to the food menu. Ask the bartender for recommendations based on your taste; they know their spirits.
 
-## Seasonal Note: Second Week of June 2026
+## This Week: Father's Day Sunday, June 21
 
-Downtown Lafayette is fully into its long-evening summer rhythm — sunsets past 8:28pm pushing toward 8:32pm by mid-month, upper-70s afternoons, and the Mt. Diablo Blvd patio stretch holding its warmth almost to closing. This is graduation week: Acalanes commencement falls Thursday, June 11, and the K-8 sites wrap that same Friday. Expect Restaurant Row to run two-speed all week — Thursday and Friday dinners turn into family gatherings (book early for parties of six-plus), while Monday-Wednesday is the sweet spot for a calmer patio meal before the summer-vacation rhythm fully arrives. Saturday brunch outside is still the move; tables turn fast between 10:30am and 1pm, so go early or aim for the post-1pm lull. For a quieter angle on the same patio energy, weekday Happy Hour (Mon-Fri 2:30–5:30pm) catches the best of the golden-hour light. The Adult Happy Meal ($23.99, Mon-Thu) holds up especially well as a post-work-pre-grad-event option this week — Monday, Tuesday, and Wednesday all qualify before the Thursday commencement crunch.
+Downtown Lafayette is now in its longest-evenings stretch of the year — sunsets past 8:35pm on Father's Day Sunday (which doubles as the summer solstice), upper-70s afternoons, and the Mt. Diablo Blvd patio stretch holding its warmth almost to closing. Graduation week is behind us (Acalanes commencement was Thursday, June 11; Miramonte and Campolindo wrapped Saturday, June 13), and Restaurant Row has settled into its summer-vacation rhythm.
+
+**For Father's Day Sunday (June 21):** Batch & Brine opens at 10am for brunch and runs straight through to 8pm — no Happy Hour, no afternoon break. The 10:30am-1pm brunch window books up early on Father's Day; the 4-6pm post-brunch / pre-dinner lull is the sleeper-pick window for walk-in parties of four or fewer who don't want to plan ahead. Sunset lands past 8:35pm, so a late seating gets you nearly the entire patio-light arc.
+
+**This week (Wed-Fri, June 17-19)** is the cleanest midweek booking pocket of the month — post-graduation, pre-Father's-Day. Weekday Happy Hour (Mon-Fri 2:30–5:30pm) catches the best of the golden-hour light, and the Adult Happy Meal ($23.99, **Mon-Thu only**) holds up especially well as the quiet-midweek default. Friday June 19 6pm onward is the start of the Father's Day weekend pull.
 
 If you're piecing together a downtown Lafayette evening, you've got three natural pair-ups on the same Restaurant Row block:
 
