@@ -1,6 +1,7 @@
 ---
 title: "Orinda Union School District"
 description: "Complete guide to Orinda Union School District: Del Rey, Glorietta, Sleepy Hollow, Wagner Ranch Elementary and Orinda Intermediate. Rankings, programs, and what makes Orinda schools exceptional."
+lastVerified: "2026-06-19"
 ---
 
 ![Happy students in bright classroom setting](/images/education-students-classroom.jpg)
@@ -8,6 +9,19 @@ description: "Complete guide to Orinda Union School District: Del Rey, Glorietta
 The **Orinda Union School District (OUSD)** serves the city of Orinda with five schools — four elementary schools and one intermediate school — providing K-8 education for approximately 2,500 students.
 
 With **87% of students meeting or exceeding standards** in both ELA and Math, Orinda schools consistently rank among California's best, attracting families willing to pay premium prices for access to exceptional public education.
+
+---
+
+## For Incoming Families: Summer 2026 Move-In
+
+The AUHSD Class of 2026 just walked the stage last week — the eleventh consecutive June commencement window for Lamorinda's high-school families. For families relocating to Orinda this summer with school-age kids, here's what matters most between now and the first week of school in mid-August:
+
+- **Single-feeder pipeline, no boundary question** — Every Orinda elementary student feeds **Orinda Intermediate School (OIS)** for grades 6–8, and every OIS graduate enters [**Miramonte High School**](/schools/acalanes-union-high-school-district/) for grades 9–12. This is structurally similar to Moraga's single-feeder pattern (Joaquin Moraga → Campolindo) but distinct from Lafayette, where Stanley Middle School graduates split between Acalanes and Las Lomas. **There is no boundary question to resolve once you are inside Orinda** — if your address is in OUSD, your child's full K–12 path is determined the day you close on the house. The only assignment question is which of the four elementaries (Del Rey, Glorietta, Sleepy Hollow, Wagner Ranch) your address feeds.
+- **Enrollment for fall 2026** — OUSD enrollment is handled at the district office (8 Altarinda Road) and requires proof of residency (recent utility bill, escrow or lease document) plus immunization records. New-family orientation typically lands in the second or third week of August at the elementary site. Incoming OIS 6th graders go through a separate intermediate-school orientation in late August with locker assignments, CORE team placement, and elective confirmation.
+- **OIS summer expectations** — Incoming 6th graders typically receive summer reading lists, math-readiness packets, and elective preferences for Band, Orchestra, Choir, Drama, Visual Arts, Technology and Design, World Languages, Leadership, or Yearbook in late June or early July. Athletic tryouts (cross country, volleyball) hit the first week of August. The single-feeder pipeline means your child's 6th-grade CORE team will follow them through 8th grade and into the same Miramonte cohort — the peer relationships established in the first three weeks of OIS stay intact for the next seven years.
+- **EFO membership** — The [**Educational Foundation of Orinda**](https://www.efo.org) funds reduced class sizes, science specialists, music/art programs, librarians, and counselors across all five schools — millions of dollars annually. The summer giving cycle ramps up in July ahead of the school year, and new-family enrollment in EFO at the time of district registration is the path of least resistance. EFO is the Orinda counterpart to LPIE (Lafayette) and MEF (Moraga); all three are the parent-funding piece that keeps the Lamorinda public-school enrichment programs running.
+
+Rising 9th graders relocating this summer will start at [**Miramonte High School**](/schools/acalanes-union-high-school-district/) in mid-August — the AUHSD page has the boundary, athletics, and summer-assignment specifics for the high-school side of the pipeline.
 
 ---
 
@@ -294,7 +308,7 @@ Orinda, CA 94563
 
 ---
 
-*Last updated: March 2026*
+*Last verified: June 19, 2026 · Previously updated: March 2026*
 
 ---
 
