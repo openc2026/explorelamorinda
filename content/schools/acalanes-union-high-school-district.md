@@ -1,7 +1,7 @@
 ---
 title: "Acalanes Union High School District"
 description: "Complete guide to Lamorinda's high school district: Campolindo, Miramonte, Acalanes, and Las Lomas. Rankings, programs, boundaries, and what makes each school unique."
-lastVerified: "2026-06-16"
+lastVerified: "2026-06-20"
 ---
 
 The **Acalanes Union High School District (AUHSD)** serves all three Lamorinda towns plus portions of Walnut Creek, providing high school education for approximately 5,400 students across four comprehensive high schools.
@@ -10,7 +10,7 @@ With an overall **A+ rating from Niche** and rankings in the **top 5% of Califor
 
 ## For Incoming Families: Class of 2030 Lands This Fall
 
-The **Class of 2026 just graduated last week** (AUHSD's eleventh consecutive June commencement window), and the district's attention now pivots to the **Class of 2030** — the rising freshmen who'll arrive on Campolindo, Miramonte, Acalanes, and Las Lomas campuses in mid-August. If your family is relocating to Lamorinda over the summer with a 9th-grader in tow, this is the right moment to lock in the practical pieces:
+The **Class of 2026 has crossed the stage** and the district's attention now pivots to the **Class of 2030** — the rising freshmen who'll arrive on Campolindo, Miramonte, Acalanes, and Las Lomas campuses in mid-August. If your family is relocating to Lamorinda over the summer with a 9th-grader in tow, this is the right moment to lock in the practical pieces:
 
 - **Enrollment for fall 2026** is the first stop — each campus runs its own incoming-9th-grade orientation in early-to-mid August, with course registration finalized through summer. Boundary verification (Acalanes vs. Las Lomas in Lafayette) should happen **before** an offer goes in on a house, not after.
 - **Summer assignments** — most AP and Honors track courses release summer reading/work packets in late June; the school websites are the source of truth for current-year lists.
@@ -58,7 +58,7 @@ For the **Class of 2026 — the graduating cohort that just walked the stage —
 - Tight-knit community feel despite large enrollment
 - Beautiful campus nestled in Moraga hills
 
-**Feeder Schools:** Moraga School District (Joaquin Moraga Intermediate)
+**Feeder Schools:** [Moraga School District](/schools/moraga-school-district/) (Joaquin Moraga Intermediate) — single-feeder pipeline
 
 ---
 
@@ -81,7 +81,7 @@ For the **Class of 2026 — the graduating cohort that just walked the stage —
 - Active student government and clubs
 - Orinda BART proximity for student convenience
 
-**Feeder Schools:** Orinda Union School District (Orinda Intermediate School)
+**Feeder Schools:** [Orinda Union School District](/schools/orinda-union-school-district/) (Orinda Intermediate School) — single-feeder pipeline
 
 ---
 
@@ -104,7 +104,7 @@ The district's namesake school, **Acalanes** ("Dons") offers a comprehensive edu
 - Walkable from downtown Lafayette
 - Diverse extracurricular options
 
-**Feeder Schools:** Lafayette School District (Stanley Middle School) — partial
+**Feeder Schools:** [Lafayette School District](/schools/lafayette-school-district/) (Stanley Middle School) — split-feeder (shared with Las Lomas, address-dependent)
 
 ---
 
@@ -124,7 +124,7 @@ While technically in Walnut Creek, **Las Lomas** serves some Lafayette families 
 - More diverse student body
 - Excellent band program
 
-**Feeder Schools:** Lafayette School District (Stanley Middle School) — partial
+**Feeder Schools:** [Lafayette School District](/schools/lafayette-school-district/) (Stanley Middle School) — split-feeder (shared with Acalanes, address-dependent)
 
 ---
 
@@ -236,7 +236,7 @@ Lafayette, CA 94549
 
 ---
 
-*Last verified: June 16, 2026* · *Previously updated: March 2026*
+*Last verified: June 20, 2026* · *Previously updated: March 2026*
 
 ---
 
