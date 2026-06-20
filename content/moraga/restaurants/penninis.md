@@ -7,7 +7,7 @@ website: "https://www.penninis.com"
 hours: "Pennini's: Mon 4pm-8pm, Tue-Sat 12pm-9pm, Sun 12pm-8pm. Michael's: Fri-Sat 4pm-9pm only."
 price: "$$"
 tags: ["italian", "bar", "family-friendly", "moraga-way", "fine-dining"]
-lastVerified: "2026-06-15"
+lastVerified: "2026-06-20"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
