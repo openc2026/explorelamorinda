@@ -7,7 +7,7 @@ website: "https://www.shelbyseatbetter.com"
 hours: "Daily 11:30am-8pm"
 price: "$$$"
 tags: ["california-cuisine", "upscale", "theatre-square", "date-night", "continental", "lunch", "dinner"]
-lastVerified: "2026-06-14"
+lastVerified: "2026-06-21"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)
@@ -44,9 +44,11 @@ Shelby's occupies prime real estate in a complex with real history. Theatre Squa
 
 Shelby's has been part of this ecosystem for decades, serving as the go-to dinner spot for moviegoers. The restaurant and theatre have developed an unspoken rhythm — the kitchen knows when shows start, the servers pace courses accordingly, and regulars know to book a 5:30 reservation for a 7pm film. It's dinner-and-a-movie infrastructure, refined over years of practice.
 
-## Summer Tip: Father's Day Week, June 14–21, 2026
+## Today: Father's Day Sunday & the Summer Solstice, June 21, 2026
 
-The long-evening summer rhythm is fully in effect — sunsets past 8:33pm now and pushing toward 8:36pm by the solstice on June 21, with golden hour holding past 8pm. AUHSD graduation week wrapped Saturday, June 13, so the visiting-grandparent surge has subsided and Theatre Square is back to its summer-Sunday baseline. **Father's Day falls Sunday, June 21**, and the 5:30–7pm reservation window at Shelby's typically closes out 10–14 days ahead — if you're reading this on the Sunday before Father's Day and considering the call, today is the day. For pure dinner without the movie, the **Tuesday and Wednesday weeknight slots** are the quietest of the week now, with the school-is-out daytime patio energy peaking on weekends. The dinner-then-movie rhythm still works well: a 5:30pm table leaves a comfortable golden-hour walk to an 8:15pm showing at the [Orinda Theatre](/things-to-do/orinda-theatre/) next door, and the Theatre Square between-dinner-and-film stretch is genuinely pleasant on a warm June evening.
+Father's Day and the summer solstice land on the same calendar square this year, and Shelby's is one of a handful of rooms in Lamorinda that handles both registers at once — the white-tablecloth dad-dinner archetype and the long-evening solstice golden-hour table. Sunset tonight lands past **8:35pm** with golden hour holding past 8pm, so a 6:00–6:30pm table puts you in the Theatre Square plaza right as the light turns. The 5:30–7pm reservation window typically closes out 10–14 days ahead for Father's Day; by this morning the realistic same-day plays are the **early 11:30am–12:30pm lunch seating** (often still open as a Father's Day brunch substitute) and the **late 7:00–7:30pm tail** as cancellations clear. For a contrast-style Father's Day pivot, the historic-roadhouse counterpart — [Casa Orinda](/orinda/restaurants/casa-orinda/) on Bryant Way, fried chicken and hand-carved-bar territory since 1932 — is the other natural Father's Day reservation in town; the two restaurants book in different rhythms (Casa's prime slots clear ~2 weeks ahead, Shelby's ~10–14 days), so if one is fully booked the other sometimes still has a late-tail opening.
+
+**Looking ahead (Mon-Wed, June 22–24):** the post-Father's-Day reset puts the long-evening summer rhythm fully back into baseline. The **Tuesday and Wednesday weeknight slots** are the quietest of the week now, with the school-is-out daytime patio energy peaking on weekends. The dinner-then-movie rhythm still works well: a 5:30pm table leaves a comfortable golden-hour walk to an 8:15pm showing at the [Orinda Theatre](/things-to-do/orinda-theatre/) next door, and the Theatre Square between-dinner-and-film stretch is genuinely pleasant on a warm late-June evening.
 
 ## Good to Know
 

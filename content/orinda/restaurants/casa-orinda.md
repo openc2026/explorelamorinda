@@ -7,7 +7,7 @@ website: "https://casaorindarestaurant.com"
 hours: "Wed-Thu 4pm-9pm, Fri-Sat 4pm-10pm, Sun 4pm-9pm, Closed Mon-Tue"
 price: "$$"
 tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-night"]
-lastVerified: "2026-06-17"
+lastVerified: "2026-06-21"
 ---
 
 ![Orinda Theatre](/images/new_theater.png)
@@ -42,16 +42,16 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 
 Sunday evenings at Casa Orinda (4pm-9pm) have a special energy. The weekday rush is absent, the bar is convivial but not packed, and the fried chicken tastes even better when you're not watching the clock. It's a quieter, more leisurely experience than Friday or Saturday — locals know this is when Casa feels most like the family roadhouse it's always been.
 
-## This Week: Father's Day Sunday, June 21
+## Today: Father's Day Sunday, June 21
 
-Father's Day at Casa is a known quantity — a 90-year-old roadhouse with fried chicken, steaks, and a hand-carved bar is the dad-dinner archetype, and the dining room handles a six-or-eight-top better than most rooms in town. Casa's Sunday hours run **4-9pm** (no lunch service), and on Father's Day specifically the **5:00-6:30pm window books out roughly two weeks ahead**. By today (Wednesday, T-minus 4 days) the prime 5:30 and 6:00pm slots are typically full; the **5:00pm early seating** is usually the last reservation to go and is often still bookable midweek, and the **7:30-8:00pm tail end** is the late-call play. The dining room feels especially right around the **summer solstice** — sunset on June 21 lands past **8:35pm**, so a 6:30pm seating means you leave the restaurant with the kind of golden light that makes the drive home through the Orinda hills look like a movie. Bryant Way is a couple of minutes from [Theatre Square](/things-to-do/orinda-theatre/), so Casa pairs naturally with an early showing at the historic 1941 Orinda Theatre — a fitting double-feature of Lamorinda landmarks.
+Father's Day at Casa is a known quantity — a 90-year-old roadhouse with fried chicken, steaks, and a hand-carved bar is the dad-dinner archetype, and the dining room handles a six-or-eight-top better than most rooms in town. Casa's Sunday hours run **4-9pm** (no lunch service), and on Father's Day specifically the **5:00-6:30pm window books out roughly two weeks ahead**. By this morning the prime 5:30 and 6:00pm slots are long gone; the **late tail end (7:30-8:00pm)** and the very occasional cancellation pickup at **5:00pm** are the realistic same-day plays — call the restaurant directly rather than checking OpenTable, the kitchen knows their book better than the app does. The dining room feels especially right today because **June 21 is also the summer solstice** — sunset lands past **8:35pm**, so a 6:30pm seating means you leave the restaurant with the kind of golden light that makes the drive home through the Orinda hills look like a movie. Bryant Way is a couple of minutes from [Theatre Square](/things-to-do/orinda-theatre/), so Casa pairs naturally with an early showing at the historic 1941 Orinda Theatre — a fitting double-feature of Lamorinda landmarks.
 
-**This week (Wed-Fri, June 17-19):** the post-graduation, pre-Father's-Day window is the cleanest midweek booking pocket of the month. Wednesday and Thursday 4:00-5:30pm seatings are walk-in-friendly; Friday June 19 starts to feel the Father's Day weekend pull by 6pm. **Last week** — AUHSD graduation week (Acalanes commencement Thursday June 11, Miramonte/Campolindo grad Saturday June 13) — was Casa's annual once-in-four-years volume peak; the dining room is now fully out of that pressure pocket and back to its usual rhythm.
+**Looking ahead (this coming week, Mon-Wed June 22-24):** Casa is closed Monday and Tuesday as always, so the Wednesday June 24 reopen is the post-Father's-Day reset. The 4:00-5:30pm Wed-Thu seatings are walk-in-friendly again, and the dining room settles fully back into its summer-weeknight rhythm — quieter than the weekend, golden hour holding past 8pm, the bar a particularly pleasant place to nurse a Manhattan after the holiday churn.
 
 ## Pair It With
 
 - **Before:** A 4pm Casa reservation pairs cleanly with a 7pm or later showing at the [Orinda Theatre](/things-to-do/orinda-theatre/) — Bryant Way to Theatre Square is a three-minute drive or a ten-minute walk if the evening is warm.
-- **Instead of:** If you want lively and casual instead of intimate and historic, [Fourth Bore Tap Room & Grill](/orinda/restaurants/fourth-bore/) at Theatre Square is the lighter-touch alternative — 28 craft taps, sports on the TVs, no reservation needed. Fourth Bore also covers Monday and Tuesday nights when Casa is closed.
+- **Instead of:** If you want lively and casual instead of intimate and historic, [Fourth Bore Tap Room & Grill](/orinda/restaurants/fourth-bore/) at Theatre Square is the lighter-touch alternative — 28 craft taps, sports on the TVs, no reservation needed. Fourth Bore also covers Monday and Tuesday nights when Casa is closed. For a contemporary California-European white-tablecloth alternative — same date-night register, different culinary lane — [Shelby's](/orinda/restaurants/shelbys/) at Theatre Square is the natural counterpoint to Casa's old-school roadhouse style: lobster ravioli and Continental technique in place of fried chicken and steaks, and open daily 11:30am-8pm including Monday and Tuesday when Casa is dark.
 - **After:** Casa's hand-carved mahogany bar handles a quiet post-dinner Manhattan better than almost any room in Lamorinda — the staff knows their classics, and the wagon-wheel chandeliers do most of the atmospheric work.
 
 ## Local Lore
