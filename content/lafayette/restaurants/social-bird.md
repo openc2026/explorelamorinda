@@ -7,7 +7,7 @@ website: "https://www.social-bird.com"
 hours: "Sun-Thu 11:30am-9pm, Fri-Sat 11:30am-9:30pm"
 price: "$$"
 tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable", "restaurant-row"]
-lastVerified: "2026-06-09"
+lastVerified: "2026-06-22"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -40,13 +40,13 @@ Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spo
 - Lively atmosphere; not ideal for quiet conversations
 - **Late-spring and early-summer evenings** are prime time for the patios — book ahead for outdoor seating
 
-## Graduation Week Tip: June 9–14, 2026
+## Today: Monday, June 22, 2026 — Post-Solstice Patio Peak
 
-We're inside the AUHSD graduation window now — Acalanes commencement is Thursday June 11, with the big party Saturdays bracketing it on June 6 (just past) and June 13. The three patios are at their annual peak: sunsets are past 8:30pm and pushing toward 8:33pm by week's end, afternoons settle in the upper 70s, and the corner location keeps light coming from multiple directions well after the dinner rush starts. The craft cocktail program is at its best in this window — lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering.
+Father's Day Sunday and the summer solstice closed yesterday, and the AUHSD graduation surge cleared the weekend before that. The three patios are now in their **best two-week stretch of the year**: sunsets are still past 8:35pm this week (the post-solstice retreat is roughly one minute per week through July), afternoons settle in the upper 70s, and the corner location keeps light coming from multiple directions well after the dinner rush starts. The craft cocktail program is at its best in this window — lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering.
 
-- **Tonight through Thursday (June 9–11):** Weeknight patios have noticeable breathing room right now — the long-weekend crowd has cleared and the school-is-out family surge hasn't fully landed. Tuesday and Wednesday remain near-guaranteed walk-ins; Thursday tightens after commencement lets out around 8pm. The Sun–Thu Happy Hour (3–5pm) is the easiest window of the entire week if you want patio light without the dinner crush.
-- **Saturday June 13 (Miramonte/Campolindo grad-party Saturday):** The second of the two big AUHSD party Saturdays. The 6:30–7:30pm dinner slots fill 5–7 days out — book by Monday June 8 (today/tomorrow window) for a prime patio. The 6:00pm and 8:00pm tables are the next-best fallback.
-- **Sunday June 14:** Brunch-equivalent doesn't apply here (Social Bird opens at 11:30am), but the 11:30am–1pm patio is a strong post-celebration recovery slot — quieter than Hideout's brunch room two blocks east, with the same downtown light.
+- **Tonight through Thursday (Jun 22–25):** Weeknight patios are at their easiest of the early summer — the AUHSD-and-Father's-Day double-surge has cleared, and the school-is-out-camps-not-started lull is in effect this week. Tuesday and Wednesday remain near-guaranteed walk-ins; Thursday tightens after 6:30pm as the regulars filter back in. The **Sun–Thu Happy Hour (3–5pm)** is the easiest window of the entire week if you want patio light without the dinner crush.
+- **Looking ahead (Fri–Sun, Jun 26–28):** First full post-Father's-Day weekend. The 6:30–7:30pm patio slots are back to the standard 3–5 days out for booking — a noticeable downshift from the 5–7 days required earlier in the month. The 6:00pm and 8:00pm tables are the next-best fallback for a Saturday-night walk-up window.
+- **Sunday (Jun 28):** Brunch-equivalent doesn't apply here (Social Bird opens at 11:30am), but the 11:30am–1pm patio is a strong slow-weekend recovery slot — quieter than [Hideout](/lafayette/restaurants/the-hideout-kitchen/)'s brunch room one block north, with the same downtown light.
 
 If you're piecing together a downtown Lafayette evening, four Restaurant Row choices sit within a one-block walk:
 

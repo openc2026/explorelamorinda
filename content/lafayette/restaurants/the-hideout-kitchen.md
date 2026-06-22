@@ -7,7 +7,7 @@ website: "https://www.hideoutkitchen.com"
 hours: "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "california-cuisine", "brunch", "downtown", "popular", "date-night", "restaurant-row"]
-lastVerified: "2026-06-05"
+lastVerified: "2026-06-22"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -28,16 +28,14 @@ The menu is seasonal Californian comfort cuisine — familiar flavors executed w
 
 Located in Lafayette Circle, the restaurant occupies a prime spot in downtown Lafayette's walkable core. Indoor and outdoor seating available. The atmosphere strikes that sweet spot between upscale and approachable — nice enough for a celebration, relaxed enough for a Tuesday dinner.
 
-## Graduation Season Tip: First Two Weeks of June 2026
+## Today: Monday, June 22, 2026 — Post-Solstice, the Long-Evening Patio Window
 
-We're inside the AUHSD graduation window now — Acalanes commencement is June 11, with party Saturdays bracketing it on June 6 and June 13. Hideout is the easier-to-book counterpart to [Postino](/lafayette/restaurants/postino/) two blocks east — same Restaurant Row caliber, a bit more relaxed, and the Lafayette Circle patio is at its annual peak right now with sunsets past 8:28pm pushing toward 8:32pm by mid-month.
+Father's Day Sunday and the summer solstice are behind us as of yesterday, and the AUHSD graduation surge cleared the weekend before that. The Lafayette Circle patio is now in its **best two-week stretch of the year**: sunsets are still past 8:35pm this week (the post-solstice retreat is roughly one minute per week through July), afternoons are settling into the upper 70s and low 80s, and the corner-facing tables hold light comfortably until 8pm. Weeknight bookings are the easiest they've been since mid-May.
 
-- **This Saturday (June 6) and the following Saturday (June 13):** The two big AUHSD graduation-party Saturdays. The 6:30–7:30pm dinner slots have been filling 5–7 days out, so by today the prime windows for June 6 are tight — try Hideout's 6:00pm or 8:00pm tables as the next-best fallback if Postino is full. For June 13, book by Monday June 8.
-- **Brunch weekends (Sat–Sun, June 6 + June 7 + June 13 + June 14):** Graduation brunch crowd is here. Circle-facing patio tables turn fastest 10:30am–12:30pm — book by Wednesday for a prime weekend slot, or aim for the post-1pm wave when the room resets. The patio holds afternoon warmth nearly all the way to closing.
-- **Weeknights, June 8–11 (final week before Acalanes commencement):** The genuinely easy window before the school year fully ends. Tuesday and Wednesday dinner remain a near-guaranteed walk-in. The daily 3–5pm Happy Hour at the bar catches the best afternoon light before the dinner crowd resets the room — the move if you're killing time before an 8pm movie at the [Orinda Theatre](/things-to-do/orinda-theatre/) or pacing a relative's jet lag.
-- **June 12–14 (Miramonte/Campolindo grad-weekend window):** A second booking surge layered onto the Acalanes-tail. Book by Monday June 8 for Saturday night.
-
-If the relatives are on East Coast time and want an early Sunday brunch before flying out, the 10am opening is one of the few in downtown Lafayette that hits early enough for an 11:30am airport push.
+- **Tonight and the early week (Mon–Wed, Jun 22–24):** The genuinely easy mid-week walk-in window. Tuesday and Wednesday dinner are near-guaranteed walk-ins; the daily **3–5pm Happy Hour at the bar** catches the best afternoon-into-evening light before the dinner crowd resets the room — the move if you're killing time before an 8pm movie at the [Orinda Theatre](/things-to-do/orinda-theatre/) or easing a relative through jet lag.
+- **Looking ahead (Fri–Sun, Jun 26–28):** First full post-Father's-Day weekend. The 6:30–7:30pm patio slots are back to the standard 3–5 days out for booking — a noticeable downshift from the 5–7 days that the AUHSD-and-Father's-Day double-surge required earlier in the month. Brunch is still the busiest service of the weekend; Circle-facing patio tables turn fastest 10:30am–12:30pm, with the post-1pm wave the easier walk-up window.
+- **Brunch (Sat–Sun, 10am–3pm):** The 10am opening is one of the few in downtown Lafayette that hits early enough for a relatives-on-East-Coast-time pre-airport push. Through summer, the Circle patio holds afternoon warmth nearly all the way to closing.
+- **Weeknight summer rhythm (late June through Labor Day):** Tue and Wed dinner stay easy walk-ins through the entire summer. By the second week of July, the family-with-camp-rising-7am rhythm pushes the early-dinner (5:00–6:00pm) window into a quietly busy slot — worth knowing for parents who want to be home by 7:30.
 
 ## Restaurant Row: Walking Distance Pair-Ups
 
