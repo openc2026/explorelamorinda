@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Who we are and why we built Explore Lamorinda"
+description: "Who we are and why we built Explore Lamorinda — a locally-written field guide to Lafayette, Moraga, and Orinda: neighborhoods, restaurants, schools, trails, and the weekly rhythms of the three towns."
 ---
 
 ![Lamorinda hills](/images/new_panoramic3.png)
