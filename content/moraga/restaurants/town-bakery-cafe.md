@@ -7,7 +7,7 @@ website: "https://www.townbakerycafe.com"
 hours: "Tue-Sun 8am-3pm; Dinner Tue-Sat 4pm-7:50pm; Closed Monday"
 price: "$-$$"
 tags: ["bakery", "breakfast", "cafe", "dinner", "pastries", "rheem", "family-friendly", "takeout"]
-lastVerified: "2026-06-14"
+lastVerified: "2026-06-23"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -69,9 +69,9 @@ Town Bakery occupies the east-anchor slot in a Rheem Center that has churned thr
 
 That continuity is the reason the regulars feel ownership of the place. It is also why the cafe shows up consistently in the [Moraga Nextdoor discourse](/blog/nextdoor-anthropology/) — usually in the form of "*the morning buns are back*" alerts, occasional debates about the closure-Mondays policy, and the recurring summer-thread question of *whether Town Bakery should add a Sunday dinner service.* (They have not. The owners appear content with the current six-day dinner rhythm.)
 
-## Summer 2026 Tip: Mid-June Through the Solstice Stretch
+## Today: Tuesday, June 23, 2026 — Post-Solstice, Long-Evening Rhythm
 
-Moraga is in its long-evening, hot-afternoon rhythm now — sunset past 8:33pm and pushing toward 8:36pm by solstice on June 21, with afternoons routinely in the upper 80s and low 90s on the Rheem side. Town Bakery's daytime hours (Tue–Sun 8am–3pm) catch the cooler half of the day and the cooler half of the cafe — by 1pm in mid-June the indoor seating is the move and the outdoor plaza tables get sun. **The early-morning window (8–9:30am)** is the genuinely best stretch of the year right now: the pastries are at full case, the espresso bar is warmed up, and Rheem Center is *quiet* before the Saint Mary's-side summer programs and the day's errand traffic arrive.
+Moraga is two days into the post-solstice retreat — sunset past 8:35pm this week and beginning to retreat by roughly one minute per week through July, with afternoons routinely in the upper 80s and low 90s on the Rheem side. Town Bakery's daytime hours (Tue–Sun 8am–3pm) catch the cooler half of the day and the cooler half of the cafe — by 1pm the indoor seating is the move and the outdoor plaza tables get sun. **The early-morning window (8–9:30am)** is the genuinely best stretch of the year right now: the pastries are at full case, the espresso bar is warmed up, and Rheem Center is *quiet* before the Saint Mary's-side summer programs and the day's errand traffic arrive.
 
 A few specific use cases for the season:
 
