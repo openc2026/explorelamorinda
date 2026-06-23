@@ -1,7 +1,7 @@
 ---
 title: "Moraga"
-description: "Quieter, greener, and home to Saint Mary's College"
-last_updated: 2026-05-21
+description: "Quieter and greener than Lafayette or Orinda, Moraga is home to Saint Mary's College, the summer Commons concert series, Campolindo High, the Hacienda de las Flores, and one of the East Bay's most family-oriented small-town rhythms."
+last_updated: 2026-06-23
 faq:
   - q: "Is Moraga, CA a good place to live?"
     a: "Moraga is one of the safest, most family-oriented suburbs in the East Bay. It has top-ranked schools (Moraga School District K-8 and Campolindo High School), abundant open space, and a strong sense of community built around Saint Mary's College, the Moraga Commons, and the K-12 school system. It's a quieter, more residential alternative to Lafayette and Orinda."
