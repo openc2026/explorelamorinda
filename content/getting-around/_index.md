@@ -1,7 +1,7 @@
 ---
 title: "Getting Around"
 description: "BART, trails, driving, and navigating Lamorinda — including Caldecott Tunnel patterns, BART parking, and the Lafayette-Moraga Trail."
-last_updated: 2026-05-29
+last_updated: 2026-06-23
 ---
 
 ![Lamorinda panoramic view](/images/new_panoramic2.png)
@@ -53,9 +53,9 @@ Memorial Day is behind us. School runs through about June 11 in most Lamorinda d
 
 **The last two weeks of school — pickup chaos peaks.** From May 27 through dismissal, school zones run at maximum congestion as end-of-year events, field days, half-days, and minimum days shift pickup times unpredictably. Mt. Diablo Boulevard near Lafayette Elementary and Stanley Middle School backs up between 12:30–1:30pm on minimum days. Moraga Road around Joaquin Moraga Intermediate is similar. *Pro tip:* Check the school calendar before any midday errand — a minimum day you didn't know about can add fifteen minutes to a Trader Joe's run.
 
-**Caldecott Tunnel — early-summer pattern.** Through June 11, weekday eastbound 24 peaks 4:30–6:30pm and westbound peaks 7–9am — standard school-year rhythm. Once school dismisses, weekday peaks soften by roughly 20% as commute volume drops with vacation and remote-work upticks. Weekend tunnel traffic is light in both directions through mid-June; the heavier summer weekend patterns kick in around the Fourth of July and again Labor Day.
+**Caldecott Tunnel — post-school-dismissal pattern.** With AUHSD schools out and the summer rhythm in effect, weekday eastbound 24 peaks have softened from the school-year 4:30–6:30pm crunch by roughly 20% as commute volume drops with vacation and remote-work upticks. Westbound morning peaks (7–9am) are similarly lighter. Weekend tunnel traffic remains light in both directions through late June; the heavier summer weekend beach-and-Tahoe patterns kick in around the Fourth of July and again Labor Day weekend.
 
-**Trail conditions — peak shoulder season.** Wildflower season is mostly done but the hills are at their gold-and-green best through about mid-June, when the gold takes over completely. Sunset hits 8:28pm by the end of May and 8:36pm by mid-June, so after-work trail traffic now runs heavy until almost 8:30pm — particularly the Lafayette Reservoir Rim Trail and the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) between 5 and 7pm. Saturday morning Reservoir parking still fills by 9:30am; weekday mornings (Tue–Thu) and late afternoons remain the calmest windows. Tick activity is high — check after every hike.
+**Trail conditions — post-solstice, long-evening window.** The hills have turned mostly gold now; the green-and-gold mix of mid-June is past. We're two days into the post-solstice retreat — sunset is past 8:35pm this week and begins retreating by roughly one minute per week through July, so after-work trail traffic runs heavy until almost 8:30pm — particularly the Lafayette Reservoir Rim Trail and the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) between 5 and 7pm. Saturday morning Reservoir parking still fills by 9:30am; weekday mornings (Tue–Thu) and late afternoons remain the calmest windows. Tick activity is high — check after every hike.
 
 **Saint Mary's College summer — quieter Moraga.** With commencement past (May 23) and undergraduate summer session starting limited capacity, Moraga Road and St. Mary's Road run noticeably calmer through August. The Soda Aquatic Center is the main draw on campus this time of year; parking is easy and the access road is fast. Through traffic to Lamorinda Crossroads is faster on weekends than at any other point in the year.
 
