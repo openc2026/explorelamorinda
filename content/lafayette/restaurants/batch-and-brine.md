@@ -7,7 +7,7 @@ website: "https://batchandbrine.com"
 hours: "Mon-Tue 11:30am-8pm, Wed-Fri 11:30am-9pm, Sat 10am-9pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "global", "burgers", "brunch", "craft-cocktails", "downtown", "restaurant-row"]
-lastVerified: "2026-06-18"
+lastVerified: "2026-06-24"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -33,13 +33,17 @@ Monday through Friday, 2:30pm–5:30pm. Note the **day-of-week split**: weekday 
 
 Don't sleep on the bar program. The craft cocktails here are thoughtful and well-executed — not an afterthought to the food menu. Ask the bartender for recommendations based on your taste; they know their spirits.
 
-## This Week: Father's Day Sunday, June 21
+## This Week: Wed–Sun, June 24–28 — Post-Solstice, Concert-Adjacent Rhythm
 
-Downtown Lafayette is now in its longest-evenings stretch of the year — sunsets past 8:35pm on Father's Day Sunday (which doubles as the summer solstice), upper-70s afternoons, and the Mt. Diablo Blvd patio stretch holding its warmth almost to closing. Graduation week is behind us (Acalanes commencement was Thursday, June 11; Miramonte and Campolindo wrapped Saturday, June 13), and Restaurant Row has settled into its summer-vacation rhythm.
+Downtown Lafayette is now three days past the summer solstice and inside the year's longest-light week — sunset Wednesday June 24 lands at **8:36pm**, the year's latest sunset arrives **Sunday, June 28 at 8:37pm**, and the Mt. Diablo Blvd patio stretch is holding its warmth almost to closing. Graduation season is fully behind us, Father's Day is three days behind us, and Restaurant Row has settled fully into its summer-vacation midweek rhythm.
 
-**For Father's Day Sunday (June 21):** Batch & Brine opens at 10am for brunch and runs straight through to 8pm — no Happy Hour, no afternoon break. The 10:30am-1pm brunch window books up early on Father's Day; the 4-6pm post-brunch / pre-dinner lull is the sleeper-pick window for walk-in parties of four or fewer who don't want to plan ahead. Sunset lands past 8:35pm, so a late seating gets you nearly the entire patio-light arc.
+**Wednesday, June 24 — the cleanest booking pocket of the week.** Same-day walk-in is realistic for parties of two through four right through dinner service. The Wed-Fri 2:30–5:30pm Happy Hour catches the best of the golden-hour light, and the Adult Happy Meal ($23.99, **Mon-Thu only**) is at its quietest-midweek best.
 
-**This week (Wed-Fri, June 17-19)** is the cleanest midweek booking pocket of the month — post-graduation, pre-Father's-Day. Weekday Happy Hour (Mon-Fri 2:30–5:30pm) catches the best of the golden-hour light, and the Adult Happy Meal ($23.99, **Mon-Thu only**) holds up especially well as the quiet-midweek default. Friday June 19 6pm onward is the start of the Father's Day weekend pull.
+**Thursday, June 25 — concert-Thursday spillover.** The [Refugees / Tom Petty tribute](/things-to-do/moraga-commons/) at the Moraga Commons bandshell (6:30–8:30pm) pulls a real subset of downtown Lafayette into Moraga for the evening, which has a quiet knock-on effect on Restaurant Row: weeknight dinner traffic is *lighter* between 5:30–7:30pm, not heavier. If you're not going to the concert, Thursday between 5:45 and 7:00pm is one of the easiest patio-light dinners of the month. (The Adult Happy Meal still applies — Thursday is the last day of its weekly window.) For families *going* to the concert, Batch & Brine's 11:30am lunch and 2:30–5pm Happy Hour both work as pre-Commons options before the 5:00pm lawn opening.
+
+**Friday, June 26 — the first full post-Father's-Day weekend kicks off.** Prime 6:30–7:30pm bookings are back to 2–4 days out (down from the 7–10 days the graduation-and-Father's-Day double-surge required earlier in June). Happy Hour holds through Friday but the Adult Happy Meal *does not* — it's Mon-Thu only.
+
+**Saturday–Sunday, June 27–28 — brunch is back.** Both days open at 10am for brunch and run straight through to dinner. Sunday June 28 is the year's latest sunset (8:37pm); a 6:30–7:30pm patio seating gets you the full longest-light arc of the year. The 10:30am–noon Saturday brunch window books two days ahead now; the 1:30–3pm Saturday late-brunch slot is the sleeper for walk-ins.
 
 If you're piecing together a downtown Lafayette evening, you've got three natural pair-ups on the same Restaurant Row block:
 
