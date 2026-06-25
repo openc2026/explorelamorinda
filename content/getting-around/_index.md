@@ -1,7 +1,7 @@
 ---
 title: "Getting Around"
 description: "BART, trails, driving, and navigating Lamorinda — including Caldecott Tunnel patterns, BART parking, and the Lafayette-Moraga Trail."
-last_updated: 2026-06-23
+last_updated: 2026-06-25
 ---
 
 ![Lamorinda panoramic view](/images/new_panoramic2.png)
@@ -43,19 +43,17 @@ Your gateway to Lamorinda from the west. Four bores carry Highway 24 through the
 
 For committed cyclists, it's possible to bike-commute from Moraga to BART in Lafayette or Orinda.
 
-## Seasonal Note: Early Summer 2026 (Late May through Mid-June)
+## Today: Thursday, June 25, 2026 — Post-Solstice Summer Rhythm
 
-Memorial Day is behind us. School runs through about June 11 in most Lamorinda districts. The next three weeks are the interstitial window — commute patterns are still in school-year rhythm, but graduation traffic, end-of-year events, and the start of camp season are all reshaping the roads. (See: [The Tuesday After Memorial Day](/blog/tuesday-after-memorial-day/).)
+We're four days past the summer solstice and into the first full post-Father's-Day week. All Lamorinda K-12 schools are out, summer camps are running, and the road network has fully settled into its summer register. The graduation-weekend surge of late May and the AUHSD commencement window of mid-June are both well behind us. (Earlier in the season: [Memorial Day Soft Launch](/blog/memorial-day-soft-launch/) and [The Tuesday After Memorial Day](/blog/tuesday-after-memorial-day/) for the on-ramp; [The In-Between Week](/blog/the-in-between-week/) for the just-after-school stretch.)
 
-**BART weekday commute is back to normal — but lighter than peak.** Wednesday May 27 onward, both Lafayette and Orinda lots return to standard weekday pressure: full by about 8:15am Lafayette, 8:30am Orinda. Pressure starts to ease again the week of June 8 as schools wind down and more commuters telework or take time off; by mid-June, midday parking is comfortable. Antioch-line trains run on standard weekday schedule; about 25 minutes Lafayette → Montgomery, 22 minutes Orinda → Montgomery.
+**BART weekday commute — summer light.** Both Lafayette and Orinda lots run noticeably lighter than peak: Lafayette typically still has spaces past 8:30am, and Orinda past 8:45am, as more commuters telework or take vacation time through August. Midday parking is comfortable at both stations. Antioch-line trains run on standard weekday schedule; about 25 minutes Lafayette → Montgomery, 22 minutes Orinda → Montgomery. Weekend BART parking is wide open until late morning.
 
-**Graduation weekend (May 30–31) traffic.** Saturday May 30 is the biggest graduation party weekend of the year in the Acalanes Union High School District. Expect concentrated neighborhood traffic in the afternoons and evenings — caterers, rental delivery trucks, out-of-town relatives navigating with GPS that doesn't know about Burton Valley's one-lane stretches. Streets near Acalanes High, Miramonte, and Campolindo see slow rolling congestion between 2–8pm Saturday. The [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) and side streets parallel to Mt. Diablo Boulevard remain the quietest routes.
-
-**The last two weeks of school — pickup chaos peaks.** From May 27 through dismissal, school zones run at maximum congestion as end-of-year events, field days, half-days, and minimum days shift pickup times unpredictably. Mt. Diablo Boulevard near Lafayette Elementary and Stanley Middle School backs up between 12:30–1:30pm on minimum days. Moraga Road around Joaquin Moraga Intermediate is similar. *Pro tip:* Check the school calendar before any midday errand — a minimum day you didn't know about can add fifteen minutes to a Trader Joe's run.
+**School-zone congestion is gone — for now.** With all districts out, the midday backups on Mt. Diablo Boulevard near Lafayette Elementary and Stanley Middle School are off the map until late August. Moraga Road around Joaquin Moraga Intermediate is similarly clear. The next school-zone return is roughly the week of August 17 (Lafayette/Moraga elementary) and August 24 (AUHSD), when the cycle resets.
 
 **Caldecott Tunnel — post-school-dismissal pattern.** With AUHSD schools out and the summer rhythm in effect, weekday eastbound 24 peaks have softened from the school-year 4:30–6:30pm crunch by roughly 20% as commute volume drops with vacation and remote-work upticks. Westbound morning peaks (7–9am) are similarly lighter. Weekend tunnel traffic remains light in both directions through late June; the heavier summer weekend beach-and-Tahoe patterns kick in around the Fourth of July and again Labor Day weekend.
 
-**Trail conditions — post-solstice, long-evening window.** The hills have turned mostly gold now; the green-and-gold mix of mid-June is past. We're two days into the post-solstice retreat — sunset is past 8:35pm this week and begins retreating by roughly one minute per week through July, so after-work trail traffic runs heavy until almost 8:30pm — particularly the Lafayette Reservoir Rim Trail and the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) between 5 and 7pm. Saturday morning Reservoir parking still fills by 9:30am; weekday mornings (Tue–Thu) and late afternoons remain the calmest windows. Tick activity is high — check after every hike.
+**Trail conditions — post-solstice, long-evening window.** The hills have turned mostly gold now; the green-and-gold mix of mid-June is past. We're four days into the post-solstice retreat — sunset is still past 8:35pm this week and begins retreating by roughly one minute per week through July, so after-work trail traffic runs heavy until almost 8:30pm — particularly the Lafayette Reservoir Rim Trail and the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) between 5 and 7pm. Saturday morning Reservoir parking still fills by 9:30am; weekday mornings (Tue–Thu) and late afternoons remain the calmest windows. Tick activity is high — check after every hike.
 
 **Saint Mary's College summer — quieter Moraga.** With commencement past (May 23) and undergraduate summer session starting limited capacity, Moraga Road and St. Mary's Road run noticeably calmer through August. The Soda Aquatic Center is the main draw on campus this time of year; parking is easy and the access road is fast. Through traffic to Lamorinda Crossroads is faster on weekends than at any other point in the year.
 
