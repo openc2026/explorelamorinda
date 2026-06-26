@@ -2,7 +2,7 @@
 title: "Lamorinda Farmers Markets — Orinda, Moraga, and Where Lafayette Goes"
 description: "A practical local's guide to the Orinda Farmers Market (Saturdays) and Moraga Farmers Market (Sundays) — hours, locations, what's in season, and the answer to the most-asked question: is there a Lafayette Farmers Market?"
 tags: ["farmers-market", "shopping", "weekends", "moraga", "orinda", "family-friendly", "outdoors"]
-lastVerified: "2026-06-06"
+lastVerified: "2026-06-26"
 ---
 
 ![Lamorinda farmers market](/images/community-farmers-market.jpg)
@@ -76,15 +76,16 @@ The Moraga market is larger than the Orinda market (40+ vendors versus ~25–35)
 
 **Best time to go:** 9:00–10:00 AM for serious shopping; 10:00–11:30 AM for the social brunch-and-browse rhythm; after 12:30 PM for end-of-market discounts on bread and produce (vendors prefer to sell down rather than pack up).
 
-## What's in Season (June 2026)
+## What's in Season (Late June 2026)
 
-Right now, both markets are in the **late-spring-to-early-summer transition**:
+Right now, both markets are in **full early-summer mode** — the last week of June is the inflection point when stone fruit takes over the front row of nearly every produce stall:
 
-- **Stone fruit arriving:** First Brentwood apricots and the earliest peaches (Snow Queen, Spring Lady varieties). Late Brooks and Bing cherries still around — they tail off mid-June.
-- **Strawberries deep into second flush:** The April-planted rows are producing through June. The June berries are smaller and more concentrated in flavor than the May ones.
-- **Asparagus and English peas:** Last call. Local asparagus winds down by mid-June.
-- **Tomatoes still a few weeks out:** Hothouse tomatoes are around, but field tomatoes don't peak in the East Bay until late July through September.
-- **Flowers:** Peonies, ranunculus, the first dahlias of the year. The flower stalls at both markets are at their early-summer best.
+- **Stone fruit in full swing:** Brentwood peaches and nectarines are at their first true peak — Snow Queen, Spring Lady, and the early yellow peaches are out, and the first Suncrest and Red Top varieties are arriving this week. Apricots are at their short, intense Bay Area peak (Blenheims at a couple of stalls if you're lucky and there before 10am). Cherries are essentially done — the last Bing and Brooks bins were picked over by Father's Day weekend.
+- **Strawberries holding steady:** The April-planted rows are still producing, with the late-June berries smaller and more concentrated in flavor than the May ones. Expect strawberry volume to taper through July as stone fruit dominates the produce mix.
+- **First field tomatoes appearing:** A few of the earliest Brentwood and Sunol growers are bringing the first small-volume field tomatoes — cherry and small slicing varieties only, at premium prices. The real East Bay tomato peak is still four to six weeks out (late July through September).
+- **Summer vegetables arriving:** First zucchini and summer squash, the earliest sweet corn from Brentwood, green beans, and Padrón peppers. Asparagus and English peas are gone for the year — last call was mid-June.
+- **Flowers:** Dahlias coming on strong, sunflowers starting, peonies done. The flower stalls have shifted fully into their summer mix.
+- **Melons:** The first early cantaloupe and honeydew from the hotter inland farms are starting to appear at one or two stalls — still early and a little under-flavored; the real melon stretch is mid-July onward.
 
 ## Why There's No Lafayette Farmers Market
 
@@ -130,4 +131,4 @@ If you're hosting a grad party this weekend: get to the market by 9:15 sharp. If
 
 ---
 
-*Hours and vendor counts verified June 6, 2026 against the operating market associations (CCCFM and CFMA). Markets occasionally adjust for holidays — check the operator pages before driving over for a special Sunday or Saturday.*
+*Hours and vendor counts re-verified June 26, 2026 against the operating market associations (CCCFM and CFMA). Markets occasionally adjust for holidays — the upcoming Fourth of July weekend (Saturday July 4) is a confirmed market day at Orinda; check the operator pages before driving over for any special Sunday or Saturday.*

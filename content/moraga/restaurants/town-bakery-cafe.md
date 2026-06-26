@@ -4,10 +4,10 @@ description: "European-style bakery and neighborhood cafe in Rheem Center — mo
 address: "337 Rheem Blvd, Moraga, CA 94556"
 phone: "(925) 247-5965"
 website: "https://www.townbakerycafe.com"
-hours: "Tue-Sun 8am-3pm; Dinner Tue-Sat 4pm-7:50pm; Closed Monday"
+hours: "Tue-Sat 8am-3pm and 4pm-8pm; Sun 8am-2:30pm; Closed Monday"
 price: "$-$$"
 tags: ["bakery", "breakfast", "cafe", "dinner", "pastries", "rheem", "family-friendly", "takeout"]
-lastVerified: "2026-06-23"
+lastVerified: "2026-06-26"
 ---
 
 ![Moraga hills](/images/new_panoramic4.png)
@@ -18,14 +18,14 @@ Town Bakery & Cafe is one of those neighborhood gems that makes you feel lucky t
 
 Two restaurants in one footprint, both run by the same kitchen:
 
-- **By morning** (Tue–Sun, 8am–3pm): a from-scratch European bakery and cafe — croissants, scones, morning buns, espresso drinks, breakfast sandwiches, and a small lunch menu of salads and sandwiches that runs through the afternoon.
-- **By evening** (Tue–Sat, 4–7:50pm): a short, well-edited dinner menu — generous salads, comfort plates, and reasonably priced family-style options that have quietly become a Moraga weeknight standby.
+- **By morning** (Tue–Sat 8am–3pm, Sun 8am–2:30pm): a from-scratch European bakery and cafe — croissants, scones, morning buns, espresso drinks, breakfast sandwiches, and a small lunch menu of salads and sandwiches that runs through the afternoon. Sunday closes a half-hour earlier than the rest of the week — worth knowing if you're planning a late-morning pastry run.
+- **By evening** (Tue–Sat, 4–8pm): a short, well-edited dinner menu — generous salads, comfort plates, and reasonably priced family-style options that have quietly become a Moraga weeknight standby.
 
 The split-service rhythm — closed between 3pm and 4pm to reset — is unusual for the Rheem cluster and worth knowing before you walk in. The crew breaks down breakfast, flips the room, and starts the dinner service from the same small kitchen.
 
 ## What to Get
 
-### Morning (Tue–Sun, 8am–3pm)
+### Morning (Tue–Sat 8am–3pm · Sun 8am–2:30pm)
 
 The bakery case is the headliner. Get there early — the popular items move fast on weekends, and the Sunday rush can wipe out the morning buns by 10am.
 
@@ -38,7 +38,7 @@ The bakery case is the headliner. Get there early — the popular items move fas
 - **Breakfast sandwiches** — Egg-and-cheese on croissant or English muffin, available through the morning into early afternoon.
 - **Lunch menu** — Salads (generous, splittable), sandwiches, soup of the day. Available from late morning through 3pm close.
 
-### Dinner (Tue–Sat, 4–7:50pm)
+### Dinner (Tue–Sat, 4–8pm)
 
 The dinner secret Moraga doesn't shout about. The menu is intentionally short — usually a handful of mains plus a few starters — so the kitchen can execute well from a small operation. Expect:
 
@@ -47,7 +47,7 @@ The dinner secret Moraga doesn't shout about. The menu is intentionally short �
 - **Soup of the day** — Continues from the daytime menu into the dinner service.
 - **A short wine and beer list** — Modest, well-chosen, priced for a weeknight.
 
-Dinner runs **until 7:50pm**, which means last seating is comfortably before 7pm. This is an early-evening operation by design, not a late-night room — plan accordingly.
+Dinner runs **until 8pm**, which means last seating is comfortably around 7pm. This is an early-evening operation by design, not a late-night room — plan accordingly.
 
 ## The Vibe
 
@@ -69,22 +69,23 @@ Town Bakery occupies the east-anchor slot in a Rheem Center that has churned thr
 
 That continuity is the reason the regulars feel ownership of the place. It is also why the cafe shows up consistently in the [Moraga Nextdoor discourse](/blog/nextdoor-anthropology/) — usually in the form of "*the morning buns are back*" alerts, occasional debates about the closure-Mondays policy, and the recurring summer-thread question of *whether Town Bakery should add a Sunday dinner service.* (They have not. The owners appear content with the current six-day dinner rhythm.)
 
-## Today: Tuesday, June 23, 2026 — Post-Solstice, Long-Evening Rhythm
+## Today: Friday, June 26, 2026 — First Post-Father's-Day Weekend, Long-Evening Rhythm
 
-Moraga is two days into the post-solstice retreat — sunset past 8:35pm this week and beginning to retreat by roughly one minute per week through July, with afternoons routinely in the upper 80s and low 90s on the Rheem side. Town Bakery's daytime hours (Tue–Sun 8am–3pm) catch the cooler half of the day and the cooler half of the cafe — by 1pm the indoor seating is the move and the outdoor plaza tables get sun. **The early-morning window (8–9:30am)** is the genuinely best stretch of the year right now: the pastries are at full case, the espresso bar is warmed up, and Rheem Center is *quiet* before the Saint Mary's-side summer programs and the day's errand traffic arrive.
+Moraga is five days into the post-solstice retreat — sunset still lands past **8:35pm** this week and begins to retreat by roughly one minute per week through July, with afternoons routinely in the upper 80s and low 90s on the Rheem side. Town Bakery's daytime hours (Tue–Sat 8am–3pm; Sun 8am–2:30pm) catch the cooler half of the day and the cooler half of the cafe — by 1pm the indoor seating is the move and the outdoor plaza tables get sun. **The early-morning window (8–9:30am)** is the genuinely best stretch of the year right now: the pastries are at full case, the espresso bar is warmed up, and Rheem Center is *quiet* before the Saint Mary's-side summer programs and the day's errand traffic arrive.
 
 A few specific use cases for the season:
 
 - **Pre-trail breakfast (8–9am)** — Grab a pastry and an iced coffee, walk to the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/), and time the trail walk to finish before the 11am heat arrives. The Basque cheesecake travels well in a small bag if you want a mid-trail break.
 - **Post-pool-club mid-morning stop (10–11am)** — The [pool-club](/blog/pool-club-anthropology/) early-swim families pick up croissants on the drive home; the cafe's outdoor seating works well for a quick parking-lot-eating handoff.
-- **Quiet weeknight dinner (Tue–Wed, 5:00–6:30pm)** — Tuesday and Wednesday dinner services are the calmest of the week and the easiest walk-in. By Thursday — concert night at the [Moraga Commons](/things-to-do/moraga-commons/) — the dinner crowd starts to shift toward pre-concert spots, but Town Bakery's early 7:50pm close keeps it out of the heavy concert-overflow pattern. Worth knowing for a low-key date night that doesn't require a Saint Mary's-adjacent reservation.
-- **Post-concert dessert is not the move here** — Town Bakery closes at 7:50pm, well before the [Moraga Commons concerts](/things-to-do/moraga-commons/) end at 8:30pm. For post-concert dessert, [Loard's Ice Cream](/moraga/restaurants/loards-ice-cream/) is the natural Moraga move (open until 9pm Fri–Sat, 8pm Sun).
+- **Sunday-pre-market stop (8–9:30am)** — The cafe is genuinely the natural fueling stop before the 9am [Moraga Farmers Market](/things-to-do/farmers-markets/) two blocks south; arrive at 8:15 for a croissant and an iced latte, finish on the patio, walk to the market just as the vendors finish setup. Note the Sunday close at **2:30pm** — a half-hour earlier than the Tue–Sat case — so any post-market pastry run needs to wrap by 2:15.
+- **Quiet weeknight dinner (Tue–Wed, 5:00–6:30pm)** — Tuesday and Wednesday dinner services are the calmest of the week and the easiest walk-in. By Thursday — concert night at the [Moraga Commons](/things-to-do/moraga-commons/) — the dinner crowd starts to shift toward pre-concert spots, but Town Bakery's 8pm close keeps it largely out of the heavy concert-overflow pattern. Worth knowing for a low-key date night that doesn't require a Saint Mary's-adjacent reservation.
+- **Post-concert dessert is not the move here** — Town Bakery closes at 8pm, around the time the [Moraga Commons concerts](/things-to-do/moraga-commons/) wrap at 8:30pm. For post-concert dessert, [Loard's Ice Cream](/moraga/restaurants/loards-ice-cream/) is the natural Moraga move (open until 9pm Fri–Sat, 8pm Sun).
 
 ## Good to Know
 
 - **Closed Mondays** — Plan accordingly. The Monday closure is firm year-round.
-- **Afternoon reset (3–4pm)** — The cafe closes for one hour between breakfast/lunch and dinner service. If you arrive at 3:30pm hungry, you have to wait. Plan around it.
-- **Dinner ends at 7:50pm** (Tue–Sat) — this is an early-evening spot, not a late-night option.
+- **Afternoon reset (3–4pm)** — The cafe closes for one hour between breakfast/lunch and dinner service Tue–Sat. If you arrive at 3:30pm hungry, you have to wait. Plan around it. (Sunday has no reset because there's no dinner service — the cafe simply closes at 2:30pm.)
+- **Dinner ends at 8pm** (Tue–Sat) — this is an early-evening spot, not a late-night option. No Sunday dinner service.
 - **Get there early** — Weekend mornings before 10am for the best pastry selection. Sunday is the busiest morning.
 - **Takeout-friendly** — Weekday mornings, in particular, are mostly grab-and-go.
 - **The dinner salads are generous** enough to split. Worth knowing before you order one each.
