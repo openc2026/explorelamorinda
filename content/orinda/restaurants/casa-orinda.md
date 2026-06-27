@@ -7,7 +7,7 @@ website: "https://casaorindarestaurant.com"
 hours: "Wed-Thu 4pm-9pm, Fri-Sat 4pm-10pm, Sun 4pm-9pm, Closed Mon-Tue"
 price: "$$"
 tags: ["american", "historic", "fried-chicken", "steaks", "landmark", "date-night"]
-lastVerified: "2026-06-21"
+lastVerified: "2026-06-27"
 ---
 
 ![Orinda Theatre](/images/new_theater.png)
@@ -42,11 +42,11 @@ Intimate, cozy, and decidedly not modern. Dark wood, warm lighting, the kind of 
 
 Sunday evenings at Casa Orinda (4pm-9pm) have a special energy. The weekday rush is absent, the bar is convivial but not packed, and the fried chicken tastes even better when you're not watching the clock. It's a quieter, more leisurely experience than Friday or Saturday — locals know this is when Casa feels most like the family roadhouse it's always been.
 
-## Today: Father's Day Sunday, June 21
+## Today: Saturday, June 27, 2026 — First Post-Father's-Day Saturday Night
 
-Father's Day at Casa is a known quantity — a 90-year-old roadhouse with fried chicken, steaks, and a hand-carved bar is the dad-dinner archetype, and the dining room handles a six-or-eight-top better than most rooms in town. Casa's Sunday hours run **4-9pm** (no lunch service), and on Father's Day specifically the **5:00-6:30pm window books out roughly two weeks ahead**. By this morning the prime 5:30 and 6:00pm slots are long gone; the **late tail end (7:30-8:00pm)** and the very occasional cancellation pickup at **5:00pm** are the realistic same-day plays — call the restaurant directly rather than checking OpenTable, the kitchen knows their book better than the app does. The dining room feels especially right today because **June 21 is also the summer solstice** — sunset lands past **8:35pm**, so a 6:30pm seating means you leave the restaurant with the kind of golden light that makes the drive home through the Orinda hills look like a movie. Bryant Way is a couple of minutes from [Theatre Square](/things-to-do/orinda-theatre/), so Casa pairs naturally with an early showing at the historic 1941 Orinda Theatre — a fitting double-feature of Lamorinda landmarks.
+We're six days past the summer solstice and into the first proper Saturday night of the post-Father's-Day run, which on Casa's calendar is a fairly textbook "busy but not crazed" Saturday — the holiday rush is done, the genuine summer-weekend rhythm is now in effect, and the dining room is operating at its normal Saturday baseline. Casa runs Saturday **4–10pm** and the **6:30–8:00pm window is the tight one** tonight, with the prime 7:00pm and 7:30pm slots typically booked four to seven days ahead in late June. The realistic same-day plays are the **early-shoulder 4:00–5:00pm** seatings (genuinely walk-in-friendly on a normal Saturday, the bar takes overflow comfortably) and the **late tail at 8:30–9:00pm** — call the restaurant directly rather than refreshing OpenTable, the kitchen knows their book better than the app does. Sunset tonight still lands past **8:35pm** (the post-solstice retreat is roughly one minute per week, imperceptible inside the dim wood-paneled dining room), so an early 5:00pm Casa seating means you walk out into full golden hour with time for a cone at [Loard's](/orinda/restaurants/loards-ice-cream-orinda/) and an 8:15pm showing at the [Orinda Theatre](/things-to-do/orinda-theatre/) — the canonical Casa-then-cone-then-theatre triple that locals build summer Saturdays around.
 
-**Looking ahead (this coming week, Mon-Wed June 22-24):** Casa is closed Monday and Tuesday as always, so the Wednesday June 24 reopen is the post-Father's-Day reset. The 4:00-5:30pm Wed-Thu seatings are walk-in-friendly again, and the dining room settles fully back into its summer-weeknight rhythm — quieter than the weekend, golden hour holding past 8pm, the bar a particularly pleasant place to nurse a Manhattan after the holiday churn.
+**Looking ahead (Sun–Wed, June 28–July 1):** Sunday June 28 follows the usual quieter Sunday-supper pattern (see below) — the easiest reservation night of the weekend by a wide margin. Casa is closed Monday and Tuesday as always, so **Wednesday July 1 is the next reopen**, and that Wednesday is the start of the Fourth-of-July week — expect the Wed–Thu seatings to fill earlier than a normal early-July weeknight as out-of-town family arrivals concentrate their dad-dinners and birthday celebrations into the runway before the holiday. Friday July 3 and Saturday July 4 will both book heavily; Casa is open both nights at the usual hours, but anyone wanting a Fourth-of-July-week Casa dinner should book by **early next week** rather than counting on a same-day pickup.
 
 ## Pair It With
 
