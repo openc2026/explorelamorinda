@@ -5,7 +5,7 @@ address: "3849 Mt Diablo Blvd, Lafayette, CA 94549"
 hours: "Daily 6am to dusk"
 website: "https://www.ebmud.com/recreation/east-bay/lafayette-reservoir"
 tags: ["outdoors", "hiking", "walking", "fishing", "kayaking", "family-friendly", "lafayette"]
-lastVerified: "2026-06-03"
+lastVerified: "2026-06-28"
 ---
 
 ![Mt Diablo view](/images/new_mtdiablo.png)
@@ -29,6 +29,16 @@ The main attraction: a paved, mostly flat 2.7-mile loop around the reservoir. It
 - Bikes yield to pedestrians; bikes also call out "on your left" — listen for it.
 - Dogs leashed on the paved loop. The unpaved upper trails have their own (contested) rules.
 - Don't stop in the middle of the path to take a photo. Step to the side. The retirees behind you have a pace and they will defend it.
+
+## Sunset Hour at the Reservoir
+
+The reservoir is one of the best free sunset venues in the East Bay, and the after-dinner loop is a Lamorinda summer ritual unto itself. A few specifics worth knowing:
+
+- **The golden window** runs roughly the last 60 minutes before sunset, when low west-angle light hits the water and the eastern slope of Mt. Diablo at the same time. Counter-clockwise puts the prettiest views over your left shoulder during this window; many regulars switch to clockwise specifically for the last loop of the day.
+- **The cool-down**: the temperature drops 6–10°F in the 20 minutes after the sun clears the western ridge — earlier than the published sunset by 25–40 minutes depending on time of year. A light layer in the backpack is the difference between a great loop and a short one.
+- **The dam pitch is in shadow first.** The east-side rise near the dam falls into shade about 30 minutes before official sunset; if you want sun the whole loop, start counter-clockwise no later than 75 minutes before sunset.
+- **Closing time**: the park closes at dusk. In practice, the parking lot gates close 30–45 minutes after sunset; rangers do a sweep. Don't push it on a school night.
+- **The latest-sunset window** of the year runs **June 24 through July 1**, with the literal apex on **June 28–29 at 8:37 PM**. From there the curve drops about one minute per night through the rest of the summer. This is the broadest after-dinner light window the reservoir gets all year — and the quietest hour of that window is 7:45–8:15 PM on a Sunday, after the weekend day-trippers have cleared and before the closing sweep.
 
 ## Beyond the Loop
 
@@ -57,6 +67,7 @@ Several picnic areas dot the shoreline, some with BBQ grills. Popular for kid bi
 
 ## Seasonal Tips
 
+- **The Late-June Sunset Apex — June 24–July 1, 2026**: The widest after-dinner light window of the year. Sunsets crest at **8:37 PM on June 28–29**, with the surrounding nights within a minute. The loop walked counter-clockwise starting around 7:15 PM puts you on the western shoreline at peak gold light around 7:55 PM and back to the parking lot just as the gates start closing. Weekday evenings this week are dramatically quieter than weekends — Wednesday and Thursday at 7:30 PM are essentially yours. (See the [Sunday June 28 field report](/blog/sunday-the-latest-sunset/) for the apex evening in context, and the [Moraga Commons](/things-to-do/moraga-commons/) bandshell page for the same cool-down window from the concert-lawn angle.)
 - **The In-Between Week — June 1–7, 2026**: This is the quietest the reservoir will be between Memorial Day and late September. Graduation weekend has cleared, summer camps don't start until Monday June 8, and the after-dinner concert-night walkers haven't kicked in yet (the [Moraga Commons concert series](/things-to-do/moraga-commons/) opens June 11). The parking lot is genuinely half-empty at 8 AM on a weekday this week. If you have been meaning to do the loop, do it now — see [the in-between week field notes](/blog/the-in-between-week/) and [the 7:30 AM loop tribes guide](/blog/reservoir-tribes/) for the full picture.
 - **Late May through mid-June 2026**: The hills have finished their shift from emerald green into summer gold — the ridges read as solid honey-gold now rather than the two-tone look from a couple weeks back. Sunsets are past 8:25pm, which puts the last full hour of light on the reservoir between roughly 7:25 and 8:25pm — the prettiest window for an after-dinner loop. Mornings sit in the upper 50s and afternoons land in the upper 70s to low 80s; the boat-rental cutoff at 4pm means a 2:30–3pm launch is the sweet spot if you want the full hour on the water before docking by 5pm. Weekends remain busy — arrive by 8am for easy parking.
 - **Heads up — May 2026 weekday vehicle closures**: EBMUD is running construction-related vehicle closures on select weekdays through May (most recently Tue–Thu May 26–28, 6am–2pm). Pedestrian access continues throughout, but if you're driving in for a boat rental on a weekday, [check the EBMUD Lafayette Reservoir page](https://www.ebmud.com/recreation/east-bay/lafayette-reservoir) first. Picnic-site reservations are also unavailable on weekdays through July 2026; weekends still book normally.
