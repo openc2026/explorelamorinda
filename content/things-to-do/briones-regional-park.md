@@ -5,7 +5,7 @@ address: "Bear Creek Staging Area, 6800 Bear Creek Rd, Lafayette, CA 94549"
 hours: "Daily 8 AM to sunset (parking lot hours)"
 website: "https://www.ebparks.org/parks/briones"
 tags: ["outdoors", "hiking", "trail-running", "horseback-riding", "lafayette", "orinda"]
-lastVerified: "2026-06-07"
+lastVerified: "2026-06-29"
 ---
 
 ![Lamorinda hills and trails](/images/new_trails.png)
@@ -65,11 +65,17 @@ Briones runs an active cattle grazing program across most of its open ridge. Enc
 - **Fall (October–November):** Golden grasses, low slanting light, the year's clearest air for long views. Underrated. Often the best photography window.
 - **Winter (December–January):** Muddy. Some fire roads become near-impassable after big rains. Check trail conditions on the [EBRPD site](https://www.ebparks.org/parks/briones) before committing.
 
-## Seasonal Note — June 2026
+## Seasonal Note — Late June into July 2026
 
-The hills are gold and the season has shifted firmly to summer-trail mode. June through mid-September, the play is *early or evening:* be at the Bear Creek lot by 8:30 AM for a Mott Peak loop in cool air, or arrive after 5:30 PM for a short Old Briones bench climb in the long-light golden hour (sunset is past 8:25 PM through the solstice on June 20).
+The hills are firmly summer-gold and the season is in its hottest, driest stretch. Through July and August, the play is *early or evening:* be at the Bear Creek lot by 8:00 AM for a Mott Peak loop in cool air, or arrive after 6:30 PM for a short Old Briones bench climb in the long-light golden hour. Sunset is at the year's apex right now — 8:37 PM on June 28 and June 29, ticking back one minute each evening starting June 30 — so the late-evening short loop has its longest runway of the year through about July 10.
 
-Bear Creek staging gets unusually busy on the Sundays after a Lamorinda high school graduation — June 7 (Campolindo) and June 14 (Miramonte) this year. Expect the lot to fill by 9 AM on those mornings, with a high concentration of hikers in [the post-grad-party sun-hat cohort](/blog/sunday-hike-the-recovery-trail/). If you want quiet on those weekends, go Saturday morning instead, or shift to the [Lafayette-Moraga Trail](/things-to-do/lafayette-moraga-trail/) or the [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) loop.
+**Fourth-of-July weekend, July 3–5, 2026.** Bear Creek staging traffic is *light* on the Fourth itself — most Lamorinda regulars are at the [Moraga Commons](/things-to-do/moraga-commons/) fireworks on Saturday July 4, on the [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) loop, or barbecuing — which makes Briones one of the *quietest* Lamorinda outdoor options on the holiday weekend itself. Friday July 3 and Sunday July 5 mornings draw a slightly heavier-than-normal crowd, but it's nothing like the post-graduation Sundays earlier in June. If you want a long, quiet ridge walk on Independence Day weekend, Mott Peak before 9 AM on Saturday July 4 is a small Lamorinda secret. Pack an extra liter of water — the ridges are exposed, the air is dry, and the lot has no fountain.
+
+**Fire weather and red-flag awareness.** July through October is the season when East Bay Regional Park District can issue fire restrictions or, in extreme red-flag conditions, full park closures on short notice. Smoking is prohibited park-wide year-round; open flame and ground fires are *not* permitted at Bear Creek staging (no picnic grills, no camp stoves). Check the [EBRPD park status page](https://www.ebparks.org/parks/briones) the morning of any July–October hike, especially after multiple consecutive 95°F+ days or when an offshore wind is forecast. If the staging area gate is closed when you arrive, it is closed for a reason — do not park on the shoulder of Bear Creek Road and walk in.
+
+**Tick season is over.** The peak tick window in Briones (March through early June) has closed for the year; the open grassland is now dry and the cattle have shifted with the forage. Standard trail hygiene still applies, but the daily tick-check vigilance can ease until the green-up after the first fall rains.
+
+**Cattle movement, late June.** The grazing herd has shifted off the upper Briones Crest and onto the cooler north-facing slopes. The Mott Peak loop is mostly cow-free in late June and July; expect more cattle encounters on the Spengler and Toyon Canyon trails on the way back down. Same etiquette as always: wide berth, dogs on leash, gates as you found them.
 
 ## Getting There
 
