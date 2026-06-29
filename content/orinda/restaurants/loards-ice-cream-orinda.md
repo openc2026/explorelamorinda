@@ -7,7 +7,7 @@ website: "https://loardsorinda.com"
 hours: "Sun-Thu 11am-9pm; Fri-Sat 11am-10pm"
 price: "$"
 tags: ["ice-cream", "dessert", "family-friendly", "orinda", "theatre-square"]
-lastVerified: "2026-06-27"
+lastVerified: "2026-06-29"
 ---
 
 ![Orinda Theatre Square - home of Loard's Orinda](/images/Orinda_TheaterSquare.jpg)
@@ -73,17 +73,18 @@ Loard's was founded in 1950 in San Leandro as a candy company; ice cream came sh
 
 If you grew up in the East Bay in the 1960s, '70s, or '80s, the Loard's Orinda case looks *exactly* the way it did when your parents took you. That's the whole product. That's why it survived.
 
-## Today: Saturday, June 27, 2026 — Post-Father's-Day Saturday, Peak Cone Window
+## Today: Monday, June 29, 2026 — Loard's-Orinda-Only Day, Calm Cone Rhythm
 
-We're six days past the summer solstice and into the first full post-Father's-Day Saturday — the kind of day Loard's was built for. Sunset tonight still lands past **8:35 PM** (the post-solstice retreat has clawed back roughly a minute since June 21, imperceptible to the eye), and the Theatre Square benches will be the single best ice-cream-at-dusk seat in central Lamorinda from about 7:30 PM on. Saturday is also the day all the cluster crowd patterns stack — expect lines in three predictable waves:
+We're eight days past the summer solstice and into the first proper post-Father's-Day Monday — the cluster-canonical **Loard's-Orinda-only day**. [Loard's Moraga](/moraga/restaurants/loards-ice-cream/) is closed every Monday, which makes this storefront the *only* Loard's in Lamorinda from open to close today. After-school cone runs from the Orinda Union elementary calendar (summer break is in full effect, so the after-school wave is now a summer-camp-and-day-camp wave rather than a school wave), Monday-night Orinda Theatre showings, and the Theatre-Square-dinner-on-a-Monday crowd from [Shelby's](/orinda/restaurants/shelbys/) and [Fourth Bore](/orinda/restaurants/fourth-bore/) — all of it routes here.
 
-- **Post-[Orinda Farmers Market](/things-to-do/farmers-markets/) wave, 12:30–1:30 PM** — the market wraps at 1 PM and sends a steady stream of stroller-and-tote-bag families directly across Brookwood Road. This is the single most reliable Saturday surge.
-- **Late-afternoon swim/camp wave, 2–5 PM** — Soda Aquatic Center, summer camps, and Little League all dispersing into the Theatre Square pocket. Six to ten deep is normal.
-- **Saturday night wave, 7–10 PM** — the theatre crowd plus the dinner spillover from [Shelby's](/orinda/restaurants/shelbys/), [Casa Orinda](/orinda/restaurants/casa-orinda/), and [Fourth Bore](/orinda/restaurants/fourth-bore/). The 10 PM Saturday close is the latest dessert option in Orinda; the 8:30–10 PM tail is the cone-on-the-benches sweet spot.
+Sunset tonight lands at roughly **8:34 PM** (the post-solstice retreat is about a minute a week — imperceptible to the eye, but the long-evening window is real), and the Theatre Square benches still play as the best ice-cream-at-dusk seat in central Lamorinda from about 7:30 PM on. Monday crowd patterns are gentler than the Saturday three-wave stack — expect a steady but light rhythm:
 
-The quietest Saturday window is **roughly 5:30–6:30 PM** — between the late-afternoon wave clearing out and the dinner crowd arriving. If you want a Saturday cone without the queue, that's the one-hour gap to target. Otherwise, embrace the line: it moves fast, the staff is unflappable, and on a warm post-solstice Saturday evening this is exactly where you want to be.
+- **Mid-afternoon camp wave, 3–5 PM** — summer day camps (Soda Aquatic Center, Orinda Park & Rec, the church-basement camps) dispersing into the Theatre Square pocket. Two to four deep is normal; rarely longer.
+- **Post-dinner spillover, 7:30–9 PM** — the Monday Shelby's tables emptying out, plus the Monday Orinda Theatre showings letting out. The 9 PM Monday close means the cone-on-the-benches sweet spot is roughly 7:45–8:45 PM.
 
-**Looking ahead (Sun–Mon, June 28–29):** Sunday is the second day of the first proper post-Father's-Day weekend and follows the standard Sunday pattern — post-[Moraga Farmers Market](/things-to-do/farmers-markets/) families peeling off Rheem Boulevard tend to detour the Orinda store rather than wait for Loard's Moraga to reopen Tuesday. Sunday afternoons typically draw a slightly older crowd (multigenerational visits, post-brunch wind-downs) and the 9 PM close holds. Monday is the cluster-canonical Loard's-Orinda-only day: [Loard's Moraga](/moraga/restaurants/loards-ice-cream/) is closed Mondays, making the Orinda store the *only* Loard's in town. Monday after-school cone runs and the Monday-night theatre showing pair with this store by default.
+The quietest Monday window is **roughly 5:30–6:30 PM** — between the camp wave clearing out and the dinner spillover arriving. Monday is also the rare day when a walk-in custom-cone-and-candy-counter trip with kids does *not* involve a wait of any kind — most Monday afternoons the candy counter has roughly the right ratio of kids-to-staff (one or two kids deep, not the Saturday five).
+
+**Looking ahead (Tue–Sat, June 30–July 4):** Tuesday is the easiest weekday at Loard's Orinda by a slight margin — Loard's Moraga reopens Tuesday and pulls roughly half the Rheem-side traffic back across Moraga Way. Wednesday July 1 is the practical start of Fourth-of-July week; visiting-family cone-stop traffic builds steadily Wed–Thu as out-of-town arrivals stack up. Friday July 3 is the first big-volume night of the holiday weekend — late-tail (8:30–10 PM Fri close) will run busy. **Saturday July 4 itself is the single highest-volume day of the Loard's Orinda summer** — the post-[Orinda Farmers Market](/things-to-do/farmers-markets/) wave (the market runs as normal on Saturday July 4), the Theatre Square dinner spillover from [Casa Orinda](/orinda/restaurants/casa-orinda/), [Shelby's](/orinda/restaurants/shelbys/), and [Fourth Bore](/orinda/restaurants/fourth-bore/), AND the post-fireworks 9:00–10:00 PM crowd flowing back from the [Moraga Commons](/things-to-do/moraga-commons/) and Lafayette Reservoir displays all stack on a single night. Expect the line to the door for the full 8–10 PM tail; the 10 PM Saturday close holds. If you want a July 4 cone without the late-night queue, target the **post-market 12:30–1:30 PM window** — busy but short, and the line clears within fifteen minutes.
 
 ## Good to Know
 
