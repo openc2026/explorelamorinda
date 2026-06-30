@@ -7,7 +7,7 @@ website: "https://www.hideoutkitchen.com"
 hours: "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-8pm"
 price: "$$"
 tags: ["american", "california-cuisine", "brunch", "downtown", "popular", "date-night", "restaurant-row"]
-lastVerified: "2026-06-22"
+lastVerified: "2026-06-30"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -28,14 +28,15 @@ The menu is seasonal Californian comfort cuisine — familiar flavors executed w
 
 Located in Lafayette Circle, the restaurant occupies a prime spot in downtown Lafayette's walkable core. Indoor and outdoor seating available. The atmosphere strikes that sweet spot between upscale and approachable — nice enough for a celebration, relaxed enough for a Tuesday dinner.
 
-## Today: Monday, June 22, 2026 — Post-Solstice, the Long-Evening Patio Window
+## Today: Tuesday, June 30, 2026 — Fourth-of-July-Week Eve, Last Easy Mid-Week Patio Night
 
-Father's Day Sunday and the summer solstice are behind us as of yesterday, and the AUHSD graduation surge cleared the weekend before that. The Lafayette Circle patio is now in its **best two-week stretch of the year**: sunsets are still past 8:35pm this week (the post-solstice retreat is roughly one minute per week through July), afternoons are settling into the upper 70s and low 80s, and the corner-facing tables hold light comfortably until 8pm. Weeknight bookings are the easiest they've been since mid-May.
+We're nine days past the solstice and one day shy of July. Tomorrow is the practical start of Fourth-of-July week, and Saturday July 4 falls on a long-weekend Saturday — historically one of the busier downtown Lafayette nights of the summer. Tonight is the **last genuinely easy mid-week patio night before the week tightens**: sunsets are now landing around 8:34pm (the post-solstice retreat is about a minute a week, so it'll dip to 8:33pm by Friday), the Circle patio holds light comfortably through 7:45pm, and Tuesday-night bookings are still the same low-friction walk-up window they've been all month.
 
-- **Tonight and the early week (Mon–Wed, Jun 22–24):** The genuinely easy mid-week walk-in window. Tuesday and Wednesday dinner are near-guaranteed walk-ins; the daily **3–5pm Happy Hour at the bar** catches the best afternoon-into-evening light before the dinner crowd resets the room — the move if you're killing time before an 8pm movie at the [Orinda Theatre](/things-to-do/orinda-theatre/) or easing a relative through jet lag.
-- **Looking ahead (Fri–Sun, Jun 26–28):** First full post-Father's-Day weekend. The 6:30–7:30pm patio slots are back to the standard 3–5 days out for booking — a noticeable downshift from the 5–7 days that the AUHSD-and-Father's-Day double-surge required earlier in the month. Brunch is still the busiest service of the weekend; Circle-facing patio tables turn fastest 10:30am–12:30pm, with the post-1pm wave the easier walk-up window.
-- **Brunch (Sat–Sun, 10am–3pm):** The 10am opening is one of the few in downtown Lafayette that hits early enough for a relatives-on-East-Coast-time pre-airport push. Through summer, the Circle patio holds afternoon warmth nearly all the way to closing.
-- **Weeknight summer rhythm (late June through Labor Day):** Tue and Wed dinner stay easy walk-ins through the entire summer. By the second week of July, the family-with-camp-rising-7am rhythm pushes the early-dinner (5:00–6:00pm) window into a quietly busy slot — worth knowing for parents who want to be home by 7:30.
+- **Tonight (Tue, Jun 30):** Walk-in friendly at the bar and on the patio. The daily **3–5pm Happy Hour** catches the best end-of-afternoon light before the dinner crowd resets the room — the move if you're killing time before an 8pm showing at the [Orinda Theatre](/things-to-do/orinda-theatre/), or stretching out a Tuesday with visiting family before Fourth-of-July week locks in.
+- **Wed, Jul 1 — Fourth-of-July week begins in earnest.** Wednesday and Thursday dinner are still easy walk-ins, but Friday-and-Saturday booking pressure builds noticeably as the week progresses. **Book by Wed or Thu for any Fri–Sat patio table** — Friday Jul 3 is the practical start of the long weekend, and the 6:30–7:30pm slots have been booking 4–5 days out (a step up from the standard 3–5 days, but not yet at the AUHSD-graduation-week 5–7 days).
+- **Sat, Jul 4 — one of the busier downtown Lafayette dinner nights of the summer.** Lafayette doesn't host its own fireworks (the closest local shows are at Moraga Commons and Lafayette Reservoir), but downtown stays lively through the early evening and again at the 9:00–10:00pm post-fireworks return. The Circle patio's 5:30–6:30pm pre-fireworks dinner window is the operationally smart booking — leaves time to walk over to the Reservoir for a 9pm show. Reserve Saturday by **end of Thursday Jul 2** for prime slots.
+- **Brunch (Sat–Sun Jul 4–5, 10am–3pm):** Saturday-July-4 brunch reads heavier than a normal first-Saturday-of-the-month — out-of-town family in town for the weekend, plus the early-start crowd looking to anchor the day before fireworks. The 10am open is the easy walk-in window; by 11:30am Circle-facing patio tables are turning every 75–90 minutes. Sunday Jul 5 brunch is the calmer of the two.
+- **Weeknight summer rhythm (post–Jul 4 through Labor Day):** Tue and Wed dinner go back to easy walk-ins the week of Jul 7. By the second week of July, the family-with-camp-rising-7am rhythm pushes the early-dinner (5:00–6:00pm) window into a quietly busy slot — worth knowing for parents who want to be home by 7:30.
 
 ## Restaurant Row: Walking Distance Pair-Ups
 
