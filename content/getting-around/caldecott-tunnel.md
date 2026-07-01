@@ -1,8 +1,8 @@
 ---
 title: "Caldecott Tunnel — A Practical Guide for Locals and Visitors"
 description: "Everything you need to know about the Caldecott Tunnel: four bores, history, traffic patterns by hour and day, alternate routes, and the quirks every Lamorinda local already knows. Updated for late spring 2026."
-last_updated: 2026-05-29
-lastVerified: "2026-05-29"
+last_updated: 2026-07-01
+lastVerified: "2026-07-01"
 ---
 
 ![Lamorinda hills and Highway 24](/images/new_panoramic2.png)
