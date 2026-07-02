@@ -25,13 +25,14 @@ The Lafayette institution. Italian-California in the historic Carr Jones-designe
 - **Insider note:** The private banquet rooms upstairs are the most-booked graduation-party rooms in Lafayette. Book by April for a June party.
 - **Full page:** [Postino in Lafayette](/lafayette/restaurants/postino/)
 
-### Metro Lafayette
-**3524 Mt. Diablo Blvd**
+### [Metro Lafayette](/lafayette/restaurants/metro-lafayette/)
+**3524 Mt. Diablo Blvd** · (925) 284-4422
 
-Urban sophistication that wandered east through the tunnel and decided to stay. New American with a serious cocktail program and a dining room that feels more San Francisco than Lamorinda. A reliable date-night spot for the parents-without-kids weeknight.
+Urban sophistication that wandered east through the tunnel and decided to stay. New American with a serious cocktail program and a dining room that feels more San Francisco than Lamorinda. A reliable date-night spot for the parents-without-kids weeknight — and, on the weekends, the *in-law-lunch room* of downtown Lafayette. See the [full Metro Lafayette page](/lafayette/restaurants/metro-lafayette/) for hours, best tables, and the Happy Hour bar-side play.
 
 - **Known for:** Cocktails, the bar scene, weekend brunch.
 - **Vibe:** Adult, lively, slightly louder than Postino.
+- **Happy Hour:** Weekdays 2–5pm, bar and bar-side tables only.
 
 ### Casa Orinda's Lafayette Cousin: Yes & No
 Casa Orinda is famously in Orinda, not Lafayette - but it's the standard against which Lamorinda old-school institutions get measured. For Orinda's icons, see the [Orinda restaurants page](/orinda/restaurants/).
