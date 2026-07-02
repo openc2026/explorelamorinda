@@ -7,7 +7,7 @@ website: "https://www.social-bird.com"
 hours: "Sun-Thu 11:30am-9pm, Fri-Sat 11:30am-9:30pm"
 price: "$$"
 tags: ["american", "craft-cocktails", "happy-hour", "patio", "downtown", "sustainable", "restaurant-row"]
-lastVerified: "2026-06-22"
+lastVerified: "2026-07-02"
 ---
 
 ![Downtown Lafayette](/images/new_downtown.png)
@@ -40,13 +40,14 @@ Tucked into downtown Lafayette's Restaurant Row, Social Bird sits in a prime spo
 - Lively atmosphere; not ideal for quiet conversations
 - **Late-spring and early-summer evenings** are prime time for the patios — book ahead for outdoor seating
 
-## Today: Monday, June 22, 2026 — Post-Solstice Patio Peak
+## Today: Thursday, July 2, 2026 — Fourth-of-July Week, Patio Prime with a Two-Day Ramp
 
-Father's Day Sunday and the summer solstice closed yesterday, and the AUHSD graduation surge cleared the weekend before that. The three patios are now in their **best two-week stretch of the year**: sunsets are still past 8:35pm this week (the post-solstice retreat is roughly one minute per week through July), afternoons settle in the upper 70s, and the corner location keeps light coming from multiple directions well after the dinner rush starts. The craft cocktail program is at its best in this window — lighter, brighter pours pair naturally with long evenings, and the menu's small-plates format encourages lingering.
+Lafayette is twelve days past the summer solstice; sunset lands around **8:33pm** this week (the one-minute-a-week post-solstice retreat has shaved about two minutes off the June 20 8:35pm anchor), afternoons still settle in the upper 70s to low 80s downtown, and the corner-lot patios stay warm-lit past 8pm. The three patios are still inside their **best three-week stretch of the year** — the same window that opened in mid-June and runs through mid-July before the retreat starts to be felt at the dinner hour. Per the cluster-wide Fourth-of-July-week frame anchored on the [Getting Around](/getting-around/) page yesterday, **Wed Jul 1 and Thu Jul 2 are the two quiet days before the Fri-Jul-3-afternoon step-up begins** — which makes tonight one of the last easy walk-in patio nights of the holiday week.
 
-- **Tonight through Thursday (Jun 22–25):** Weeknight patios are at their easiest of the early summer — the AUHSD-and-Father's-Day double-surge has cleared, and the school-is-out-camps-not-started lull is in effect this week. Tuesday and Wednesday remain near-guaranteed walk-ins; Thursday tightens after 6:30pm as the regulars filter back in. The **Sun–Thu Happy Hour (3–5pm)** is the easiest window of the entire week if you want patio light without the dinner crush.
-- **Looking ahead (Fri–Sun, Jun 26–28):** First full post-Father's-Day weekend. The 6:30–7:30pm patio slots are back to the standard 3–5 days out for booking — a noticeable downshift from the 5–7 days required earlier in the month. The 6:00pm and 8:00pm tables are the next-best fallback for a Saturday-night walk-up window.
-- **Sunday (Jun 28):** Brunch-equivalent doesn't apply here (Social Bird opens at 11:30am), but the 11:30am–1pm patio is a strong slow-weekend recovery slot — quieter than [Hideout](/lafayette/restaurants/the-hideout-kitchen/)'s brunch room one block north, with the same downtown light.
+- **Tonight (Thu Jul 2):** The last of the two calm holiday-week weeknights. Patio walk-ins are still workable for the 6:30–7:30pm slots, and the **Sun–Thu Happy Hour (3–5pm)** is at peak accessibility — the 3pm open is nearly always walk-in-able on a Thursday of a holiday week, when local regulars are either already off for the long weekend or still working from home. The bar-side four-tops are the underrated Happy-Hour move.
+- **Fri Jul 3:** First real holiday-week ramp. Reservations for the 6:30–8:00pm patio slots have tightened over the last 48 hours; walk-up windows are the 5:30pm and 8:30pm bookends. Fri Jul 3 evening is also the last-arrival window for Tahoe-and-Sierra-bound travelers who are eating downtown before the drive — expect a mixed room of locals and one-night-only visitors.
+- **Sat Jul 4:** Two demand vectors, one patio. **(a)** Locals and families skipping the Moraga Commons event (11am–10pm, fireworks after dusk — see the [Getting Around](/getting-around/) page for St. Mary's Road congestion 4:30–7:30pm) filter into downtown Lafayette for dinner in the 5:30–7:00pm window; **(b)** the SF-fireworks-return crowd starts arriving downtown from about 10:30pm onward — which lands *after* Social Bird's Fri–Sat 9:30pm close, so the operational implication is that the **8:00–9:15pm patio slot is the sweet spot for a late Sat Jul 4 dinner** if you want to eat inside Social Bird's service window. Book ahead — Sat Jul 4 is now the tightest reservation night on the calendar through July.
+- **Sun Jul 5:** The post-fireworks calm morning-into-afternoon. Sunday-service opens at 11:30am; the **11:30am–1pm patio window is the strongest slow-holiday-weekend recovery slot of the summer so far** — quieter than the [Hideout](/lafayette/restaurants/the-hideout-kitchen/) brunch room one block north, with the same downtown light, and the 3–5pm Happy Hour returns for a second-wave holiday-recovery slot before the standard 9pm Sunday close.
 
 If you're piecing together a downtown Lafayette evening, four Restaurant Row choices sit within a one-block walk:
 
