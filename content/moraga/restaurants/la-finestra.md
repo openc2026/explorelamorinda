@@ -7,7 +7,7 @@ website: "https://lafinestraristorante.com"
 hours: "Tue-Thu 11:30am-8pm, Fri 11:30am-8:30pm, Sat 4:30pm-8:30pm, Sun 4:30pm-8pm, Closed Mon"
 price: "$$$"
 tags: ["italian", "fine-dining", "date-night", "moraga"]
-lastVerified: "2026-06-23"
+lastVerified: "2026-07-03"
 ---
 
 ![La Finestra Ristorante](/images/Moraga_LaFinestra.jpg)
@@ -44,19 +44,21 @@ The patio is particularly pleasant on mild spring evenings — Moraga's cooler t
 
 Chef Assadi's culinary journey brought him to Lafayette in 2003, where he first built a following for his authentic Sicilian-influenced cooking. By 2018, demand warranted a second location, and La Finestra in Moraga was born. The same attention to quality — fresh ingredients, house-made pastas, consistent execution — transferred to the new space. For Moraga residents, it means fine Italian dining without the drive to Walnut Creek or Lafayette.
 
-## Today: Tuesday, June 23, 2026 — Post-Solstice Patio Window
+## Today: Friday, July 3, 2026 — Fourth-of-July Week, The Pre-Fireworks Dinner Pivot
 
-We're two days past the summer solstice (Sunday, June 21) and one day past the first post-Father's-Day Monday — La Finestra's patio is in its **best two-week stretch of the year**. Sunset is past 8:35pm now and begins retreating by roughly one minute per week through July, so the patio holds long, soft evening light well past 8pm and the Moraga hillside cool kicks in right as the sun drops behind the ridge. Weeknight pace is dramatically calmer than weekends, and the post-Father's-Day reset means reservation lead-times have eased from the 5–7 days that mid-June required back down to 3–5 days out for prime windows.
+We're **thirteen days past the summer solstice** (Sat Jun 20) and dropped into the middle of Fourth-of-July week. Sunset now lands right around **8:33pm** — the retreat from the solstice peak is a barely-perceptible one minute per week, so the patio still holds long, soft evening light well past 8pm and the Moraga hillside cool kicks in right as the sun drops behind the ridge. The wrinkle this week isn't the light; it's the demand pattern. La Finestra sits inside a **compressed three-day window** — Fri Jul 3, Sat Jul 4, Sun Jul 5 — where each day plays a different game.
 
-**Today (Tue–Wed, Jun 23–24)** — the genuinely easiest walk-in window of the early summer. The 6:30–7pm Tuesday or Wednesday reservation is the move: the kitchen is fresh after the Sunday-Monday closure-and-reset, the service is attentive, and you'll still catch the golden hour over the Moraga hills with your antipasti. Tuesdays are also **Corkage Free Day** per the operator's OpenTable listing, which makes a Tuesday-with-a-bottle-from-home worth the slight pre-planning. The Wednesday 6–6:30pm slot is the parallel pick for parties of four+ — the round corner table opens around 6:30 most weeks.
+**Today (Fri Jul 3)** — the **last real dinner service before the Caldecott and St. Mary's Road step-up.** Lunch (11:30am–2:30pm) is quiet and running normal. The 6:30–8pm dinner window is the tightest of the coming three days: locals leaving town for the weekend fired their bookings 4–5 days ago, and holiday-week walk-ups have been steady since Wednesday. The **5:30pm and 8pm bookends are the walk-up windows** — either the pre-golden-hour early seating (multi-gen tables and out-of-town relatives, who tend to run early) or the last hour before the 8pm kitchen close on a Friday (dessert-and-espresso pace, no rush behind you). The 6:30–7:30pm prime block is at **1–2 days out** per OpenTable this week, but a same-day call around 3pm often surfaces a cancellation.
 
-**Looking ahead (Fri–Sun, Jun 26–28)** — first full post-Father's-Day weekend. The patio's 6:30–7:30pm prime window is back to **3–5 days out** (down from the 5–7 days that the early-June graduation-and-Father's-Day double-surge required). The 5:30pm and 8pm fallback tables tend to be available 24–48 hours out. Saturday is dinner-only (4:30–8:30pm, no lunch), so the early-evening multi-generational table works well in the 5–6pm window before the date-night crowd lands at 7.
+**Sat Jul 4** — dinner-only (4:30pm–8:30pm, no lunch). This is the **underrated pre-fireworks move.** The [Moraga Commons](/things-to-do/moraga-commons/) Fourth-of-July event drives a St. Mary's Road congestion window from roughly **4:30pm–7:30pm** (see [Getting Around](/getting-around/) for the routing detail); La Finestra sits on Moraga Way, one block off the congestion spine, so the **5:00pm seating lands you inside the restaurant before the road tightens** and out again by 6:45pm — well ahead of the fireworks arrival wave. The 7:30–8:30pm tail slot is the parallel move for people skipping the Commons event entirely: it's post-congestion, still golden-hour, and the dining room settles into a quieter second-seating rhythm once the early-fireworks tables clear.
 
-**Quiet-summer rhythm (late June through Labor Day)** — with Saint Mary's commencement past and summer session at limited capacity, Moraga Way is noticeably calmer through August, and weeknight walk-ins are realistic Tue–Wed. The trade-off: the small dining room means that even a quiet weeknight can fill once a single party of 6+ lands, so a same-day reservation call is still worth it if you're not flexible on time.
+**Sun Jul 5** — first-Sunday-of-July, dinner only (4:30pm–8pm), the **earliest kitchen close of the week**. This is the recovery-slot for anyone whose Saturday ran late (fireworks return, house guests, the whole rhythm). The 5–6pm window is the walk-in-friendliest slot of the entire holiday weekend — the date-night crowd hasn't landed, the Sunday-brunch-elsewhere crowd is either napping or heading home, and the kitchen is fresh. If you want the full La Finestra experience without holiday-week competition, this is the slot.
+
+**Quiet-summer rhythm (mid-July through Labor Day)** — with Saint Mary's commencement past and summer session at limited capacity, Moraga Way is noticeably calmer through August once this holiday week clears, and weeknight walk-ins settle back to realistic Tue–Wed. The trade-off: the small dining room means that even a quiet weeknight can fill once a single party of 6+ lands, so a same-day reservation call is still worth it if you're not flexible on time.
 
 ## Good to Know
 
-- **Reservations strongly recommended**, especially weekends
+- **Reservations strongly recommended**, especially weekends (holiday-week Fri–Sat currently at 1–2 days out for prime slots)
 - **Closed Mondays** — plan accordingly
 - Lunch service Tue-Fri; dinner-only Sat-Sun
 - **Earliest kitchen close on Sunday (8pm)** — if you're aiming for a late-evening dinner, Tue-Thu or Fri-Sat give you more runway
