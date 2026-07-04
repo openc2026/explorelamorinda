@@ -2,7 +2,7 @@
 title: "Lamorinda Farmers Markets — Orinda, Moraga, and Where Lafayette Goes"
 description: "A practical local's guide to the Orinda Farmers Market (Saturdays) and Moraga Farmers Market (Sundays) — hours, locations, what's in season, and the answer to the most-asked question: is there a Lafayette Farmers Market?"
 tags: ["farmers-market", "shopping", "weekends", "moraga", "orinda", "family-friendly", "outdoors"]
-lastVerified: "2026-06-26"
+lastVerified: "2026-07-04"
 ---
 
 ![Lamorinda farmers market](/images/community-farmers-market.jpg)
@@ -76,16 +76,28 @@ The Moraga market is larger than the Orinda market (40+ vendors versus ~25–35)
 
 **Best time to go:** 9:00–10:00 AM for serious shopping; 10:00–11:30 AM for the social brunch-and-browse rhythm; after 12:30 PM for end-of-market discounts on bread and produce (vendors prefer to sell down rather than pack up).
 
-## What's in Season (Late June 2026)
+## What's in Season (Fourth-of-July Weekend, Early July 2026)
 
-Right now, both markets are in **full early-summer mode** — the last week of June is the inflection point when stone fruit takes over the front row of nearly every produce stall:
+Right now, both markets are in **full mid-summer mode** — the Fourth-of-July weekend is the inflection point when stone fruit takes over the front row of nearly every produce stall and the first serious field tomatoes start landing:
 
-- **Stone fruit in full swing:** Brentwood peaches and nectarines are at their first true peak — Snow Queen, Spring Lady, and the early yellow peaches are out, and the first Suncrest and Red Top varieties are arriving this week. Apricots are at their short, intense Bay Area peak (Blenheims at a couple of stalls if you're lucky and there before 10am). Cherries are essentially done — the last Bing and Brooks bins were picked over by Father's Day weekend.
-- **Strawberries holding steady:** The April-planted rows are still producing, with the late-June berries smaller and more concentrated in flavor than the May ones. Expect strawberry volume to taper through July as stone fruit dominates the produce mix.
-- **First field tomatoes appearing:** A few of the earliest Brentwood and Sunol growers are bringing the first small-volume field tomatoes — cherry and small slicing varieties only, at premium prices. The real East Bay tomato peak is still four to six weeks out (late July through September).
-- **Summer vegetables arriving:** First zucchini and summer squash, the earliest sweet corn from Brentwood, green beans, and Padrón peppers. Asparagus and English peas are gone for the year — last call was mid-June.
-- **Flowers:** Dahlias coming on strong, sunflowers starting, peonies done. The flower stalls have shifted fully into their summer mix.
-- **Melons:** The first early cantaloupe and honeydew from the hotter inland farms are starting to appear at one or two stalls — still early and a little under-flavored; the real melon stretch is mid-July onward.
+- **Stone fruit at peak:** Brentwood peaches and nectarines are at true peak — Snow Queen and Spring Lady are done, Suncrest, Red Top, and O'Henry-track yellow peaches are the front-row varieties this weekend, and the white peaches and pluots are arriving in volume. Apricots are almost done for the year — Blenheims were essentially gone by the last weekend of June; a stall or two may still have the late-picked cots on Saturday Jul 4 but expect them off the tables by Jul 11. Cherries are fully gone.
+- **Strawberries tapering:** The April-planted rows are still producing but volume is dropping week-over-week as stone fruit dominates. Late-picked July berries are smaller and more concentrated in flavor. Expect strawberry volume to drop further through July.
+- **First serious field tomatoes:** Several Brentwood and Sunol growers now have real volume on early-slicing and cherry tomatoes — heirlooms remain limited but Early Girl, Sungold cherries, and small Roma varieties are landing in meaningful quantities this weekend for the first time. Prices remain premium; the real East Bay tomato peak is still three to five weeks out (late July through September).
+- **Summer vegetables in full swing:** Zucchini and summer squash in volume, sweet corn from Brentwood arriving at multiple stalls (peak is Jul–Aug), green beans, Padrón and shishito peppers, first eggplant. Asparagus and English peas are gone for the year.
+- **Flowers:** Dahlias in full color, sunflowers landing in bunched volumes for the Fourth-of-July-weekend table centerpiece market, zinnias arriving. Peonies long gone.
+- **Melons:** First real cantaloupe and honeydew from the hotter inland farms are now on the tables at two or three stalls — flavor is improving week-over-week; the peak melon stretch is mid-July through August.
+
+## Fourth-of-July Weekend Note (Sat Jul 4 & Sun Jul 5, 2026)
+
+**Both markets are open on their normal schedule this weekend** — Orinda on Saturday Jul 4 (9am–1pm) and Moraga on Sunday Jul 5 (9am–1pm). Neither market takes a Fourth-of-July holiday break; both operator associations (CCCFM for Orinda, CFMA for Moraga) treat the holiday as a normal market day, and both markets have been open every Fourth-of-July Saturday for years.
+
+A few practical notes for this specific weekend:
+
+- **Saturday Jul 4 at Orinda** is the day-of-fireworks market, and it runs earlier-than-normal in terms of crowd flow. Families come in through the 9:00–10:15 window to shop, then leave to prep for the Moraga Commons fireworks-night crowd or their own backyard parties. The **10:15–11:30 window is calmer than a normal Saturday** — most of the shop-and-leave crowd is already gone, and the walk-up-brunch crowd is thinner because many families are prepping food at home. If you can push your market visit into that window, this is one of the easier Orinda Saturdays of the year.
+- **Watermelon, corn, stone fruit, and flowers sell fastest** on Jul 4 — the classic Fourth-of-July table lineup. Get there before 10:15 if any of those are your target. The bread and pastry stalls sell out about thirty minutes earlier than normal.
+- **Sunday Jul 5 at Moraga** is the natural post-fireworks-recovery slot — the first-Sunday-of-July, low-social-density, walk-in-friendly. Foot traffic is meaningfully lighter than a normal summer Sunday (many locals are traveling, or sleeping in after Sat Jul 4). The **9:00–10:30 window at Moraga on Jul 5 is one of the easiest full-selection Sunday market visits of the summer**. The prepared-food row is at normal volume, so a market-and-brunch move works cleanly.
+- **Parking is easier at both markets this weekend** than a normal early-July Saturday/Sunday — the double-holiday-weekend travel pattern draws down local car counts.
+- **St. Mary's Road congestion** — see the [Getting Around](/getting-around/) Fourth-of-July-week frame for the Sat Jul 4 4:30–7:30pm St. Mary's Road congestion window around the Moraga Commons fireworks event. This window doesn't affect the Saturday-morning Orinda market visit, but it does mean that if you're planning a Sat Jul 4 Orinda-market-then-Moraga-Commons-fireworks combo, you want to be *out* of Moraga before 4:30pm and back for the concert at 6pm.
 
 ## Why There's No Lafayette Farmers Market
 
@@ -131,4 +143,4 @@ If you're hosting a grad party this weekend: get to the market by 9:15 sharp. If
 
 ---
 
-*Hours and vendor counts re-verified June 26, 2026 against the operating market associations (CCCFM and CFMA). Markets occasionally adjust for holidays — the upcoming Fourth of July weekend (Saturday July 4) is a confirmed market day at Orinda; check the operator pages before driving over for any special Sunday or Saturday.*
+*Hours and vendor counts re-verified July 4, 2026 against the operating market associations (CCCFM for Orinda, CFMA for Moraga). Both markets are confirmed open this weekend on their normal schedule — Orinda Sat Jul 4 (9am–1pm) and Moraga Sun Jul 5 (9am–1pm). Neither market takes a Fourth-of-July holiday break. Markets occasionally adjust for other holidays (Christmas, New Year's); check the operator pages before driving over on holiday weekends.*
