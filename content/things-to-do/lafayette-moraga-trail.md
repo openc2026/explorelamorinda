@@ -2,8 +2,8 @@
 title: "Lafayette-Moraga Regional Trail"
 description: "Paved trail connecting Lafayette and Moraga — perfect for walking, running, and cycling"
 tags: ["outdoors", "hiking", "biking", "walking", "family-friendly", "lafayette", "moraga"]
-last_updated: 2026-06-14
-lastVerified: "2026-06-14"
+last_updated: 2026-07-06
+lastVerified: "2026-07-06"
 ---
 
 ![Lafayette-Moraga Trail](/images/new_trails.png)
@@ -33,6 +33,32 @@ The paved surface makes this trail accessible to everyone:
 - Inline skaters
 - Dog walkers (leashed)
 
+### Trail Etiquette (The Unwritten Rules Locals Know)
+
+The trail is genuinely multi-use, which means it works only because most people follow a small set of conventions. Newcomers who violate them get a lot of frowning; regulars who violate them get a lot of talking-about at the [Moraga Commons dog-walker confluence](/things-to-do/moraga-commons/#the-park-on-a-weekday-no-concert) the next morning.
+
+- **Stay right, pass left.** Two-abreast walking is fine in the low-traffic stretches; three-abreast blocks the path and forces cyclists into the gravel shoulder. Break the line to let bikes and joggers through when you hear a bell or an "on your left."
+- **Cyclists announce.** A bell or a clear "on your left" ~15 feet back is standard. Silent passes at speed startle walkers and dogs and are the single most common source of trail conflict.
+- **Dogs on a fixed leash, not a retractable.** The retractable-leash-across-the-full-path move is the trail's most-complained-about behavior. Standard 6-foot leash, dog on your right, you on the pavement. Dog waste bags at both trailheads and Lafayette Community Park; carry your own between them.
+- **No headphones at full volume.** You need to hear the cyclist behind you. One earbud is fine; two earbuds with the volume up is the reason you got startled.
+- **Yield at the road crossings.** The trail crosses several residential streets (most notably Oliveira Lane and the Reliez Valley connector); the road has the right-of-way, not the trail. Slow, look both ways, cross when clear.
+- **Strollers hold the right lane.** Jogging strollers moving at pace behave like bikes; walking strollers behave like walkers. Either way, right side, and pass on the left when overtaking.
+- **Group rides announce themselves.** A four-rider peloton passing a walker on a Saturday morning should thin to single file, call the pass, and thank the walker. It costs nothing and it is the reason the trail still tolerates group rides at all.
+
+## Trail Landmarks (South-to-North)
+
+Useful reference points for planning a walk or ride. Distances are approximate from the **Valle Vista** trailhead (the southern terminus) heading north to **Olympic Boulevard** in Lafayette.
+
+- **Mile 0.0 — Valle Vista Staging Area** (EBMUD watershed boundary, southernmost lot; formal trail terminus). Small lot, fills by 9 AM on weekend mornings.
+- **Mile 0.5 — Canyon Bridge / Moraga Creek crossing** (the closed half-mile stub to Westchester Street branches south here — do not attempt).
+- **Mile 1.2 — Moraga Commons Park south entrance** (bike rack at the playground; the practical trailhead for anyone based in Moraga). Restrooms, water fountain, and the [summer concert bandshell](/things-to-do/moraga-commons/) are 200 feet east of the trail.
+- **Mile 2.4 — Rheem Boulevard crossing** (residential street; slow and yield). The nearest coffee is a 3-minute walk east to the Rheem Center.
+- **Mile 3.1 — Oliveira Lane crossing** (the trail's midpoint area; exposed, warmest, watch for rattlesnakes in July–August on the shoulder rocks).
+- **Mile 4.2 — Reliez Valley connector** (side path to the Trail–Reliez Valley neighborhood; useful for a shortcut out to Reliez Valley Road).
+- **Mile 5.4 — Lafayette Community Park** (the mid-route rest stop — water fountain, restrooms, benches, ample parking, and the most reliable water refill on the trail). Popular turnaround point for out-and-back Lafayette-only walks.
+- **Mile 6.3 — Foothill Boulevard area** (residential Lafayette; trail runs behind homes and along the creek, deepest shade on the whole trail).
+- **Mile 7.0 — Olympic Boulevard Staging Area** (formal northern trailhead; ample parking, no restrooms, direct connector to downtown Lafayette via Olympic–Mt. Diablo Boulevard). The [Lafayette Reservoir](/things-to-do/lafayette-reservoir/) staging lot is a 6-minute drive further east on Mt. Diablo Boulevard — the two-loop day (reservoir + trail) is a local favorite.
+
 ## Why Locals Love It
 
 It's not wilderness — it's better for certain purposes. The pavement means you can use it year-round, wet or dry. The gentle grade means everyone from kids to grandparents can enjoy it. And it connects two towns, making it actually useful for transportation, not just recreation.
@@ -43,16 +69,17 @@ It's not wilderness — it's better for certain purposes. The pavement means you
 - **Summer**: Start early — shade is limited and the paved surface can get hot. Before 9am is ideal.
 - **Fall/Winter**: The trail stays usable year-round thanks to the pavement, even right after rain.
 
-## Mid-June 2026 — Father's Day Week, Solstice Approaching, Post-Graduation
+## Early July 2026 — The Sunset-Retreat Weeks, Post-Fireworks, Second-Half Concert Season
 
-The green-to-gold pivot is essentially complete: the southern stretch (Valle Vista, the EBMUD watershed boundary) is fully into its classic California summer palette, and even the north-facing slopes near the Lafayette Community Center have shed their last pockets of late green. Today, Sunday June 14, the trail reads as fully summer. A few timely notes for the week of June 14–20:
+The hills are fully gold now. The green-to-gold pivot completed in mid-June and by the first week of July the southern stretch (Valle Vista, the EBMUD watershed boundary) is running its August palette a full three weeks early — dry grass, oak shadow, the exposed dirt on the shoulder cracking in the standard July pattern. Today, Monday July 6, the trail reads as *deep summer*. Notes for the week of July 6–12:
 
-- **Sunday June 14 — the post-graduation recovery walk:** AUHSD graduation week wrapped last night with the Miramonte/Campolindo grad Saturday; today the trail rhythm flips. Expect a noticeable late-morning bump in **out-of-town-grandparent walking traffic** (the post-graduation lap before the airport drive), then a quiet midafternoon, then the usual Sunday-evening jogger-and-stroller wave from ~6 p.m. as the light cools off. The Olympic Boulevard staging area is the cleaner trailhead today — the Moraga Commons end will be slightly busier as departing families do the symmetric lap from the south.
-- **Best window:** 7–9 a.m. on weekdays, before 9 a.m. on weekends. Sunsets are past 8:33 p.m. and pushing toward 8:36 p.m. by the **summer solstice next Sunday, June 21** — the longest evening rides of the year are this week and next. Evening rides from ~6:30 p.m. through about 8 p.m. give you the cooled pavement plus the long-light return ride that defines mid-June trail riding here.
-- **Father's Day, Sunday June 21:** A trail-then-Moraga-Commons lap with the family is a perennial Father's-Day-morning move. Park at Olympic, ride or walk south to Moraga Commons, grab coffee, ride back. The trail tends to be busy 9–11 a.m. on Father's Day with multi-generational groups — plan around it or lean into it.
-- **Concert-night pairing, Week 2:** [Moraga Commons](/things-to-do/moraga-commons/) Week 2 is Thursday, June 18 — **The Purple Ones** (Prince tribute). The classic move — trail ride south, finish at the Commons, picnic blanket for the 6:30 p.m. set — still applies. Plan to be off the trail and at the lawn by 5:30 p.m. for a comfortable bandshell-side spot; the Purple Ones routinely outdraw the opener.
-- **Trail surface:** Dry and fast. The rain-free stretch has held; roadie-friendly conditions all the way down to the Moraga end.
-- **Heads-up:** PG&E vegetation management work has historically been active along the Oliveira Lane stretch this time of year; trail width can be occasionally restricted during brush removal. Verify current status on the [EBparks trail page](https://www.ebparks.org/trails/interpark/lafayette-moraga) before a long ride if you're routing through that stretch.
+- **Monday July 6 — the post-Fourth cooldown:** The Saturday July 4 [Moraga Commons fireworks](/things-to-do/moraga-commons/#july-4-saturday-show--fireworks-survival-guide) and Sunday recovery have run their course; today the trail is at *Monday-after-holiday-weekend* volume, which is quiet through late morning, then a light uptick at the Moraga Commons end as visiting-grandparent households take one more slow walk before Tuesday-morning airport drives. See the [Monday last-full-day field report](/blog/monday-the-last-full-day/) for the departure-week rhythm. The 1:30 PM window on the southbound Moraga end is a canonical grandparent-and-grandchild walk hour this week.
+- **Best window:** 6:30–8:30 a.m. on weekdays now (not 7–9 — early July is measurably hotter than mid-June on the exposed south-facing stretch, and the paved surface holds heat past sunset). Before 8 a.m. on weekends. Evening rides work from ~6:30 p.m. through about 8:00 p.m., cooled pavement, gold hills, the return ride timed to sunset.
+- **Sunset watch:** The 2026 calendar's [latest sunsets peaked on June 28–29 at 8:37 PM](/blog/sunday-the-latest-sunset/) and the retreat is now underway — tonight is 8:29 PM, seven minutes off the apex. The retreat runs about a minute a week through July, two a week through August, four a week through September. Evening riders who leave Olympic at 7:00 PM this week get 90 minutes of usable light. By the last week of July it will be 75 minutes. Plan the turnaround accordingly.
+- **Concert-night pairing, Week 5 (Thursday July 9 — Bell Brothers):** The second-half [Moraga Commons](/things-to-do/moraga-commons/) concert season opens Thursday, July 9 with **Bell Brothers** (country · rock · Americana). The classic bike-in move — Olympic staging → south to the Commons → lock at the playground rack → picnic blanket for the 6:30 p.m. set → post-concert ride home under streetlights — is fully in effect. The Bell Brothers week draws slightly older and slightly earlier than the tribute-band weeks; be off the trail and at the lawn by 5:45 p.m. for a comfortable side-rectangle spot. Front-center in this crowd requires a 5:15 p.m. arrival.
+- **Trail surface:** Bone dry, fast, and warm. No rain in the ten-day forecast; roadie-friendly conditions the full length. The Moraga Creek crossing at Canyon Bridge is dry gravel through the culvert (as expected in July), no wet spots to route around.
+- **Heat management:** The trail's [shade is limited](#good-to-know), and the exposed sections between the Lafayette Community Park and the Reliez Valley connector run about 8°F warmer than the tree-shaded stretches. Bring more water than you think you need — the water fountain at Lafayette Community Park is the reliable mid-route refill. The Moraga Commons playground fountain is the reliable south-end refill.
+- **Rattlesnake heads-up:** July is peak rattlesnake activity on the exposed shoulder rocks between the Oliveira Lane crossing and the Reliez Valley connector. Keep dogs on a short leash through that stretch (the standard 6-foot leash, not the retractable), watch the shoulder if you're stopping for water, and give any coiled shape on the pavement edge the full 3-foot berth. Bites are rare on this trail — but they happen, and July is when.
 - **Valle Vista stub still closed:** see the Route section above — the final half-mile to Westchester Street remains closed (storm damage from 2022–2023). The 7-mile Lafayette-to-Moraga run is unaffected.
 
 ## Local Lore
