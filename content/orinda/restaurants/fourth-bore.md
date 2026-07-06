@@ -7,7 +7,7 @@ website: "https://thefourthbore.com"
 hours: "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 11am-9pm"
 price: "$$"
 tags: ["craft-beer", "american", "sports-bar", "theatre-square", "casual", "live-music"]
-lastVerified: "2026-06-28"
+lastVerified: "2026-07-06"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)
@@ -34,11 +34,20 @@ The owners also run **The Forge Pizza Fire Truck** — a 1970 Ford fire truck co
 
 The Caldecott Tunnel is Lamorinda's gateway — four tubes (called "bores") carrying Highway 24 through the hills between Oakland and Orinda. For decades there were only three bores, creating legendary traffic bottlenecks. The fourth bore finally opened in 2013 after years of construction, adding much-needed capacity. The restaurant's name is a tribute to this local milestone — and a nod to the relief everyone felt when that fourth tube finally opened.
 
-## Today: Sunday, June 28, 2026 — Calm-Sunday Patio, Fourth-of-July-Week Runway
+## Weekly Rhythms Worth Knowing
 
-We're seven days past the summer solstice, and Fourth Bore's patio is settling into its calmest-of-the-weekend rhythm. Sunset tonight still lands past **8:35pm** (the post-solstice retreat is now about one minute a week — imperceptible, but the trend is real), so a 6:00pm beer on the patio still has well over two hours of natural light ahead of it, and the 9pm Sunday close still wraps just past dusk. Sunday is the **easiest walk-in night of the week at Fourth Bore by a comfortable margin** — the Friday–Saturday live-music nights are done, the AUHSD-schools-out crowd has cycled through, and the late-afternoon-to-early-evening 4:00–6:30pm pocket is the cleanest walk-in window of the week for parties of any size. The kitchen runs straight through to the 9pm close, with the bar typically thinning out by 8:00pm as families wind down their weekends. A useful pattern to know: Sunday is the one night the patio reliably has open four-tops at 6:30pm without a wait — the rare summer-weekend window that doesn't require timing tricks.
+A couple of standing weeknight patterns give Fourth Bore its Monday–Tuesday character:
 
-**Looking ahead (Mon–Wed, June 29–July 1):** Monday and Tuesday are the two nights [Casa Orinda](/orinda/restaurants/casa-orinda/) is dark, and Fourth Bore absorbs the casual-dinner overflow — Monday especially is one of the few in-town dinner rooms still serving at all (along with [Shelby's](/orinda/restaurants/shelbys/) next door), making it a process-of-elimination default rather than a destination. The 5:30–7:00pm pocket is the easiest walk-in window on a Monday. **Wednesday July 1 is the start of Fourth-of-July week** — out-of-town family arrivals start concentrating into the runway days, and Wed–Thu evenings will run noticeably busier than a normal early-July weeknight. The Friday–Saturday July 3–4 patio will run at full capacity from 5pm on; the **post-fireworks 9:00–10:00pm window on Saturday July 4** is shaping up as one of the busiest Theatre Square nights of the year, with the after-show crowd from the [Orinda Theatre](/things-to-do/orinda-theatre/) overlapping the post-fireworks foot traffic from the Moraga Commons and Lafayette Reservoir displays. Reservations not required, but parties of six or more should call ahead for July 3–4.
+- **All-Day Happy Hour every Monday.** Not the usual 3–6pm slot — the full open-to-close window runs on happy-hour pricing. On a Monday when [Casa Orinda](/orinda/restaurants/casa-orinda/) is dark, this is the single biggest reason to walk down Theatre Square.
+- **Trivia every Tuesday at 7pm.** A steady weekly draw that pulls the room past its usual Tuesday early-week quiet — teams show up, the bar fills, and the 6:30–9:00pm window shifts from walk-in-easy to genuinely lively.
+
+Both are worth planning around if you're picking a weeknight to visit.
+
+## Today: Monday, July 6, 2026 — First Genuinely Normal Monday of the Month, All-Day Happy Hour
+
+We're two days past the Fourth of July and into what's arguably the first genuinely normal Monday of the month. The out-of-town family wave from Fourth-of-July-week has cleared, the Sat-Jul-4 fireworks crowds and Sun-Jul-5 recovery-day quiet are both behind us, and Theatre Square is back to its baseline mid-summer weekday rhythm. Sunset tonight lands at roughly **8:32pm** (the post-solstice retreat is now about one minute a week — imperceptible night-to-night, but the trend is real), so a 6:00pm beer on the patio still has well over two hours of natural light ahead of it before the 9pm Monday close. Monday is one of the two easiest walk-in nights of the week here (the other being Sunday), with the **5:30–7:00pm pocket the cleanest walk-in window** for parties of any size — and tonight the **All-Day Happy Hour** pricing runs open-to-close, giving the room its steady Monday character. [Casa Orinda](/orinda/restaurants/casa-orinda/) is dark tonight and tomorrow (as always Mon–Tue), so Fourth Bore absorbs the in-town casual-dinner overflow alongside [Shelby's](/orinda/restaurants/shelbys/) next door — on a Monday, these two rooms and Fourth Bore are effectively the only Orinda dinner options in the Theatre-Square-and-Bryant-Way core.
+
+**Looking ahead (Tue–Thu, July 7–9):** Tuesday's **7pm trivia** is the week's first real weekday-evening draw — the room fills from about 6:30pm as teams arrive, and the trivia-night crowd holds through the 9pm close. Casa Orinda stays dark Tuesday, so the Fourth Bore trivia room absorbs a portion of the casual-dinner-plus-something-to-do crowd that would otherwise be spread across town. **Wednesday and Thursday** return to standard early-July weeknight rhythm — Casa reopens Wed at 4pm, the [Orinda Theatre](/things-to-do/orinda-theatre/) is running its normal weekday programming, and Fourth Bore's Wed–Thu 5:30–7:30pm early-dinner window is walk-in-friendly. **Friday July 10** brings live music back to the beer-garden patio at the standard 6:30pm start — the first Friday-night live-music-on-the-patio night since the Fourth-of-July-week compression cleared, and the patio will run at full capacity from 6pm on.
 
 ## Good to Know
 
