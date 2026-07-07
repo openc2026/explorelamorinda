@@ -2,7 +2,7 @@
 title: "Lamorinda Farmers Markets - Orinda, Moraga, and Where Lafayette Goes"
 description: "A practical local's guide to the Orinda Farmers Market (Saturdays) and Moraga Farmers Market (Sundays) - hours, locations, what's in season, and the answer to the most-asked question: is there a Lafayette Farmers Market?"
 tags: ["farmers-market", "shopping", "weekends", "moraga", "orinda", "family-friendly", "outdoors"]
-lastVerified: "2026-07-04"
+lastVerified: "2026-07-07"
 ---
 
 ![Lamorinda farmers market](/images/community-farmers-market.jpg)
@@ -76,9 +76,9 @@ The Moraga market is larger than the Orinda market (40+ vendors versus ~25-35) a
 
 **Best time to go:** 9:00-10:00 AM for serious shopping; 10:00-11:30 AM for the social brunch-and-browse rhythm; after 12:30 PM for end-of-market discounts on bread and produce (vendors prefer to sell down rather than pack up).
 
-## What's in Season (Fourth-of-July Weekend, Early July 2026)
+## What's in Season (Early-to-Mid July 2026)
 
-Right now, both markets are in **full mid-summer mode** - the Fourth-of-July weekend is the inflection point when stone fruit takes over the front row of nearly every produce stall and the first serious field tomatoes start landing:
+Right now, both markets are in **full mid-summer mode** - the Fourth-of-July weekend was the inflection point when stone fruit took over the front row of nearly every produce stall, and by the second week of July the first serious field tomatoes are landing:
 
 - **Stone fruit at peak:** Brentwood peaches and nectarines are at true peak - Snow Queen and Spring Lady are done, Suncrest, Red Top, and O'Henry-track yellow peaches are the front-row varieties this weekend, and the white peaches and pluots are arriving in volume. Apricots are almost done for the year - Blenheims were essentially gone by the last weekend of June; a stall or two may still have the late-picked cots on Saturday Jul 4 but expect them off the tables by Jul 11. Cherries are fully gone.
 - **Strawberries tapering:** The April-planted rows are still producing but volume is dropping week-over-week as stone fruit dominates. Late-picked July berries are smaller and more concentrated in flavor. Expect strawberry volume to drop further through July.
@@ -87,23 +87,23 @@ Right now, both markets are in **full mid-summer mode** - the Fourth-of-July wee
 - **Flowers:** Dahlias in full color, sunflowers landing in bunched volumes for the Fourth-of-July-weekend table centerpiece market, zinnias arriving. Peonies long gone.
 - **Melons:** First real cantaloupe and honeydew from the hotter inland farms are now on the tables at two or three stalls - flavor is improving week-over-week; the peak melon stretch is mid-July through August.
 
-## Fourth-of-July Weekend Note (Sat Jul 4 & Sun Jul 5, 2026)
+## Fourth-of-July Weekend at the Markets (Evergreen)
 
-**Both markets are open on their normal schedule this weekend** - Orinda on Saturday Jul 4 (9am-1pm) and Moraga on Sunday Jul 5 (9am-1pm). Neither market takes a Fourth-of-July holiday break; both operator associations (CCCFM for Orinda, CFMA for Moraga) treat the holiday as a normal market day, and both markets have been open every Fourth-of-July Saturday for years.
+**Both markets stay open on their normal schedule on Fourth-of-July weekend, every year.** Orinda runs Saturday 9am-1pm and Moraga runs Sunday 9am-1pm. Neither market takes a Fourth-of-July holiday break; both operator associations (CCCFM for Orinda, CFMA for Moraga) treat the holiday as a normal market day, and both markets have been open every Fourth-of-July Saturday for years.
 
-A few practical notes for this specific weekend:
+The holiday-weekend rhythm is stable year-to-year, so if you're planning a Fourth-of-July-adjacent market visit, these patterns hold:
 
-- **Saturday Jul 4 at Orinda** is the day-of-fireworks market, and it runs earlier-than-normal in terms of crowd flow. Families come in through the 9:00-10:15 window to shop, then leave to prep for the Moraga Commons fireworks-night crowd or their own backyard parties. The **10:15-11:30 window is calmer than a normal Saturday** - most of the shop-and-leave crowd is already gone, and the walk-up-brunch crowd is thinner because many families are prepping food at home. If you can push your market visit into that window, this is one of the easier Orinda Saturdays of the year.
-- **Watermelon, corn, stone fruit, and flowers sell fastest** on Jul 4 - the classic Fourth-of-July table lineup. Get there before 10:15 if any of those are your target. The bread and pastry stalls sell out about thirty minutes earlier than normal.
-- **Sunday Jul 5 at Moraga** is the natural post-fireworks-recovery slot - the first-Sunday-of-July, low-social-density, walk-in-friendly. Foot traffic is meaningfully lighter than a normal summer Sunday (many locals are traveling, or sleeping in after Sat Jul 4). The **9:00-10:30 window at Moraga on Jul 5 is one of the easiest full-selection Sunday market visits of the summer**. The prepared-food row is at normal volume, so a market-and-brunch move works cleanly.
-- **Sun Jul 5 vendor rotation notes** - a handful of vendors work both weekend markets and their Sunday selection reflects Saturday's draw. Practical read for the Jul 5 Moraga visit:
-  - **Frog Hollow Farm** (Brentwood stone fruit) works Sat-Orinda *and* Sun-Moraga on Fourth-of-July weekend. Sunday selection is narrower than Saturday - white peaches and Suncrest peaches typically sell through by 11 AM, but the O'Henry and yellow nectarine selection holds well into the 10:30-12:00 window.
-  - **Brentwood cherry vendors** (last week or two of the East Bay cherry window) are still on the Sunday tables Jul 5 but at markdown pricing - the Sunday-after-fireworks is functionally the season's clearance day for late Bings and Rainiers.
+- **Saturday of Fourth-of-July weekend at Orinda** is the day-of-fireworks market when the Fourth falls on a Saturday, or a runway market when it falls midweek. Crowd flow runs earlier-than-normal on the Saturday of a fireworks weekend - families come in through the 9:00-10:15 window to shop, then leave to prep for the Moraga Commons fireworks-night crowd or their own backyard parties. The **10:15-11:30 window is calmer than a normal Saturday** - most of the shop-and-leave crowd is already gone, and the walk-up-brunch crowd is thinner because many families are prepping food at home. If you can push your market visit into that window, this is one of the easier Orinda Saturdays of the year.
+- **Watermelon, corn, stone fruit, and flowers sell fastest** on the Fourth itself and the Saturday closest to it - the classic Fourth-of-July table lineup. Get there before 10:15 if any of those are your target. The bread and pastry stalls sell out about thirty minutes earlier than normal.
+- **Sunday of Fourth-of-July weekend at Moraga** is the natural post-fireworks-recovery slot - low-social-density, walk-in-friendly. Foot traffic is meaningfully lighter than a normal summer Sunday (many locals are traveling, or sleeping in after Saturday night). The **9:00-10:30 window at Moraga on Fourth-of-July Sunday is one of the easiest full-selection Sunday market visits of the summer**. The prepared-food row is at normal volume, so a market-and-brunch move works cleanly.
+- **Vendor rotation on Fourth-of-July Sunday** - a handful of vendors work both weekend markets, and their Sunday selection reflects Saturday's draw. Practical read for the Sunday Moraga visit:
+  - **Frog Hollow Farm** (Brentwood stone fruit) typically works Sat-Orinda *and* Sun-Moraga on Fourth-of-July weekend. Sunday selection is narrower than Saturday - white peaches and Suncrest peaches typically sell through by 11 AM, but the O'Henry and yellow nectarine selection holds well into the 10:30-12:00 window.
+  - **Brentwood cherry vendors** (last week or two of the East Bay cherry window in years when the season stretches into early July) may still be on the Sunday tables at markdown pricing - the Sunday-after-fireworks is functionally the season's clearance day for late Bings and Rainiers when the timing lines up.
   - **Sebastopol dahlia growers** bring red-white-and-blue mixed buckets that are Fourth-of-July-relevant through Sunday morning and land on 30% markdown by Monday. Sunday 9-10:30 is the sweet spot for a full-color bucket at full price; the Monday-morning move is the same bucket at markdown if color-mix is less critical.
-  - **Prepared-food row** (breakfast tacos, pupusas, pastries) is at normal volume - the vendors staff for a normal Sunday, so the shorter line at 9-10 AM Jul 5 is a real edge.
-- **Market-then-Reservoir combo (Jul 5)** - the [Lafayette Reservoir loop](/things-to-do/lafayette-reservoir/) at 11 AM pairs cleanly with a 9:15-10:30 Moraga market visit. Drive time Moraga Center to the Reservoir staging lot on Mt. Diablo Boulevard is about 8 minutes via St. Mary's Road; the reservoir loop lot is at roughly 60% capacity on a Sun Jul 5 morning (versus 90%+ on a normal summer Sunday), and the 2.7-mile paved loop is the canonical [post-fireworks recovery hike](/blog/sunday-hike-the-recovery-trail/).
-- **Parking is easier at both markets this weekend** than a normal early-July Saturday/Sunday - the double-holiday-weekend travel pattern draws down local car counts.
-- **St. Mary's Road congestion** - see the [Getting Around](/getting-around/) Fourth-of-July-week frame for the Sat Jul 4 4:30-7:30pm St. Mary's Road congestion window around the Moraga Commons fireworks event. This window doesn't affect the Saturday-morning Orinda market visit, but it does mean that if you're planning a Sat Jul 4 Orinda-market-then-Moraga-Commons-fireworks combo, you want to be *out* of Moraga before 4:30pm and back for the concert at 6pm.
+  - **Prepared-food row** (breakfast tacos, pupusas, pastries) is at normal volume - the vendors staff for a normal Sunday, so the shorter line at 9-10 AM on Fourth-of-July Sunday is a real edge.
+- **Market-then-Reservoir combo** - the [Lafayette Reservoir loop](/things-to-do/lafayette-reservoir/) at 11 AM pairs cleanly with a 9:15-10:30 Moraga market visit any Sunday, but especially on Fourth-of-July Sunday when the reservoir loop lot runs at roughly 60% capacity (versus 90%+ on a normal summer Sunday). Drive time Moraga Center to the Reservoir staging lot on Mt. Diablo Boulevard is about 8 minutes via St. Mary's Road; the 2.7-mile paved loop is the canonical [post-fireworks recovery hike](/blog/sunday-hike-the-recovery-trail/).
+- **Parking is easier at both markets on Fourth-of-July weekend** than a normal early-July Saturday/Sunday - the double-holiday-weekend travel pattern draws down local car counts.
+- **St. Mary's Road congestion** - see the [Getting Around](/getting-around/) Fourth-of-July-week frame for the standard 4:30-7:30pm St. Mary's Road congestion window around the Moraga Commons fireworks event on the evening of the Fourth (Sat when the Fourth falls on a Saturday, Fri/Sat depending on the calendar in other years). This window doesn't affect the Saturday-morning Orinda market visit, but it does mean that if you're planning a fireworks-day Orinda-market-then-Moraga-Commons-fireworks combo, you want to be *out* of Moraga before 4:30pm and back for the concert at 6pm.
 
 ## Why There's No Lafayette Farmers Market
 
@@ -149,4 +149,4 @@ If you're hosting a grad party this weekend: get to the market by 9:15 sharp. If
 
 ---
 
-*Hours and vendor counts re-verified July 4, 2026 against the operating market associations (CCCFM for Orinda, CFMA for Moraga). Both markets are confirmed open this weekend on their normal schedule - Orinda Sat Jul 4 (9am-1pm) and Moraga Sun Jul 5 (9am-1pm). Neither market takes a Fourth-of-July holiday break. Markets occasionally adjust for other holidays (Christmas, New Year's); check the operator pages before driving over on holiday weekends.*
+*Hours and vendor counts re-verified July 7, 2026 against the operating market associations (CCCFM for Orinda, CFMA for Moraga). Both markets confirmed open on their normal year-round schedule - Orinda Saturdays 9am-1pm and Moraga Sundays 9am-1pm. The Fourth-of-July-weekend note in this guide has been converted to an evergreen year-over-year reference. Markets occasionally adjust for other holidays (Christmas, New Year's); check the operator pages before driving over on holiday weekends.*
