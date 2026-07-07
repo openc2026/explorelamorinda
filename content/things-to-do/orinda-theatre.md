@@ -4,7 +4,7 @@ description: "Historic Art Deco movie palace — catch a film in style"
 address: "2 Orinda Theatre Square, Orinda, CA 94563"
 website: "https://theorindatheatre.com"
 tags: ["entertainment", "movies", "historic", "orinda", "date-night"]
-lastVerified: "2026-06-30"
+lastVerified: "2026-07-07"
 ---
 
 ![Orinda Theatre with BART](/images/Orinda_TheaterWithBART.jpg)
@@ -28,19 +28,21 @@ The Orinda Theatre opened on Christmas Day, 1941 — just weeks after Pearl Harb
 
 **2026 marks the theatre's 85th anniversary** — a remarkable run for any independent cinema, let alone one that's maintained its original character. Keep an eye out for anniversary events and classic film screenings throughout the year.
 
-## Today: Tuesday, June 30, 2026 — Fourth-of-July-Week Eve, the Last Quiet Tuesday Before the Long Weekend
+## Today: Tuesday, July 7, 2026 — Post-Fireworks Mid-Week, the Quiet-Tuesday Window Reopens for the Rest of the Summer
 
-We're nine days past the solstice and one day shy of July. Tomorrow is the practical start of Fourth-of-July week, and **Saturday July 4 lands on a long-weekend Saturday** — historically one of the bigger Theatre Square Saturdays of the summer. Sunsets are now landing around 8:34pm (the post-solstice retreat is about a minute per week through July), which keeps the marquee genuinely worth lingering for after an 8:00pm showing. Tonight is the **last quiet Tuesday before the long weekend** — the garage has space, the box office line is short, and Theatre Square is running its easy-walk-in mid-week rhythm one more night before the holiday lift.
+The Fourth-of-July weekend is behind us, camps are in Week 4, and Theatre Square has fully exhaled. Sunsets are landing around **8:28pm** tonight and dropping about a minute per week now — the [post-solstice retreat has picked up its natural pace](/blog/monday-the-last-full-day/), and the marquee is starting to be photographable a few minutes earlier every week. Tonight is the **first genuinely quiet Tuesday of the second half of summer** — the garage has space by 6:30pm, the box office line is nonexistent, and Theatre Square has returned to its canonical mid-week walk-up rhythm that will hold through Labor Day.
 
-- **Tonight (Tue, Jun 30):** Walk-up friendly across the board. [Casa Orinda](/orinda/restaurants/casa-orinda/) is closed Mon–Tue (reopens Wed Jul 1), so [Shelby's](/orinda/restaurants/shelbys/) and [Fourth Bore Tap Room](/orinda/restaurants/fourth-bore-tap-room/) are the Tuesday-dinner-before-a-movie picks. [Loard's Ice Cream](/orinda/restaurants/loards-ice-cream-orinda/) is the standard post-show stop across Brookwood.
-- **Wed, Jul 1 — Fourth-of-July week begins.** Casa Orinda reopens for the week tonight; Wed and Thu evening showings stay easy walk-ups. The lift starts mid-week on the *dinner* side, not the theatre side — OpenTable for Theatre Square restaurants tightens by Thursday, but Theatre Square parking and box-office lines don't start to feel the weekend until Friday afternoon.
-- **Fri–Sat, Jul 3–4 — the busiest theatre weekend of the summer so far.** Friday Jul 3 is the practical start of the long weekend; the 7:30–9:00pm showings have been booking heavier than a normal first-weekend-of-July (out-of-town family in town adds the lift). **Saturday Jul 4 is the single busiest Theatre Square night of the summer** — the **5:30–7:00pm pre-fireworks dinner-and-a-movie window** is the operationally smart play (leaves room to drive over to Moraga Commons or Lafayette Reservoir for a 9pm show), and the **late-show 9:30–10:30pm window** catches the post-fireworks crowd that doesn't want the holiday to end. **Reserve weekend dinner by end of Thursday Jul 2** for prime 6:00–7:30pm slots; the theatre itself is, as ever, rarely the rate-limiting step.
-- **Sun, Jul 5 — the calm post-fireworks afternoon-matinee window.** Sunday after a Saturday fireworks is the single best matinee window of the summer — visiting families looking for an air-conditioned post-holiday outing, kids who slept in, and the 1:00–4:00pm slot near-empty by mid-week-blockbuster standards.
-- **Summer-blockbuster rhythm (post–Jul 4 through August):** First-run blockbusters mid-week, repertory and indie picks on weekends. Tuesday and Wednesday evenings return to the quietest walk-up window all summer and stay that way through Labor Day. The *take-the-kids-to-an-afternoon-matinee* slot (1:00–4:00pm) becomes the genuinely best summer-vacation move once camps are in full swing in mid-July — air-conditioned, walkable, and the Square's quick-lunch options ([Comelones Tacos](#) Suite 142, [Petra Cafe](#) Suite 105) cover the pre-matinee handoff.
+- **Tonight (Tue, Jul 7):** Fully walk-up friendly. [Casa Orinda](/orinda/restaurants/casa-orinda/) is closed Mon–Tue (reopens Wed Jul 8), so [Shelby's](/orinda/restaurants/shelbys/) and [Fourth Bore Tap Room](/orinda/restaurants/fourth-bore-tap-room/) are the Tuesday-dinner-before-a-movie picks. [Loard's Ice Cream](/orinda/restaurants/loards-ice-cream-orinda/) is the standard post-show stop across Brookwood; open until 10pm Fri & Sat, 9pm otherwise.
+- **Wed, Jul 8 — Casa Orinda reopens.** Wednesday nights through July and August are the sweet spot for the Casa Orinda-then-Orinda-Theatre pairing: dinner at 6:00pm holds an 8:00pm showing comfortably, and the walk from the Casa parking lot to the theatre is under three minutes.
+- **Thu, Jul 9 — [Bell Brothers at Moraga Commons](/things-to-do/moraga-commons/), 6:30–8:30pm.** The concert night pulls a chunk of the Lamorinda evening crowd to Moraga, which makes Thursday July 9 an *especially* easy walk-up night at the Orinda Theatre — the 7:00–9:00pm showings tend to run below-average for a July Thursday. If you're not going to the concert, this is the night. If you *are* going to the concert, a 9:30pm post-concert late show at the Orinda Theatre is one of the great underused summer Thursday moves (Moraga Commons empties fast at 8:30pm, and the drive over the ridge takes ten minutes).
+- **Fri–Sat, Jul 10–11 — first "normal" summer weekend.** With the Fourth behind us and out-of-town family mostly departed by Tuesday, weekend evenings return to their steady-state summer shape: OpenTable for Theatre Square dinner tightens by Wednesday for prime 6:00–7:30pm slots, but 8:00pm-and-later showings stay walk-up friendly. This is the pattern that holds every weekend through Labor Day unless a blockbuster opens.
+- **Summer-blockbuster rhythm (through August):** First-run blockbusters mid-week, repertory and indie picks on weekends. Tuesday and Wednesday evenings are the quietest walk-up windows all summer. The *take-the-kids-to-an-afternoon-matinee* slot (1:00–4:00pm) is now genuinely the best summer-vacation move with camps in full swing — air-conditioned, walkable, and the Square's quick-lunch options ([Comelones Tacos](#) Suite 142, [Petra Cafe](#) Suite 105) cover the pre-matinee handoff.
 - **Pair with dinner first:** Standing recommendation through summer — dinner at [Shelby's](/orinda/restaurants/shelbys/), [Casa Orinda](/orinda/restaurants/casa-orinda/) (Wed–Sun only), or [Fourth Bore Tap Room](/orinda/restaurants/fourth-bore/) before an 8:00–8:30pm showing. Reserve dinner by Wednesday for prime weekend slots.
-- **Walk over from Orinda BART:** Theatre Square is a four-minute walk from the Orinda BART station. The summer-evening BART-to-Orinda trip from San Francisco or Berkeley for a dinner-and-a-movie date is one of the great underused dates in the East Bay — no parking, no Caldecott, just the Camino Pablo escalator and a walk under the marquee. **Note for Sat Jul 4:** BART runs a Sunday/holiday schedule on the Fourth of July — check the last train back if you're catching a 9pm showing.
+- **Walk over from Orinda BART:** Theatre Square is a four-minute walk from the Orinda BART station. The summer-evening BART-to-Orinda trip from San Francisco or Berkeley for a dinner-and-a-movie date is one of the great underused dates in the East Bay — no parking, no Caldecott, just the Camino Pablo escalator and a walk under the marquee. Last east-bound BART on weeknights is typically after midnight; late-show catchers on Fri/Sat have more margin than they think.
 
-**85th Anniversary Note:** 2026 marks the Orinda Theatre's 85th year — opened Christmas Day 1941, the theatre has been running for 85 continuous years through this calendar. Watch the schedule for anniversary classic-film screenings; the late-spring and early-summer programming windows have historically been where independents like the Orinda slot in their best repertory picks. The **California Independent Film Festival (CAIFF)**, which has long called the Orinda Theatre home, is the centerpiece annual event — check [theorindatheatre.com](https://theorindatheatre.com) for current dates and lineup.
+**Heat-Wave Matinee Play:** Once the East Bay hits its first real inland heat spell of July (the [Diablo-side ridge](/things-to-do/briones-regional-park/) starts running mid-90s inland even when the Bay side stays in the 70s), the 1:00–4:00pm Orinda Theatre matinee slot becomes a legitimate cooling-center move for Lamorinda families. Between the historic building's mass, the mid-day AC load, and Theatre Square's parking-garage shade, it's one of the coolest indoor blocks in Orinda from 1pm to 5pm on a triple-digit afternoon. The theatre does not advertise this. Locals figure it out by the second heat wave.
+
+**85th Anniversary Note:** 2026 marks the Orinda Theatre's 85th year — opened Christmas Day 1941, running for 85 continuous years through this calendar. Watch the schedule for anniversary classic-film screenings; the mid-summer and early-fall programming windows have historically been where independents like the Orinda slot in their best repertory picks. The **California Independent Film Festival (CAIFF)**, which has long called the Orinda Theatre home, is the centerpiece annual event, typically running a multi-day fall slate — check [theorindatheatre.com](https://theorindatheatre.com) for current dates and lineup.
 
 ## Pre- or Post-Show Nearby
 
@@ -55,11 +57,26 @@ Theatre Square is a self-contained block — once you park (free garage, validat
 
 ## Good to Know
 
-- **Parking** is free in the Theatre Square garage (validated)
-- The **marquee at night** is worth seeing — peak photo op
+- **Parking** is free in the Theatre Square garage (validated) — even on peak weekend nights, the garage rarely fills before 7:15pm
+- The **marquee at night** is worth seeing — peak photo op is the ~15-minute window right after sunset, which currently means about 8:28–8:45pm and drifts earlier by roughly a minute per week through summer
 - **Smaller screens** than modern multiplexes, but the character is worth it
+- **Cash and card accepted** at the box office and concessions; the concession line moves faster than most multiplexes because there is *one* line, not five
 - Check showtimes online — this is a neighborhood theatre, not a 24-hour operation
 - One of the few remaining single-screen-feeling experiences in the Bay Area
+
+## Accessibility & Family Notes
+
+- **Step-free entry** from the Theatre Square plaza; the historic 1941 lobby has some tight turns but no stairs to the main auditorium
+- **Restrooms** are in the lobby, one flight up on the mezzanine — plan the pre-show visit if mobility is a factor
+- **Family matinees:** Weekend afternoon showings of family films are the loosest room in Lamorinda — the theatre tolerates a normal amount of six-year-old rustling in a way modern multiplexes do not. Locals with kids under eight time their first-movie-in-a-theatre visit here on purpose.
+- **Date-night sightlines:** Center-back of the main auditorium is the local favorite for a first-date sightline. Nothing about it is signposted; the ushers just know.
+
+## Season-by-Season Rhythm
+
+- **Summer (June–August):** Blockbuster mid-week, indie/repertory weekends. Matinees are the sleeper move once camps are in full swing.
+- **Fall (September–November):** The best programming window of the year at the Orinda. CAIFF season lands in this window historically; anniversary and repertory series pick up as the summer heat drops and evenings compress back to sensible movie hours.
+- **Winter (December–February):** Christmas Day is the theatre's birthday — 1941 to now. Holiday-week showings are one of the great Lamorinda December traditions and pair naturally with the walk to Loard's for a scoop when it's cold enough to be a statement.
+- **Spring (March–May):** The transition window. Awards-season carryover in March, spring-break family matinees in April, and the wind-up to summer blockbuster season by Memorial Day.
 
 
 ---
