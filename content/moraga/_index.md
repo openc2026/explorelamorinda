@@ -1,7 +1,7 @@
 ---
 title: "Moraga"
 description: "Quieter and greener than Lafayette or Orinda, Moraga is home to Saint Mary's College, the summer Commons concert series, Campolindo High, the Hacienda de las Flores, and one of the East Bay's most family-oriented small-town rhythms."
-last_updated: 2026-06-23
+last_updated: 2026-07-08
 faq:
   - q: "Is Moraga, CA a good place to live?"
     a: "Moraga is one of the safest, most family-oriented suburbs in the East Bay. It has top-ranked schools (Moraga School District K-8 and Campolindo High School), abundant open space, and a strong sense of community built around Saint Mary's College, the Moraga Commons, and the K-12 school system. It's a quieter, more residential alternative to Lafayette and Orinda."
@@ -82,7 +82,7 @@ It's not walkable between them, but parking is easy at both, and most residents 
 
 For a town as quiet as Moraga claims to be, there's plenty to fill a weekend:
 
-- **Moraga Commons Park** — The town's flagship park. Summer concert series, splash pad, playground, skate park, ball fields. The Friday-night summer concerts are a community ritual.
+- **Moraga Commons Park** — The town's flagship park. Summer concert series, splash pad, playground, skate park, ball fields. The **Thursday-night summer concerts (6:30–8:30pm, June through August)** at the Bandshell are a 40+ year community ritual — free, family-friendly, food trucks on-site, Loard's ice cream, beer and wine by the Lions and Kiwanis clubs, and pizza by the slice from [Penninis](/moraga/restaurants/penninis/).
 - **Saint Mary's College** — Gaels basketball and soccer games, art exhibits at the Hearst Art Gallery, walking the campus loop on a quiet Sunday. Worth visiting even if you're not affiliated.
 - **Lafayette-Moraga Regional Trail** — Connects north to Lafayette along an old rail right-of-way. 7.5 miles, paved, mostly flat. Walk, run, bike, push a stroller.
 - **Rancho Laguna Park** — Equestrian area and open space. Trails for hiking and horseback riding.
