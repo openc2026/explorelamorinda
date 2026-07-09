@@ -3,7 +3,7 @@ title: "Moraga Commons Park"
 description: "Community heart of Moraga - playground, concerts, and gathering space"
 address: "1425 St Mary's Road, Moraga, CA 94556"
 tags: ["parks", "playground", "concerts", "family-friendly", "moraga", "community"]
-lastVerified: "2026-07-08"
+lastVerified: "2026-07-09"
 ---
 
 ![Moraga hills panorama](/images/new_panoramic4.png)
@@ -41,7 +41,8 @@ All shows 6:30 - 8:30 PM at the Moraga Commons Bandshell. **Free admission.**
 - **June 11 (Sun Kings)** - Opening night always draws the season's biggest crowd. Plan blanket placement by 5:30 PM.
 - **June 18 (Purple Ones)** - The *solstice-adjacent* Thursday. Three days off the year's latest sunset (8:36 PM on June 21), the longest natural dusk the bandshell gets all season. The Prince catalog plays loud and dancing; the front-center sweet spot goes earlier than the opener. Arrive 5:15-5:30 PM. (See our [solstice-week field report](/blog/wednesday-june-gloom-surrenders/) for the inland-weather context.)
 - **July 4 double-bill** - Only Saturday show of the season. Pairs naturally with downtown Moraga before, and a short walk home after.
-- **July 16 (Dirty Cello)** - The most unusual act on the schedule; cello-led blues/rock isn't something you stumble into often.
+- **July 9 (Bell Brothers)** - The country-rock-Americana Thursday. Pulls a marginally-older lawn than the tribute-band Thursdays, which shifts everything a notch: La Finestra fills the 5:00 and 5:30 PM slots (not the 6:00), the beer-and-wine ratio tilts toward the bottled-wine side (the two kegs still hold), the Loard's post-show line runs shorter because the older lawn is home by 10:00 PM. The keyboardist is the one to watch — country-rock-Americana always puts the interesting player behind the keys, not on the guitar. Push arrival to 4:45–5:00 PM if you want the front third; a 5:15 PM arrival still lands third-row-slightly-left-of-center in most years. (See the [Bell Brothers concert-night field report](/blog/thursday-bell-brothers-the-empty-blue-chair/).)
+- **July 16 (Dirty Cello)** - The most unusual act on the schedule; cello-led blues/rock isn't something you stumble into often. Younger lawn than the previous week; the front-center rectangle turns over faster. Arrive by 5:30 PM.
 - **August 6 (Lamorinda Idols + Big Blu Soul Revue)** - Local youth vocalists open. If you know one of the kids, you're going.
 - **August 20 (Fleetwood Mask)** - Season closer. The hills are gold, the air is warm, the Fleetwood Mac catalog hits in this exact setting.
 
