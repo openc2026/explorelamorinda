@@ -7,7 +7,7 @@ website: "https://lafinestraristorante.com"
 hours: "Tue-Thu 11:30am-8pm, Fri 11:30am-8:30pm, Sat 4:30pm-8:30pm, Sun 4:30pm-8pm, Closed Mon"
 price: "$$$"
 tags: ["italian", "fine-dining", "date-night", "moraga"]
-lastVerified: "2026-07-03"
+lastVerified: "2026-07-10"
 ---
 
 ![La Finestra Ristorante](/images/Moraga_LaFinestra.jpg)
@@ -44,17 +44,17 @@ The patio is particularly pleasant on mild spring evenings — Moraga's cooler t
 
 Chef Assadi's culinary journey brought him to Lafayette in 2003, where he first built a following for his authentic Sicilian-influenced cooking. By 2018, demand warranted a second location, and La Finestra in Moraga was born. The same attention to quality — fresh ingredients, house-made pastas, consistent execution — transferred to the new space. For Moraga residents, it means fine Italian dining without the drive to Walnut Creek or Lafayette.
 
-## Today: Friday, July 3, 2026 — Fourth-of-July Week, The Pre-Fireworks Dinner Pivot
+## Today: Friday, July 10, 2026 — The First Fully-Normal Friday of the Post-Fourth-of-July Stretch
 
-We're **thirteen days past the summer solstice** (Sat Jun 20) and dropped into the middle of Fourth-of-July week. Sunset now lands right around **8:33pm** — the retreat from the solstice peak is a barely-perceptible one minute per week, so the patio still holds long, soft evening light well past 8pm and the Moraga hillside cool kicks in right as the sun drops behind the ridge. The wrinkle this week isn't the light; it's the demand pattern. La Finestra sits inside a **compressed three-day window** — Fri Jul 3, Sat Jul 4, Sun Jul 5 — where each day plays a different game.
+We're **twenty days past the summer solstice** (Sat Jun 20) and one full week past Fourth-of-July weekend. Sunset now lands right around **8:31pm** — the post-solstice retreat is now a full four minutes below the Jun 20 peak, though the change is still under a minute per week and night-to-night imperceptible. The patio holds long, soft evening light well past 8pm and the Moraga hillside cool arrives right as the sun drops behind the ridge. With the holiday-week compression cleared, the demand pattern resets: this is the **first fully-normal Friday of the summer's post-holiday quiet stretch**.
 
-**Today (Fri Jul 3)** — the **last real dinner service before the Caldecott and St. Mary's Road step-up.** Lunch (11:30am–2:30pm) is quiet and running normal. The 6:30–8pm dinner window is the tightest of the coming three days: locals leaving town for the weekend fired their bookings 4–5 days ago, and holiday-week walk-ups have been steady since Wednesday. The **5:30pm and 8pm bookends are the walk-up windows** — either the pre-golden-hour early seating (multi-gen tables and out-of-town relatives, who tend to run early) or the last hour before the 8pm kitchen close on a Friday (dessert-and-espresso pace, no rush behind you). The 6:30–7:30pm prime block is at **1–2 days out** per OpenTable this week, but a same-day call around 3pm often surfaces a cancellation.
+**Today (Fri Jul 10)** — lunch (11:30am–2:30pm) is running at its standard summer-weekday pace: walk-in-friendly through the 12:15pm cover, with the 1:00–2:00pm tail slot the quietest of the week. The 6:30–8pm dinner window is walk-up-viable for the first time since late June — holiday-week booking pressure has cleared, out-of-town relatives are back on planes, and locals who left for the weekend a week ago are back to normal weeknight rhythms. **The 5:30pm and 7:30pm seatings are the easiest walk-in windows tonight** — the early-diner and late-diner bookends, respectively, and either one lets you sit down inside the 8:30pm Friday close without racing the kitchen. The 6:30pm prime block still books ahead on OpenTable, but at post-holiday cadence a same-day call around 3pm typically surfaces a table.
 
-**Sat Jul 4** — dinner-only (4:30pm–8:30pm, no lunch). This is the **underrated pre-fireworks move.** The [Moraga Commons](/things-to-do/moraga-commons/) Fourth-of-July event drives a St. Mary's Road congestion window from roughly **4:30pm–7:30pm** (see [Getting Around](/getting-around/) for the routing detail); La Finestra sits on Moraga Way, one block off the congestion spine, so the **5:00pm seating lands you inside the restaurant before the road tightens** and out again by 6:45pm — well ahead of the fireworks arrival wave. The 7:30–8:30pm tail slot is the parallel move for people skipping the Commons event entirely: it's post-congestion, still golden-hour, and the dining room settles into a quieter second-seating rhythm once the early-fireworks tables clear.
+**Sat Jul 11** — dinner-only (4:30pm–8:30pm, no lunch). The **first fully-normal Saturday of the summer's post-holiday stretch** — St. Mary's commencement is three weeks in the rearview, the Fourth-of-July fireworks-and-relatives wave is gone, and the small dining room resets to its actual Saturday-night rhythm. Bookings around the 6:30pm prime block are still worth making a day or two ahead (small room, date-night draw), but the 5:00pm and 8:00pm bookends are walk-in-friendlier tonight than they've been in a month.
 
-**Sun Jul 5** — first-Sunday-of-July, dinner only (4:30pm–8pm), the **earliest kitchen close of the week**. This is the recovery-slot for anyone whose Saturday ran late (fireworks return, house guests, the whole rhythm). The 5–6pm window is the walk-in-friendliest slot of the entire holiday weekend — the date-night crowd hasn't landed, the Sunday-brunch-elsewhere crowd is either napping or heading home, and the kitchen is fresh. If you want the full La Finestra experience without holiday-week competition, this is the slot.
+**Sun Jul 12** — dinner only (4:30pm–8pm), the **earliest kitchen close of the week**. The [Moraga Sunday Farmers Market](/things-to-do/farmers-markets/) runs 9am–1pm at the Moraga Shopping Center parking lot next door, so a market-morning-plus-Sunday-dinner-that-evening pairs neatly in the same lot. The 5–6pm slot is the walk-in-friendliest window of the week — the Sunday-brunch-elsewhere crowd is winding down, the date-night crowd hasn't landed, and the kitchen is fresh.
 
-**Quiet-summer rhythm (mid-July through Labor Day)** — with Saint Mary's commencement past and summer session at limited capacity, Moraga Way is noticeably calmer through August once this holiday week clears, and weeknight walk-ins settle back to realistic Tue–Wed. The trade-off: the small dining room means that even a quiet weeknight can fill once a single party of 6+ lands, so a same-day reservation call is still worth it if you're not flexible on time.
+**Quiet-summer rhythm (mid-July through Labor Day)** — with Saint Mary's commencement past and summer session at limited capacity, Moraga Way is noticeably calmer through August, and weeknight walk-ins settle back to realistic Tue–Wed. The trade-off: the small dining room means that even a quiet weeknight can fill once a single party of 6+ lands, so a same-day reservation call is still worth it if you're not flexible on time.
 
 ## Good to Know
 
@@ -76,3 +76,7 @@ La Finestra shares the Moraga Shopping Center cluster with two other Moraga inst
 - **After:** Loard's closes too early for a post-La-Finestra-dinner scoop on most nights, so the natural after-move is a slow walk around the shopping center plaza or a nightcap at the [Pennini's](/moraga/restaurants/penninis/) bar two blocks down — the only seven-day bar option in the immediate area.
 
 See the full picture on the [Moraga Restaurants](/moraga/restaurants/) overview.
+
+---
+
+*Hours re-verified July 10, 2026 against Yelp (listing "Updated June 2026") — confirms Tue–Thu 11:30am–8pm, Fri 11:30am–8:30pm, Sat 4:30–8:30pm, Sun 4:30–8pm, closed Mon. Matches this page exactly. AAA TripCanvas carries a different, older schedule (with Sat–Sun lunch and a later Fri–Sat 10pm close); we treat Yelp as the authoritative source since it reflects the current operator-set hours and is the more recently maintained listing.*

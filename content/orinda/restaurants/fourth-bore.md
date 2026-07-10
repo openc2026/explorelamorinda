@@ -7,7 +7,7 @@ website: "https://thefourthbore.com"
 hours: "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 11am-9pm"
 price: "$$"
 tags: ["craft-beer", "american", "sports-bar", "theatre-square", "casual", "live-music"]
-lastVerified: "2026-07-09"
+lastVerified: "2026-07-10"
 ---
 
 ![Orinda Theatre Square](/images/new_theater.png)
@@ -43,11 +43,11 @@ A couple of standing weeknight patterns give Fourth Bore its Monday–Tuesday ch
 
 Both are worth planning around if you're picking a weeknight to visit.
 
-## Today: Tuesday, July 7, 2026 — First Trivia Night of the Post-Fourth-of-July Stretch
+## Today: Friday, July 10, 2026 — Live Music Returns to the Beer Garden Patio
 
-Tonight is the first Fourth Bore **trivia night** since the Fourth-of-July-week compression cleared, and it lands on the first genuinely quiet Tuesday of the month. Sunset tonight is roughly **8:32pm** — the post-solstice one-minute-a-week retreat continues, but the difference from last night is imperceptible on the patio. The room follows its steady Tuesday shape: walk-in-easy from open through the 5:30–6:15pm early-dinner window, then filling from about **6:30pm** as trivia teams arrive, holding lively through the 9pm close. [Casa Orinda](/orinda/restaurants/casa-orinda/) is dark tonight (as always Mon–Tue), so Fourth Bore and [Shelby's](/orinda/restaurants/shelbys/) next door absorb the casual-dinner overflow, with the added twist that trivia gives Fourth Bore a specific reason-to-be-here that Shelby's doesn't have — the dinner-plus-something-to-do crowd tilts Fourth Bore's way on a Tuesday in a way it doesn't on a Monday. If you want the tap-room-without-trivia experience, come before 6:00pm; if you want the trivia atmosphere without playing, the bar and patio hold their walk-in feel until the room hits capacity around 7:15pm.
+Tonight is the **first Friday-night live-music-on-the-patio night since the Fourth-of-July-week compression cleared** — the return of the standard 6:30pm start on the beer-garden patio, confirmed against thefourthbore.com. Sunset tonight is roughly **8:31pm** — twenty days past solstice, the cluster-wide one-minute-a-week retreat now shows a full four minutes below the Jun 20 peak, but night-to-night the difference is still imperceptible on the patio. The room follows its live-music-Friday shape: walk-in-easy from open through the 5:00–5:45pm early-dinner window, filling steadily from about **6:00pm** as the patio load-up begins, holding at full capacity from the **6:30pm downbeat** through the standard 10pm Friday close. If you want a table and a menu before the music starts, the 5:00–5:45pm seating puts you at your food by 6:00pm and lets the music arrive as the second act; if you want the full patio-plus-live-music experience, come at 6:15pm and stake out a stool at the bar or one of the standing rails near the beer-garden edge. [Casa Orinda](/orinda/restaurants/casa-orinda/) is open tonight (Wed–Sun) as the quieter dinner counterpart, and [Shelby's](/orinda/restaurants/shelbys/) fifty steps away runs its white-tablecloth Friday dinner service through 8pm — a 5:30pm dinner at Shelby's and a 9:00pm nightcap here with the music still going is the classic Theatre Square Friday-night pairing.
 
-**Looking ahead (Wed–Fri, July 8–10):** **Wednesday and Thursday** return to standard early-July weeknight rhythm — Casa Orinda reopens Wed at 4pm, the [Orinda Theatre](/things-to-do/orinda-theatre/) is running its normal weekday programming, and Fourth Bore's Wed–Thu 5:30–7:30pm early-dinner window is walk-in-friendly with the patio comfortable well past sunset. **Friday July 10** brings live music back to the beer-garden patio at the standard **6:30pm start** — the first Friday-night live-music-on-the-patio night since the Fourth-of-July-week compression cleared, and the patio will run at full capacity from 6pm on. Saturday July 11 continues the Fri–Sat 10pm-close and live-music pattern; expect the first fully-normal-summer Fri–Sat pair of the post-holiday stretch.
+**Looking ahead (Sat–Mon, July 11–13):** **Saturday July 11** repeats tonight's live-music-on-the-patio pattern — 6:30pm start, 10pm close, full-capacity beer-garden throughout — making this the first fully-normal-summer Fri–Sat live-music pair of the post-holiday stretch. **Sunday July 12** returns to the standard 11am–9pm Sunday rhythm (no scheduled live music), walk-in-friendly across the day and a natural post-[Moraga-Sunday-farmers-market](/things-to-do/farmers-markets/) landing spot for a late-afternoon beer. **Monday July 13** brings the **All-Day Happy Hour** back — the second Monday of the month, running open-to-close on happy-hour pricing, and the single biggest reason to walk down Theatre Square on a night when Casa Orinda is dark.
 
 ## Good to Know
 
